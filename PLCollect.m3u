@@ -201,7 +201,7 @@ http://188.225.31.197/bpk-tv/000008488/tve/index.m3u8
 #EXTINF:-1 group-title="Кинозал" tvg-logo="https://iptvx.one/picons/mosfilm.png",Мосфильм. Золотая коллекция HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://5.8.11.96:8099/mosfilmhd/index.m3u8
-#EXTINF:-1 group-title="Кинозал" tvg-logo="https://iptvx.one/picons/mosfilm.png" tvg-id="mosfilm" tvg-shift="+40",Мосфильм. Золотая коллекция
+#EXTINF:-1 group-title="Кинозал" tvg-logo="https://iptvx.one/picons/mosfilm.png" tvg-id="mosfilm" tvg-shift="+52",Мосфильм. Золотая коллекция
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://188.225.31.197/bpk-tv/000006365/tve/index.m3u8
 #EXTINF:-1 group-title="Кинозал" tvg-logo="https://iptvx.one/picons/mosfilm-pl4.png",Мосфильм. Золотая коллекция (+4)
@@ -1980,6 +1980,7 @@ https://stream.yamal1.ru/hls/live/stream.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/picons/yamal-region.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="yamal-region",Ямал-Регион
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_YAMREG_URAL_YNF/variant.m3u8
+
 
 
 
