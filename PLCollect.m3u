@@ -1979,18 +1979,48 @@ https://stream.yamal1.ru/hls/live/stream.m3u8
 https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_YAMREG_URAL_YNF/variant.m3u8
 
 #EXTGRP:Радио
-#EXTINF:-1 group-title="Радио",Breakbeat
+#EXTINF:-1 group-title="Радио",00s Hip Hop
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-http://dfm.hostingradio.ru/breakbeat96.aacp
-#EXTINF:-1 group-title="Радио",Mashup
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-https://radiorecord.hostingradio.ru/mashup96.aacp
-#EXTINF:-1 group-title="Радио",UK Garage
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-https://radiorecord.hostingradio.ru/ukgarage96.aacp
+https://strm112.1.fm/club_mobile_mp3?aw_0_req.gdpr=true&listenerid=29ec89dd3733046f617da18c90d61457&awparams=companionAds%3Atrue
 #EXTINF:-1 group-title="Радио",2-step
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://radiorecord.hostingradio.ru/2step96.aacp
+#EXTINF:-1 group-title="Радио",BOM Psytrance
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+https://strm112.1.fm/psytrance_mobile_mp3?aw_0_req.gdpr=true&listenerid=29ec89dd3733046f617da18c90d61457&awparams=companionAds%3Atrue
+#EXTINF:-1 group-title="Радио",Breakbeat
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+http://dfm.hostingradio.ru/breakbeat96.aacp
+#EXTINF:-1 group-title="Радио",Радио ENERGY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+https://pub0101.101.ru:8000/stream/air/mp3/256/99
+#EXTINF:-1 group-title="Радио",Mashup
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+https://radiorecord.hostingradio.ru/mashup96.aacp
+#EXTINF:-1 group-title="Радио",MUSIC BOX RADIO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+https://musicbox.amgradio.ru/musicbox?nc=26572
+#EXTINF:-1 group-title="Радио",Radio Fresh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+https://fresh.amgradio.ru/Fresh?nc=624857
+#EXTINF:-1 group-title="Радио",Trance Hits
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+https://radiorecord.hostingradio.ru/trancehits96.aacp
+#EXTINF:-1 group-title="Радио",UK Garage
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+https://radiorecord.hostingradio.ru/ukgarage96.aacp
+#EXTINF:-1 group-title="Радио",Urban - Европа Плюс
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+https://epdop.hostingradio.ru:8033/ep-urban128.mp3
+#EXTINF:-1 group-title="Радио",Гоп FM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+https://hls-01-radiorecord.hostingradio.ru/record-gop/playlist.m3u8
+#EXTINF:-1 group-title="Радио",Джем FM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+https://online.jamfm.ru/jam_aacplus?v=1743007755223
+#EXTINF:-1 group-title="Радио",Дорожное радио
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+https://dorognoe.hostingradio.ru/radio
 #EXTINF:-1 group-title="Радио",Маятник Фуко
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://radiorecord.hostingradio.ru/mf96.aacp
@@ -2000,6 +2030,9 @@ https://radiorecord.hostingradio.ru/hype96.aacp
 #EXTINF:-1 group-title="Радио",Нафталин FM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://radiorecord.hostingradio.ru/naft96.aacp
+#EXTINF:-1 group-title="Радио",Пионер FM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+https://listen10.myradio24.com/pionerfm
 #EXTINF:-1 group-title="Радио" tvg-logo="https://www.radiogrom.com/paint_new/logo_big/radio-z-belgorod-logo.jpg",Радио Z
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://node1.craftradio.ru:8003/201_EFA53E54
@@ -2009,13 +2042,24 @@ https://stream-msk-17.ott.tricolor.tv/dtv/id955_MSKSG-PVR-1--radio_na_7_kholmakh
 #EXTINF:-1 group-title="Радио", Радио Ваня
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://stream-msk-17.ott.tricolor.tv/dtv/id954_MSKSG-PVR-1--radio_vanya/01/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0NTgwOTc5NSwiaHdpZCI6ImZjY2Q5NTRlMjRjMjFjYzYxZDYxYmEyYTdjMGMxMDYwZTBmNjMwZjZhYzc0MTMyMTM1OWQ1NzIwOWZkMDg0OWEiLCJsYXN0X3JlcV9kYXRlIjoxNzQ1MjA0OTk1LCJzZXNzaW9uX2lkIjoiZmIzMzM1NmQyNmM3OTQ5NTU4NmRkMmI3ZWY4Mjc0MzMiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.aFyzYCgM_oKjh2_Dg6FQYD6PyavjN_0NIUwZ6-lXrr0
+#EXTINF:-1 group-title="Радио",Радио Дача
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+https://ic1.radiosignal.one/vanya
 #EXTINF:-1 group-title="Радио", Радио Комсомольская Правда
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://stream-msk-20.ott.tricolor.tv/dtv/id958_MSKSG-PVR-1--komsomolskaya_pravda/01/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0NTgwOTc5NSwiaHdpZCI6ImZjY2Q5NTRlMjRjMjFjYzYxZDYxYmEyYTdjMGMxMDYwZTBmNjMwZjZhYzc0MTMyMTM1OWQ1NzIwOWZkMDg0OWEiLCJsYXN0X3JlcV9kYXRlIjoxNzQ1MjA0OTk1LCJzZXNzaW9uX2lkIjoiZmIzMzM1NmQyNmM3OTQ5NTU4NmRkMmI3ZWY4Mjc0MzMiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.aFyzYCgM_oKjh2_Dg6FQYD6PyavjN_0NIUwZ6-lXrr0
+#EXTINF:-1 group-title="Радио",Радио Радонеж
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+https://icecast-radonezh.cdnvideo.ru/rad128
 #EXTINF:-1 group-title="Радио" tvg-logo="http://kharkov-z.ru/z-logo-line.png",Радио Харьков Z
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://node1.craftradio.ru:8000/215_55AE795B
-
-
-
-
+#EXTINF:-1 group-title="Радио",Ретро FM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+https://hls-01-regions.emgsound.ru/12_msk/playlist.m3u8
+#EXTINF:-1 group-title="Радио",СКАЗКА FM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+http://skazka.amgradio.ru/Skazka
+#EXTINF:-1 group-title="Радио",Супердискотека 90-х
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+https://radiorecord.hostingradio.ru/sd9096.aacp
