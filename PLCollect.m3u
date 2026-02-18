@@ -1173,12 +1173,33 @@ http://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8
 https://amtv.tulixcdn.com/amtv3/am3abr/tracks-v1a1/mono.m3u8
 
 #EXTGRP:Региональные
-#EXTINF:-1 group-title="Региональные" tvg-logo="https://maidan.tv/images/1maidan/logo-new.png",Maidan TV HD Татарстан
+#EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/picons/6tv.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-yu="6tv",6ТВ HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-http://live-maidantv.cdnvideo.ru/maidantv/maidantv.smil/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/picons/tmtv.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="6tmtv",TMTV HD
+http://s97982.cdn.ngenix.net/hls/CH_R27_OTT_DV_HVSK_6TV/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-logo="https://www.nalog.gov.ru/cdn/image/2616740/original.jpg",6ТВ Хабаровск (Комсомольск-на-Амуре) HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-http://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_KZN_TMTV/variant.m3u8?version2
+http://s97982.cdn.ngenix.net/hls/CH_R27_OTT_DV_HVSK_6TVKMS/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/picons/7kanal-krasnoyarsk.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-yu="7kanal-krasnoyarsk",7 канал (Красноярск)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R13_OTT_SIB_KRSK_RENTV/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/picons/7tv.png",7ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+http://v4.proofix.ru:80/7tv-live/index.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/picons/8kanal-ru.png",8 Канал
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+http://v4.proofix.ru:80/8tv-russia/index.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/picons/8kanal-eu.png",8 канал International
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+http://v4.proofix.ru:80/8tv-europe/index.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/picons/8vladik.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="8vladik",8 канал (Владивосток)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+https://s91030.cdn.ngenix.net/hls/CH_R01_OTT_DV_VLD_OTT8KANAL/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/picons/8kanal-krasnoyarsk.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="8kanal-krasnoyarsk",8 канал (Красноярский край) HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R02_OTT_SIB_KRSK_8CHANNEL/variant.m3u8
+#EXTINF:-1 group-title="Региональные"  tvg-logo="https://iptvx.one/picons/8kanal-novosibirsk.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="8kanal-novosibirsk",8 канал (Новосибирск)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_8CHANNEL/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/picons/10-rentv.png",10 канал / РенТВ Саранск
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://live-10chanel.cdnvideo.ru/10chanel/streamtr_1/playlist.m3u8
@@ -1191,45 +1212,21 @@ https://rt-nw-vol-htlive.cdn.ngenix.net/hls/CH_R01_12CHANNEL/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/picons/31-kanal-chelyabinsk.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-yu="12-omsk",31 канал (Челябинск) HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_31TVK_CHEL/variant.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/picons/365-dnej.png",365 дней ТВ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-http://31.148.48.15:80/365_dney/index.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/picons/41region.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-yu="41region",41 регион (Петропавловск-Камчатский)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://s14131.cdn.ngenix.net/hls/CH_R02_OTT_DV_KAM_41REG_OTT/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/picons/43-tuapse.png",43 канал (Туапсе)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://sochinskayatrk.ru/hdtv/hls/43K_HD/playlist.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/picons/6tv.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-yu="6tv",6ТВ HD
+#EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/picons/49kanal.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="49kanal",49 канал Новосибирск
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-http://s97982.cdn.ngenix.net/hls/CH_R27_OTT_DV_HVSK_6TV/variant.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-logo="https://www.nalog.gov.ru/cdn/image/2616740/original.jpg",6ТВ Хабаровск (Комсомольск-на-Амуре) HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-http://s97982.cdn.ngenix.net/hls/CH_R27_OTT_DV_HVSK_6TVKMS/variant.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/picons/7tv.png",7ТВ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-http://v4.proofix.ru:80/7tv-live/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/picons/7kanal-krasnoyarsk.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-yu="7kanal-krasnoyarsk",7 канал (Красноярск)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R13_OTT_SIB_KRSK_RENTV/variant.m3u8
+https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_49CHANNEL/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/picons/78.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="78kanal",78 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_KANAL78/variant.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/picons/8kanal-ru.png",8 Канал
+#EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/picons/365-dnej.png",365 дней ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-http://v4.proofix.ru:80/8tv-russia/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/picons/8vladik.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="8vladik",8 канал (Владивосток)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-https://s91030.cdn.ngenix.net/hls/CH_R01_OTT_DV_VLD_OTT8KANAL/variant.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/picons/8kanal-krasnoyarsk.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="8kanal-krasnoyarsk",8 канал (Красноярский край) HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R02_OTT_SIB_KRSK_8CHANNEL/variant.m3u8
-#EXTINF:-1 group-title="Региональные"  tvg-logo="https://iptvx.one/picons/8kanal-novosibirsk.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="8kanal-novosibirsk",8 канал (Новосибирск)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_8CHANNEL/variant.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/picons/8kanal-eu.png",8 канал International
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-http://v4.proofix.ru:80/8tv-europe/index.m3u8
+http://31.148.48.15:80/365_dney/index.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/picons/abaitv.png",Abai TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://abaitv-stream.qazcdn.com/abaitv/abaitv/tracks-v4a1/mono.ts.m3u8
@@ -1242,18 +1239,24 @@ https://streamer1.connectto.com/ARTN_mobile/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/picons/gln24.png",GLN 24 (Геленджик) HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://serv25.vintera.tv:8081/gelendzhik/stream_1/playlist.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/picons/h1-am.png",H1 (Армения) HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+https://amtv.tulixcdn.com/amtv2/am2abr/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/picons/next-tv.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-yu="next-tv",NEXT-TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+http://s45177.cdn.ngenix.net/hls/CH_R01_NEXTTV/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://maidan.tv/images/1maidan/logo-new.png",Maidan TV HD Татарстан
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://live-maidantv.cdnvideo.ru/maidantv/maidantv.smil/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/picons/silkway.png",Silk Way HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://ikomg-kazakh.akamaized.net/kazakh/kazakh.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-logo="https://www.cableman.ru/sites/default/files/sochi_live.png",Sochi Live
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-http://serv30.vintera.tv:8081/sochi/sochi_stream/chunks.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/picons/tmtv.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="6tmtv",TMTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_KZN_TMTV/variant.m3u8?version2
+#EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/picons/tv1-kg-hd.png",TV1 KG HD [KG]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+http://212.2.225.30:1935/live/site.stream/playlist.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://static.wixstatic.com/media/4b6445_494515c55c2943439c82e8b18efa4d49~mv2.png/v1/fill/w_417,h_215,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/4b6445_494515c55c2943439c82e8b18efa4d49~mv2.png",TV Line (KZ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://109.248.236.21/tvline/stream.m3u8
@@ -1263,9 +1266,6 @@ http://rtmp.tvpro-online.ru/hls/ch1.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://pic.rutubelist.ru/video/2025-09-14/2a/e2/2ae20d664ea43f755401d8aac8dc30ea.jpg",TV Аист (Ликино-Дулево)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://141.101.205.134:8080/hls/tvaist.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/picons/tv1-kg-hd.png",TV1 KG HD [KG]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-http://212.2.225.30:1935/live/site.stream/playlist.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://static.wixstatic.com/media/fa0cb1_b4a004c86ebb407cbe8cb9aa021e2481~mv2.png/v1/fill/w_310,h_103,al_c,lg_1,q_85,enc_avif,quality_auto/USArmenia_logo_edited.png",USArmenia HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://livestream.usatv.com/hls/m3u8/USARMENIA_NET1080.m3u8
@@ -1281,9 +1281,6 @@ http://stream.almaz-media.tv:8081/hls/720.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/picons/1obl-blagoveschensk.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="1obl-blagoveschensk",Амурское областное телевидение
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://s84942.cdn.ngenix.net/hls/CH_R28_OTT_DV_BLAG_AOT/variant.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-logo="https://i.pinimg.com/736x/2b/3e/1d/2b3e1d2dab0f9622e6a98ad66382a8ba.jpg",Ангел ТВ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-https://janya-digimix.akamaized.net/vglive-sk-955415/russia/ngrp:angelrussia_all/chunklist_b2000000.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/picons/aris24.png",Арис 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://serv25.vintera.tv:8081/test/aris/playlist.m3u8
@@ -1293,9 +1290,6 @@ https://rt-nw-murm-htlive.cdn.ngenix.net/hls/CH_R03_ARCTIC/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/picons/arktika-24.png",Арктика 24 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/arhangelsk/arktika24-hd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/picons/vremia-arktiki.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp} tvg-id="vremia-arktiki",Время Арктики HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-http://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_ARKTIKA24_URAL_YNF/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/picons/arxyz24.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="arxyz24",Архыз-24 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://rt-sth-cherks-htlive.cdn.ngenix.net/hls/CH_R03_OTT_STH_CHERKS_ARKHIZ241/variant.m3u8
@@ -1305,15 +1299,15 @@ https://dpoiyvp3kma.a.trbcdn.net/astv24/astv24.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/picons/astraxan24.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="astraxan24",Астрахань 24 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://rt-sth-astrh-htlive.cdn.ngenix.net/hls/CH_R01_ASTRAKHAN24/variant.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-logo="https://sun6-22.userapi.com/s/v1/if1/r5oPHT5ecuK54tw1WtKicfn43K0a8dfPhdVBmeyvMSb07EpObLczuZkfc1C24bVevlqHpQCk.jpg?size=709x824&quality=96&crop=0,0,709,824&ava=1",Ател ТВ HD (Рыбинск)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-https://iptv.atel.me/live/123/atel.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/picons/atv-media.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="atv-media",АТВ-Медиа
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R01_ATVMEDIA/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://atvmedia.ru/images/favicon180.png",АТВ-Медиа HD (Ставрополь)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://hls.atvmedia.ru/atv.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-logo="https://sun6-22.userapi.com/s/v1/if1/r5oPHT5ecuK54tw1WtKicfn43K0a8dfPhdVBmeyvMSb07EpObLczuZkfc1C24bVevlqHpQCk.jpg?size=709x824&quality=96&crop=0,0,709,824&ava=1",Ател ТВ HD (Рыбинск)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+https://iptv.atel.me/live/123/atel.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/picons/afontovo-kr.png",Афонтово Красноярск HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://stream.afontovo.ru/hd.m3u8
@@ -1323,7 +1317,7 @@ https://stream01.bgu.ru/1/1/playlist.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://i.pinimg.com/736x/c6/9b/8f/c69b8fce73bf557711fcf1b91c4064de.jpg",Балапан ТВ (Казахстан)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/picons/bars.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="bars",Барс плюс
+#EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/picons/bars.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="bars",Барс
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://rt-ct-ivan-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_IVAN_BARS/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/picons/bashkortostan24.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="bashkortostan24",Башкортостан 24 HD
@@ -1368,10 +1362,7 @@ http://bst.bratsk.ru/hls/bst2/fhd/stream.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/picons/vtk-argus.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="vtk-argus",ВТК Аргус HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R01_ARGUS/variant.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/picons/tk-variant.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="tk-variant",ТК Вариант
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-https://rt-ct-vlad-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_VLAD_VARIANT_V/variant.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/picons/tk-variant.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="vektor-24",Вектор 24 HD
+#EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/picons/vektor-24.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="vektor-24",Вектор 24 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R02_VEKTOR24_GUBK/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/picons/vestnik-nadyma.png",Вестник Надыма HD
@@ -1407,9 +1398,18 @@ http://s91030.cdn.ngenix.net/hls/CH_R01_OTT_DV_VLD_VOSTOK24_OTT/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/picons/vostok-tv.png",Восток ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://911play.ru:3456/live/VostokSite/cdnVostaoc911tv123456/489.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/picons/vostok-tv.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="vot-tv",ВОТтв HD
+#EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/picons/vot-tv.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="vot-tv",ВОТтв HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://rt-ct-lipetsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_LIPETSK_VOTTV/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/picons/vremia-arktiki.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp} tvg-id="vremia-arktiki",Время Арктики HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+http://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_ARKTIKA24_URAL_YNF/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/picons/gis-samara.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="gis-samara",ГИС Самара HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+https://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R02_SAMARAGIS/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-logo="https://tv2free.ru/sites/default/files/styles/medium/public/tv-logo/tv-zhizn-glazova.jpg",Глазов 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+http://yellow.garant.tv/glazov24/stream.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/picons/gorod24.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="gorod24",Город 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://s84942.cdn.ngenix.net/hls/CH_R28_OTT_DV_BLAG_GOROD24/variant.m3u8
@@ -1422,18 +1422,15 @@ https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_YARL_GTREG/variant.m3
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/picons/grozny.png",Грозный
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/UUMLQVAYVlZyH14GRENQVV0G/2/1.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/picons/gubernia-33.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="gubernia-33",Губерния 33 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-http://rt-ct-vlad-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_VLAD_GUBERNIA33/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/picons/gubernia.png",Губерния
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://media1.gubernia.com/hls/live.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/picons/gubernia-33.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="gubernia-33",Губерния 33 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+http://rt-ct-vlad-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_VLAD_GUBERNIA33/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/picons/gubernia-samara.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="gubernia-samara",Губерния Самара
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R02_GUBERNIA/variant.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/picons/rgvk-dagestan.png",Дагестан ТВ HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-http://dagestan.mediacdn.ru/cdn/dagestan/tracks-v3a1/mono.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/picons/dzenzhinsk-tv.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="dzenzhinsk-tv",Дзержинск ТВ HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R01_DZERZHINSK/variant.m3u8
@@ -1461,33 +1458,33 @@ http://85.172.79.221:36037/live/iz/playlist_iz.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/picons/izvestia.png",Известия HD (Биробиджан)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://s97982.cdn.ngenix.net/hls/CH_R79_OTT_DV_HVSK_NTK/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-logo="https://i.ibb.co/gWqw4N5/45571caf9d64821ea16f7883ac62a930.png",Известия HD (Воронеж)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+http://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R01_IZVESTIYA/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/picons/izvestia.png",Известия HD (Магадан)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://s20441.cdn.ngenix.net/hls/CH_R49_MGTK/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/e/e4/IZpriockol2.png/revision/latest/scale-to-width-down/1000?cb=20250708113225&path-prefix=ru",Известия HD (Старый Оскол)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://stream.tvbelgorod.ru:8080/izvestiya/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/picons/utv-cheboxary.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="utv-cheboxary",ЮТВ Чебоксары HD
+#EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/picons/impuls-sewera.png",Импульс Севера HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-https://rt-vlg-chr-htlive.cdn.ngenix.net/hls/CH_R01_UTV/variant.m3u8
+https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R02_IMPULS_NBK/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/picons/inf24shadr.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="inf24shadr",Инфо 24 (Шадринск) HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://rt-ural-krg-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SHINFO_URAL_KRG/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/picons/kavkaz24.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="kavkaz24",Кавказ 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_STAVR_KAVKAZ24/variant.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/picons/kavkaz24.png",Казахстан HD
+#EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/picons/kazakhstan.png",Казахстан HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://qazaqstantv-stream.qazcdn.com/qazaqstantv/qazaqstantv/tracks-v4a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/picons/kavkaz24.png",Казахстан International HD
+#EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/picons/kazakhstan.png",Казахстан International HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://qazaqstantv-stream.qazcdn.com/international/international/playlist.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/picons/kamcha-1.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="kamcha-1",Камчатка 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_KAMCHATKA/variant.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/picons/karibu.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="karibu",Карибу Арт
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-http://s20441.cdn.ngenix.net/hls/CH_R49_OTTKARIBU/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/picons/kaskad24.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="kaskad24",Каскад-24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R01_KASKAD/variant.m3u8
@@ -1509,9 +1506,6 @@ http://live-3.otcnet.ru/congresstv/index.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/picons/konny-mir.png",Конный мир
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://cdn-01.bonus-tv.ru/kmir/playlist.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/picons/udmurtia.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="udmurtia",Удмуртия HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-https://rt-vlg-izhsk-htlive.cdn.ngenix.net/hls/CH_R03_MYUDMURTIA/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/picons/krasnaya-linia.png",Красная линия
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3u8
@@ -1521,9 +1515,6 @@ https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_KRDAR_KRASNODAR/va
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/picons/krik-tv.png",Крик ТВ HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://cdn-01.bonus-tv.ru/kriktv_edge/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/picons/pervy-krymsky.png",Первый Крымский
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-https://cdn.1tvcrimea.ru/1tvcrimea.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/picons/krym24.png",Крым 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://cdn.1tvcrimea.ru/switcher.m3u8
@@ -1548,27 +1539,21 @@ http://rt-ct-lipetsk-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_LIPETSK_LVREM/varia
 #EXTINF:-1 group-title="Региональные" tvg-logo="http://i122.fastpic.org/big/2023/0707/24/f0e871de3bfc7f42ec2a3fabdb32ad24.png",Луганск 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://streaming.televizor-24-tochka.ru/live/29-req_offset_28000000-req_window_0-1k_v5.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/picons/ntrk-ingushetia.png",НТРК Ингушетия HD (Магас)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-http://ingushetia.mediacdn.ru/cdn/ingushetia/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/picons/ntrk-ingushetia.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="kuban-24",Майкопское Телевидение
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R04_OTT_STH_KRDAR_MAYKOP/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/picons/megapolis.png",Мегаполис HD (Нижневартовск)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://megapolis.iptv2022.com/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/picons/mig-tv-noyabrsk.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="mig-tv-noyabrsk",Миг ТВ Ноябрьск HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_MIG_TV_URAL_YNF/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/picons/mir.png",Мир KZ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+http://tvcdn01.esilnet.kz/tv/mir/index.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/picons/mir-belogoria.png",Мир Белогорья
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/picons/mir-belogoria.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="mir-belogoria",Мир Белогорья
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://rt-ct-belg-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_BELG_MIR_BLG/variant.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/picons/mir.png",Мир KZ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-http://tvcdn01.esilnet.kz/tv/mir/index.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/picons/moskva-24.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="moskva-24",Москва 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_MOSKOV24/variant.m3u8
@@ -1581,18 +1566,15 @@ http://tvcdn01.esilnet.kz/tv/mtrk/index.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/picons/metr.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="metr",МЭТР (Йошкар-Ола)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://rt-vlg-yola-htlive.cdn.ngenix.net/hls/CH_R03_METR/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/picons/ntm.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="ntm",Народное телевидение Мордовии
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+https://rt-vlg-srnk-htlive.cdn.ngenix.net/hls/CH_R01_NTM/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/picons/nashi-goroda.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="nashi-goroda",Наши Города (Когалым) HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_NGOR_URAL_SUR/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/picons/saxa.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="saxa",НВК Саха (Якутск) HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://s34351.cdn.ngenix.net/hls/CH_R03_OTT_DV_YKT_NVC_OTT/variant.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/picons/ntm.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="ntm",Народное телевидение Мордовии
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-https://rt-vlg-srnk-htlive.cdn.ngenix.net/hls/CH_R01_NTM/variant.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-logo="https://img.rnx.ru/logotvchannel/970-250.jpg" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="chavash-en",Чаваш ЕН HD (Национальное ТВ Чувашии)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-https://rt-vlg-chr-htlive.cdn.ngenix.net/hls/CH_R01_NATIONALTV/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/picons/nash-dom.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="nash-dom",Наш дом HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://rt-vlg-penza-htlive.cdn.ngenix.net/hls/CH_R03_NASHDOM/variant.m3u8
@@ -1602,7 +1584,7 @@ http://stitch.teletarget.ru/api/v1/hls/vintera/neplaneta/index.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/picons/nn-24.png",Нижний Новгород 24 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/nigniynovgorod/nigniynovgorod24-hd/index.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/picons/nika-tv.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="nika-tv",Ника ТВ (Калуга)
+#EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/picons/nika-tv.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="nika-tv",Ника ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://rt-ct-kaluga-htlive.cdn.ngenix.net/hls/CH_R01_NIKA/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/picons/nntv.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="nntv",ННТВ
@@ -1620,9 +1602,12 @@ https://live.zhanafm.kz:8181/memfs/fd715789-382f-4ec6-b4ba-d8e2fde59c7b.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/picons/novy-vek-tambov.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="novy-vek-tambov",Новый век (Тамбов) HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://rt-ct-tamb-htlive.cdn.ngenix.net/hls/CH_R03_OTT_CT_TAMB_NOVIY_VEK/variant.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/picons/49kanal.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="49kanal",49 канал Новосибирск
+#EXTINF:-1 group-title="Региональные" tvg-logo="https://i.mycdn.me/i?r=BDH3HfPpvmQZZI-uHXH_6LjV3_dv7sxqxMd2lMyWo_xtfkhokwdVFTTq0m4WSSJ6fvA",НТК (Нижнеудинск)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_49CHANNEL/variant.m3u8
+http://171.22.212.250/NTK/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/picons/ntrk-ingushetia.png",НТРК Ингушетия HD (Магас)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+http://ingushetia.mediacdn.ru/cdn/ingushetia/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/picons/nts-irbit.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="nts-irbit",НТС-Ирбит
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R04_IRBITVEST_EKT/variant.m3u8
@@ -1632,9 +1617,6 @@ https://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_IRK_RENTVIRK/variant
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/picons/nts-sevastopol.png",НТС (Севастополь) HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/chunklist.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-logo="https://i.mycdn.me/i?r=BDH3HfPpvmQZZI-uHXH_6LjV3_dv7sxqxMd2lMyWo_xtfkhokwdVFTTq0m4WSSJ6fvA",НТК (Нижнеудинск)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-http://171.22.212.250/NTK/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/picons/xamdan-kalm24.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="xamdan-kalm24",Национальное Телевидение Калмыкии
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://rt-sth-elista-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_ELISTA_HAMDAN/variant.m3u8
@@ -1677,12 +1659,12 @@ http://stream.fastlnk.ru:88/Panorama_TV_HD/index.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/picons/pervy-gorodskoy-kirov.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="pervy-gorodskoy-kirov",Первый городской (Киров) HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://rt-vlg-kirov-htlive.cdn.ngenix.net/hls/CH_R03_PERVYGORODSKOY/variant.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/picons/h1-am.png",H1 (Армения) HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-https://amtv.tulixcdn.com/amtv2/am2abr/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/picons/pervy-info-by.png",Первый Информационный BY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:informacionnyy.smil/playlist.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/picons/pervy-krymsky.png",Первый Крымский
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+https://cdn.1tvcrimea.ru/1tvcrimea.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/picons/pervy-oblastnoy-orel.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="pervy-oblastnoy-orel",Первый областной Орел HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://rt-ct-orl-htlive.cdn.ngenix.net/hls/CH_R01_PERVOBL/variant.m3u8
@@ -1719,12 +1701,18 @@ http://prodvizhenie.bonus-tv.ru/cdn/prodvizhenie/playlist.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/picons/ramenskoe-tv.png",Раменское ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://e10-ll.facecast.net/rtv/0.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/picons/rgvk-dagestan.png",РГВК Дагестан HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+http://dagestan.mediacdn.ru/cdn/dagestan/tracks-v3a1/mono.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/picons/region29.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="region29",Регион 29 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://rt-nw-arkh-htlive.cdn.ngenix.net/hls/CH_R02_PRAVDASEVERA/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/picons/region67.png",Регион 67
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://212.3.155.126:8181/udp/233.67.67.177:5510
+#EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/picons/karibu.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="karibu",Рен ТВ - Карибу Арт
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+http://s20441.cdn.ngenix.net/hls/CH_R49_OTTKARIBU/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/picons/rika.png",Рика
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://live-rikatv.cdnvideo.ru/rikatv/rikatv_tcode.sdp/playlist.m3u8
@@ -1755,9 +1743,6 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/samara/samara24-hd/index.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/picons/samara24.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="samara24",Самара 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R03_SAMARA24/variant.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/picons/gis-samara.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="gis-samara",ГИС Самара HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-https://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R02_SAMARAGIS/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/picons/sampo-tv.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="sampo-tv",Сампо ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://rt-nw-pzav-htlive.cdn.ngenix.net/hls/CH_R01_SAMPOTV/variant.m3u8
@@ -1791,9 +1776,6 @@ http://188.113.190.13/25/video.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/picons/sochi24.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="sochi24",Сочи24 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_MAKS241/variant.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-logo="https://static.tildacdn.com/tild6137-3664-4736-b630-343564656538/IMG_9854.PNG",Сочи Live TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/picons/stv-by.png",СТВ Беларусь
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8
@@ -1842,6 +1824,9 @@ https://042auhsnh0x.a.trbcdn.net/livemaster/lezlkenzbx_TV_Studia_Fakt/tracks-v1a
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/picons/tv-in.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="tv-in",ТВ-ИН (Магнитогорск) HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_TVIN_MAGN/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-logo="http://kharkov-z.ru/z-logo-line.png",ТВ Харьков Z
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+http://212.193.53.254/app/potok/playlist.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/picons/kolyma-plus.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="kolyma-plus",Колыма-Плюс
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://s20441.cdn.ngenix.net/hls/CH_R49_OTT_DV_MGDN_KOLYMA/variant.m3u8
@@ -1860,6 +1845,9 @@ https://stream.teotv.ru/live/site360/playlist.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/picons/tivikom.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="tivikom",Тивиком HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R01_TIVICOM/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/picons/tk-variant.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="tk-variant",ТК Вариант
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+https://rt-ct-vlad-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_VLAD_VARIANT_V/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/picons/trk-ryazan.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="trk-ryazan",ТКР Рязань HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://rt-ct-ryaz-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_RYAZ_TKP/variant.m3u8
@@ -1890,9 +1878,6 @@ http://live-saha.cdnvideo.ru/saha/tooky/playlist.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://tosnotv.ru/wp-content/uploads/2022/01/logo-1.svg",Тосно ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://tosnotv.ru/hlsshare/video.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/picons/tochka-otryva.png",Точка Отрыва
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-http://193.25.8.59:8000/outdoor
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://trk555.tv/wp-content/uploads/2017/09/logo200_2.png",ТРК 555 Алушта
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://195.26.83.96:7029/play/a001
@@ -1911,6 +1896,9 @@ http://185.185.69.62:8084/hls/tuapse24.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/picons/tumenskoe-vremia.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="tumenskoe-vremia",Тюменское время HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://rt-ural-tum-htlive.cdn.ngenix.net/hls/CH_R01_OTT_TUMVR_URAL_TUM/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/picons/udmurtia.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="udmurtia",Удмуртия HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+https://rt-vlg-izhsk-htlive.cdn.ngenix.net/hls/CH_R03_MYUDMURTIA/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/picons/ulianovskaya-pravda.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="ulianovskaya-pravda",Ульяновская правда
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://rt-vlg-ul-htlive.cdn.ngenix.net/hls/CH_R01_ULPRAVDA/variant.m3u8
@@ -1920,6 +1908,9 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/chelyabinsk/ural24-hd/index.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/picons/xuzur-tv.png",Хузур ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-logo="https://img.rnx.ru/logotvchannel/970-250.jpg" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="chavash-en",Чаваш ЕН HD (Национальное ТВ Чувашии)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+https://rt-vlg-chr-htlive.cdn.ngenix.net/hls/CH_R01_NATIONALTV/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/picons/shayantv.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="shayantv",Шаян ТВ HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://shayan.bonus-tv.ru:80/cdn/shayan/tracks-v1a1/mono.m3u8
@@ -1953,6 +1944,9 @@ https://rt-nw-komi-htlive.cdn.ngenix.net/hls/CH_R01_YURGAN/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/picons/utv-cheboxary.png",ЮТВ Чебоксары
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://utv.iptv2022.com/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/picons/utv-cheboxary.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="utv-cheboxary",ЮТВ Чебоксары HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+https://rt-vlg-chr-htlive.cdn.ngenix.net/hls/CH_R01_UTV/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/picons/insit-tv.png",ЮУрГУ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://tvrlive.susu.ru/1800k/playlist.m3u8
@@ -2003,5 +1997,6 @@ https://stream-msk-20.ott.tricolor.tv/dtv/id958_MSKSG-PVR-1--komsomolskaya_pravd
 #EXTINF:-1 group-title="Радио" tvg-logo="http://kharkov-z.ru/z-logo-line.png",Радио Харьков Z
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://node1.craftradio.ru:8000/215_55AE795B
+
 
 
