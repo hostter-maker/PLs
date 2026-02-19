@@ -61,6 +61,9 @@ http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Вещание" tvg-logo="https://iptvx.one/picons/rentv.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="rentv",РЕН ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
+#EXTINF:-1 group-title="Вещание" tvg-logo="https://iptvx.one/picons/rentv.png",РенТВ International
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+http://cdn4.skygo.mn/live/disk1/RenTV/HLSv3-FTA/RenTV.m3u8
 #EXTINF:-1 group-title="Вещание" tvg-logo="https://iptvx.one/picons/rossia1.png",Россия 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
@@ -91,6 +94,9 @@ http://player.smotrim.ru/iframe/stream/live_id/3b73bf76-7245-4981-a865-38478e21d
 #EXTINF:-1 group-title="Вещание" tvg-logo="https://iptvx.one/picons/rtr-planeta.png",РТР-Планета Америка
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://player.smotrim.ru/iframe/stream/live_id/cf22fa5c-e21a-433e-8317-7e8dd3150d6a.m3u8
+#EXTINF:-1 group-title="Вещание" tvg-logo="https://iptvx.one/picons/solovjinypomiot.png",Соловьев.Live HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1
 #EXTINF:-1 group-title="Вещание" tvg-logo="https://iptvx.one/picons/sts.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="sts",СТС
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
@@ -126,6 +132,9 @@ http://rt-doc.rttv.com/dvr/rtdru/rtdru1080.m3u8
 #EXTINF:-1 group-title="Кинозал" tvg-logo="https://1.mediamaniya.site/_pu/2/46031484.jpg",Alpha cinema
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
+#EXTINF:-1 group-title="Кинозал" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png",Alpha Moretime
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+http://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
 #EXTINF:-1 group-title="Кинозал" tvg-logo="https://iptvx.one/picons/cinema-ru.png",Cinema
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://188.225.31.197/bpk-tv/000000239/tve/index.m3u8
@@ -135,6 +144,9 @@ http://188.225.31.197/bpk-tv/000004466/tve/index.m3u8
 #EXTINF:-1 group-title="Кинозал" tvg-logo="https://iptvx.one/picons/hollywood-hd.png",Hollywood
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://188.225.31.197/bpk-tv/000000031/tve/index.m3u8
+#EXTINF:-1 group-title="Кинозал" tvg-logo="https://img.catcast.tv/uploads/04092021/logos/40672-61329195ca44d.jpg",LAV-KINO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+https://fl1004.bozztv.com/ushba32/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кинозал" tvg-logo="https://iptvx.one/picons/plan-b.png",Plan B
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://188.225.31.197/bpk-tv/000007625/tve/index.m3u8
@@ -393,10 +405,13 @@ http://188.225.31.197/bpk-tv/000000125/tve/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
 
-EXTGRP:Релакс
+#EXTGRP:Релакс
 #EXTINF:-1 group-title="Релакс" tvg-logo="https://deluxemusic.de/wp-content/uploads/sites/4/2023/01/DLXM_LOUNGE_LOGO.png",Deluxe Lounge HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/9a087b26-8be4-11eb-a7de-bacfe1f83627/0/master.m3u8?country=DE&optout=0&uid=749544ec3d9a45d48c600d03cac91dfd&vendor=philips
+#EXTINF:-1 group-title="Региональные" tvg-logo="https://www.cableman.ru/sites/default/files/sochi_live.png",Sochi Live
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+http://serv30.vintera.tv:8081/sochi/sochi_stream/chunks.m3u8
 #EXTINF:-1 group-title="Релакс" channel-id="SamsungTVPlus-USBD3500038R6" tvg-name="Stingray Holidayscapes" tvg-id="USBD3500038R6" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500038R6_20240520T212838SQUARE.png" group-title="Сортировка" tvg-chno="4570",Stingray Holidayscapes HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://d10cyxntpn0bwm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-udbgiwo3vva3o/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD3500038R6
@@ -447,6 +462,9 @@ https://fl1001.bozztv.com/ushba10/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Развлекательные" tvg-logo="https://pngfre.com/wp-content/uploads/Mr-Bean-5-291x300.png", Мистер Бин HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://fl1001.bozztv.com/ushba45/index.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://iptvx.one/picons/perec-int.png", Перец
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+http://158.101.222.193:88/georgia_play.php?id=perec
 #EXTINF:-1 group-title="Развлекательные" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg",Приколы
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://fl1001.bozztv.com/ushba11/tracks-v1a1/mono.m3u8
@@ -655,6 +673,9 @@ https://tv.city.bg/play/tshls/citytv/2.m3u8
 #EXTINF:-1 group-title="Музыкальные" tvg-logo="https://iptvx.one/picons/clubbing-tv.png",Clubbing TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://d1j2csarxnwazk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-uze1m6xh4fiyr-ssai-prd/master.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://i.imgur.com/uMw3kks.png",DanceHits80
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+http://dancehits80.denvs.ru:8080/index.m3u8
 #EXTINF:-1 group-title="Музыкальные" tvg-logo="https://i3radio.com/userfiles-aplin/avatars/logos-7700179603.jpg",DANCE TV Best of Dance
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
@@ -679,9 +700,9 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.
 #EXTINF:-1 group-title="Музыкальные" tvg-logo="https://cdn-sbws.hd-plus.de/1200x800/f054351e72/deluxe-rap-hd-transparent.png",Deluxe Rap HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://iptvx.one/picons/tnt-music.png",FON Music
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://iptvx.one/picons/tnt-music.png",FON Music HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-http://188.225.31.197/bpk-tv/000000013/tve/index.m3u8
+https://cdn-01.bonus-tv.ru/tntmusic/playlist.m3u8
 #EXTINF:-1 group-title="Музыкальные" tvg-logo="https://iptvx.one/picons/hit-tv.png",HIT TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://188.225.31.197/bpk-tv/000001213/tve/index.m3u8
@@ -754,7 +775,7 @@ http://streamcdnm5-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhd
 #EXTINF:-1 group-title="Музыкальные" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Logo_radiozeta_2017.jpg/250px-Logo_radiozeta_2017.jpg",RADIO ZETA HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://streamcdnb1-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/chunklist.m3u8
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/87/4e/96/874e9649-ef38-9fdd-4804-b4b81d6318a2/source/512x512bb.jpg",Retro TV
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/87/4e/96/874e9649-ef38-9fdd-4804-b4b81d6318a2/source/512x512bb.jpg",Retro Music
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w2024688549.m3u8
 #EXTINF:-1 group-title="Музыкальные" tvg-logo="https://m.media-amazon.com/images/I/417nmnZ4z+L.png",Sexy Kpop TV
@@ -918,6 +939,9 @@ http://sirius.greenhosting.ru/PingvinRu/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Детские" tvg-logo="https://iptvx.one/picons/ryzhy.png",Рыжий
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://31.148.48.15:80/Rizhiy/index.m3u8
+#EXTINF:-1 group-title="Детские" tvg-logo="https://iptvx.one/picons/smaylik-tv.png",Смайлик ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+https://5f05e059699ae.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
 #EXTINF:-1 group-title="Детские" tvg-logo="https://iptvx.one/picons/solnce.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-yu="solnce",Солнце
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8
@@ -935,6 +959,9 @@ http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-logo="https://tgramcat.com/uploads/images/20250714/BcSqJ2w09WVmNih6ZvP4Fk7e1rn8Go.jpg",A21 Network
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://tv.a21network.ru/stream/37909/index.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-logo="https://avatars.mds.yandex.net/i?id=067d5dbc7bbc863527cc5febff2e6e7b-3788053-images-thumbs&n=13" group-title="Спортивные" ,Astrakhan.RU
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+http://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/f6/87/e3/f687e3b6-6f05-b755-3eeb-69ce1fb30611/source/512x512bb.jpg",Bahrain Sports 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://5c7b683162943.streamlock.net/live/sportsone/playlist.m3u8
@@ -1015,6 +1042,9 @@ http://live-3.otcnet.ru/sportivny/index.m3u8
 http://188.225.31.197/bpk-tv/000007802/tve/index.m3u8
 
 #EXTGRP:Разное
+#EXTINF:-1 group-title="Разное, иностранные" tvg-logo="https://cdn.tlgbot.ru/i/b2/07/b207bacb6ee875ebd7f0fea63f69da0b.jpg",1Lurer
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+https://amtv.tulixcdn.com/amtv3/am3abr/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Разное" tvg-logo="https://smotret-tv.ru/wp-content/uploads/2024/10/7x-music-jpg.webp",7X MUSIC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://stream.e2is.in/hls/7xMusic.m3u8
@@ -1045,15 +1075,21 @@ http://tvshops.bonus-tv.ru:80/cdn/shop24/playlist.m3u8
 #EXTINF:-1 group-title="Разное" tvg-logo="https://iptvx.one/picons/luxury-hd.png",Luxury HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://s1.tv-nano.com/Luxury_rec/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Разное" tvg-logo="https://iptvx.one/picons/luxury-hd.png",Nano
+#EXTINF:-1 group-title="Разное" tvg-logo="https://iptvx.one/picons/nano-hd.png",Nano
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://s1.tv-nano.com/Nano_rec/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Разное" tvg-logo="https://telepedia.fandom.com/ru/wiki/Ovaa_TV?file=Ovaa_TV_logo.jpg",OVAA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+http://tv.tuva.ru/ovaa/index.m3u8
 #EXTINF:-1 group-title="Разное" tvg-logo="https://iptvx.one/picons/rtvi.png",RTVi HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://188.225.31.197/bpk-tv/000000039/tve/index.m3u8
 #EXTINF:-1 group-title="Разное" tvg-logo="https://iptvx.one/picons/shopping-live.png",Shopping Live
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://shoppinglive.mediacdn.ru/cdn/shopping/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Разное" tvg-logo="http://www.tbnbaltia.eu/img/tbn-baltia-2-white-trans.png",TBN BALTIA HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+http://dc.tbnbaltia.eu:8088/dvr/tracks-v1a1/rewind-21600.m3u8
 #EXTINF:-1 group-title="Разное" tvg-logo="https://iptvx.one/picons/world-fashion-channel.png",World Fashion Channel HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://live-3.otcnet.ru/wfcrus/index.m3u8
@@ -1063,12 +1099,15 @@ http://cdn.wfc.tv/cdn/stream-eng-1080p.m3u8
 #EXTINF:-1 group-title="Разное" tvg-logo="https://iptvx.one/picons/4kanal-piatnica.png",4 канал (Екатеринбург)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_EKB1/hls/1024x576@2024/playlist.m3u8
-#EXTINF:-1 group-title="Разное" tvg-logo="https://iptvx.one/picons/4kanal-piatnica.png",8 канал International
+#EXTINF:-1 group-title="Разное" tvg-logo="https://iptvx.one/picons/8kanal-eu.png",8 канал International
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://188.225.31.197/bpk-tv/000001564/tve/index.m3u8
 #EXTINF:-1 group-title="Разное" tvg-logo="https://iptvx.one/picons/8kanal-krasnoyarsk.png",8 канал (Красноярский край) HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://cdn-01.bonus-tv.ru:80/8kanal/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-logo="https://i.pinimg.com/736x/2b/3e/1d/2b3e1d2dab0f9622e6a98ad66382a8ba.jpg",Ангел ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+https://janya-digimix.akamaized.net/vglive-sk-955415/russia/ngrp:angelrussia_all/chunklist_b2000000.m3u8
 #EXTINF:-1 group-title="Разное" tvg-logo="https://iptvx.one/picons/appetitny.png",Аппетитный
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://188.225.31.197/bpk-tv/000008877/tve/index.m3u8
@@ -1093,6 +1132,12 @@ http://188.225.31.197/bpk-tv/000000057/tve/index.m3u8
 #EXTINF:-1 group-title="Разное" tvg-logo="https://iptvx.one/picons/kaleydoskop.png",Калейдоскоп ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://serv25.vintera.tv:8081/kaleidoscop/kaleidoscop_sd/playlist.m3u8
+#EXTINF:-1 group-title="Разное" tvg-logo="https://pp.userapi.com/c628727/v628727261/4e9f4/VCLEzrrwUdo.jpg",Кварц HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+http://109.94.1.3:8080/25/index.m3u8
+#EXTINF:-1 group-title="Разное" tvg-logo="https://forumimage.ru/uploads/20250325/174290844000547470.png",Культ Медиа
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+https://streaming.astrakhan.ru/telplushd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Разное" tvg-logo="https://iptvx.one/picons/kuxnia-tv.png",Кухня ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://31.148.48.15:80/Kuhnya_TV/index.m3u8
@@ -1186,9 +1231,6 @@ http://hls.tv.3angels.ru/stream/HQ.m3u8
 #EXTINF:-1 group-title="Разное" tvg-logo="https://iptvx.one/picons/yuvelirochka.png",Ювелирочка HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8
-#EXTINF:-1 group-title="Разное" tvg-logo="https://cdn.tlgbot.ru/i/b2/07/b207bacb6ee875ebd7f0fea63f69da0b.jpg",1Lurer
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-https://amtv.tulixcdn.com/amtv3/am3abr/tracks-v1a1/mono.m3u8
 
 #EXTGRP:Региональные
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/picons/6tv.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-yu="6tv",6ТВ HD
@@ -1572,6 +1614,9 @@ http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/picons/mir-belogoria.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="mir-belogoria",Мир Белогорья
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://rt-ct-belg-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_BELG_MIR_BLG/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/picons/mordovia-24.png",Мордовия 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+https://live-mordovia24.cdnvideo.ru/mordovia24/streamtr/playlist.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/picons/moskva-24.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="moskva-24",Москва 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_MOSKOV24/variant.m3u8
@@ -2063,3 +2108,4 @@ http://skazka.amgradio.ru/Skazka
 #EXTINF:-1 group-title="Радио",Супердискотека 90-х
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://radiorecord.hostingradio.ru/sd9096.aacp
+
