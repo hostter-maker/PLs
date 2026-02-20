@@ -252,7 +252,7 @@ http://185.164.82.18:9010/ykMHqK_Fox
 #EXTINF:-1 group-title="Кинозал" tvg-logo="https://iptvx.one/picons/mosfilm-pl4.png",Мосфильм. Золотая коллекция (+4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://193.25.8.59:8000/tnv
-#EXTINF:-1 group-title="Кинозал" tvg-logo="https://iptvx.one/picons/nash-kinopokaz.png" tvg-id="nash-kinopokaz-hd" tvg-shift="+1",Наш Кинопоказ HD
+#EXTINF:-1 group-title="Кинозал" tvg-logo="https://iptvx.one/picons/nash-kinopokaz.png" tvg-id="nash-kinopokaz-hd" tvg-shift="-1",Наш Кинопоказ HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://fl05.lamro.tv/ch4775/mono.m3u8
 #EXTINF:-1 group-title="Кинозал" tvg-logo="https://iptvx.one/picons/dushevnoe-hd.png",Наш кинороман HD
@@ -2240,6 +2240,7 @@ http://skazka.amgradio.ru/Skazka
 #EXTINF:-1 group-title="Радио",Супердискотека 90-х
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://radiorecord.hostingradio.ru/sd9096.aacp
+
 
 
 
