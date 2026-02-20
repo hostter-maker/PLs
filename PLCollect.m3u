@@ -147,152 +147,152 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8
 http://rt-doc.rttv.com/dvr/rtdru/rtdru1080.m3u8
 
 #EXTGRP:Кинозал
-#EXTINF:-1 group-title="Кинозал" tvg-logo="https://1.mediamaniya.site/_pu/2/46031484.jpg",Alpha cinema
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:-1 group-title="Кинозал" tvg-logo="https://1.mediamaniya.site/_pu/2/46031484.jpg",Alpha cinema HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.42.1 (AndroidTV/12) HlsWinkPlayer
 http://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
-#EXTINF:-1 group-title="Кинозал" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png",Alpha Moretime
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:-1 group-title="Кинозал" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png",Alpha Moretime HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.42.1 (AndroidTV/12) HlsWinkPlayer
 http://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
 #EXTINF:-1 group-title="Кинозал" tvg-logo="https://iptvx.one/picons/bollywood-hd.png",Bollywood HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.42.1 (AndroidTV/12) HlsWinkPlayer
 http://188.225.31.197/bpk-tv/000001419/tve/index.m3u8
 #EXTINF:-1 group-title="Кинозал" tvg-logo="https://iptvx.one/picons/cinema-ru.png",Cinema HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.42.1 (AndroidTV/12) HlsWinkPlayer
 https://fl02.lamro.tv/ch5773/mono.m3u8
 #EXTINF:-1 group-title="Кинозал" tvg-logo="https://iptvx.one/picons/fanhd.png",FAN HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.42.1 (AndroidTV/12) HlsWinkPlayer
 http://31.148.48.15:80/Fan/index.m3u8
 #EXTINF:-1 group-title="Кинозал" tvg-logo="https://iptvx.one/picons/flixsnip.png",FlixSnip HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.42.1 (AndroidTV/12) HlsWinkPlayer
 http://188.225.31.197/bpk-tv/000004466/tve/index.m3u8
 #EXTINF:-1 group-title="Кинозал" tvg-logo="https://iptvx.one/picons/hollywood-hd.png",Hollywood
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.42.1 (AndroidTV/12) HlsWinkPlayer
 http://188.225.31.197/bpk-tv/000000031/tve/index.m3u8
 #EXTINF:-1 group-title="Кинозал" tvg-logo="https://iptvx.one/picons/kino-24.png",Kino 24
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.42.1 (AndroidTV/12) HlsWinkPlayer
 http://sirius.greenhosting.ru/Kino24Ru/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кинозал" tvg-logo="https://img.catcast.tv/uploads/04092021/logos/40672-61329195ca44d.jpg",LAV-KINO
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.42.1 (AndroidTV/12) HlsWinkPlayer
 https://fl1004.bozztv.com/ushba32/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кинозал" tvg-logo="https://iptvx.one/picons/plan-b.png",Plan B
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.42.1 (AndroidTV/12) HlsWinkPlayer
 http://188.225.31.197/bpk-tv/000007625/tve/index.m3u8
 #EXTINF:-1 group-title="Кинозал" tvg-logo="https://iptvx.one/picons/pro100.png",PRO100
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.42.1 (AndroidTV/12) HlsWinkPlayer
 https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
 #EXTINF:-1 group-title="Кинозал" tvg-logo="https://iptvx.one/picons/texno-24.png",Т24
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.42.1 (AndroidTV/12) HlsWinkPlayer
 http://188.225.31.197/bpk-tv/000000008/tve/index.m3u8
 #EXTINF:-1 group-title="Кинозал" tvg-logo="https://iptvx.one/picons/tv21m.png",ТВ-21M
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.42.1 (AndroidTV/12) HlsWinkPlayer
 http://188.225.31.197/bpk-tv/000000006/tve/index.m3u8
 #EXTINF:-1 group-title="Кинозал" tvg-logo="https://iptvx.one/picons/tv1000.png",Viju TV1000 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.42.1 (AndroidTV/12) HlsWinkPlayer
 http://188.225.31.197/bpk-tv/000003747/tve/index.m3u8
 #EXTINF:-1 group-title="Кинозал" tvg-logo="https://iptvx.one/picons/tv1000-action.png",Viju TV1000 Action HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.42.1 (AndroidTV/12) HlsWinkPlayer
 http://188.225.31.197/bpk-tv/000003910/tve/index.m3u8
 #EXTINF:-1 group-title="Кинозал" tvg-logo="https://iptvx.one/picons/tv1000-russkoe-kino.png",Viju TV1000 Русское HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.42.1 (AndroidTV/12) HlsWinkPlayer
 http://188.225.31.197/bpk-tv/000003748/tve/index.m3u8
 #EXTINF:-1 group-title="Кинозал" tvg-logo="https://iptvx.one/picons/vip-comedy.png",Vip Comedy HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.42.1 (AndroidTV/12) HlsWinkPlayer
 http://188.225.31.197/bpk-tv/000000870/tve/index.m3u8
 #EXTINF:-1 group-title="Кинозал" tvg-logo="https://iptvx.one/picons/vip-megahit.png",Vip Megahit HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.42.1 (AndroidTV/12) HlsWinkPlayer
 http://188.225.31.197/bpk-tv/000000869/tve/index.m3u8
 #EXTINF:-1 group-title="Кинозал" tvg-logo="https://iptvx.one/picons/vip-premiere.png",Vip Premiere HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.42.1 (AndroidTV/12) HlsWinkPlayer
 http://188.225.31.197/bpk-tv/000000868/tve/index.m3u8
 #EXTINF:-1 group-title="Кинозал" tvg-logo="https://ritsatv.ru/files/poster/original/901076.webp",Видеокассета VHS HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.42.1 (AndroidTV/12) HlsWinkPlayer
 https://live20.bozztv.com/akamaissh101/ssh101/livevhs90e/playlist.m3u8
 #EXTINF:-1 group-title="Кинозал" tvg-logo="https://iptvx.one/picons/domkino-premium.png",Дом кино Премиум HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.42.1 (AndroidTV/12) HlsWinkPlayer
 http://188.225.31.197/bpk-tv/000002943/tve/index.m3u8
 #EXTINF:-1 group-title="Кинозал" tvg-logo="https://iptvx.one/picons/eurokino.png",Еврокино HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.42.1 (AndroidTV/12) HlsWinkPlayer
 http://188.225.31.197/bpk-tv/000000152/tve/index.m3u8
 #EXTINF:-1 group-title="Кинозал" tvg-logo="https://iptvx.one/picons/kamedi.png",Камеди HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.42.1 (AndroidTV/12) HlsWinkPlayer
 https://fl05.lamro.tv/ch4780/mono.m3u8
 #EXTINF:-1 group-title="Кинозал" tvg-logo="https://iptvx.one/picons/kino-tv.png",Кино ТВ HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.42.1 (AndroidTV/12) HlsWinkPlayer
 http://fl04.lamro.tv/KinoTVHD/mono.m3u8
 #EXTINF:-1 group-title="Кинозал" tvg-logo="https://iptvx.one/picons/kinoboevik-kz.png",КиноБоевик KZ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.42.1 (AndroidTV/12) HlsWinkPlayer
 http://188.225.31.197/bpk-tv/000008490/tve/index.m3u8
 #EXTINF:-1 group-title="Кинозал" tvg-logo="https://iptvx.one/picons/kinokomedia.png",Кинокомедия
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.42.1 (AndroidTV/12) HlsWinkPlayer
 http://185.46.16.239:8000/Fox_HD
 #EXTINF:-1 group-title="Кинозал" tvg-logo="https://iptvx.one/picons/kinomiks.png",Киномикс
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.42.1 (AndroidTV/12) HlsWinkPlayer
 http://93.170.254.17/Kinomiks/index.m3u8
 #EXTINF:-1 group-title="Кинозал" tvg-logo="https://iptvx.one/picons/kinopokaz.png",Кинопоказ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.42.1 (AndroidTV/12) HlsWinkPlayer
 http://31.148.48.15:80/Kinopokaz/index.m3u8
 #EXTINF:-1 group-title="Кинозал" tvg-logo="https://iptvx.one/picons/kinosat.png",Киносат
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.42.1 (AndroidTV/12) HlsWinkPlayer
 http://188.225.31.197/bpk-tv/000003871/tve/index.m3u8
 #EXTINF:-1 group-title="Кинозал" tvg-logo="https://iptvx.one/picons/komedijnoe-hd.png",Комедийное HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.42.1 (AndroidTV/12) HlsWinkPlayer
 https://fl02.lamro.tv/KomediynoeHD/mono.m3u8
 #EXTINF:-1 group-title="Кинозал" tvg-logo="https://iptvx.one/picons/lubimoe-kino.png",Любимое Кино
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.42.1 (AndroidTV/12) HlsWinkPlayer
 http://188.225.31.197/bpk-tv/000000283/tve/index.m3u8
 #EXTINF:-1 group-title="Кинозал" tvg-logo="https://iptvx.one/picons/mirovoe-kino-kz.png",Мировое Кино KZ HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.42.1 (AndroidTV/12) HlsWinkPlayer
 http://188.225.31.197/bpk-tv/000008488/tve/index.m3u8
 #EXTINF:-1 group-title="Кинозал" tvg-logo="https://iptvx.one/picons/mosfilm.png",Мосфильм. Золотая коллекция HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.42.1 (AndroidTV/12) HlsWinkPlayer
 https://fl05.lamro.tv/ch4985/mono.m3u8
 #EXTINF:-1 group-title="Кинозал" tvg-logo="https://iptvx.one/picons/mosfilm.png",Мосфильм. Золотая коллекция
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.42.1 (AndroidTV/12) HlsWinkPlayer
 http://185.164.82.18:9010/ykMHqK_Fox
 #EXTINF:-1 group-title="Кинозал" tvg-logo="https://iptvx.one/picons/mosfilm-pl4.png",Мосфильм. Золотая коллекция (+4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.42.1 (AndroidTV/12) HlsWinkPlayer
 http://193.25.8.59:8000/tnv
 #EXTINF:-1 group-title="Кинозал" tvg-logo="https://iptvx.one/picons/nash-kinopokaz.png",Наш Кинопоказ HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.42.1 (AndroidTV/12) HlsWinkPlayer
 https://fl05.lamro.tv/ch4775/mono.m3u8
 #EXTINF:-1 group-title="Кинозал" tvg-logo="https://iptvx.one/picons/dushevnoe-hd.png",Наш кинороман HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.42.1 (AndroidTV/12) HlsWinkPlayer
 http://cdn.lamro.tv/NashkinoromanHD/mono.m3u8
 #EXTINF:-1 group-title="Кинозал" tvg-logo="https://iptvx.one/picons/nashehd.png",Наше HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.42.1 (AndroidTV/12) HlsWinkPlayer
 http://cdn.lamro.tv/ch370/mono.m3u8
 #EXTINF:-1 group-title="Кинозал" tvg-logo="https://iptvx.one/picons/nashe-novoe-kino.png",Наше новое кино
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.42.1 (AndroidTV/12) HlsWinkPlayer
 http://185.46.16.239:8000/Nickelodeon
 #EXTINF:-1 group-title="Кинозал" tvg-logo="https://iptvx.one/picons/nst.png",НСТ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.42.1 (AndroidTV/12) HlsWinkPlayer
 http://188.225.31.197/bpk-tv/000000078/tve/index.m3u8
 #EXTINF:-1 group-title="Кинозал" tvg-logo="https://iptvx.one/picons/ostrosiuzhetnoe-hd.png",Остросюжетное HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.42.1 (AndroidTV/12) HlsWinkPlayer
 http://cdn.lamro.tv/OstrosyujetnoeHD/mono.m3u8
 #EXTINF:-1 group-title="Кинозал" tvg-logo="https://iptvx.one/picons/premium-kino-kz.png" tvg-id="premium-kino-kz" tvg-shift="+5",Премиум Кино KZ HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.42.1 (AndroidTV/12) HlsWinkPlayer
 http://188.225.31.197/bpk-tv/000008491/tve/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://iptvx.one/picons/pro-lyubov.png",Про Любовь HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.42.1 (AndroidTV/12) HlsWinkPlayer
 https://fl05.lamro.tv/ch4778/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://iptvx.one/picons/russky-illuzion.png",Русский Иллюзион
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.42.1 (AndroidTV/12) HlsWinkPlayer
 http://188.225.31.197/bpk-tv/000004207/tve/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://iptvx.one/picons/russky-roman.png",Русский Роман HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.42.1 (AndroidTV/12) HlsWinkPlayer
 http://31.148.48.15:80/Russkiy_Roman_HD/index.m3u8
 #EXTINF:-1 group-title="Кинозал" tvg-logo="https://iptvx.one/picons/semejnoe-kino-kz.png",Семейное Кино KZ HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.42.1 (AndroidTV/12) HlsWinkPlayer
 http://188.225.31.197/bpk-tv/000008489/tve/index.m3u8
 #EXTINF:-1 group-title="Кинозал" tvg-logo="https://i.ibb.co/LZkQq0x/Uzhastik.png",УЖАСТИК HD IPTVPLAY
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.42.1 (AndroidTV/12) HlsWinkPlayer
 http://5.188.158.65:4040/IPTVPLAYUZHASTIK.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:-1 group-title="Кинозал" tvg-logo="https://i.ibb.co/pbxx3Sd/Fantastika.png",ФАНТАСТИКА HD IPTVPLAY
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.42.1 (AndroidTV/12) HlsWinkPlayer
 http://5.188.158.65:4040/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:-1 group-title="Кинозал" tvg-logo="https://iptvx.one/picons/shokiruyushchee-hd.png",Шокирующее HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.42.1 (AndroidTV/12) HlsWinkPlayer
 https://fl05.lamro.tv/ch137/mono.m3u8
 
 #EXTGRP:Кино и сериалы
@@ -2213,3 +2213,4 @@ http://skazka.amgradio.ru/Skazka
 #EXTINF:-1 group-title="Радио",Супердискотека 90-х
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://radiorecord.hostingradio.ru/sd9096.aacp
+
