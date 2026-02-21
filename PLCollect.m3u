@@ -729,235 +729,237 @@ https://zrnr369ssda.a.trbcdn.net/livemaster/rpwpuqsjap_tvstv/tracks-v1a1/mono.m3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://188.225.31.197/bpk-tv/000003208/tve/index.m3u8
 
-#EXTGRP:Музыкальные
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://iptvx.one/picons/1hd-music.png",1HD
+#EXTGRP:Музыка 1
+#EXTINF:-1 group-title="Музыка 1" tvg-logo="https://iptvx.one/picons/1hd-music.png",1HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://188.225.31.197/bpk-tv/000001020/tve/index.m3u8
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://www.88stereo.com/wp-content/uploads/2017/05/88Stereo-logoweb.png",88 Stereo
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://yootv.online/images/logo-channel/afn-music-tv.png",AFN Music
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-https://bozztv.com/1gbw5/tintv2/tintv2/chunklist.m3u8
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://iptvx.one/picons/bridge-hd.png",Bridge TV
+#EXTINF:-1 group-title="Музыка 1" tvg-logo="https://iptvx.one/picons/bridge-hd.png",Bridge TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://31.148.48.15:80/Bridge_TV/index.m3u8
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://iptvx.one/picons/bridge-tv-classic.png",Bridge TV Classic
+#EXTINF:-1 group-title="Музыка 1" tvg-logo="https://iptvx.one/picons/bridge-tv-classic.png",Bridge TV Classic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://31.148.48.15:80/Bridge_TV_Classic/index.m3u8
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://iptvx.one/picons/bridge-tv-ruxit.png",Bridge TV Русский Хит
+#EXTINF:-1 group-title="Музыка 1" tvg-logo="https://iptvx.one/picons/bridge-tv-ruxit.png",Bridge TV Русский Хит
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://193.25.8.59:8000/rusong
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://iptvx.one/picons/bridge-tv-shlager.png",Bridge TV Шлягер
+#EXTINF:-1 group-title="Музыка 1" tvg-logo="https://iptvx.one/picons/bridge-tv-shlager.png",Bridge TV Шлягер
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://193.25.8.59:8000/mtv
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://i.postimg.cc/3rkRjpjC/photo-2024-01-14-15-41-50.jpg",CHD-TV RU Rock HD
+#EXTINF:-1 group-title="Музыка 1" tvg-logo="https://i.postimg.cc/3rkRjpjC/photo-2024-01-14-15-41-50.jpg",CHD-TV RU Rock HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://194.26.229.213/chdtv_ru_rock/index.m3u8
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://i.postimg.cc/MHNdgRXj/photo-2024-01-14-15-42-03.jpg",CHD-TV Rock HD
+#EXTINF:-1 group-title="Музыка 1" tvg-logo="https://i.postimg.cc/MHNdgRXj/photo-2024-01-14-15-42-03.jpg",CHD-TV Rock HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://194.26.229.213/chdtv_rock/index.m3u8
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://iptvx.one/picons/city-tv-bg.png",City TV [BG]
+#EXTINF:-1 group-title="Музыка 1" tvg-logo="https://iptvx.one/picons/city-tv-bg.png",City TV [BG]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://tv.city.bg/play/tshls/citytv/2.m3u8
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://iptvx.one/picons/clubbing-tv.png",Clubbing TV HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-https://d1j2csarxnwazk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-uze1m6xh4fiyr-ssai-prd/master.m3u8
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://i.imgur.com/uMw3kks.png",DanceHits80
+#EXTINF:-1 group-title="Музыка 1" tvg-logo="https://i.imgur.com/uMw3kks.png",DanceHits80
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://dancehits80.denvs.ru:8080/index.m3u8
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://i3radio.com/userfiles-aplin/avatars/logos-7700179603.jpg",DANCE TV Best of Dance
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://i3radio.com/userfiles-aplin/avatars/logos-7700179603.jpg",DANCE TV HOUSEFLOOR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-https://m2b2.worldcast.tv:7443/dancetelevisionfive/2/dancetelevisionfive.m3u8
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://i3radio.com/userfiles-aplin/avatars/logos-7700179603.jpg",DANCE TV MAINSTAGE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-https://mbit1.worldcast.tv/dancetelevisionseven/stream_0.m3u8
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://i3radio.com/userfiles-aplin/avatars/logos-7700179603.jpg",DANCE TV MNML HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-https://mbit1.worldcast.tv/dancetelevisionsix/stream_0.m3u8
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://i3radio.com/userfiles-aplin/avatars/logos-7700179603.jpg",DANCE TV TECHHOUSE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-https://m2b2.worldcast.tv:7443/dancetelevisionthree/2/dancetelevisionthree.m3u8
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Deluxe_Dance_by_Kontor_Logo_2023.svg/1200px-Deluxe_Dance_by_Kontor_Logo_2023.svg.png",Deluxe Dance HD
+#EXTINF:-1 group-title="Музыка 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Deluxe_Dance_by_Kontor_Logo_2023.svg/1200px-Deluxe_Dance_by_Kontor_Logo_2023.svg.png",Deluxe Dance HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://d2hnivx8upksrk.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1q019khonuqjh/01efc271-2cc2-49ed-adfc-a8c5117f7d26/3.m3u8
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://iptvx.one/picons/deluxe-music-de.png",Deluxe Music [DE]
+#EXTINF:-1 group-title="Музыка 1" tvg-logo="https://iptvx.one/picons/deluxe-music-de.png",Deluxe Music [DE]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://cdn-sbws.hd-plus.de/1200x800/f054351e72/deluxe-rap-hd-transparent.png",Deluxe Rap HD
+#EXTINF:-1 group-title="Музыка 1" tvg-logo="https://cdn-sbws.hd-plus.de/1200x800/f054351e72/deluxe-rap-hd-transparent.png",Deluxe Rap HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://iptvx.one/picons/tnt-music.png",FON Music HD
+#EXTINF:-1 group-title="Музыка 1" tvg-logo="https://iptvx.one/picons/tnt-music.png",FON Music HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://cdn-01.bonus-tv.ru/tntmusic/playlist.m3u8
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://iptvx.one/picons/hit-tv.png",HIT TV
+#EXTINF:-1 group-title="Музыка 1" tvg-logo="https://iptvx.one/picons/hit-tv.png",HIT TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://188.225.31.197/bpk-tv/000001213/tve/index.m3u8
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://m.media-amazon.com/images/I/51NpwMKMM8L.png",Kronehit HD
+#EXTINF:-1 group-title="Музыка 1" tvg-logo="https://m.media-amazon.com/images/I/51NpwMKMM8L.png",Kronehit HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://iptvx.one/picons/mcm-top.png",MCM Top
+#EXTINF:-1 group-title="Музыка 1" tvg-logo="https://iptvx.one/picons/mcm-top.png",MCM Top
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://188.225.31.197/bpk-tv/000000327/tve/index.m3u8
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://sun1-28.userapi.com/LwiK7gjEXY61gRLmdyekOz2VpbxyUc58OevFHA/JsuTeDb90sk.jpg",MIXMTV HD
+#EXTINF:-1 group-title="Музыка 1" tvg-logo="https://sun1-28.userapi.com/LwiK7gjEXY61gRLmdyekOz2VpbxyUc58OevFHA/JsuTeDb90sk.jpg",MIXMTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://89.179.247.144/hls/mixm.m3u8
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg",Music 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-https://fl1001.bozztv.com/ushba-t1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg",Music 2
+#EXTINF:-1 group-title="Музыка 1" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg",Music 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://fl1001.bozztv.com/ushba-t2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg",Music 3
+#EXTINF:-1 group-title="Музыка 1" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg",Music 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://fl1001.bozztv.com/ushba-t3/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg",Music 4
+#EXTINF:-1 group-title="Музыка 1" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg",Music 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://fl1001.bozztv.com/ushba-t4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg",Music 5
+#EXTINF:-1 group-title="Музыка 1" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg",Music 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://fl1001.bozztv.com/ushba-t5/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg",Music 6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-https://fl1003.bozztv.com/ushba0/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg",Music 7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-https://fl1001.bozztv.com/ushba33/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg",Music 8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-https://fl1001.bozztv.com/ushba63/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg",Music 9
+#EXTINF:-1 group-title="Музыка 1" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg",Music 9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://fl1001.bozztv.com/ushba67/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg",Music 10
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-https://fl1001.bozztv.com/ushba76/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg",Music 11
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-https://fl1001.bozztv.com/ushba96/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg",Music 12
+#EXTINF:-1 group-title="Музыка 1" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg",Music 12
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://fl1001.bozztv.com/ushba-monj/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg",Music 13
+#EXTINF:-1 group-title="Музыка 1" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg",Music 13
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://fl1001.bozztv.com/ushba-mafia/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://iptvx.one/picons/muzzone.png",MuzZone HD
+#EXTINF:-1 group-title="Музыка 1" tvg-logo="https://iptvx.one/picons/muzzone.png",MuzZone HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://188.225.31.197/bpk-tv/000000783/tve/index.m3u8
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://cdn.tlgbot.ru/i/d3/f5/d3f5f9b7620d10b99b679660d81710f8.jpg",NM Television
+#EXTINF:-1 group-title="Музыка 1" tvg-logo="https://cdn.tlgbot.ru/i/d3/f5/d3f5f9b7620d10b99b679660d81710f8.jpg",NM Television
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://tv.a21network.ru/stream/40650/index.m3u8
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://radyodinle.com/wp-content/uploads/2024/08/149-min.jpg",Power Dance HD
+#EXTINF:-1 group-title="Музыка 1" tvg-logo="https://radyodinle.com/wp-content/uploads/2024/08/149-min.jpg",Power Dance HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://listen.powerapp.com.tr/dance/dance.smil/playlist.m3u8
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://nevolna.ru/uploads/admin/images/radios/6MwrG9ksLlbKG2QKaRQlb5gDSI63NOY4-sm.jpg",Power Love HD
+#EXTINF:-1 group-title="Музыка 1" tvg-logo="https://nevolna.ru/uploads/admin/images/radios/6MwrG9ksLlbKG2QKaRQlb5gDSI63NOY4-sm.jpg",Power Love HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://listen.powerapp.com.tr/plove/love.smil/playlist.m3u8
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://iptvx.one/picons/powertv-pl.png",Power TV [PL] HD
+#EXTINF:-1 group-title="Музыка 1" tvg-logo="https://iptvx.one/picons/powertv-pl.png",Power TV [PL] HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Radio_m2o_-_Logo_2019.svg/1097px-Radio_m2o_-_Logo_2019.svg.png",Radio M2O HD
+#EXTINF:-1 group-title="Музыка 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Radio_m2o_-_Logo_2019.svg/1097px-Radio_m2o_-_Logo_2019.svg.png",Radio M2O HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://streamcdnm5-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/index.m3u8
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Logo_radiozeta_2017.jpg/250px-Logo_radiozeta_2017.jpg",RADIO ZETA HD
+#EXTINF:-1 group-title="Музыка 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Logo_radiozeta_2017.jpg/250px-Logo_radiozeta_2017.jpg",RADIO ZETA HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://streamcdnb1-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/chunklist.m3u8
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/87/4e/96/874e9649-ef38-9fdd-4804-b4b81d6318a2/source/512x512bb.jpg",Retro Music
+#EXTINF:-1 group-title="Музыка 1" tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/87/4e/96/874e9649-ef38-9fdd-4804-b4b81d6318a2/source/512x512bb.jpg",Retro Music
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w2024688549.m3u8
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://m.media-amazon.com/images/I/417nmnZ4z+L.png",Sexy Kpop TV
+#EXTINF:-1 group-title="Музыка 1" tvg-logo="https://m.media-amazon.com/images/I/417nmnZ4z+L.png",Sexy Kpop TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://fl1001.bozztv.com/ushba-m4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://iptvx.one/picons/trace-urban.png",Trace Urban HD
+#EXTINF:-1 group-title="Музыка 1" tvg-logo="https://iptvx.one/picons/trace-urban.png",Trace Urban HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://188.225.31.197/bpk-tv/000001661/tve/index.m3u8
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://i.pinimg.com/736x/82/00/48/820048f9f7b471fe1065ddf8854357ca.jpg",TRANCE IS STAR RADIO
+#EXTINF:-1 group-title="Музыка 1" tvg-logo="https://i.pinimg.com/736x/82/00/48/820048f9f7b471fe1065ddf8854357ca.jpg",TRANCE IS STAR RADIO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://myradio24.org/tisradio_video.m3u8
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://i.imgur.com/dZHktKR.png",Vevo Pop HD
+#EXTINF:-1 group-title="Музыка 1" tvg-logo="https://i.imgur.com/dZHktKR.png",Vevo Pop HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://d2n3779oy6efpi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5rxuagztow0k3/playlist.m3u8
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://www.vibee.tv/wp-content/uploads/2023/08/bitmap-300x142.png",Vibe to Beat
+#EXTINF:-1 group-title="Музыка 1" tvg-logo="https://www.vibee.tv/wp-content/uploads/2023/08/bitmap-300x142.png",Vibe to Beat
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://abr.de1se01.v2beat.live/live/live6/chunks.m3u8
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB320000647_20240702T044851SQUARE.png",XITE 80s Flashback HD
+#EXTINF:-1 group-title="Музыка 1" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB320000647_20240702T044851SQUARE.png",XITE 80s Flashback HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://d1n314cytqn9r3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bklagqy82v0pr/XITE_80s_Flashback.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBB320000647
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200007AK_20240702T044853SQUARE.png",XITE 90s Throwback HD
+#EXTINF:-1 group-title="Музыка 1" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200007AK_20240702T044853SQUARE.png",XITE 90s Throwback HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://d284aawtm5vi48.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fjdfi2br1jtq7/XITE_90s_Throwback.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBB3200007AK
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD350003932_20240702T044845SQUARE.png",XITE Celebrates HD
+#EXTINF:-1 group-title="Музыка 1" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD350003932_20240702T044845SQUARE.png",XITE Celebrates HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://dt1s4l2cmiyit.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fcwpee1h7t5cs/XITE_Celebrates.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD350003932
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300011UT_20240716T002641SQUARE.png",XITE Classic Country HD
+#EXTINF:-1 group-title="Музыка 1" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300011UT_20240716T002641SQUARE.png",XITE Classic Country HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://d2tcgvmxn0otsl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vxf3mwifay8co/XITE_Countrys_Finest.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD3300011UT
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300006O3_20240716T002639SQUARE.png",XITE Country Today HD
+#EXTINF:-1 group-title="Музыка 1" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300006O3_20240716T002639SQUARE.png",XITE Country Today HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://d18gddrg3q1rlq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-l4hn4yums84y5/XITE_Country_Today.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD3300006O3
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300004RH_20241105T024203SQUARE.png",XITE Hits HD
+#EXTINF:-1 group-title="Музыка 1" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300004RH_20241105T024203SQUARE.png",XITE Hits HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://d726x48n2pd5h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-skxr1pazhltvp/XITE_Hits.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD3300004RH
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2300003JZ_20240716T002652SQUARE.png",XITE Just Chill HD
+#EXTINF:-1 group-title="Музыка 1" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2300003JZ_20240716T002652SQUARE.png",XITE Just Chill HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://dvnftgdlbnemm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-dh48uzd9o895t/XITE_Just_Chill.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBB2300003JZ
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300007PB_20240924T011037SQUARE.png",XITE Nuevo Latino HD
+#EXTINF:-1 group-title="Музыка 1" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300007PB_20240924T011037SQUARE.png",XITE Nuevo Latino HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://d3bsgqzbpkrvbb.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-w288eaw03izg1/XITE_Nuevo_Latino.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD3300007PB
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://s407vla.storage.yandex.net/rdisk/4da963974853a21caebfa29c4f8bc65c9e23adf145a12ac156478b756c3ca1e1/698c2457/lQo-Df0UlJP_59DkRZ5Wgx3YAk_CFXt8VIQhCOLQ_9LkJJldYiH4Ese3GBc-9uTLTl2ReKvhshrY676_C-fKqQ==?uid=0&filename=USBD330000948_20240716T002648SQUARE.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&fsize=25446&hid=f7c3bea1ba5d515eb33c840ad4ed674f&media_type=image&tknv=v3&etag=f76c18bd71603a43a7a02e29ce2cdf0b&ts=64a86a58083c0&s=3d03220dd83a8f29a669b019420c836afa3f78acf56b6808635de69fc3f19c03&pb=U2FsdGVkX1-TAcrnDRIDEmXUzuNjRdteWtr0C6xTbMP4SvOr0WHjkwoTmylUUBJLNlG_71zLGvl8V9quKCgLSjVzhAibloRyZVUtp91bVgw",XITE R&B Classic Jams HD
+#EXTINF:-1 group-title="Музыка 1" tvg-logo="https://s407vla.storage.yandex.net/rdisk/4da963974853a21caebfa29c4f8bc65c9e23adf145a12ac156478b756c3ca1e1/698c2457/lQo-Df0UlJP_59DkRZ5Wgx3YAk_CFXt8VIQhCOLQ_9LkJJldYiH4Ese3GBc-9uTLTl2ReKvhshrY676_C-fKqQ==?uid=0&filename=USBD330000948_20240716T002648SQUARE.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&fsize=25446&hid=f7c3bea1ba5d515eb33c840ad4ed674f&media_type=image&tknv=v3&etag=f76c18bd71603a43a7a02e29ce2cdf0b&ts=64a86a58083c0&s=3d03220dd83a8f29a669b019420c836afa3f78acf56b6808635de69fc3f19c03&pb=U2FsdGVkX1-TAcrnDRIDEmXUzuNjRdteWtr0C6xTbMP4SvOr0WHjkwoTmylUUBJLNlG_71zLGvl8V9quKCgLSjVzhAibloRyZVUtp91bVgw",XITE R&B Classic Jams HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://d163j5tlekse0h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-133wbycdrwhvy/XITE_RnB_Classic_Jams.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD330000948
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2300004KV_20240716T002654SQUARE.png",XITE Rock x Metal HD
+#EXTINF:-1 group-title="Музыка 1" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2300004KV_20240716T002654SQUARE.png",XITE Rock x Metal HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://d198ro05q94rc4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-c5xdq9qwilrd2/XITE_Rock_On.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBB2300004KV
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300010L9_20240924T011040SQUARE.png",XITE Siempre Latino HD
+#EXTINF:-1 group-title="Музыка 1" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300010L9_20240924T011040SQUARE.png",XITE Siempre Latino HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://d1xc25jm9e0l4b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xplkt8i7m24dc/XITE_Siempre_Latino.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD3300010L9
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://iptvx.one/picons/europa-plus-tv.png",Европа Плюс ТВ
+#EXTINF:-1 group-title="Музыка 1" tvg-logo="https://iptvx.one/picons/europa-plus-tv.png",Европа Плюс ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://31148.rafail1982.uz/Europa_Plus_HD/index.m3u8
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://iptvx.one/picons/zhara.png",Жара HD
+#EXTINF:-1 group-title="Музыка 1" tvg-logo="https://iptvx.one/picons/zhara.png",Жара HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://cdn-fr1.lamro.tv/JARAHD/mono.m3u8
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://iptvx.one/picons/la-minor.png",Музыка Live
+#EXTINF:-1 group-title="Музыка 1" tvg-logo="https://iptvx.one/picons/la-minor.png",Музыка Live
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://31.148.48.15:80/La-Minor_TV/index.m3u8
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://iptvx.one/picons/muztv.png",МузТВ HD
+#EXTINF:-1 group-title="Музыка 1" tvg-logo="https://iptvx.one/picons/muztv.png",МузТВ HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://livetv.mylifeisgood.net.ru/channels/muztvhd.m3u8
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://iptvx.one/picons/muztv.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-yu="muztv",МузТВ
+#EXTINF:-1 group-title="Музыка 1" tvg-logo="https://iptvx.one/picons/muztv.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-yu="muztv",МузТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://iptvx.one/picons/muzyka-pervogo.png",Музыка Первого
+#EXTINF:-1 group-title="Музыка 1" tvg-logo="https://iptvx.one/picons/muzyka-pervogo.png",Музыка Первого
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://188.225.31.197/bpk-tv/000000204/tve/index.m3u8
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://cdn-ru.bitrix24.by/b5882563/landing/163/1636e359518e0f1d72f1e1a792de168b/LOGO_BI_2x.png",Новое Радио HD (BY)
+#EXTINF:-1 group-title="Музыка 1" tvg-logo="https://cdn-ru.bitrix24.by/b5882563/landing/163/1636e359518e0f1d72f1e1a792de168b/LOGO_BI_2x.png",Новое Радио HD (BY)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://live.novoeradio.by:8081/live/novoeradio_1080p/chunks.m3u8
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://pt.clover.fm/uploads/img_566vuAv9YMMABPu.jpg",Новое Радио ТВ HD
+#EXTINF:-1 group-title="Музыка 1" tvg-logo="https://pt.clover.fm/uploads/img_566vuAv9YMMABPu.jpg",Новое Радио ТВ HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://hls-video01.cdnvideo.ru/video01/hDvideo01-0O.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://tvtvtv.ru/icons/novoe_televidenie.png",Новое ТВ
+#EXTINF:-1 group-title="Музыка 1" tvg-logo="https://tvtvtv.ru/icons/novoe_televidenie.png",Новое ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://iptvx.one/picons/o2tv.png",О2ТВ H
+#EXTINF:-1 group-title="Музыка 1" tvg-logo="https://iptvx.one/picons/o2tv.png",О2ТВ HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://77.232.131.211/O2TV/index.m3u8
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://sun9-19.userapi.com/c836421/u395934017/video/l_07d27d64.jpg",Радио Kids FM
+#EXTINF:-1 group-title="Музыка 1" tvg-logo="https://sun9-19.userapi.com/c836421/u395934017/video/l_07d27d64.jpg",Радио Kids FM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://cqw2lystveu.a.trbcdn.net/livemaster/7ak8t_live-hv25n82a0l8.smil/playlist.m3u8
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://iptvx.one/picons/radio-shanson.png",Радио Шансон
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live_hiq/index.m3u8
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://iptvx.one/picons/radio-strana-fm-tv.png",Страна FM
+#EXTINF:-1 group-title="Музыка 1" tvg-logo="https://iptvx.one/picons/radio-strana-fm-tv.png",Страна FM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://iptvx.one/picons/shanson-tv.png",Шансон ТВ
+
+#EXTGRP:Музыка 2
+#EXTINF:-1 group-title="Музыка 2" tvg-logo="https://www.88stereo.com/wp-content/uploads/2017/05/88Stereo-logoweb.png",88 Stereo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
+#EXTINF:-1 group-title="Музыка 2" tvg-logo="https://yootv.online/images/logo-channel/afn-music-tv.png",AFN Music
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+https://bozztv.com/1gbw5/tintv2/tintv2/chunklist.m3u8
+#EXTINF:-1 group-title="Музыка 2" tvg-logo="https://iptvx.one/picons/clubbing-tv.png",Clubbing TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+https://d1j2csarxnwazk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-uze1m6xh4fiyr-ssai-prd/master.m3u8
+#EXTINF:-1 group-title="Музыка 2" tvg-logo="https://i3radio.com/userfiles-aplin/avatars/logos-7700179603.jpg",DANCE TV Best of Dance
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
+#EXTINF:-1 group-title="Музыка 2" tvg-logo="https://i3radio.com/userfiles-aplin/avatars/logos-7700179603.jpg",DANCE TV HOUSEFLOOR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+https://m2b2.worldcast.tv:7443/dancetelevisionfive/2/dancetelevisionfive.m3u8
+#EXTINF:-1 group-title="Музыка 2" tvg-logo="https://i3radio.com/userfiles-aplin/avatars/logos-7700179603.jpg",DANCE TV MAINSTAGE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+https://mbit1.worldcast.tv/dancetelevisionseven/stream_0.m3u8
+#EXTINF:-1 group-title="Музыка 2" tvg-logo="https://i3radio.com/userfiles-aplin/avatars/logos-7700179603.jpg",DANCE TV MNML HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+https://mbit1.worldcast.tv/dancetelevisionsix/stream_0.m3u8
+#EXTINF:-1 group-title="Музыка 2" tvg-logo="https://i3radio.com/userfiles-aplin/avatars/logos-7700179603.jpg",DANCE TV TECHHOUSE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+https://m2b2.worldcast.tv:7443/dancetelevisionthree/2/dancetelevisionthree.m3u8
+#EXTINF:-1 group-title="Музыка 2" tvg-logo="https://iptvx.one/picons/radio-shanson.png",Радио Шансон
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live_hiq/index.m3u8
+#EXTINF:-1 group-title="Музыка 2" tvg-logo="https://iptvx.one/picons/shanson-tv.png",Шансон ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://185.46.16.239:8000/Shanson
+#EXTINF:-1 group-title="Музыка 2" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg",Music 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+https://fl1001.bozztv.com/ushba-t1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Музыка 2" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg",Music 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+https://fl1003.bozztv.com/ushba0/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Музыка 2" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg",Music 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+https://fl1001.bozztv.com/ushba33/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Музыка 2" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg",Music 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+https://fl1001.bozztv.com/ushba63/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Музыка 2" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg",Music 10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+https://fl1001.bozztv.com/ushba76/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Музыка 2" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg",Music 11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+https://fl1001.bozztv.com/ushba96/tracks-v1a1/mono.m3u8
 
 #EXTGRP:Детские
 #EXTINF:-1 group-title="Детские" tvg-logo="https://iptvx.one/picons/ani.png",Ani
@@ -2240,6 +2242,7 @@ http://skazka.amgradio.ru/Skazka
 #EXTINF:-1 group-title="Радио",Супердискотека 90-х
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://radiorecord.hostingradio.ru/sd9096.aacp
+
 
 
 
