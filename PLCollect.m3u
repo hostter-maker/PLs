@@ -303,13 +303,13 @@ http://cityeden.catcast.tv/content/45269/index.m3u8
 #EXTINF:-1 group-title="Кинозал" tvg-logo="https://www.cityeden.info/logotv/logotip_kinoklassika.png",Сити Эдем - КиноКлассика
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://cityeden.catcast.tv/content/34185/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Aga2XVA.png",Сити Эдем - КиноКомедия
+#EXTINF:-1 group-title="Кинозал" tvg-logo="https://i.imgur.com/Aga2XVA.png",Сити Эдем - КиноКомедия
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://cityeden.catcast.tv/content/41331/index.m3u8
 #EXTINF:-1 group-title="Кинозал" tvg-logo="https://www.cityeden.info/_bl/23/76607580.png",Сити Эдем - Кинофантастика
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://cityeden.catcast.tv/content/45268/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uuzuvD0.png",Сити Эдем - КиноЭкшен
+#EXTINF:-1 group-title="Кинозал" tvg-logo="https://i.imgur.com/uuzuvD0.png",Сити Эдем - КиноЭкшен
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://cityeden.catcast.tv/content/41333/index.m3u8
 #EXTINF:-1 group-title="Кинозал" tvg-logo="https://i.ibb.co/LZkQq0x/Uzhastik.png",УЖАСТИК HD IPTVPLAY
@@ -745,7 +745,7 @@ http://31.148.48.15:80/Bridge_TV/index.m3u8
 #EXTINF:-1 group-title="Музыка 1" tvg-logo="https://iptvx.one/picons/bridge-tv-classic.png",Bridge TV Classic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://31.148.48.15:80/Bridge_TV_Classic/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sIW9oR4.png",BRIDGE TV Hits
+#EXTINF:-1 group-title="Музыка 1" tvg-logo="https://i.imgur.com/sIW9oR4.png",BRIDGE TV Hits
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://31.148.48.15/Bridge_TV_Dance/index.m3u8
 #EXTINF:-1 group-title="Музыка 1" tvg-logo="https://iptvx.one/picons/bridge-tv-ruxit.png",Bridge TV Русский Хит
@@ -931,13 +931,13 @@ http://77.232.131.211/O2TV/index.m3u8
 #EXTINF:-1 group-title="Музыка 1" tvg-logo="https://sun9-19.userapi.com/c836421/u395934017/video/l_07d27d64.jpg",Радио Kids FM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://cqw2lystveu.a.trbcdn.net/livemaster/7ak8t_live-hv25n82a0l8.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ozEqob9.png",Сити Эдем - Play
+#EXTINF:-1 group-title="Музыка 1" tvg-logo="https://i.imgur.com/ozEqob9.png",Сити Эдем - Play
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://cityeden.catcast.tv/content/34100/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/38Q5L5W.png",Сити Эдем - Бирма
+#EXTINF:-1 group-title="Музыка 1" tvg-logo="https://i.imgur.com/38Q5L5W.png",Сити Эдем - Бирма
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://cityeden.catcast.tv/content/34364/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/V3MTfyc.png",Сити Эдем - Сиртаки TV
+#EXTINF:-1 group-title="Музыка 1" tvg-logo="https://i.imgur.com/V3MTfyc.png",Сити Эдем - Сиртаки TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://cityeden.catcast.tv/content/46421/index.m3u8
 #EXTINF:-1 group-title="Музыка 1" tvg-logo="https://iptvx.one/picons/radio-strana-fm-tv.png",Страна FM
@@ -2275,6 +2275,7 @@ http://skazka.amgradio.ru/Skazka
 #EXTINF:-1 group-title="Радио",Супердискотека 90-х
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://radiorecord.hostingradio.ru/sd9096.aacp
+
 
 
 
