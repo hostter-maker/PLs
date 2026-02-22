@@ -787,7 +787,7 @@ https://fl1001.bozztv.com/ushba-t2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Музыка 1" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg",Music 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://fl1001.bozztv.com/ushba-t3/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Музыка 1" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg",Music 4
+#EXTINF:-1 group-title="Музыка 1" tvg-logo="https://thumbnail.imgbin.com/14/14/10/imgbin-sony-music-headline-security-entertainment-music-industry-logo-sony-music-6r88ie6DrwBgSdnF4jmBaK2JH_t.jpg",Sony Music South
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://fl1001.bozztv.com/ushba-t4/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Музыка 1" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg",Music 5
@@ -2242,6 +2242,7 @@ http://skazka.amgradio.ru/Skazka
 #EXTINF:-1 group-title="Радио",Супердискотека 90-х
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://radiorecord.hostingradio.ru/sd9096.aacp
+
 
 
 
