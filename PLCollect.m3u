@@ -781,7 +781,7 @@ http://188.225.31.197/bpk-tv/000000327/tve/index.m3u8
 #EXTINF:-1 group-title="Музыка 1" tvg-logo="https://sun1-28.userapi.com/LwiK7gjEXY61gRLmdyekOz2VpbxyUc58OevFHA/JsuTeDb90sk.jpg",MIXMTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://89.179.247.144/hls/mixm.m3u8
-#EXTINF:-1 group-title="Музыка 1" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg",Music 2
+#EXTINF:-1 group-title="Музыка 1" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nTEES5NXe6Wms5zVG7wRpIQyJzdQDx5akPwk_wAK7aOFE=s900-c-k-c0x00ffffff-no-rj",Rezilienza
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://fl1001.bozztv.com/ushba-t2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Музыка 1" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg",Music 3
@@ -2242,6 +2242,7 @@ http://skazka.amgradio.ru/Skazka
 #EXTINF:-1 group-title="Радио",Супердискотека 90-х
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://radiorecord.hostingradio.ru/sd9096.aacp
+
 
 
 
