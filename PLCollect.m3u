@@ -1152,7 +1152,7 @@ http://live-3.otcnet.ru/sportivny/index.m3u8
 http://188.225.31.197/bpk-tv/000007802/tve/index.m3u8
 
 #EXTGRP:Спорт (ALBANIA)
-#EXTINF:-1 group-title="Спорт (ALBANIA)" tvg-logo="https://picon-13398.kxcdn.com/raisport.jpg",RAI SPORT
+#EXTINF:-1 group-title="Спорт (ALBANIA)" tvg-logo="https://picon-13398.kxcdn.com/raisport.jpg" tvg-id="rai-sport",RAI Sport
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://bescile.monaviretata.com:80/velit/velit142025/4180
 #EXTINF:-1 group-title="Спорт (ALBANIA)" tvg-logo="https://i.imgur.com/sQZFxvQ.png",RTSH SPORT
@@ -1209,61 +1209,37 @@ http://bescile.monaviretata.com:80/velit/velit142025/31121
 #EXTINF:-1 group-title="Спорт (ALBANIA)" tvg-logo="https://i.imgur.com/ZOypCmY.png",ART SPORT 6 FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://bescile.monaviretata.com:80/velit/velit142025/31122
-#EXTINF:-1 group-title="Спорт (ALBANIA)" tvg-logo="https://picon-13398.kxcdn.com/eurosport1.jpg",EURO SPORT 1
+#EXTINF:-1 group-title="Спорт (ALBANIA)" tvg-logo="https://picon-13398.kxcdn.com/eurosport1.jpg",Eurosport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://bescile.monaviretata.com:80/velit/velit142025/2690
-#EXTINF:-1 group-title="Спорт (ALBANIA)" tvg-logo="https://picon-13398.kxcdn.com/eurosport2.jpg",EURO SPORT 2
+#EXTINF:-1 group-title="Спорт (ALBANIA)" tvg-logo="https://picon-13398.kxcdn.com/eurosport2.jpg",Eurosport 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://bescile.monaviretata.com:80/velit/velit142025/2691
 
 #EXTGRP:Спорт (SERBIA)
-#EXTINF:-1 group-title="Спорт (SERBIA)" tvg-logo="https://i.imgur.com/HMa96o5.png",ARENA 1 PREMIUM
+#EXTINF:-1 group-title="Спорт (SERBIA)" tvg-logo="https://i.imgur.com/HMa96o5.png",Arena Premium 1 [RS]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://bescile.monaviretata.com:80/velit/velit142025/31042
-#EXTINF:-1 group-title="Спорт (SERBIA)" tvg-logo="https://i.imgur.com/85dWj4v.png",ARENA 2 PREMIUM
+#EXTINF:-1 group-title="Спорт (SERBIA)" tvg-logo="https://i.imgur.com/85dWj4v.png",Arena Premium 2 [RS]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://bescile.monaviretata.com:80/velit/velit142025/31043
-#EXTINF:-1 group-title="Спорт (SERBIA)" tvg-logo="https://i.imgur.com/1dawX22.png",ARENA 3 PREMIUM
+#EXTINF:-1 group-title="Спорт (SERBIA)" tvg-logo="https://i.imgur.com/1dawX22.png",Arena Premium 3 [RS]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://bescile.monaviretata.com:80/velit/velit142025/31044
 
 #EXTGRP:Спорт (GREECE)
-#EXTINF:-1 group-title="Спорт (GREECE)" tvg-logo="https://i.ibb.co/qRgbPG5/NOVASPORTS-PRIME-ALT-V.png",NOVA SPORTS PRIME
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-http://bescile.monaviretata.com:80/velit/velit142025/31038
-#EXTINF:-1 group-title="Спорт (GREECE)" tvg-logo="https://picon-13398.kxcdn.com/novasports1gr.jpg",NOVA SPORTS 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-http://bescile.monaviretata.com:80/velit/velit142025/20863
-#EXTINF:-1 group-title="Спорт (GREECE)" tvg-logo="https://picon-13398.kxcdn.com/novasports2gr.jpg",NOVA SPORTS 2
+#EXTINF:-1 group-title="Спорт (GREECE)" tvg-logo="https://picon-13398.kxcdn.com/novasports2gr.jpg",Nova Sport 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://bescile.monaviretata.com:80/velit/velit142025/20864
-#EXTINF:-1 group-title="Спорт (GREECE)" tvg-logo="https://picon-13398.kxcdn.com/novasports3gr.jpg",NOVA SPORTS 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-http://bescile.monaviretata.com:80/velit/velit142025/20865
-#EXTINF:-1 group-title="Спорт (GREECE)" tvg-logo="https://picon-13398.kxcdn.com/novasports4gr.jpg",NOVA SPORTS 4
+#EXTINF:-1 group-title="Спорт (GREECE)" tvg-logo="https://picon-13398.kxcdn.com/novasports4gr.jpg",Nova Sport 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://bescile.monaviretata.com:80/velit/velit142025/20866
-#EXTINF:-1 group-title="Спорт (GREECE)" tvg-logo="https://picon-13398.kxcdn.com/novasports5gr.jpg",NOVA SPORTS 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-http://bescile.monaviretata.com:80/velit/velit142025/20867
-#EXTINF:-1 group-title="Спорт (GREECE)" tvg-logo="https://i.imgur.com/GKWy4Nv.jpg",COSMOTE SPORT 1 HD
+#EXTINF:-1 group-title="Спорт (GREECE)" tvg-logo="https://i.imgur.com/GKWy4Nv.jpg",Cosmote Sport 1 [GR]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://bescile.monaviretata.com:80/velit/velit142025/20874
-#EXTINF:-1 group-title="Спорт (GREECE)" tvg-logo="https://i.imgur.com/GKWy4Nv.jpg",COSMOTE SPORT 2 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-http://bescile.monaviretata.com:80/velit/velit142025/20875
-#EXTINF:-1 group-title="Спорт (GREECE)" tvg-logo="https://i.imgur.com/GKWy4Nv.jpg",COSMOTE SPORT 3 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-http://bescile.monaviretata.com:80/velit/velit142025/20876
-#EXTINF:-1 group-title="Спорт (GREECE)" tvg-logo="https://i.imgur.com/GKWy4Nv.jpg",COSMOTE SPORT 4 HD
+#EXTINF:-1 group-title="Спорт (GREECE)" tvg-logo="https://i.imgur.com/GKWy4Nv.jpg",Cosmote Sport 2 [GR]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://bescile.monaviretata.com:80/velit/velit142025/20877
-#EXTINF:-1 group-title="Спорт (GREECE)" tvg-logo="https://i.imgur.com/GKWy4Nv.jpg",COSMOTE SPORT 5 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-http://bescile.monaviretata.com:80/velit/velit142025/20878
-#EXTINF:-1 group-title="Спорт (GREECE)" tvg-logo="https://i.imgur.com/GKWy4Nv.jpg" group-title="SPORT | ALL ",COSMOTE SPORT 6 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-http://bescile.monaviretata.com:80/velit/velit142025/20879
 
 #EXTGRP:Разное
 #EXTINF:-1 group-title="Разное" tvg-logo="https://cdn.tlgbot.ru/i/b2/07/b207bacb6ee875ebd7f0fea63f69da0b.jpg",1Lurer
@@ -2347,6 +2323,7 @@ http://skazka.amgradio.ru/Skazka
 #EXTINF:-1 group-title="Радио",Супердискотека 90-х
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://radiorecord.hostingradio.ru/sd9096.aacp
+
 
 
 
