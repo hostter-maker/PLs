@@ -1,4 +1,4 @@
-#EXTM3U deinterlace=1 m3uautoload=1 url-tvg="https://iptvx.one/EPG" refresh="86400" tvg-shift=0 cache=500 url-tvg="http://epg.fox-tv.fun/1.xmltv" x-tvg-url="http://epg.fox-tv.fun/1-light.xmltv"
+#EXTM3U deinterlace=1 m3uautoload=1 url-tvg="https://iptvx.one/EPG; http://epg.fox-tv.fun/1.xmltv" x-tvg-url="http://epg.fox-tv.fun/1-light.xmltv" refresh="86400" tvg-shift=0 cache=500
 
 #EXTGRP:Вещание
 #EXTINF:-1 group-title="Вещание" tvg-logo="https://iptvx.one/picons/360-int.png",360° HD
@@ -2322,6 +2322,7 @@ http://skazka.amgradio.ru/Skazka
 #EXTINF:-1 group-title="Радио",Супердискотека 90-х
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://radiorecord.hostingradio.ru/sd9096.aacp
+
 
 
 
