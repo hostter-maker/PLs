@@ -3,7 +3,7 @@
 #EXTGRP:Вещание
 #EXTINF:0 group-title="Вещание" tvg-name="1:15" tvg-id="1:15" arc-time="120" catchup="shift" catchup-days="5" tvg-logo="http://stb.fox-tv.fun/images/logo_chanel/3602200.png",360°
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-http://ost.fox-tv.fun/0b2tlbj1bc3RiX3Rva2VuXSIsImEiOiJodHRwOi8vc3RyNi5veHR2ZS5saXZlOjgwODAvUE9ETS92aWRlby10aW1lc2hpZnRfYWJzLVt0aW1lX3N0YXJ0XS5tM3U4P3Rva2VuPVtzdGJfdG9rZW5dW2N1cnJfdGltZV0iLCJsIjoiODcxNzA4NzEiLCJwIjoiODcxNzA4NzE5OGY4YWI4NyIsImMiOiI0MTEiLCJ0IjoiZDNhMTllOThkODVlYTI2ZWI3YWEwNzViY2UzNzVjZTkiLCJkIjoiNzAyNzIiLCJyIjoiMTY0NTk1IiwibSI6InR2In0eyJ1IjoiaHR0cDovL3N0cjYub3h0dmUubGl2ZTo4MDgwL1BPRE0vdmlkZW8ubTN1OD9/video.m3u8
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8
 #EXTINF:-1 group-title="Вещание" tvg-logo="https://iptvx.one/picons/360-news.png",360° Новости HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8
@@ -15,10 +15,10 @@ https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/play
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8
 #EXTINF:0 group-title="Вещание" tvg-name="1:323" tvg-id="1:323" arc-time="120" catchup="shift" catchup-days="5" tvg-logo="http://stb.fox-tv.fun/images/logo_chanel/ZVEZDARUS200.png",Звезда HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-http://ost.fox-tv.fun/4P3Rva2VuPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly9zdHI2Lm94dHZlLmxpdmU6OTk4Mi96dmV6ZGEvdmlkZW8tdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6Ijg3MTcwODcxIiwicCI6Ijg3MTcwODcxOThmOGFiODciLCJjIjoiMzIiLCJ0IjoiZDNhMTllOThkODVlYTI2ZWI3YWEwNzViY2UzNzVjZTkiLCJkIjoiNzAyNzIiLCJyIjoiMTY0NTk1IiwibSI6InR2In0eyJ1IjoiaHR0cDovL3N0cjYub3h0dmUubGl2ZTo4MDgwL3p2ZXpkYS92aWRlby5tM3U/video.m3u8
-#EXTINF:0 group-title="Вещание" tvg-name="1:1834" tvg-id="1:1834" arc-time="120" catchup="shift" catchup-days="5" tvg-logo="https://iptvx.one/picons/zvezda-plus.png",Звезда Плюс HD
+http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+EXTINF:0 group-title="Вещание" tvg-name="1:1834" tvg-id="1:1834" arc-time="120" catchup="shift" catchup-days="5" tvg-logo="https://iptvx.one/picons/zvezda-plus.png",Звезда Плюс HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-http://ost.fox-tv.fun/lby5tM3U4P3Rva2VuPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly9zdHI2Lm94dHZlLmxpdmU6OTk4OC9aVkVaREFfUExJVVMvdmlkZW8tdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6Ijg3MTcwODcxIiwicCI6Ijg3MTcwODcxOThmOGFiODciLCJjIjoiMTMiLCJ0IjoiZDNhMTllOThkODVlYTI2ZWI3YWEwNzViY2UzNzVjZTkiLCJkIjoiNzAyNzIiLCJyIjoiMTY0NTk1IiwibSI6InR2In0eyJ1IjoiaHR0cDovL3N0cjYub3h0dmUubGl2ZTo4MDgwL1pWRVpEQV9QTElVUy92aWR/video.m3u8
+http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Вещание" tvg-logo="https://iptvx.one/picons/izvestia.png",Известия HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v1a1/mono.ts.m3u8
@@ -30,18 +30,16 @@ http://46.46.143.222:1935/live/mp4:ldpr.stream/playlist.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8
 #EXTINF:0 group-title="Вещание" tvg-name="1:380" tvg-id="1:380" arc-time="72" catchup="shift" catchup-days="3" tvg-logo="http://stb.fox-tv.fun/images/logo_chanel/MIRHD200.png",Мир HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-http://ost.fox-tv.fun/_dG9rZW49W3N0Yl90b2tlbl0iLCJhIjoiaHR0cDovL3N0cjYub3h0dmUubGl2ZTo5OTgyL21pcmhkL3ZpZGVvLXRpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiI4NzE3MDg3MSIsInAiOiI4NzE3MDg3MTk4ZjhhYjg3IiwiYyI6IjExIiwidCI6ImQzYTE5ZTk4ZDg1ZWEyNmViN2FhMDc1YmNlMzc1Y2U5IiwiZCI6IjcwMjcyIiwiciI6IjE2NDU5NSIsIm0iOiJ0diJ9eyJ1IjoiaHR0cDovL3N0cjYub3h0dmUubGl2ZTo4MDgwL21pcmhkL3ZpZGVvLm0zdTg/video.m3u8
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:0 group-title="Вещание" tvg-name="1:384" tvg-id="1:384" catchup="shift" catchup-days="0" tvg-logo="http://stb.fox-tv.fun/images/logo_chanel/MIR24200.png",Мир 24 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-http://ost.fox-tv.fun/1OD90b2tlbj1bc3RiX3Rva2VuXSIsImwiOiI4NzE3MDg3MSIsInAiOiI4NzE3MDg3MTk4ZjhhYjg3IiwiYyI6IjEyIiwidCI6ImQzYTE5ZTk4ZDg1ZWEyNmViN2FhMDc1YmNlMzc1Y2U5IiwiZCI6IjcwMjcyIiwiciI6IjE2NDU5NSIsIm0iOiJ0diJ9eyJ1IjoiaHR0cDovL3N0cjYub3h0dmUubGl2ZTo4MDgwL21pcjI0aGQvdmlkZW8ubTN/video.m3u8
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 group-title="Вещание" tvg-logo="http://stb.fox-tv.fun/images/logo_chanel/NTV200.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="ntv",НТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
 #EXTINF:0 group-title="Вещание" tvg-name="1:408" tvg-id="1:408" arc-time="120" catchup="shift" catchup-days="5" tvg-logo="http://stb.fox-tv.fun/images/logo_chanel/NTVHD200 (2).png",НТВ HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-http://ost.fox-tv.fun/_dG9rZW49W3N0Yl90b2tlbl0iLCJhIjoiaHR0cDovL3N0cjYub3h0dmUubGl2ZTo5OTg1L250dmhkL3ZpZGVvLXRpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiI4NzE3MDg3MSIsInAiOiI4NzE3MDg3MTk4ZjhhYjg3IiwiYyI6IjIxIiwidCI6ImQzYTE5ZTk4ZDg1ZWEyNmViN2FhMDc1YmNlMzc1Y2U5IiwiZCI6IjcwMjcyIiwiciI6IjE2NDU5NSIsIm0iOiJ0diJ9eyJ1IjoiaHR0cDovL3N0cjYub3h0dmUubGl2ZTo4MDgwL250dmhkL3ZpZGVvLm0zdTg/video.m3u8
-#EXTINF:0 group-title="Вещание" tvg-name="1:431" tvg-id="1:431" arc-time="120" catchup="shift" catchup-days="5" tvg-logo="http://stb.fox-tv.fun/images/logo_chanel/NTVMIR200 (1).png",НТВ Мир
-http://ost.fox-tv.fun/4P3Rva2VuPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly9zdHI2Lm94dHZlLmxpdmU6OTk4Mi9udHZtaXIvdmlkZW8tdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6Ijg3MTcwODcxIiwicCI6Ijg3MTcwODcxOThmOGFiODciLCJjIjoiMTciLCJ0IjoiZDNhMTllOThkODVlYTI2ZWI3YWEwNzViY2UzNzVjZTkiLCJkIjoiNzAyNzIiLCJyIjoiMTY0NTk1IiwibSI6InR2In0eyJ1IjoiaHR0cDovL3N0cjYub3h0dmUubGl2ZTo4MDgwL250dm1pci92aWRlby5tM3U/video.m3u8
+https://livetv.mylifeisgood.net.ru/channels/ntvhd.m3u8
 #EXTINF:-1 group-title="Вещание" tvg-logo="https://iptvx.one/picons/otr.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="otr",ОТР
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
@@ -50,13 +48,10 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
 #EXTINF:0 group-title="Вещание" tvg-name="1:461" tvg-id="1:461" arc-time="120" catchup="shift" catchup-days="5" tvg-logo="http://stb.fox-tv.fun/images/logo_chanel/1RUSHD200.png",Первый канал HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-http://ost.fox-tv.fun/zdTg_dG9rZW49W3N0Yl90b2tlbl0iLCJhIjoiaHR0cDovL3N0cjYub3h0dmUubGl2ZTo5OTg1L1BlcnZpeUhEL3ZpZGVvLXRpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiI4NzE3MDg3MSIsInAiOiI4NzE3MDg3MTk4ZjhhYjg3IiwiYyI6IjIiLCJ0IjoiZDNhMTllOThkODVlYTI2ZWI3YWEwNzViY2UzNzVjZTkiLCJkIjoiNzAyNzIiLCJyIjoiMTY0NTk1IiwibSI6InR2In0eyJ1IjoiaHR0cDovL3N0cjYub3h0dmUubGl2ZTo4MDgwL1BlcnZpeUhEL3ZpZGVvLm0/video.m3u8
+https://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 group-title="Вещание" tvg-logo="http://stb.fox-tv.fun/images/logo_chanel/FRIDAY200 (1).png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="piatnica",Пятница!
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
-#EXTINF:0 group-title="Вещание" tvg-name="1:478" tvg-id="1:478" arc-time="120" catchup="shift" catchup-days="5" tvg-logo="http://stb.fox-tv.fun/images/logo_chanel/FRIDAYHD200.png",Пятница HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-http://ost.fox-tv.fun/ubTN1OD90b2tlbj1bc3RiX3Rva2VuXSIsImEiOiJodHRwOi8vc3RyNi5veHR2ZS5saXZlOjk5ODUvcHlhdG5pY2FoZC92aWRlby10aW1lc2hpZnRfYWJzLVt0aW1lX3N0YXJ0XS5tM3U4P3Rva2VuPVtzdGJfdG9rZW5dW2N1cnJfdGltZV0iLCJsIjoiODcxNzA4NzEiLCJwIjoiODcxNzA4NzE5OGY4YWI4NyIsImMiOiI0MiIsInQiOiJkM2ExOWU5OGQ4NWVhMjZlYjdhYTA3NWJjZTM3NWNlOSIsImQiOiI3MDI3MiIsInIiOiIxNjQ1OTUiLCJtIjoidHYifQeyJ1IjoiaHR0cDovL3N0cjYub3h0dmUubGl2ZTo4MDgwL3B5YXRuaWNhaGQvdmlkZW8/video.m3u8
 #EXTINF:-1 group-title="Вещание" tvg-logo="https://iptvx.one/picons/piatnica-int.png" tvg-id="piatnica-int",Пятница! International
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://cdn4.skygo.mn/live/disk1/Friday/HLSv3-FTA/Friday.m3u8
@@ -72,9 +67,6 @@ http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Вещание" tvg-logo="http://stb.fox-tv.fun/images/logo_chanel/RENTVHD200.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="rentv",Рен ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
-#EXTINF:0 group-title="Вещание" tvg-name="1:487" tvg-id="1:487" arc-time="120" catchup="shift" catchup-days="5" tvg-logo="http://stb.fox-tv.fun/images/logo_chanel/RENTVHD200.png",Рен ТВ HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-http://ost.fox-tv.fun/1OD90b2tlbj1bc3RiX3Rva2VuXSIsImEiOiJodHRwOi8vc3RyNi5veHR2ZS5saXZlOjk5ODUvcmVudHZoZC92aWRlby10aW1lc2hpZnRfYWJzLVt0aW1lX3N0YXJ0XS5tM3U4P3Rva2VuPVtzdGJfdG9rZW5dW2N1cnJfdGltZV0iLCJsIjoiODcxNzA4NzEiLCJwIjoiODcxNzA4NzE5OGY4YWI4NyIsImMiOiIyNCIsInQiOiJkM2ExOWU5OGQ4NWVhMjZlYjdhYTA3NWJjZTM3NWNlOSIsImQiOiI3MDI3MiIsInIiOiIxNjQ1OTUiLCJtIjoidHYifQeyJ1IjoiaHR0cDovL3N0cjYub3h0dmUubGl2ZTo4MDgwL3JlbnR2aGQvdmlkZW8ubTN/video.m3u8
 #EXTINF:-1 group-title="Вещание" tvg-logo="https://iptvx.one/picons/rentv.png" tvg-id="rentv-int",РенТВ International
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://cdn4.skygo.mn/live/disk1/RenTV/HLSv3-FTA/RenTV.m3u8
@@ -83,7 +75,7 @@ http://cdn4.skygo.mn/live/disk1/RenTV/HLSv3-FTA/RenTV.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
 #EXTINF:0 group-title="Вещание" tvg-name="1:500" tvg-id="1:500" arc-time="120" catchup="shift" catchup-days="5" tvg-logo="http://stb.fox-tv.fun/images/logo_chanel/RUSSIA1HD200.png",Россия 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-http://ost.fox-tv.fun/tM3U4P3Rva2VuPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly9zdHI2Lm94dHZlLmxpdmU6OTk4NS9Sb3NzaWExSEQvdmlkZW8tdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6Ijg3MTcwODcxIiwicCI6Ijg3MTcwODcxOThmOGFiODciLCJjIjoiOCIsInQiOiJkM2ExOWU5OGQ4NWVhMjZlYjdhYTA3NWJjZTM3NWNlOSIsImQiOiI3MDI3MiIsInIiOiIxNjQ1OTUiLCJtIjoidHYifQeyJ1IjoiaHR0cDovL3N0cjYub3h0dmUubGl2ZTo4MDgwL1Jvc3NpYTFIRC92aWRlby5/video.m3u8
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
 #EXTINF:-1 group-title="Вещание" tvg-logo="https://iptvx.one/picons/rossia-24.png",Россия 24 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/index.m3u8
@@ -95,7 +87,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8
 #EXTINF:0 group-title="Вещание" tvg-logo="http://stb.fox-tv.fun/images/logo_chanel/RUSSIAK200.png" tvg-name="1:363" tvg-id="1:363" arc-time="120" catchup="shift" catchup-days="5",Россия К HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-http://ost.fox-tv.fun/1OD90b2tlbj1bc3RiX3Rva2VuXSIsImEiOiJodHRwOi8vc3RyNi5veHR2ZS5saXZlOjk5ODIvUm9zc2lhay92aWRlby10aW1lc2hpZnRfYWJzLVt0aW1lX3N0YXJ0XS5tM3U4P3Rva2VuPVtzdGJfdG9rZW5dW2N1cnJfdGltZV0iLCJsIjoiODcxNzA4NzEiLCJwIjoiODcxNzA4NzE5OGY4YWI4NyIsImMiOiI2IiwidCI6ImQzYTE5ZTk4ZDg1ZWEyNmViN2FhMDc1YmNlMzc1Y2U5IiwiZCI6IjcwMjcyIiwiciI6IjE2NDU5NSIsIm0iOiJ0diJ9eyJ1IjoiaHR0cDovL3N0cjYub3h0dmUubGl2ZTo4MDgwL1Jvc3NpYWsvdmlkZW8ubTN/video.m3u8
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
 #EXTINF:-1 group-title="Вещание" tvg-logo="https://iptvx.one/picons/rtr-planeta-azia.png",РТР-Планета Азия
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://player.smotrim.ru/iframe/stream/live_id/683d9649-a96c-4a4d-b468-91c0ee2bf363.m3u8
@@ -114,9 +106,6 @@ https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852ca
 #EXTINF:-1 group-title="Вещание" tvg-logo="http://stb.fox-tv.fun/images/logo_chanel/STSTV200 (1).png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="sts",СТС
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
-#EXTINF:0 group-title="Вещание" tvg-name="1:534" tvg-id="1:534" arc-time="120" catchup="shift" catchup-days="5" tvg-logo="http://stb.fox-tv.fun/images/logo_chanel/STSTVHD200 (1).png",СТС HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-http://ost.fox-tv.fun/_dG9rZW49W3N0Yl90b2tlbl0iLCJhIjoiaHR0cDovL3N0cjYub3h0dmUubGl2ZTo4MDgwL3N0c2hkL3ZpZGVvLXRpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiI4NzE3MDg3MSIsInAiOiI4NzE3MDg3MTk4ZjhhYjg3IiwiYyI6IjQ3MiIsInQiOiJkM2ExOWU5OGQ4NWVhMjZlYjdhYTA3NWJjZTM3NWNlOSIsImQiOiI3MDI3MiIsInIiOiIxNjQ1OTUiLCJtIjoidHYifQeyJ1IjoiaHR0cDovL3N0cjYub3h0dmUubGl2ZTo4MDgwL3N0c2hkL3ZpZGVvLm0zdTg/video.m3u8
 #EXTINF:-1 group-title="Вещание" tvg-logo="https://iptvx.one/picons/sts-int.png",СТС International
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://cdn4.skygo.mn/live/disk1/STS/HLSv3-FTA/STS.m3u8
@@ -126,18 +115,12 @@ https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream/playlist.m3u8
 #EXTINF:-1 group-title="Вещание" tvg-logo="https://iptvx.one/picons/tv3-ru.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="tv3-ru",ТВ3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
-#EXTINF:0 group-title="Вещание" tvg-name="1:552" tvg-id="1:552" arc-time="120" catchup="shift" catchup-days="5" tvg-logo="http://stb.fox-tv.fun/images/logo_chanel/TV3RUSHD200.png",ТВ3 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-http://ost.fox-tv.fun/_dG9rZW49W3N0Yl90b2tlbl0iLCJhIjoiaHR0cDovL3N0cjYub3h0dmUubGl2ZTo5OTgxL3R2M2hkL3ZpZGVvLXRpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiI4NzE3MDg3MSIsInAiOiI4NzE3MDg3MTk4ZjhhYjg3IiwiYyI6IjEwMiIsInQiOiJkM2ExOWU5OGQ4NWVhMjZlYjdhYTA3NWJjZTM3NWNlOSIsImQiOiI3MDI3MiIsInIiOiIxNjQ1OTUiLCJtIjoidHYifQeyJ1IjoiaHR0cDovL3N0cjYub3h0dmUubGl2ZTo4MDgwL3R2M2hkL3ZpZGVvLm0zdTg/video.m3u8
 #EXTINF:-1 group-title="Вещание" tvg-logo="http://stb.fox-tv.fun/images/logo_chanel/TVC200.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="tvcentr",ТВЦ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
-#EXTINF:0 group-title="Вещание" tvg-name="1:545" tvg-id="1:545" arc-time="72" catchup="shift" catchup-days="3" tvg-logo="http://stb.fox-tv.fun/images/logo_chanel/TVC200.png",ТВЦ HD
+##EXTINF:0 group-title="Вещание" tvg-name="1:951" tvg-id="1:951" arc-time="120" catchup="shift" catchup-days="5" tvg-logo="http://stb.fox-tv.fun/images/logo_chanel/TNTHD200.png",ТНТ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-http://ost.fox-tv.fun/4P3Rva2VuPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly9zdHI2Lm94dHZlLmxpdmU6OTk4MS9UVkNfU0QvdmlkZW8tdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6Ijg3MTcwODcxIiwicCI6Ijg3MTcwODcxOThmOGFiODciLCJjIjoiNjQ2IiwidCI6ImQzYTE5ZTk4ZDg1ZWEyNmViN2FhMDc1YmNlMzc1Y2U5IiwiZCI6IjcwMjcyIiwiciI6IjE2NDU5NSIsIm0iOiJ0diJ9eyJ1IjoiaHR0cDovL3N0cjYub3h0dmUubGl2ZTo4MDgwL1RWQ19TRC92aWRlby5tM3U/video.m3u8
-#EXTINF:0 group-title="Вещание" tvg-name="1:951" tvg-id="1:951" arc-time="120" catchup="shift" catchup-days="5" tvg-logo="http://stb.fox-tv.fun/images/logo_chanel/TNTHD200.png",ТНТ HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-http://ost.fox-tv.fun/_dG9rZW49W3N0Yl90b2tlbl0iLCJhIjoiaHR0cDovL3N0cjYub3h0dmUubGl2ZTo5OTg1L3RudGhkL3ZpZGVvLXRpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiI4NzE3MDg3MSIsInAiOiI4NzE3MDg3MTk4ZjhhYjg3IiwiYyI6IjI3IiwidCI6ImQzYTE5ZTk4ZDg1ZWEyNmViN2FhMDc1YmNlMzc1Y2U5IiwiZCI6IjcwMjcyIiwiciI6IjE2NDU5NSIsIm0iOiJ0diJ9eyJ1IjoiaHR0cDovL3N0cjYub3h0dmUubGl2ZTo4MDgwL3RudGhkL3ZpZGVvLm0zdTg/video.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
 #EXTINF:-1 group-title="Вещание" tvg-logo="https://iptvx.one/picons/tnt4.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="tnt4",ТНТ4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
@@ -147,9 +130,9 @@ https://cdn4.skygo.mn/live/disk1/TNT4/HLSv3-FTA/TNT4.m3u8
 #EXTINF:-1 group-title="Вещание" tvg-logo="https://iptvx.one/picons/yu.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-yu="che",Ю
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8
-#EXTINF:0 group-title="Вещание" tvg-name="1:196" tvg-id="1:196" arc-time="120" catchup="shift" catchup-days="5" tvg-logo="http://stb.fox-tv.fun/images/logo_chanel/RTDOC2001.png",RT Doc HD
+#EXTINF:0 group-title="Вещание" tvg-name="1:196" tvg-id="1:196" arc-time="120" catchup="shift" catchup-days="5" tvg-logo="http://stb.fox-tv.fun/images/logo_chanel/RTDOC2001.png",RT Doc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-http://ost.fox-tv.fun/1OD90b2tlbj1bc3RiX3Rva2VuXSIsImEiOiJodHRwOi8vc3RyNi5veHR2ZS5saXZlOjk5ODIvcnRkb2NoZC92aWRlby10aW1lc2hpZnRfYWJzLVt0aW1lX3N0YXJ0XS5tM3U4P3Rva2VuPVtzdGJfdG9rZW5dW2N1cnJfdGltZV0iLCJsIjoiODcxNzA4NzEiLCJwIjoiODcxNzA4NzE5OGY4YWI4NyIsImMiOiIzNCIsInQiOiJkM2ExOWU5OGQ4NWVhMjZlYjdhYTA3NWJjZTM3NWNlOSIsImQiOiI3MDI3MiIsInIiOiIxNjQ1OTUiLCJtIjoidHYifQeyJ1IjoiaHR0cDovL3N0cjYub3h0dmUubGl2ZTo4MDgwL3J0ZG9jaGQvdmlkZW8ubTN/video.m3u8
+http://rt-doc.rttv.com/dvr/rtdru/rtdru1080.m3u8
 
 #EXTGRP:Кинозал
 #EXTINF:-1 group-title="Кинозал" tvg-logo="https://1.mediamaniya.site/_pu/2/46031484.jpg",Alpha cinema HD
@@ -2343,6 +2326,7 @@ http://skazka.amgradio.ru/Skazka
 #EXTINF:-1 group-title="Радио",Супердискотека 90-х
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://radiorecord.hostingradio.ru/sd9096.aacp
+
 
 
 
