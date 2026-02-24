@@ -48,7 +48,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
 #EXTINF:-1 group-title="Вещание" tvg-logo="http://stb.fox-tv.fun/images/logo_chanel/1RUSTV200.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="pervy",Первый канал
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
-#EXTINF:0 group-title="Вещание" tvg-logo="https://iptvx.one/picons/pervy.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="pervy",Первый канал HD
+#EXTINF:0 group-title="Вещание" tvg-name="1:461" tvg-id="1:461" arc-time="120" catchup="shift" catchup-days="5" tvg-logo="http://stb.fox-tv.fun/images/logo_chanel/1RUSHD200.png",Первый канал HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://ost.fox-tv.fun/zdTg_dG9rZW49W3N0Yl90b2tlbl0iLCJhIjoiaHR0cDovL3N0cjYub3h0dmUubGl2ZTo5OTg1L1BlcnZpeUhEL3ZpZGVvLXRpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiI4NzE3MDg3MSIsInAiOiI4NzE3MDg3MTk4ZjhhYjg3IiwiYyI6IjIiLCJ0IjoiZDNhMTllOThkODVlYTI2ZWI3YWEwNzViY2UzNzVjZTkiLCJkIjoiNzAyNzIiLCJyIjoiMTY0NTk1IiwibSI6InR2In0eyJ1IjoiaHR0cDovL3N0cjYub3h0dmUubGl2ZTo4MDgwL1BlcnZpeUhEL3ZpZGVvLm0/video.m3u8
 #EXTINF:-1 group-title="Вещание" tvg-logo="http://stb.fox-tv.fun/images/logo_chanel/FRIDAY200 (1).png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="piatnica",Пятница
@@ -2341,6 +2341,7 @@ http://skazka.amgradio.ru/Skazka
 #EXTINF:-1 group-title="Радио",Супердискотека 90-х
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://radiorecord.hostingradio.ru/sd9096.aacp
+
 
 
 
