@@ -176,7 +176,7 @@ http://188.225.31.197/bpk-tv/000000008/tve/index.m3u8
 http://188.225.31.197/bpk-tv/000000006/tve/index.m3u8
 #EXTINF:-1 group-title="Кинозал" tvg-logo="https://iptvx.one/picons/trashtv.png" tvg-id="trashtv",Trash HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-http://188.225.31.197/bpk-tv/000000006/tve/index.m3u8
+http://178.163.38.73:34040/udp/234.0.0.3:2000
 #EXTINF:-1 group-title="Кинозал" tvg-logo="https://iptvx.one/picons/tv1000.png" tvg-id="tv1000",Viju TV1000 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://188.225.31.197/bpk-tv/000003747/tve/index.m3u8
@@ -2347,6 +2347,7 @@ http://skazka.amgradio.ru/Skazka
 #EXTINF:-1 group-title="Радио",Супердискотека 90-х
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://radiorecord.hostingradio.ru/sd9096.aacp
+
 
 
 
