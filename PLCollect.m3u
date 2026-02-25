@@ -261,10 +261,10 @@ http://188.225.31.197/bpk-tv/000008491/tve/index.m3u8
 #EXTINF:0 group-title="Кинозал" tvg-logo="http://stb.fox-tv.fun/images/logo_chanel/RETROTV2001.png" tvg-id="retro-tv",Ретро
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://178.163.38.73:34040/udp/234.0.0.194:2000
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://iptvx.one/picons/russky-illuzion.png" tvg-id="russky-illuzion",Русский Иллюзион
+#EXTINF:-1 group-title="Кинозал" tvg-logo="https://iptvx.one/picons/russky-illuzion.png" tvg-id="russky-illuzion",Русский Иллюзион
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://188.225.31.197/bpk-tv/000004207/tve/index.m3u8
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://iptvx.one/picons/russky-roman.png" tvg-id="russky-roman",Русский Роман HD
+#EXTINF:-1 group-title="Кинозал" tvg-logo="https://iptvx.one/picons/russky-roman.png" tvg-id="russky-roman",Русский Роман HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://31.148.48.15:80/Russkiy_Roman_HD/index.m3u8
 #EXTINF:-1 group-title="Кинозал" tvg-logo="https://iptvx.one/picons/semejnoe-kino-kz.png" tvg-id="emejnoe-kino-kz",Семейное Кино KZ HD
@@ -2350,6 +2350,7 @@ http://skazka.amgradio.ru/Skazka
 #EXTINF:-1 group-title="Радио",Супердискотека 90-х
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://radiorecord.hostingradio.ru/sd9096.aacp
+
 
 
 
