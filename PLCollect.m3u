@@ -150,10 +150,10 @@ http://188.225.31.197/bpk-tv/000000239/tve/index.m3u8
 #EXTINF:-1 group-title="Кинозал" tvg-logo="https://iptvx.one/picons/fanhd.png" tvg-id="fanhd",FAN HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://31.148.48.15:80/Fan/index.m3u8
-#EXTINF:-1 group-title="Кинозал" tvg-logo="https://iptvx.one/picons/flixsnip.png" tvg-id="flixsnip",FlixSnip HD
+#EXTINF:-1 group-title="Кинозал" tvg-logo="https://iptvx.one/picons/flixsnip.png" tvg-id="flixsnip",FlixSnip
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://188.225.31.197/bpk-tv/000004466/tve/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-logo="https://iptvx.one/picons/hollywood-hd.png" tvg-id="hollywood-hd",Hollywood HD
+#EXTINF:0 group-title="Кинозал" tvg-logo="https://iptvx.one/picons/hollywood-hd.png" tvg-id="hollywood",Hollywood
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://188.225.31.197/bpk-tv/000000031/tve/index.m3u8
 #EXTINF:-1 group-title="Кинозал" tvg-logo="https://iptvx.one/picons/kino-24.png" tvg-id="kino-24",Kino 24
@@ -201,7 +201,7 @@ http://178.163.38.73:34040/udp/234.0.0.99:2000
 #EXTINF:-1 group-title="Кинозал" tvg-logo="https://ritsatv.ru/files/poster/original/901076.webp",Видеокассета VHS HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://live20.bozztv.com/akamaissh101/ssh101/livevhs90e/playlist.m3u8
-#EXTINF:-1 group-title="Кинозал" tvg-logo="https://iptvx.one/picons/gosfilmofond-mv.png" tvg-id="gosfilmofond-mv,Госфильмофонд. Машина времени
+#EXTINF:-1 group-title="Кинозал" tvg-logo="https://iptvx.one/picons/gosfilmofond-mv.png" tvg-id="gosfilmofond-mv,Госфильмофонд. Машина времени HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://178.163.38.73:34040/udp/234.0.0.190:2000
 #EXTINF:-1 group-title="Кинозал" tvg-logo="https://iptvx.one/picons/domkino-premium.png" tvg-id="domkino-premium",Дом кино Премиум HD
@@ -216,13 +216,13 @@ http://178.163.38.73:34040/udp/234.0.0.118:2000
 #EXTINF:0 group-title="Кинозал" tvg-logo="http://stb.fox-tv.fun/images/logo_chanel/KINOTV2001.png" tvg-id="kino-tv",Кино ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://185.46.16.239:8000/Kino_TV
-#EXTINF:-1 group-title="Кинозал" tvg-logo="https://iptvx.one/picons/kinoboevik-kz.png" tvg-id="kinoboevik-kz",КиноБоевик KZ
+#EXTINF:-1 group-title="Кинозал" tvg-logo="https://iptvx.one/picons/kinoboevik-kz.png" tvg-id="kinoboevik-kz",КиноБоевик KZ HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://188.225.31.197/bpk-tv/000008490/tve/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-logo="http://stb.fox-tv.fun/images/logo_chanel/KINOKOMEDIA200.png" tvg-id="kinokomedia",Кинокомедия HD
+#EXTINF:0 group-title="Кинозал" tvg-logo="http://stb.fox-tv.fun/images/logo_chanel/KINOKOMEDIA200.png" tvg-id="kinokomedia",Кинокомедия
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://185.46.16.239:8000/Fox_HD
-#EXTINF:0 group-title="Кинозал" tvg-logo="http://stb.fox-tv.fun/images/logo_chanel/KINOMIKS200.png" tvg-id="kinomiks",Киномикс HD
+#EXTINF:0 group-title="Кинозал" tvg-logo="http://stb.fox-tv.fun/images/logo_chanel/KINOMIKS200.png" tvg-id="kinomiks",Киномикс
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://93.170.254.17/Kinomiks/index.m3u8
 #EXTINF:-1 group-title="Кинозал" tvg-logo="https://iptvx.one/picons/kinopokaz.png" tvg-id="kinopokaz",Кинопоказ
@@ -2347,6 +2347,7 @@ http://skazka.amgradio.ru/Skazka
 #EXTINF:-1 group-title="Радио",Супердискотека 90-х
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://radiorecord.hostingradio.ru/sd9096.aacp
+
 
 
 
