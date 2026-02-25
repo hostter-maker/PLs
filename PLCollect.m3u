@@ -617,7 +617,7 @@ http://188.225.31.197/bpk-tv/000001414/tve/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://iptvx.one/picons/dialogi-o-rybalke.png" tvg-id="dialogi-o-rybalke",Диалоги о Рыбалке
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://188.225.31.197/bpk-tv/000003174/tve/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-logo="http://stb.fox-tv.fun/images/logo_chanel/DIKOHOTA200.png" tvg-name="dikaya-oxota-hd",Дикая охота
+#EXTINF:0 group-title="Познавательные" tvg-logo="http://stb.fox-tv.fun/images/logo_chanel/DIKOHOTA200.png" tvg-name="dikaya-oxota-hd",Дикая охота HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://178.163.38.73:34040/udp/234.0.0.11:2000
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://iptvx.one/picons/domashnie-zhivotnye.png" tvg-id="domashnie-zhivotnye",Домашние животные
@@ -629,9 +629,6 @@ http://185.46.16.239:8000/Drayv
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://iptvx.one/picons/zhivaya-planeta.png" tvg-id="zhivaya-planeta",Живая планета
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://185.46.16.239:8000/Zhivaya_Planeta
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://iptvx.one/picons/zhivi-aktivno.png" tvg-id="zhivi-aktivno",Живи активно HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-https://cdn-fr1.lamro.tv/ch5046/mono.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://iptvx.one/picons/zagorodnaya-zhizn.png" tvg-id="zagorodnaya-zhizn",Загородная жизнь HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://188.225.31.197/bpk-tv/000000289/tve/index.m3u8
@@ -2257,6 +2254,7 @@ http://skazka.amgradio.ru/Skazka
 #EXTINF:-1 group-title="Радио",Супердискотека 90-х
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://radiorecord.hostingradio.ru/sd9096.aacp
+
 
 
 
