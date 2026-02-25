@@ -2261,52 +2261,356 @@ http://skazka.amgradio.ru/Skazka
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://radiorecord.hostingradio.ru/sd9096.aacp
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTGRP:4K Temporary
+#EXTINF:0,Home UHD
+http://s.only4.tv/6313/index.m3u8?token=jZqqvnnqCs
+#EXTGRP:4K Temporary
+#EXTINF:0,Инсайт ТВ UHD
+http://s.only4.tv/6314/index.m3u8?token=jZqqvnnqCs
+#EXTGRP:4K Temporary
+#EXTINF:0,Love Nature 4K
+http://s.only4.tv/6315/index.m3u8?token=jZqqvnnqCs
+#EXTGRP:4K Temporary
+#EXTINF:0,Russian Extreme Ultra
+http://s.only4.tv/6316/index.m3u8?token=jZqqvnnqCs
+#EXTGRP:4K Temporary
+#EXTINF:0,Ultra HD Cinema
+http://s.only4.tv/6317/index.m3u8?token=jZqqvnnqCs
+#EXTGRP:4K Temporary
+http://s.only4.tv/6318/index.m3u8?token=jZqqvnnqCs
+#EXTGRP:4K Temporary
+#EXTINF:0,Наша сибирь 4K
+http://s.only4.tv/6319/index.m3u8?token=jZqqvnnqCs
+#EXTGRP:4K Temporary
+#EXTINF:0,BCU Ultra 4K
+http://s.only4.tv/6322/index.m3u8?token=jZqqvnnqCs
+#EXTGRP:4K Temporary
+#EXTINF:0,BCU Premiere Ultra 4K
+http://s.only4.tv/7230/index.m3u8?token=jZqqvnnqCs
+#EXTGRP:4K Temporary
+#EXTINF:0,BCU Kids 4K
+http://s.only4.tv/7881/index.m3u8?token=jZqqvnnqCs
+#EXTGRP:4K Temporary
+#EXTINF:0,BCU Сваты 4K
+http://s.only4.tv/9532/index.m3u8?token=jZqqvnnqCs
+#EXTGRP:4K Temporary
+#EXTINF:0,YOSSO 4K
+http://s.only4.tv/7640/index.m3u8?token=jZqqvnnqCs
+#EXTGRP:4K Temporary
+#EXTINF:0,Yosso TV Советские фильмы 4K
+http://s.only4.tv/8252/index.m3u8?token=jZqqvnnqCs
+#EXTGRP:4K Temporary
+#EXTINF:0,Yosso TV 4K HDR
+http://s.only4.tv/9212/index.m3u8?token=jZqqvnnqCs
+#EXTGRP:4K Temporary
+#EXTINF:0,НАШЕ music UHD
+http://s.only4.tv/7743/index.m3u8?token=jZqqvnnqCs
+#EXTGRP:4K Temporary
+#EXTINF:0,Глазами Туриста UHD
+http://s.only4.tv/7752/index.m3u8?token=jZqqvnnqCs
+#EXTGRP:4K Temporary
+#EXTINF:0,MyZen 4K
+http://s.only4.tv/7942/index.m3u8?token=jZqqvnnqCs
+#EXTGRP:4K Temporary
+#EXTINF:0,DIGI 4K
+http://s.only4.tv/8186/index.m3u8?token=jZqqvnnqCs
+#EXTGRP:4K Temporary
+#EXTINF:0,Travel XP 4K
+http://s.only4.tv/8142/index.m3u8?token=jZqqvnnqCs
+#EXTGRP:4K Temporary
+#EXTINF:0,BOX Music 4K
+http://s.only4.tv/8717/index.m3u8?token=jZqqvnnqCs
+#EXTGRP:4K Temporary
+#EXTINF:0,BOX Relax 4K
+http://s.only4.tv/8718/index.m3u8?token=jZqqvnnqCs
+#EXTGRP:4K Temporary
+#EXTINF:0,BOX Premiere 4K
+http://s.only4.tv/8732/index.m3u8?token=jZqqvnnqCs
+#EXTGRP:4K Temporary
+#EXTINF:0,BOX Serial 4K
+http://s.only4.tv/8733/index.m3u8?token=jZqqvnnqCs
+#EXTGRP:4K Temporary
+#EXTINF:0,BOX Remast 4K
+http://s.only4.tv/8734/index.m3u8?token=jZqqvnnqCs
+#EXTGRP:4K Temporary
+#EXTINF:0,BOX Remast+ 4K
+http://s.only4.tv/9362/index.m3u8?token=jZqqvnnqCs
+#EXTGRP:4K Temporary
+#EXTINF:0,FunBox UHD
+http://s.only4.tv/8791/index.m3u8?token=jZqqvnnqCs
+#EXTGRP:4K Temporary
+#EXTINF:0,Quadro 4K
+http://s.only4.tv/8842/index.m3u8?token=jZqqvnnqCs
+#EXTGRP:4K Temporary
+#EXTINF:0,Loupe 4K
+http://s.only4.tv/8906/index.m3u8?token=jZqqvnnqCs
+#EXTGRP:4K Temporary
+#EXTINF:0,Clarity4K Netflix
+http://s.only4.tv/8938/index.m3u8?token=jZqqvnnqCs
+#EXTGRP:4K Temporary
+#EXTINF:0,Clarity4K КиноСССР
+http://s.only4.tv/8939/index.m3u8?token=jZqqvnnqCs
+#EXTGRP:4K Temporary
+#EXTINF:0,Clarity4K Приключения
+http://s.only4.tv/8940/index.m3u8?token=jZqqvnnqCs
+#EXTGRP:4K Temporary
+#EXTINF:0,Clarity4K Ужасы
+http://s.only4.tv/8941/index.m3u8?token=jZqqvnnqCs
+#EXTGRP:4K Temporary
+#EXTINF:0,Clarity4K Фантастика
+http://s.only4.tv/8942/index.m3u8?token=jZqqvnnqCs
+#EXTGRP:4K Temporary
+#EXTINF:0,Clarity4k Драмы
+http://s.only4.tv/8943/index.m3u8?token=jZqqvnnqCs
+#EXTGRP:4K Temporary
+#EXTINF:0,Clarity4k Русский сериал
+http://s.only4.tv/8944/index.m3u8?token=jZqqvnnqCs
+#EXTGRP:4K Temporary
+#EXTINF:0,Clarity4K World Music
+http://s.only4.tv/8945/index.m3u8?token=jZqqvnnqCs
+#EXTGRP:4K Temporary
+#EXTINF:0,Clarity4K Классика Кино
+http://s.only4.tv/8948/index.m3u8?token=jZqqvnnqCs
+#EXTGRP:4K Temporary
+#EXTINF:0,Clarity4k Единоборства
+http://s.only4.tv/8949/index.m3u8?token=jZqqvnnqCs
+#EXTGRP:4K Temporary
+#EXTINF:0,Clarity4k Deep House
+http://s.only4.tv/8950/index.m3u8?token=jZqqvnnqCs
+#EXTGRP:4K Temporary
+#EXTINF:0,Clarity4K Ukrainian music
+http://s.only4.tv/8951/index.m3u8?token=jZqqvnnqCs
+#EXTGRP:4K Temporary
+#EXTINF:0,Clarity4K Asia
+http://s.only4.tv/8952/index.m3u8?token=jZqqvnnqCs
+#EXTGRP:4K Temporary
+#EXTINF:0,Clarity4K Мультляндия
+http://s.only4.tv/8953/index.m3u8?token=jZqqvnnqCs
+#EXTGRP:4K Temporary
+#EXTINF:0,Clarity4K Korean music
+http://s.only4.tv/8954/index.m3u8?token=jZqqvnnqCs
+#EXTGRP:4K Temporary
+#EXTINF:0,Clarity4K Travel blog
+http://s.only4.tv/8955/index.m3u8?token=jZqqvnnqCs
+#EXTGRP:4K Temporary
+#EXTINF:0,Clarity4K Gamefilm
+http://s.only4.tv/8956/index.m3u8?token=jZqqvnnqCs
+#EXTGRP:4K Temporary
+#EXTINF:0,Clarity4K Мультимир
+http://s.only4.tv/8957/index.m3u8?token=jZqqvnnqCs
+#EXTGRP:4K Temporary
+#EXTINF:0,Clarity4K Города
+http://s.only4.tv/8958/index.m3u8?token=jZqqvnnqCs
+#EXTGRP:4K Temporary
+#EXTINF:0,Clarity4K Молодежные комедии
+http://s.only4.tv/8959/index.m3u8?token=jZqqvnnqCs
+#EXTGRP:4K Temporary
+#EXTINF:0,Clarity4K Звериный мир
+http://s.only4.tv/8960/index.m3u8?token=jZqqvnnqCs
+#EXTGRP:4K Temporary
+#EXTINF:0,Clarity4K Космомир
+http://s.only4.tv/8961/index.m3u8?token=jZqqvnnqCs
+#EXTGRP:4K Temporary
+#EXTINF:0,Clarity4K Ужасы (VHS)
+http://s.only4.tv/8962/index.m3u8?token=jZqqvnnqCs
+#EXTGRP:4K Temporary
+#EXTINF:0,Clarity4K Avto Blog
+http://s.only4.tv/8963/index.m3u8?token=jZqqvnnqCs
+#EXTGRP:4K Temporary
+#EXTINF:0,Clarity4K Семейный
+http://s.only4.tv/8995/index.m3u8?token=jZqqvnnqCs
+#EXTGRP:4K Temporary
+#EXTINF:0,Clarity4k КиноФраншизы
+http://s.only4.tv/8996/index.m3u8?token=jZqqvnnqCs
+#EXTGRP:4K Temporary
+#EXTINF:0,Clarity4K Комедия
+http://s.only4.tv/8997/index.m3u8?token=jZqqvnnqCs
+#EXTGRP:4K Temporary
+#EXTINF:0,Clarity4k Боевик
+http://s.only4.tv/8998/index.m3u8?token=jZqqvnnqCs
+#EXTGRP:4K Temporary
+#EXTINF:0,Clarity4K Bollywood music
+http://s.only4.tv/8999/index.m3u8?token=jZqqvnnqCs
+#EXTGRP:4K Temporary
+#EXTINF:0,Clarity4K Russian music
+http://s.only4.tv/9000/index.m3u8?token=jZqqvnnqCs
+#EXTGRP:4K Temporary
+#EXTINF:0,Clarity4K Фэнтези
+http://s.only4.tv/9001/index.m3u8?token=jZqqvnnqCs
+#EXTGRP:4K Temporary
+#EXTINF:0,Clarity4k Anime
+http://s.only4.tv/9002/index.m3u8?token=jZqqvnnqCs
+#EXTGRP:4K Temporary
+#EXTINF:0,Clarity4k Kинодети CССР
+http://s.only4.tv/9003/index.m3u8?token=jZqqvnnqCs
+#EXTGRP:4K Temporary
+#EXTINF:0,Clarity4K Heavy metal
+http://s.only4.tv/9013/index.m3u8?token=jZqqvnnqCs
+#EXTGRP:4K Temporary
+#EXTINF:0,Clarity4K Walt Disney
+http://s.only4.tv/9028/index.m3u8?token=jZqqvnnqCs
+#EXTGRP:4K Temporary
+#EXTINF:0,Clarity4K HBO series
+http://s.only4.tv/9148/index.m3u8?token=jZqqvnnqCs
+#EXTGRP:4K Temporary
+#EXTINF:0,Clarity4K Сумеречный Эфир
+http://s.only4.tv/9149/index.m3u8?token=jZqqvnnqCs
+#EXTGRP:4K Temporary
+#EXTINF:0,Clarity4K КиноНовинки
+http://s.only4.tv/9150/index.m3u8?token=jZqqvnnqCs
+#EXTGRP:4K Temporary
+#EXTINF:0,Clarity4K Запал
+http://s.only4.tv/9215/index.m3u8?token=jZqqvnnqCs
+#EXTGRP:4K Temporary
+#EXTINF:0,Clarity4K Киношарм
+http://s.only4.tv/9216/index.m3u8?token=jZqqvnnqCs
+#EXTGRP:4K Temporary
+#EXTINF:0,Clarity4K Комедия СССР 2
+http://s.only4.tv/9239/index.m3u8?token=jZqqvnnqCs
+#EXTGRP:4K Temporary
+#EXTINF:0,Clarity4K Комедия СССР 1
+http://s.only4.tv/9240/index.m3u8?token=jZqqvnnqCs
+#EXTGRP:4K Temporary
+#EXTINF:0,Clarity4K BluesString
+http://s.only4.tv/9241/index.m3u8?token=jZqqvnnqCs
+#EXTGRP:4K Temporary
+#EXTINF:0,Clarity4k Боевик (VHS)
+http://s.only4.tv/9242/index.m3u8?token=jZqqvnnqCs
+#EXTGRP:4K Temporary
+#EXTINF:0,Clarity4K Eurovision
+http://s.only4.tv/9243/index.m3u8?token=jZqqvnnqCs
+#EXTGRP:4K Temporary
+#EXTINF:0,Clarity4K Latin music
+http://s.only4.tv/9245/index.m3u8?token=jZqqvnnqCs
+#EXTGRP:4K Temporary
+#EXTINF:0,Clarity4K RemasterWave
+http://s.only4.tv/9246/index.m3u8?token=jZqqvnnqCs
+#EXTGRP:4K Temporary
+#EXTINF:0,Clarity4K UrbanBlack
+http://s.only4.tv/9247/index.m3u8?token=jZqqvnnqCs
+#EXTGRP:4K Temporary
+#EXTINF:0,Clarity4K Триллер
+http://s.only4.tv/9907/index.m3u8?token=jZqqvnnqCs
+#EXTGRP:4K Temporary
+#EXTINF:0,Clarity4K Театр
+http://s.only4.tv/9906/index.m3u8?token=jZqqvnnqCs
+#EXTGRP:4K Temporary
+#EXTINF:0,Clarity4k UFO
+http://s.only4.tv/9447/index.m3u8?token=jZqqvnnqCs
+#EXTGRP:4K Temporary
+#EXTINF:0,Clarity4k Вселенная
+http://s.only4.tv/9448/index.m3u8?token=jZqqvnnqCs
+#EXTGRP:4K Temporary
+#EXTINF:0,Clarity4k DeepMe
+http://s.only4.tv/9449/index.m3u8?token=jZqqvnnqCs
+#EXTGRP:4K Temporary
+#EXTINF:0,Clarity4K Galaxy Films
+http://s.only4.tv/9450/index.m3u8?token=jZqqvnnqCs
+#EXTGRP:4K Temporary
+#EXTINF:0,Clarity4K Ретро-Сказка 1
+http://s.only4.tv/10245/index.m3u8?token=jZqqvnnqCs
+#EXTGRP:4K Temporary
+#EXTINF:0,Clarity4K Ретро-Сказка 2
+http://s.only4.tv/10246/index.m3u8?token=jZqqvnnqCs
+#EXTGRP:4K Temporary
+#EXTINF:0,SES UHD
+http://s.only4.tv/9264/index.m3u8?token=jZqqvnnqCs
+#EXTGRP:4K Temporary
+#EXTINF:0,CineMan Relax 4K
+http://s.only4.tv/9383/index.m3u8?token=jZqqvnnqCs
+#EXTGRP:4K Temporary
+#EXTINF:0,Cineman OLD 4K
+http://s.only4.tv/9684/index.m3u8?token=jZqqvnnqCs
+#EXTGRP:4K Temporary
+#EXTINF:0,CineMan CCCP 4K
+http://s.only4.tv/9686/index.m3u8?token=jZqqvnnqCs
+#EXTGRP:4K Temporary
+#EXTINF:0,CineMan KIDS 4K
+http://s.only4.tv/10173/index.m3u8?token=jZqqvnnqCs
+#EXTGRP:4K Temporary
+#EXTINF:0,KLI UHD 4K
+http://s.only4.tv/9398/index.m3u8?token=jZqqvnnqCs
+#EXTGRP:4K Temporary
+#EXTINF:0,LIBERTY Легенда 4К
+http://s.only4.tv/9476/index.m3u8?token=jZqqvnnqCs
+#EXTGRP:4K Temporary
+#EXTINF:0,LIBERTY Мульт UKR 4К
+http://s.only4.tv/9477/index.m3u8?token=jZqqvnnqCs
+#EXTGRP:4K Temporary
+#EXTINF:0,LIBERTY Кино UKR 4К
+http://s.only4.tv/9478/index.m3u8?token=jZqqvnnqCs
+#EXTGRP:4K Temporary
+#EXTINF:0,LIBERTY Русфильм 4К
+http://s.only4.tv/9479/index.m3u8?token=jZqqvnnqCs
+#EXTGRP:4K Temporary
+#EXTINF:0,LIBERTY Кино Микс 4К
+http://s.only4.tv/9480/index.m3u8?token=jZqqvnnqCs
+#EXTGRP:4K Temporary
+#EXTINF:0,LIBERTY Мульт 4К
+http://s.only4.tv/9481/index.m3u8?token=jZqqvnnqCs
+#EXTGRP:4K Temporary
+#EXTINF:0,LIBERTY Индия 4К
+http://s.only4.tv/9482/index.m3u8?token=jZqqvnnqCs
+#EXTGRP:4K Temporary
+#EXTINF:0,LIBERTY Нетфликс 4К
+http://s.only4.tv/9483/index.m3u8?token=jZqqvnnqCs
+#EXTGRP:4K Temporary
+#EXTINF:0,LIBERTY Куб 4К
+http://s.only4.tv/9484/index.m3u8?token=jZqqvnnqCs
+#EXTGRP:4K Temporary
+#EXTINF:0,LIBERTY Семейный 4К
+http://s.only4.tv/9485/index.m3u8?token=jZqqvnnqCs
+#EXTGRP:4K Temporary
+#EXTINF:0,LIBERTY Союз 4К
+http://s.only4.tv/9488/index.m3u8?token=jZqqvnnqCs
+#EXTGRP:4K Temporary
+#EXTINF:0,LIBERTY Кино ENG 4К
+http://s.only4.tv/9490/index.m3u8?token=jZqqvnnqCs
+#EXTGRP:4K Temporary
+#EXTINF:0,LIBERTY МУЛЬТ ENG 4К
+http://s.only4.tv/9491/index.m3u8?token=jZqqvnnqCs
+#EXTGRP:4K Temporary
+#EXTINF:0,LIBERTY Триллер 4К
+http://s.only4.tv/9494/index.m3u8?token=jZqqvnnqCs
+#EXTGRP:4K Temporary
+#EXTINF:0,LIBERTY Ужасы 4К
+http://s.only4.tv/9495/index.m3u8?token=jZqqvnnqCs
+#EXTGRP:4K Temporary
+#EXTINF:0,LIBERTY Сериалы 4К
+http://s.only4.tv/9498/index.m3u8?token=jZqqvnnqCs
+#EXTGRP:4K Temporary
+#EXTINF:0,LIBERTY Криминал 4К
+http://s.only4.tv/9499/index.m3u8?token=jZqqvnnqCs
+#EXTGRP:4K Temporary
+#EXTINF:0,LIBERTY XX Век 4К
+http://s.only4.tv/9501/index.m3u8?token=jZqqvnnqCs
+#EXTGRP:4K Temporary
+#EXTINF:0,LIBERTY Аванпост 4К
+http://s.only4.tv/9502/index.m3u8?token=jZqqvnnqCs
+#EXTGRP:4K Temporary
+#EXTINF:0,LIBERTY Турк Фильм 4К
+http://s.only4.tv/9505/index.m3u8?token=jZqqvnnqCs
+#EXTGRP:4K Temporary
+#EXTINF:0,LIBERTY Дрим Воркс 4К
+http://s.only4.tv/9507/index.m3u8?token=jZqqvnnqCs
+#EXTGRP:4K Temporary
+#EXTINF:0,LIBERTY Мюзикл 4К
+http://s.only4.tv/9514/index.m3u8?token=jZqqvnnqCs
+#EXTGRP:4K Temporary
+#EXTINF:0,Museum TV 4K
+http://s.only4.tv/9666/index.m3u8?token=jZqqvnnqCs
+#EXTGRP:4K Temporary
+#EXTINF:0,Velilla TV Cinema 4K
+http://s.only4.tv/9868/index.m3u8?token=jZqqvnnqCs
+#EXTGRP:4K Temporary
+#EXTINF:0,Eurosport 4K
+http://s.only4.tv/10038/index.m3u8?token=jZqqvnnqCs
+#EXTGRP:4K Temporary
+#EXTINF:0,Diema Sport 2 4K
+http://s.only4.tv/10684/index.m3u8?token=jZqqvnnqCs
+#EXTGRP:4K Temporary
+#EXTINF:0,Diema Sport 3 4K
+http://s.only4.tv/10685/index.m3u8?token=jZqqvnnqCs
+#EXTGRP:4K Temporary
+#EXTINF:0,RAI Italia 4K
+http://s.only4.tv/10725/index.m3u8?token=jZqqvnnqCs
