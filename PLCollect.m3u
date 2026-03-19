@@ -94,7 +94,7 @@ http://player.smotrim.ru/iframe/stream/live_id/683d9649-a96c-4a4d-b468-91c0ee2bf
 #EXTINF:-1 group-title="Вещание" tvg-logo="http://epg.one/img/2547.png" tvg-id="rtr-planeta-eu",РТР-Планета Европа
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://player.smotrim.ru/iframe/stream/live_id/d7fef212-df66-485d-9952-7eab82d7d51b.m3u8
-#EXTINF:-1 group-title="Вещание" tvg-logo="http://epg.one/img/2547.png" tvg-id="rtr-belarus",РТР-Планета СНГ
+#EXTINF:-1 group-title="Вещание" tvg-logo="http://epg.one/img/2547.png" tvg-id="rtr-planeta-eu",РТР-Планета СНГ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://player.smotrim.ru/iframe/stream/live_id/3b73bf76-7245-4981-a865-38478e21df1f.m3u8
 #EXTINF:-1 group-title="Вещание" tvg-logo="http://epg.one/img/2547.png" tvg-id="rtr-planeta-amerika",РТР-Планета Америка
