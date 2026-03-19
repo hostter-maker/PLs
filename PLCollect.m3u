@@ -305,49 +305,49 @@ http://5.188.158.65:4040/IPTVPLAYUZHASTIK.tv/video.m3u8?token=lqRGka5-YwwqF0
 http://5.188.158.65:4040/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=lqRGka5-YwwqF0
 
 #EXTGRP:Кино и сериалы
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://iptvx.one/picons/sony-turbo.png" tvg-id="sony-turbo",.Black HD
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://epg.one/img/935.png" tvg-id="sony-turbo",.Black HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://188.237.47.212:6007
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://iptvx.one/picons/sony.png" tvg-id="sony-tv",.Red HD
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://epg.one/img/311.png" tvg-id="sony-tv",.Red HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://193.25.8.59:8000/set
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://iptvx.one/picons/sony-scifi.png" tvg-id="sony-scifi",.Sci-Fi HD
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://epg.one/img/516.png" tvg-id="sony-scifi",.Sci-Fi HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://188.237.47.212:6001
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://iptvx.one/picons/amedia1.png" tvg-id="amedia1",Amedia 1 HD
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://epg.one/img/1371.png" tvg-id="amedia1",Amedia 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://188.225.31.197/bpk-tv/000000710/tve/index.m3u8
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://iptvx.one/picons/amedia2.png" tvg-id="amedia2",Amedia 2 HD
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://epg.one/img/2492.png" tvg-id="amedia2",Amedia 2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://188.225.31.197/bpk-tv/000000351/tve/index.m3u8
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://iptvx.one/picons/amedia-hit.png" tvg-id="amedia-hit",Amedia HiT HD
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://epg.one/img/2007.png" tvg-id="amedia-hit",Amedia HiT HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://188.225.31.197/bpk-tv/000001662/tve/index.m3u8
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://iptvx.one/picons/amedia-premium.png" tvg-id="amedia-premium",Amedia Premium HD
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://epg.one/img/1372.png" tvg-id="amedia-premium",Amedia Premium HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://188.225.31.197/bpk-tv/000000709/tve/index.m3u8
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://iptvx.one/picons/bolt.png" tvg-id="bolt-ru",Bolt HD Россия
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://epg.one/img/2138.png" tvg-id="bolt-ru",Bolt HD Россия
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://178.163.38.73:34040/udp/234.0.0.193:2000
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://iptvx.one/picons/fox.png" tvg-id="fox",FOX HD
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://epg.one/img/1031.png" tvg-id="fox",FOX HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://188.225.31.197/bpk-tv/000004472/tve/index.m3u8
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://iptvx.one/picons/foxlife.png" tvg-id="foxlife",FOX Life HD
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://epg.one/img/615.png" tvg-id="foxlife",FOX Life HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://188.225.31.197/bpk-tv/000004471/tve/index.m3u8
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://iptvx.one/picons/romance.png" tvg-id="romance",Romance
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://epg.one/img/9179.png" tvg-id="romance",Romance
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://193.25.8.59:8000/tlc
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://iptvx.one/picons/star-cinema.png" tvg-id="star-cinema",Star Cinema HD
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://epg.one/img/3328.png" tvg-id="star-cinema",Star Cinema HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://178.163.38.73:34040/udp/234.0.0.152:2000
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://iptvx.one/picons/start-air.png" tvg-id="start-air",Start Air HD
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://epg.one/img/6241.png" tvg-id="start-air",Start Air HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://188.225.31.197/bpk-tv/000007815/tve/index.m3u8
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://iptvx.one/picons/start-world.png" tvg-id="start-world",Start World HD
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://epg.one/img/6240.png" tvg-id="start-world",Start World HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://188.225.31.197/bpk-tv/000007818/tve/index.m3u8
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://iptvx.one/picons/vip-serial.png" tvg-id="vip-serial",Vip Serial HD
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://epg.one/img/2838.png" tvg-id="vip-serial",Vip Serial HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://188.225.31.197/bpk-tv/000004375/tve/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://i.postimg.cc/Rh516HVw/1.png",Ведьмак HD IPTVPLAY
@@ -356,49 +356,49 @@ http://5.188.158.65:4040/IPTVPLAYVEDMAK.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://i.postimg.cc/v8KFj826/1.png",Великая Отечественная HD IPTVPLAY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://5.188.158.65:4040/IPTVPLAYVOV.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://iptvx.one/picons/vremia.png" tvg-id="vremia",Время
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://epg.one/img/669.png" tvg-id="vremia",Время
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://188.225.31.197/bpk-tv/000000205/tve/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://i.postimg.cc/D06WvJWn/1.png",Десятое королевство HD IPTVPLAY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://5.188.158.65:4040/IPTVPLAY10KOROLEVSTVO.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:0 group-title="Кино и сериалы" tvg-logo="http://stb.fox-tv.fun/images/logo_chanel/DOMKINO200.png" tvg-id="domkino",Дом кино
+#EXTINF:0 group-title="Кино и сериалы" tvg-logo="http://epg.one/img/834.png" tvg-id="domkino",Дом кино
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://188.225.31.197/bpk-tv/000000050/tve/index.m3u8
-#EXTINF:0 group-title="Кино и сериалы" tvg-logo="http://stb.fox-tv.fun/images/logo_chanel/DOMASHNIYHD200.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp} "tvg-id="domashny",Домашний
+#EXTINF:0 group-title="Кино и сериалы" tvg-logo="http://epg.one/img/304.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp} "tvg-id="domashny",Домашний
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://static1.tgstat.ru/channels/_0/54/54f689480500290c64aabff888c7981a.jpg",За!ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://streaming.televizor-24-tochka.ru/live/25-req_offset_28000000-req_window_0-1k_v5.m3u8
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://iptvx.one/picons/illuzion-plus.png" tvg-id="illuzion-plus",Иллюзион +
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://epg.one/img/2403.png" tvg-id="illuzion-plus",Иллюзион +
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://31.148.48.15:80/Illusion_plus/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://i.postimg.cc/3N8Rc8tq/1.png",Интерны HD IPTVPLAY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://5.188.158.65:4040/IPTVPLAYINTERNY.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://iptvx.one/picons/kineko.png" tvg-id="kineko",Кинеко HD
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://epg.one/img/7314.png" tvg-id="kineko",Кинеко HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://188.225.31.197/bpk-tv/000008136/tve/index.m3u8
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://iptvx.one/picons/kluch.png" tvg-id="kluch",Ключ HD
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://epg.one/img/9156.png" tvg-id="kluch",Ключ HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://188.225.31.197/bpk-tv/000004585/tve/index.m3u8
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://iptvx.one/picons/ktk-kz.png" tvg-id="ktk-kz",КТК HD
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://epg.one/img/2570.png" tvg-id="ktk-kz",КТК HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://wz-kt.ktk.kz/ktklive/smil:ktk-live.smil/playlist.m3u8
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://iptvx.one/picons/lavstori.png" tvg-id="lavstori",Лавстори
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://epg.one/img/9001.png" tvg-id="lavstori",Лавстори
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://178.163.38.73:34040/udp/234.0.0.177:2000
-#EXTINF:0 group-title="Кино и сериалы" tvg-logo="http://stb.fox-tv.fun/images/logo_chanel/MIRSERIALA200.png" tvg-id="mir-seriala",Мир сериала
+#EXTINF:0 group-title="Кино и сериалы" tvg-logo="http://epg.one/img/2275.png" tvg-id="mir-seriala",Мир сериала
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://188.225.31.197/bpk-tv/000000319/tve/index.m3u8
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://iptvx.one/picons/nashe-muzhskoe.png" tvg-id="nashe-muzhskoe",Наше Мужское
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://epg.one/img/2835.png" tvg-id="nashe-muzhskoe",Наше Мужское
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://178.163.38.73:34040/udp/234.0.0.114:2000
 #EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://iptvx.one/picons/nowy-igrowoj.png" tvg-id="nowy-igrowoj",Новый Игровой Канал
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://188.225.31.197/bpk-tv/000008615/tve/index.m3u8
-#EXTINF:0 group-title="Кино и сериалы" tvg-logo="http://stb.fox-tv.fun/images/logo_chanel/NTVSERIAL200.png" tvg-id="ntv-serial",НТВ Сериал HD
+#EXTINF:0 group-title="Кино и сериалы" tvg-logo="http://epg.one/img/1754.png" tvg-id="ntv-serial",НТВ Сериал HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://cdn.ntv.ru/th_serial/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://epg.it999.ru/img/1754.png",НТВ Сериал Балабол
@@ -425,31 +425,31 @@ https://cdn-dvr.ntv.ru/sledstvie/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://epg.it999.ru/img/1754.png",НТВ Шеф
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://cdn-dvr.ntv.ru/Shef/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://epg.it999.ru/img/2041.png" tvg-id="ntv-xit",НТВ Хит
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://epg.one/img/2041.png" tvg-id="ntv-xit",НТВ Хит
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://i.ibb.co/7gj4dQM/Pamyat.png",Память HD IPTVPLAY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://5.188.158.65:4040/IPTVPLAYPAMYAT.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://iptvx.one/picons/patriot.png" tvg-id="patriot",Патриот
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://epg.one/img/11469.png" tvg-id="patriot",Патриот
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://185.46.48.18:80/asvtv/index.m3u8
-#EXTINF:0 group-title="Кино и сериалы" tvg-logo="http://stb.fox-tv.fun/images/logo_chanel/POBEDA200.png" tvg-id="pobeda",Победа HD
+#EXTINF:0 group-title="Кино и сериалы" tvg-logo="hhttp://epg.one/img/2447.png" tvg-id="pobeda",Победа HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://188.225.31.197/bpk-tv/000004534/tve/index.m3u8
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://iptvx.one/picons/russky-bestseller.png" tvg-id="russky-bestseller",Русский Бестселлер
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://epg.one/img/994.png" tvg-id="russky-bestseller",Русский Бестселлер
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://31.148.48.15:80/Russkiy_Bestseller/index.m3u8
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://iptvx.one/picons/russky-detektiv.png" tvg-id="russky-detektiv",Русский Детектив
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://epg.one/img/1570.png" tvg-id="russky-detektiv",Русский Детектив
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://31.148.48.15:80/Russkiy_Detektiv/index.m3u8
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://iptvx.one/picons/sapfir.png" tvg-id="sapfir",Сапфир HD
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://epg.one/img/7315.png" tvg-id="sapfir",Сапфир HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://188.225.31.197/bpk-tv/000008135/tve/index.m3u8
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://iptvx.one/picons/sts-love.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-yu="sts-love",СТС Love
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://epg.one/img/1322.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-yu="sts-love",СТС Love
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://iptvx.one/picons/feniks-plus-kino.png" tvg-id="feniks-plus-kino",Феникс+ Кино
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://epg.one/img/2404.png" tvg-id="feniks-plus-kino",Феникс+ Кино
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://188.225.31.197/bpk-tv/000000125/tve/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://iptvx.one/picons/khit.png" tvg-id="khit",Хит
@@ -463,7 +463,7 @@ https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v
 #EXTINF:-1 group-title="Релакс" tvg-logo="https://deluxemusic.de/wp-content/uploads/sites/4/2023/01/DLXM_LOUNGE_LOGO.png",Deluxe Lounge HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/9a087b26-8be4-11eb-a7de-bacfe1f83627/0/master.m3u8?country=DE&optout=0&uid=749544ec3d9a45d48c600d03cac91dfd&vendor=philips
-#EXTINF:-1 group-title="Релакс" tvg-logo="https://www.cableman.ru/sites/default/files/sochi_live.png",Sochi Live
+#EXTINF:-1 group-title="Релакс" tvg-logo="http://epg.one/img/6035.png",Sochi Live
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://serv30.vintera.tv:8081/sochi/sochi_stream/chunks.m3u8
 #EXTINF:-1 group-title="Релакс" channel-id="SamsungTVPlus-USBD3500038R6" tvg-name="Stingray Holidayscapes" tvg-id="USBD3500038R6" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500038R6_20240520T212838SQUARE.png" group-title="Сортировка" tvg-chno="4570",Stingray Holidayscapes HD
@@ -484,7 +484,7 @@ http://185.57.68.33/232/index.m3u8
 #EXTINF:-1 group-title="Релакс" channel-id="SamsungTVPlus-USBD3500027DS" tvg-name="ZenLIFE by Stingray" tvg-id="USBD3500027DS" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500027DS_20240520T212949SQUARE.png" group-title="Сортировка" tvg-chno="4578",ZenLIFE by Stingray HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://d27toxk63drks3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-pibqoi1zv0ree/manifest/zenlife-zen001-montreal/samsungtvplus/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD3500027DS
-#EXTINF:-1 group-title="Релакс" tvg-logo="https://iptvx.one/picons/zhivaya-priroda.png",Живая природа HD
+#EXTINF:-1 group-title="Релакс" tvg-logo="http://epg.one/img/2495.png",Живая природа HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://188.225.31.197/bpk-tv/000001187/tve/index.m3u8
 #EXTINF:-1 group-title="Релакс" tvg-logo="https://i.postimg.cc/SNzCzTBf/5c203420845831-562f213b2e6f7.png",Камин
@@ -495,10 +495,10 @@ https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R05_KAMINTV/variant.m3u8
 #EXTINF:-1 group-title="Развлекательные" tvg-logo="https://forumimage.ru/uploads/20250325/174290844000547470.png",DTR Zona 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://kino-stream.online/hls/DTRZONA1.m3u8
-#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://iptvx.one/picons/gags-network.png" tvg-id="gags-network",Gags network HD
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://epg.one/img/3551.png" tvg-id="gags-network",Gags network HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://188.225.31.197/bpk-tv/000006639/tve/index.m3u8
-#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://iptvx.one/picons/anekdottv.png" tvg-id="anekdottv",Анекдот ТВ
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://epg.one/img/2760.png" tvg-id="anekdottv",Анекдот ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://188.225.31.197/bpk-tv/000001921/tve/index.m3u8
 #EXTINF:-1 group-title="Развлекательные" tvg-logo="https://cs6.pikabu.ru/avatars/1017/x1017409-1935654150.png", Бенни Хилл Шоу
@@ -513,13 +513,13 @@ https://fl1001.bozztv.com/ushba8/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Развлекательные" tvg-logo="https://iptvx.one/picons/vf-eralash.png",Ералаш 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://fl1001.bozztv.com/ushba10/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://iptvx.one/picons/kvn-tv.png" tvg-id="kvn-tv",КВН ТВ
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://epg.one/img/1700.png" tvg-id="kvn-tv",КВН ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://178.163.38.73:34040/udp/234.0.0.233:2000
 #EXTINF:-1 group-title="Развлекательные" tvg-logo="https://pngfre.com/wp-content/uploads/Mr-Bean-5-291x300.png", Мистер Бин HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://fl1001.bozztv.com/ushba45/index.m3u8
-#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://iptvx.one/picons/perec-int.png" tvg-id="perec-int", Перец
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://epg.one/img/5651.png" tvg-id="perec-int", Перец
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://158.101.222.193:88/georgia_play.php?id=perec
 #EXTINF:-1 group-title="Развлекательные" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg",Приколы
@@ -528,153 +528,153 @@ https://fl1001.bozztv.com/ushba11/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Развлекательные" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg",Приколы 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://fl1001.bozztv.com/ushba20/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://iptvx.one/picons/sarafan.png" tvg-id="sarafan",Сарафан
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://epg.one/img/663.png" tvg-id="sarafan",Сарафан
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://31.148.48.15:80/Sarafan/index.m3u8
-#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://iptvx.one/picons/tvoyo-tv-hd.png" tvg-id="tvoyo-tv-hd",ТВОЕ ТВ HD
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://epg.one/img/5441.png" tvg-id="tvoyo-tv-hd",ТВОЕ ТВ HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://tvoetv.space:8080/tvoetv/index.m3u8
 #EXTINF:-1 group-title="Развлекательные" tvg-logo="https://iptvx.one/picons/tvoetv-humor.png" tvg-id="tvoetv-humor",ТВОЕ ТВ - ЮМОР HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://tvoetv.space:8080/tvoetv_humor/index.m3u8
-#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://iptvx.one/picons/che.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="che",Че!
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://epg.one/img/1598.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="che",Че!
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
 
 #EXTGRP:Познавательные
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://iptvx.one/picons/animal-planet-eu.png" tvg-id="animal-planet-eu",Animal Planet HD
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://epg.one/img/365.png" tvg-id="animal-planet-eu",Animal Planet HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://188.225.31.197/bpk-tv/000000216/tve/index.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://iptvx.one/picons/big-planet.png" tvg-id="big-planet",Big Planet HD
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://epg.one/img/7623.png" tvg-id="big-planet",Big Planet HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://188.225.31.197/bpk-tv/000008052/tve/index.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://iptvx.one/picons/da-vinci.png" tvg-id="da-vinci",Da Vinci
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://epg.one/img/410.png" tvg-id="da-vinci",Da Vinci
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://188.225.31.197/bpk-tv/000000333/tve/index.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://iptvx.one/picons/discovery-channel.png" tvg-id="discovery-channel",Discovery Channel HD
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://epg.one/img/325.png" tvg-id="discovery-channel",Discovery Channel HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://188.225.31.197/bpk-tv/000001496/tve/index.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://iptvx.one/picons/epic.png" tvg-id="epic",Ep!c
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://epg.one/img/9054.png" tvg-id="epic",Ep!c
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://193.25.8.59:8000/dtx
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://iptvx.one/picons/galaxy-tv.png" tvg-id="galaxy-tv",Galaxy TV HD
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://epg.one/img/2418.png" tvg-id="galaxy-tv",Galaxy TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://188.225.31.197/bpk-tv/000000332/tve/index.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://iptvx.one/picons/history.png" tvg-id="history",History HD
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://epg.one/img/1394.png" tvg-id="history",History HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://188.225.31.197/bpk-tv/000001000/tve/index.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://iptvx.one/picons/nat-geo-wild.png" tvg-id="nat-geo-wild",Nat Geo Wild HD
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://epg.one/img/223.png" tvg-id="nat-geo-wild",Nat Geo Wild HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://188.225.31.197/bpk-tv/000004474/tve/index.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://iptvx.one/picons/national-geographic-baltic.png" tvg-id="national-geographic",National Geographic HD
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://epg.one/img/102.png" tvg-id="national-geographic",National Geographic HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://188.225.31.197/bpk-tv/000000034/tve/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://i.pinimg.com/736x/3d/c5/bc/3dc5bc334f8d478a2793c4d98a5d6f6f--youtube-com.jpg",Star Media
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://fl1001.bozztv.com/ushba4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://iptvx.one/picons/terra-ru.png" tvg-id="terra-ru",Terra HD
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://epg.one/img/7632.png" tvg-id="terra-ru",Terra HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://188.225.31.197/bpk-tv/000008142/tve/index.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://iptvx.one/picons/travel-adventure.png" tvg-id="travel-adventure",Travel+Adventure HD
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://epg.one/img/1035.png" tvg-id="travel-adventure",Travel+Adventure HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://178.163.38.73:34040/udp/234.0.0.97:2000
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://iptvx.one/picons/tv-brics.png" tvg-id="tv-brics",Tv Brics HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://iptvx.one/picons/univer-tv.png" tvg-id="univer-tv",Univer TV HD
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://epg.one/img/5600.png" tvg-id="univer-tv",Univer TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://cdn.universmotri.ru/live/univer.sdp_1080p/playlist.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://iptvx.one/picons/viasat-explore.png" tvg-id="viasat-explore",Viju Explore HD
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://epg.one/img/521.png" tvg-id="viasat-explore",Viju Explore HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://188.225.31.197/bpk-tv/000004157/tve/index.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://iptvx.one/picons/viasat-history.png" tvg-id="viasat-history",Viju History HD
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://epg.one/img/277.png" tvg-id="viasat-history",Viju History HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://188.225.31.197/bpk-tv/000005528/tve/index.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://iptvx.one/picons/viasat-nature.png" tvg-id="viasat-nature",Viju Nature HD
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://epg.one/img/765.png" tvg-id="viasat-nature",Viju Nature HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://188.225.31.197/bpk-tv/000006482/tve/index.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://iptvx.one/picons/zoopark.png" tvg-id="zoopark",ZooПарк
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://epg.one/img/367.png" tvg-id="zoopark",ZooПарк
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://178.163.38.73:34040/udp/234.0.0.216:2000
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://iptvx.one/picons/avto24.png" tvg-id="avto24",АВТО 24
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://epg.one/img/2008.png" tvg-id="avto24",АВТО 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://188.225.31.197/bpk-tv/000000815/tve/index.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://iptvx.one/picons/avto-plus.png" tvg-id="avto-plus",Авто Плюс
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://epg.one/img/153.png" tvg-id="avto-plus",Авто Плюс
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://31.148.48.15:80/Avto_Plus/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://img.hhcdn.ru/employer-logo/1978551.png",АригУс HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R01_ARIGUS/variant.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://iptvx.one/picons/art-tv.png" tvg-id="art-tv",Арт
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://epg.one/img/9080.png" tvg-id="art-tv",Арт
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://95.47.156.60:8000/play/a011/index.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://iptvx.one/picons/voprosy-i-otvety.png" tvg-id="voprosy-i-otvety",Вопросы и ответы
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://epg.one/img/2451.png" tvg-id="voprosy-i-otvety",Вопросы и ответы
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://188.225.31.197/bpk-tv/000000195/tve/index.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://iptvx.one/picons/glazami-turista.png" tvg-id="glazami-turista",Глазами Туриста HD
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://epg.one/img/2508.png" tvg-id="glazami-turista",Глазами Туриста HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://188.225.31.197/bpk-tv/000001414/tve/index.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://iptvx.one/picons/dialogi-o-rybalke.png" tvg-id="dialogi-o-rybalke",Диалоги о Рыбалке
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://epg.one/img/2627.png" tvg-id="dialogi-o-rybalke",Диалоги о Рыбалке
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://188.225.31.197/bpk-tv/000003174/tve/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-logo="http://stb.fox-tv.fun/images/logo_chanel/DIKOHOTA200.png" tvg-name="dikaya-oxota-hd",Дикая охота HD
+#EXTINF:0 group-title="Познавательные" tvg-logo="http://epg.one/img/2483.png" tvg-name="dikaya-oxota-hd",Дикая охота HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://178.163.38.73:34040/udp/234.0.0.11:2000
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://iptvx.one/picons/domashnie-zhivotnye.png" tvg-id="domashnie-zhivotnye",Домашние животные
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://epg.one/img/520.png" tvg-id="domashnie-zhivotnye",Домашние животные
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://188.225.31.197/bpk-tv/000000146/tve/index.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://iptvx.one/picons/drive.png" tvg-id="drive",Драйв
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://epg.one/img/2443.png" tvg-id="drive",Драйв
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://185.46.16.239:8000/Drayv
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://iptvx.one/picons/zhivaya-planeta.png" tvg-id="zhivaya-planeta",Живая планета
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://epg.one/img/2432.png" tvg-id="zhivaya-planeta",Живая планета
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://185.46.16.239:8000/Zhivaya_Planeta
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://iptvx.one/picons/zagorodnaya-zhizn.png" tvg-id="zagorodnaya-zhizn",Загородная жизнь HD
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://epg.one/img/2298.png" tvg-id="zagorodnaya-zhizn",Загородная жизнь HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://188.225.31.197/bpk-tv/000000289/tve/index.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://iptvx.one/picons/zagorodny-int.png" tvg-id="zagorodny-int",Загородный International HD
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://epg.one/img/2513.png" tvg-id="zagorodny-int",Загородный International HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://livetv.mylifeisgood.net.ru/channels/zagorodint.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://iptvx.one/picons/zootv.png" tvg-id="zootv",Зоо ТВ HD
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://epg.one/img/2431.png" tvg-id="zootv",Зоо ТВ HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://188.225.31.197/bpk-tv/000000260/tve/index.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://iptvx.one/picons/istoria.png" tvg-id="istoria",История
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://epg.one/img/1036.png" tvg-id="istoria",История
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://185.46.16.239:8000/Istoriya
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://iptvx.one/picons/mir-uvlecheniy.png" tvg-id="mir-uvlecheniy",Кто Куда
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://epg.one/img/2467.png" tvg-id="mir-uvlecheniy",Кто Куда
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://188.225.31.197/bpk-tv/000001377/tve/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg",Лекторий Достоевский
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://fl1001.bozztv.com/ushba3/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://uchimznaem.ru/wp-content/uploads/2025/03/group-58.png" tvg-id="moskovsky-obrazovatelny",Московский образовательный
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://epg.one/img/6037.png" tvg-id="moskovsky-obrazovatelny",Московский образовательный
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://retc.educom.ru/mosobrtv/tv2/index.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://iptvx.one/picons/muzhskoy.png" tvg-id="muzhskoy",Мужской HD
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://epg.one/img/2444.png" tvg-id="muzhskoy",Мужской HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://188.225.31.197/bpk-tv/000000286/tve/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-logo="http://stb.fox-tv.fun/images/logo_chanel/NAUKATVRUS200.png" tvg-id="nauka-20",Наука 2.0
+#EXTINF:0 group-title="Познавательные" tvg-logo="http://epg.one/img/723.png" tvg-id="nauka-20",Наука 2.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://178.163.38.73:34040/udp/234.0.0.226:2000
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://iptvx.one/picons/nasha-tema.png" tvg-id="nasha-tema",Наша тема HD
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://epg.one/img/2433.png" tvg-id="nasha-tema",Наша тема HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://live-3.otcnet.ru/nashatema/index.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://iptvx.one/picons/neizvestnaya-rosia.png" tvg-id="neizvestnaya-rosia",Неизвестная Россия HD
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://epg.one/img/9015.png" tvg-id="neizvestnaya-rosia",Неизвестная Россия HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://iptvx.one/picons/oruzhie.png" tvg-id="oruzhie",Оружие
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://epg.one/img/2430.png" tvg-id="oruzhie",Оружие
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://188.225.31.197/bpk-tv/000000308/tve/index.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://iptvx.one/picons/otkryty-mir.png" tvg-id="otkryty-mir",Открытый Мир
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://epg.one/img/2462.png" tvg-id="otkryty-mir",Открытый Мир
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://v4.proofix.ru/0mir/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-logo="http://stb.fox-tv.fun/images/logo_chanel/OHOTAYRYBALKA200.png" tvg-id="oxota-i-rybalka",Охота и рыбалка
+#EXTINF:0 group-title="Познавательные" tvg-logo="http://epg.one/img/2419.png" tvg-id="oxota-i-rybalka",Охота и рыбалка
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://178.163.38.73:34040/udp/234.0.0.230:2000
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://iptvx.one/picons/moya-planeta.png" tvg-id="moya-planeta",Планета HD
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://epg.one/img/675.png" tvg-id="moya-planeta",Планета HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://188.225.31.197/bpk-tv/000001049/tve/index.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://iptvx.one/picons/poexali.png" tvg-id="poexali",Поехали!
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://epg.one/img/2350.png" tvg-id="poexali",Поехали!
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://188.225.31.197/bpk-tv/000002991/tve/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://iptvx.one/picons/pro-business.png" tvg-id="pro-business",Про Бизнес
@@ -692,7 +692,7 @@ http://188.225.31.197/bpk-tv/000002510/tve/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qpe8L27.png",Сити Эдем - АвтоГид
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://cityeden.catcast.tv/content/47515/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/sovsek.png" tvg-yu="sovsek",Совершенно секретно
+#EXTINF:-1 tvg-logo="http://epg.one/img/275.png" tvg-yu="sovsek",Совершенно секретно
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://178.163.38.73:34040/udp/234.0.0.185:2000
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://iptvx.one/picons/tv21plus.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="tv21plus",ТВ-21+
@@ -701,16 +701,16 @@ https://rt-nw-murm-htlive.cdn.ngenix.net/hls/CH_R01_TV21PLUS/variant.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://pic.rutubelist.ru/user/2025-02-10/dd/19/dd197f4b85debc85dc178bb8458b959f.jpg",Телеканал Сок ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://sok.ath.cx:8080/941f070df772290824bdf3906afc01f9/video.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://iptvx.one/picons/teleputeshestvia.png" tvg-id="teleputeshestvia",Телепутешествия
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://epg.one/img/2424.png" tvg-id="teleputeshestvia",Телепутешествия
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://31.148.48.15:80/Teleputeshestviya/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://iptvx.one/picons/tivisi-hd.png" tvg-id="tivisi-hd",ТиВиСи HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://zrnr369ssda.a.trbcdn.net/livemaster/rpwpuqsjap_tvstv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://iptvx.one/picons/tochka-otryva.png" tvg-id="tochka-otryva",Точка отрыва
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://epg.one/img/617.png" tvg-id="tochka-otryva",Точка отрыва
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://188.225.31.197/bpk-tv/000003208/tve/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-logo="http://stb.fox-tv.fun/images/logo_chanel/USADBA200.png" tvg-id="usadba",Усадьба
+#EXTINF:0 group-title="Познавательные" tvg-logo="http://epg.one/img/434.png" tvg-id="usadba",Усадьба
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://178.163.38.73:34040/udp/234.0.0.220:2000
 
