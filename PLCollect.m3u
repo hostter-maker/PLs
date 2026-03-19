@@ -736,10 +736,10 @@ http://193.25.8.59:8000/mtv
 #EXTINF:-1 group-title="Музыка 1" tvg-logo="https://i.imgur.com/L38mC6H.png",California Music Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://hwlive.streamingmediahosting.com/14215-live/0_obd393sh/playlist.m3u8
-#EXTINF:-1 group-title="Музыка 1" tvg-logo="https://photos.live-tv-channels.org/tv-logo/kaloopy-tv-3596.webp",Kaloopy HD
+#EXTINF:-1 group-title="Музыка 1" tvg-logo="https://i.vimeocdn.com/portrait/81065074_100x100?sig=0d776058745f66352506e8329ae7d7d3e7399ab2634089227772d05635b513e0&v=1&region=us",Kaloopy HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/ebe730b7-f364-458e-82e0-2f49dfd9e6c4/0.m3u8
-#EXTINF:-1 group-title="Музыка 1" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/7/74/CARAC1_logo_2023.svg/320px-CARAC1_logo_2023.svg.png",CARAC1
+#EXTINF:-1 group-title="Музыка 1" tvg-logo="https://www.netplus.ch/media/image/0/square/carac1-neg.jpg?80b8288a0303afd736a104388affa9a7",CARAC1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://event.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
 #EXTINF:-1 group-title="Музыка 1" tvg-logo="https://i.postimg.cc/3rkRjpjC/photo-2024-01-14-15-41-50.jpg",CHD-TV RU Rock HD
@@ -2266,8 +2266,3 @@ http://skazka.amgradio.ru/Skazka
 #EXTINF:-1 group-title="Радио",Супердискотека 90-х
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://radiorecord.hostingradio.ru/sd9096.aacp
-
-#EXTGRP:Тест
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2xglh33.png" group-title="Тест",10 Bold Adelaide (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-http://d3rlna7iyyu8wu.cloudfront.net/skip_armstrong/skip_armstrong_multi_language_subs.m3u8
