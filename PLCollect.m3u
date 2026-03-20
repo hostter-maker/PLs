@@ -1099,7 +1099,7 @@ http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-logo="https://tgramcat.com/uploads/images/20250714/BcSqJ2w09WVmNih6ZvP4Fk7e1rn8Go.jpg",A21 Network
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://tv.a21network.ru/stream/37909/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://avatars.mds.yandex.net/i?id=067d5dbc7bbc863527cc5febff2e6e7b-3788053-images-thumbs&n=13" group-title="Спортивные" ,Astrakhan.RU
+#EXTINF:-1 group-title="Спорт" tvg-logo="https://avatars.mds.yandex.net/i?id=067d5dbc7bbc863527cc5febff2e6e7b-3788053-images-thumbs&n=13",Astrakhan.RU
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/f6/87/e3/f687e3b6-6f05-b755-3eeb-69ce1fb30611/source/512x512bb.jpg",Bahrain Sports 1
@@ -1108,84 +1108,90 @@ https://5c7b683162943.streamlock.net/live/sportsone/playlist.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/f6/87/e3/f687e3b6-6f05-b755-3eeb-69ce1fb30611/source/512x512bb.jpg",Bahrain Sports 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://5c7b683162943.streamlock.net/live/bahrainsportstwo/playlist.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://iptvx.one/picons/bein-sports-fta.png",beIN Sports HD
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://epg.one/img/2884.png" tvg-id="bein-sports-1-hk",BeIN Sports 1 [HK] HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://154.197.91.169:8000/play/a0f3/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-logo="https://www.dakotagrappler.com/wp-content/uploads/2023/01/bek-350x250.png",BEK Sports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://iptvx.one/picons/eurosport1.png",Eurosport 1 HD
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://epg.one/img/2052.png" tvg-id="eurosport1",Eurosport 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://188.225.31.197/bpk-tv/000002478/tve/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://iptvx.one/picons/eurosport2.png",Eurosport 2 HD
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://epg.one/img/4313.png" tvg-id="eurosport2",Eurosport 2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://188.225.31.197/bpk-tv/000002479/tve/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://iptvx.one/picons/extreme-sports.png",Extreme Sports HD
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://epg.one/img/2053.png" tvg-id="extreme-sports-ru",Extreme Sports HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://cdn-fr1.lamro.tv/ch265/mono.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://iptvx.one/picons/m1global.png",MMA-TV
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://epg.one/img/2326.png" tvg-id="m1global",MMA-TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://31.148.48.15:80/M1_Global/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://iptvx.one/picons/nhl-network-us.png",NHL Network [US]
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://epg.one/img/4562.png" tvg-id="nhl-network-us",NHL Network [US]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://23.237.104.106:8080/USA_NHL_NETWORK/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://iptvx.one/picons/real-madrid-tv.png",Real Madrid TV
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://epg.one/img/5700.png" tvg-id="real-madrid-tv",Real Madrid TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://iptvx.one/picons/real-madrid-tv.png",Real Madrid TV Espana
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://epg.one/img/5700.png",Real Madrid TV Espana 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://images.squarespace-cdn.com/content/v1/50dd3764e4b0395512980992/1576012305255-S6HVTCU6O9O6RE1ZR88C/RB_unrailistic.jpg",Red Bull TV
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://epg.one/img/6039.png",Red Bull TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://iptvx.one/picons/setanta-sports.png",Setanta Sports 1 HD
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://epg.one/img/7517.png" tvg-id="setanta-sports",Setanta Sports 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://188.225.31.197/bpk-tv/000004498/tve/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://iptvx.one/picons/setanta-sports-plus.png",Setanta Sports 2 HD
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://epg.one/img/2363.png" tvg-id="setanta-sports-plus",Setanta Sports 2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://188.225.31.197/bpk-tv/000004499/tve/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/9b/01/95/9b0195b3-3c4a-48b4-7aee-41978e9a613d/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x630wa.png",Tennis TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://49.0.64.96:8007/TENNIS
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://iptvx.one/picons/trace-sport-stars.png",Trace Sport Stars HD
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://epg.one/img/7507.png" tvg-id="trace-sport-stars-ru",Trace Sport Stars HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://188.225.31.197/bpk-tv/000001122/tve/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Tv-2-sport-premium.png",TV2 Sport Premium
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://cdn-fr1.lamro.tv/ch3077/mono.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://iptvx.one/picons/viasat-sport.png",Viasat Sport HD
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://epg.one/img/2055.png" tvg-id="viasat-sport",Viasat Sport HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://188.225.31.197/bpk-tv/000000135/tve/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://iptvx.one/picons/mamonttv.png",Мамонт ТВ HD
+#EXTINF:-1 group-title="Спорт" tvg-logo="https://iptvx.one/picons/mamonttv.png" tvg-id="mamonttv",Мамонт ТВ HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://live-saha.cdnvideo.ru/saha2/mamont_live.smil/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://iptvx.one/picons/match-tv.png",Матч! ТВ HD
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://epg.one/img/2051.png" tvg-id="match-tv",Матч! ТВ HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://iptvx.one/picons/match-tv.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="match-tv",Матч! ТВ
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://epg.one/img/2051.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="match-tv",Матч! ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://iptvx.one/picons/match-boec.png",МАТЧ! БОЕЦ
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://epg.one/img/2054.png" tvg-id="match-boets",МАТЧ! БОЕЦ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://87.120.142.11:18000/Match!
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://iptvx.one/picons/match-igra.png",МАТЧ! Игра
+#EXTINF:-1 group-title="Спорт" tvg-logo="https://iptvx.one/picons/match-igra.png" tvg-id="match-igra",МАТЧ! Игра
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://87.120.142.11:18000/Match!Igra
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://iptvx.one/picons/start.png",Старт
+#EXTINF:-1 group-title="Спорт" tvg-logo="https://iptvx.one/picons/sila.png" tvg-id="sila",Сила HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+http://178.163.38.73:34040/udp/234.0.0.6:2000
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://epg.one/img/2530.png" tvg-id="start",Старт
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://bl.webcaster.pro/media/playlist/api_free_fd14ed34164a52d1090e4cb9db93683f/4_79276517/1080p/d33bbf3e6ac7c41524eae5d1c3d9258d/4873167902.m3u8?live=15&ref=https://tvstart.ru/channels/tv-start/
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://iptvx.one/picons/start-basket.png",Старт Баскет
+#EXTINF:-1 group-title="Спорт" tvg-logo="https://iptvx.one/picons/start-basket.png" tvg-id="start-basket",Старт Баскет
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://bl.webcaster.pro/media/playlist/free_621d169e5c631c638136df3cb136c5c9/33_68881676/1080p/b32eaae5fbf1d2b8211543566a1d9a78/4914392769.m3u8?live=15&ref=https://tvstart.ru/channels/start-basket-test/
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://iptvx.one/picons/start-triumf.png",Старт Триумф
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://epg.one/img/9112.png" tvg-id="start-triumf",Старт Триумф HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-https://bl.webcaster.pro/media/playlist/free_672d700f2f9510be660253786e4406fe_hd/33_85479982/1080p/4eaec8986e2012fb936478856fbf3b4b/4818731006.m3u8?live=15&ref=https://tvstart.ru/ru/pages/start-triumph/
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://iptvx.one/picons/sportivny.png",ТВ Спорт HD
+http://178.163.38.73:34040/udp/234.0.0.14:2000
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://epg.one/img/4678.png" tvg-id="sportivny",ТВ Спорт HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://live-3.otcnet.ru/sportivny/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://iptvx.one/picons/ufc.png",Удар HD
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://epg.one/img/2480.png" tvg-id="ufc",Удар HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://188.225.31.197/bpk-tv/000007802/tve/index.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://epg.one/img/2782.png" tvg-id="football-ru",Футбол
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+http://178.163.38.73:34040/udp/234.0.0.197:2000
 
 #EXTGRP:Разное
 #EXTINF:-1 group-title="Разное" tvg-logo="https://cdn.tlgbot.ru/i/b2/07/b207bacb6ee875ebd7f0fea63f69da0b.jpg",1Lurer
