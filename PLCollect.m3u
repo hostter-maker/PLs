@@ -398,31 +398,31 @@ http://178.163.38.73:34040/udp/234.0.0.114:2000
 #EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://iptvx.one/picons/nowy-igrowoj.png" tvg-id="nowy-igrowoj",Новый Игровой Канал
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://188.225.31.197/bpk-tv/000008615/tve/index.m3u8
-#EXTINF:0 group-title="Кино и сериалы" tvg-logo="http://epg.one/img/1754.png" tvg-id="ntv-serial",НТВ Сериал HD
+#EXTINF:0 group-title="Кино и сериалы" tvg-logo="http://epg.one/img/1754.png" tvg-id="ntv-serial",НТВ Сериал
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://cdn.ntv.ru/th_serial/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://epg.it999.ru/img/1754.png",НТВ Сериал Балабол
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://epg.one/img/1754.png",НТВ Сериал Балабол
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://cdn-dvr.ntv.ru/Balabol/tracks-v1a1/rewind-240.ts.m3u8
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://epg.it999.ru/img/1754.png",НТВ сериал Невский
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://epg.one/img/1754.png",НТВ сериал Невский
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://cdn-dvr.ntv.ru/Nevskiy/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://epg.it999.ru/img/1754.png",НТВ сериал Первый Отдел
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://epg.one/img/1754.png",НТВ сериал Первый Отдел
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://cdn-dvr.ntv.ru/Perviy_otdel/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", tvg-logo="http://epg.it999.ru/img/1754.png",НТВ сериал Пес
+#EXTINF:-1 group-title="Кино и сериалы", tvg-logo="http://epg.one/img/1754.png",НТВ сериал Пес
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://cdn-dvr.ntv.ru/Pes/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://epg.it999.ru/img/1754.png",НТВ Сериал Пять минут тишины
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://epg.one/img/1754.png",НТВ Сериал Пять минут тишины
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://cdn-dvr.ntv.ru/5_minut_tishiny/tracks-v1a1/rewind-240.ts.m3u8
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://epg.it999.ru/img/1754.png",НТВ сериал Скорая Помощь
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://epg.one/img/1754.png",НТВ сериал Скорая Помощь
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://cdn-dvr.ntv.ru/Skoraja_pomosh/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://epg.it999.ru/img/1754.png",НТВ сериал Следствие вели ...
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://epg.one/img/1754.png",НТВ сериал Следствие вели ...
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://cdn-dvr.ntv.ru/sledstvie/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://epg.it999.ru/img/1754.png",НТВ Шеф
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://epg.one/img/1754.png",НТВ сериал Шеф
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://cdn-dvr.ntv.ru/Shef/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://epg.one/img/2041.png" tvg-id="ntv-xit",НТВ Хит
@@ -434,7 +434,7 @@ http://5.188.158.65:4040/IPTVPLAYPAMYAT.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://epg.one/img/11469.png" tvg-id="patriot",Патриот
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://185.46.48.18:80/asvtv/index.m3u8
-#EXTINF:0 group-title="Кино и сериалы" tvg-logo="hhttp://epg.one/img/2447.png" tvg-id="pobeda",Победа HD
+#EXTINF:0 group-title="Кино и сериалы" tvg-logo="http://epg.one/img/2447.png" tvg-id="pobeda",Победа
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://188.225.31.197/bpk-tv/000004534/tve/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://epg.one/img/994.png" tvg-id="russky-bestseller",Русский Бестселлер
@@ -452,7 +452,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://epg.one/img/2404.png" tvg-id="feniks-plus-kino",Феникс+ Кино
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://188.225.31.197/bpk-tv/000000125/tve/index.m3u8
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://iptvx.one/picons/khit.png" tvg-id="khit",Хит
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://epg.one/img/2833.png" tvg-id="khit",Хит
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://178.163.38.73:34040/udp/234.0.0.184:2000
 #EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://iptvx.one/picons/chestny-detektiv.png" tvg-id="chestny-detektiv",Честный детектив HD
