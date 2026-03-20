@@ -135,7 +135,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8
 http://rt-doc.rttv.com/dvr/rtdru/rtdru1080.m3u8
 
 #EXTGRP:Кинозал
-#EXTINF:-1 group-title="Кинозал" tvg-logo="https://1.mediamaniya.site/_pu/2/46031484.jpg",Alpha Cinema HD
+#EXTINF:-1 group-title="Кинозал" tvg-logo="https://1.mediamaniya.site/_pu/2/46031484.jpg",Alpha cinema HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
 #EXTINF:-1 group-title="Кинозал" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png",Alpha Moretime HD
@@ -177,7 +177,7 @@ http://188.225.31.197/bpk-tv/000000006/tve/index.m3u8
 #EXTINF:-1 group-title="Кинозал" tvg-logo="http://epg.one/img/3361.png" tvg-id="trashtv",Trash HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://178.163.38.73:34040/udp/234.0.0.3:2000
-#EXTINF:-1 group-title="Кинозал" tvg-logo="http://epg.one/img/267.png" tvg-id="tv1000",Viju TV1000 HD
+#EXTINF:-1 group-title="Кинозал" tvg-logo="http://epg.one/img/127.png" tvg-id="tv1000",Viju TV1000 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://188.225.31.197/bpk-tv/000003747/tve/index.m3u8
 #EXTINF:-1 group-title="Кинозал" tvg-logo="http://epg.one/img/125.png" tvg-id="tv1000-action",Viju TV1000 Action HD
@@ -201,7 +201,7 @@ http://178.163.38.73:34040/udp/234.0.0.99:2000
 #EXTINF:-1 group-title="Кинозал" tvg-logo="https://ritsatv.ru/files/poster/original/901076.webp",Видеокассета VHS HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://live20.bozztv.com/akamaissh101/ssh101/livevhs90e/playlist.m3u8
-#EXTINF:-1 group-title="Кинозал" tvg-logo="http://epg.one/img/11344.png" tvg-id="gosfilmofond-mv,Госфильмофонд. Машина времени HD
+#EXTINF:-1 group-title="Кинозал" tvg-logo="http://epg.one/img/11344.png" tvg-id="gosfilmofond-mv",Госфильмофонд. Машина времени HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://178.163.38.73:34040/udp/234.0.0.190:2000
 #EXTINF:-1 group-title="Кинозал" tvg-logo="http://epg.one/img/2020.png" tvg-id="domkino-premium",Дом кино Премиум HD
@@ -231,7 +231,7 @@ http://31.148.48.15:80/Kinopokaz/index.m3u8
 #EXTINF:-1 group-title="Кинозал" tvg-logo="http://epg.one/img/2407.png" tvg-id="kinosat",Киносат
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://188.225.31.197/bpk-tv/000003871/tve/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-logo="http://epg.one/img/2509.png" tvg-name="lubimoe",Любимое 
+#EXTINF:0 group-title="Кинозал" tvg-logo="http://epg.one/img/477.png" tvg-name="lubimoe-kino",Любимое Кино
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://188.225.31.197/bpk-tv/000000283/tve/index.m3u8
 #EXTINF:-1 group-title="Кинозал" tvg-logo="https://iptvx.one/picons/mirovoe-kino-kz.png" tvg-name="mirovoe-kino-kz",Мировое Кино KZ HD
