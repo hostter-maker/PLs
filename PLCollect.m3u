@@ -1218,6 +1218,12 @@ http://31.148.48.15:80/Eda_Premium_HD/index.m3u8
 #EXTINF:-1 group-title="Разное" tvg-logo="https://iptvx.one/picons/shop24.png",Leomax 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://tvshops.bonus-tv.ru:80/cdn/shop24/playlist.m3u8
+#EXTINF:-1 group-title="Разное" tvg-logo="https://i.imgur.com/JhrTB82.png",Life TV Estonia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+https://lifetv.bitflip.ee/live/stream2.m3u8
+#EXTINF:-1 group-title="Разное" tvg-logo="https://i.imgur.com/JhrTB82.png",Life TV Europe
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+https://lifetv.bitflip.ee/live/stream1.m3u8
 #EXTINF:-1 group-title="Разное" tvg-logo="https://iptvx.one/picons/luxury-hd.png",Luxury HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://s1.tv-nano.com/Luxury_rec/tracks-v1a1/mono.ts.m3u8
