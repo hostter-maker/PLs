@@ -711,7 +711,7 @@ http://188.225.31.197/bpk-tv/000003208/tve/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://178.163.38.73:34040/udp/234.0.0.220:2000
 
-#EXTGRP:Музыка 1
+EXTGRP:Музыка 1
 #EXTINF:-1 group-title="Музыка 1" tvg-logo="http://epg.one/img/4037.png" tvg-id="1hd",1HD Music HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://188.225.31.197/bpk-tv/000001020/tve/index.m3u8
@@ -724,10 +724,10 @@ http://31.148.48.15:80/Bridge_TV/index.m3u8
 #EXTINF:-1 group-title="Музыка 1" tvg-logo="http://epg.one/img/4373.png" tvg-id="bridge-tv-classic",Bridge TV Classic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://31.148.48.15:80/Bridge_TV_Classic/index.m3u8
-#EXTINF:-1 group-title="Музыка" tvg-logo="http://epg.one/img/2022.png" tvg-id="bridge-hd",Bridge TV Deluxe
+#EXTINF:-1 group-title="Музыка 1" tvg-logo="http://epg.one/img/2022.png" tvg-id="bridge-hd",Bridge TV Deluxe
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://31.148.48.15/Bridge_TV_HD/index.m3u8
-#EXTINF:-1 group-title="Музыка"  tvg-logo="http://epg.one/img/2024.png" tvg-id="bridge-tv-dance",BRIDGE TV Hits
+#EXTINF:-1 group-title="Музыка 1"  tvg-logo="http://epg.one/img/2024.png" tvg-id="bridge-tv-dance",BRIDGE TV Hits
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://31.148.48.15/Bridge_TV_Dance/index.m3u8
 #EXTINF:-1 group-title="Музыка 1" tvg-logo="http://epg.one/img/591.png" tvg-id="bridge-tv-ruxit",Bridge TV Русский Хит
@@ -949,7 +949,7 @@ http://cityeden.catcast.tv/content/34100/index.m3u8
 #EXTINF:-1 group-title="Музыка 1" tvg-logo="https://i.imgur.com/38Q5L5W.png",Сити Эдем - Бирма
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://cityeden.catcast.tv/content/34364/index.m3u8
-#EXTINF:-1 group-title="Музыка" tvg-logo="https://www.cityeden.info/logotv/siti_ehdem-meditacija.png",Сити Эдем - Музыка для медитации
+#EXTINF:-1 group-title="Музыка 1" tvg-logo="https://www.cityeden.info/logotv/siti_ehdem-meditacija.png",Сити Эдем - Музыка для медитации
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://cityeden.catcast.tv/content/47410/index.m3u8
 #EXTINF:-1 group-title="Музыка 1" tvg-logo="https://i.imgur.com/V3MTfyc.png",Сити Эдем - Сиртаки TV
