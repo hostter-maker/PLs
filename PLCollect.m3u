@@ -974,9 +974,6 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
 #EXTINF:-1 group-title="Детские" tvg-logo="http://epg.one/img/2011.png" tvg-id="ani",Ani
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://185.46.16.239:8000/Ani
-#EXTINF:0 group-title="Детские" catchup="shift" catchup-days="0" tvg-logo="http://stb.fox-tv.fun/images/logo_chanel/bunny.png",BUNNY
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-http://ost.fox-tv.fun/1OD90b2tlbj1bc3RiX3Rva2VuXSIsImwiOiI4NzE3MDg3MSIsInAiOiI4NzE3MDg3MTk4ZjhhYjg3IiwiYyI6Ijg0NyIsInQiOiJkM2ExOWU5OGQ4NWVhMjZlYjdhYTA3NWJjZTM3NWNlOSIsImQiOiI3MDI3MiIsInIiOiIxNjQ1OTUiLCJtIjoidHYifQeyJ1IjoiaHR0cDovL3N0cjYub3h0dmUubGl2ZTo4MDgwL0JVTk5ZSEQvdmlkZW8ubTN/video.m3u8
 #EXTINF:-1 group-title="Детские" tvg-logo="http://epg.one/img/9183.png" tvg-id="cartoon-classics",Cartoon Classics
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://193.25.8.59:8000/Avto24
@@ -989,15 +986,9 @@ http://188.225.31.197/bpk-tv/000000160/tve/index.m3u8
 #EXTINF:-1 group-title="Детские" tvg-logo="https://i.postimg.cc/RCgvJhdQ/image.png",CHD TV HD Мультизона
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://194.26.229.213/souzmultfilm/index.m3u8
-#EXTINF:-1 group-title="Детские" tvg-logo="http://epg.one/img/2156.png" tvg-id="ducktv",Duck TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-https://cdn-fr1.lamro.tv/ch5726/mono.m3u8
 #EXTINF:-1 group-title="Детские" tvg-logo="http://epg.one/img/810.png" tvg-id="gulli-girl",Gulli
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://178.163.38.73:34040/udp/234.0.0.153:2000
-#EXTINF:0 group-title="Детские" catchup="shift" catchup-days="0" tvg-logo="http://epg.one/img/6166.png" tvg-id="minimax-animated-ms",MS ANIMATED
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-http://ost.fox-tv.fun/ubTN1OD90b2tlbj1bc3RiX3Rva2VuXSIsImwiOiI4NzE3MDg3MSIsInAiOiI4NzE3MDg3MTk4ZjhhYjg3IiwiYyI6Ijg0OCIsInQiOiJkM2ExOWU5OGQ4NWVhMjZlYjdhYTA3NWJjZTM3NWNlOSIsImQiOiI3MDI3MiIsInIiOiIxNjQ1OTUiLCJtIjoidHYifQeyJ1IjoiaHR0cDovL3N0cjYub3h0dmUubGl2ZTo4MDgwL01TQU5JTUFURUQvdmlkZW8/video.m3u8
 #EXTINF:-1 group-title="Детские" tvg-logo="http://epg.one/img/423.png" tvg-id="nickelodeon-ru",Nickelodeon HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://188.225.31.197/bpk-tv/000000499/tve/index.m3u8
@@ -1019,9 +1010,6 @@ http://188.225.31.197/bpk-tv/000000048/tve/index.m3u8
 #EXTINF:-1 group-title="Детские" tvg-logo="http://epg.one/img/923.png" tvg-id="detsky-mir",Детский мир HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://188.225.31.197/bpk-tv/000000049/tve/index.m3u8
-#EXTINF:-1 group-title="Детские" tvg-logo="http://epg.one/img/2438.png" tvg-id="ginger-hd",Капитан Фантастика HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-https://cdn-fr1.lamro.tv/Kapitan_Fantastika/mono.m3u8
 #EXTINF:-1 group-title="Детские" tvg-logo="http://epg.one/img/740.png" tvg-id="karusel",Карусель
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
@@ -1063,16 +1051,10 @@ http://sirius.greenhosting.ru/PingvinRu/tracks-v1a1/mono.m3u8
 http://31.148.48.15:80/Rizhiy/index.m3u8
 #EXTINF:-1 group-title="Детские" tvg-logo="http://epg.one/img/2442.png" tvg-id="smaylik-tv",Смайлик ТВ HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-https://cdn-fr1.lamro.tv/ch4350/mono.m3u8
+https://5f05e059699ae.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
 #EXTINF:-1 group-title="Детские" tvg-logo="http://epg.one/img/7669.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="solnce",Солнце
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8
-#EXTINF:0 group-title="Детские" tvg-id="sts-kids-hd" arc-time="120" catchup="shift" catchup-days="5" tvg-logo="http://stb.fox-tv.fun/images/logo_chanel/STSKIDS2001.png",СТС Kids HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-http://ost.fox-tv.fun/tM3U4P3Rva2VuPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly9zdHI2Lm94dHZlLmxpdmU6ODA4MC9zdHNraWRzSEQvdmlkZW8tdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6Ijg3MTcwODcxIiwicCI6Ijg3MTcwODcxOThmOGFiODciLCJjIjoiMzciLCJ0IjoiZDNhMTllOThkODVlYTI2ZWI3YWEwNzViY2UzNzVjZTkiLCJkIjoiNzAyNzIiLCJyIjoiMTY0NTk1IiwibSI6InR2In0eyJ1IjoiaHR0cDovL3N0cjYub3h0dmUubGl2ZTo4MDgwL3N0c2tpZHNIRC92aWRlby5/video.m3u8
-#EXTINF:-1 group-title="Детские" tvg-logo="http://epg.one/img/2288.png" tvg-id="super",Суббота! HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-https://cdn-fr1.lamro.tv/ch505/mono.m3u8
 #EXTINF:-1 group-title="Детские" tvg-logo="http://epg.one/img/2288.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="super",Суббота!
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
@@ -1108,15 +1090,9 @@ http://188.225.31.197/bpk-tv/000002478/tve/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-logo="http://epg.one/img/4313.png" tvg-id="eurosport2",Eurosport 2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://188.225.31.197/bpk-tv/000002479/tve/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-logo="http://epg.one/img/2053.png" tvg-id="extreme-sports-ru",Extreme Sports HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-https://cdn-fr1.lamro.tv/ch265/mono.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-logo="http://epg.one/img/2326.png" tvg-id="m1global",MMA-TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://31.148.48.15:80/M1_Global/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-logo="http://epg.one/img/4562.png" tvg-id="nhl-network-us",NHL Network [US]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-http://23.237.104.106:8080/USA_NHL_NETWORK/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-logo="http://epg.one/img/5700.png" tvg-id="real-madrid-tv",Real Madrid TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
@@ -1138,9 +1114,6 @@ http://49.0.64.96:8007/TENNIS
 #EXTINF:-1 group-title="Спорт" tvg-logo="http://epg.one/img/7507.png" tvg-id="trace-sport-stars-ru",Trace Sport Stars HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://188.225.31.197/bpk-tv/000001122/tve/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Tv-2-sport-premium.png",TV2 Sport Premium
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-https://cdn-fr1.lamro.tv/ch3077/mono.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-logo="http://epg.one/img/2055.png" tvg-id="viasat-sport",Viasat Sport HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://188.225.31.197/bpk-tv/000000135/tve/index.m3u8
