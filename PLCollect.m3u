@@ -305,15 +305,15 @@ http://5.188.158.65:4040/IPTVPLAYUZHASTIK.tv/video.m3u8?token=lqRGka5-YwwqF0
 http://5.188.158.65:4040/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=lqRGka5-YwwqF0
 
 #EXTGRP:Кино и сериалы
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://epg.one/img/935.png" tvg-id="sony-turbo",.Black HD
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://epg.one/img/935.png" tvg-id="sony-turbo",.Black
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-http://188.237.47.212:6007
+http://188.225.31.197/bpk-tv/000000520/tve/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://epg.one/img/311.png" tvg-id="sony-tv",.Red HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://193.25.8.59:8000/set
 #EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://epg.one/img/516.png" tvg-id="sony-scifi",.Sci-Fi HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-http://188.237.47.212:6001
+http://178.163.38.73:34040/udp/234.0.0.13:2000
 #EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://epg.one/img/1371.png" tvg-id="amedia1",Amedia 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://188.225.31.197/bpk-tv/000000710/tve/index.m3u8
