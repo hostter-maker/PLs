@@ -599,9 +599,6 @@ http://31.148.48.15:80/Avto_Plus/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://img.hhcdn.ru/employer-logo/1978551.png",АригУс HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R01_ARIGUS/variant.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="http://epg.one/img/9080.png" tvg-id="art-tv",Арт
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-http://95.47.156.60:8000/play/a011/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="http://epg.one/img/2451.png" tvg-id="voprosy-i-otvety",Вопросы и ответы
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://188.225.31.197/bpk-tv/000000195/tve/index.m3u8
