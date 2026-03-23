@@ -1,11 +1,5 @@
 #EXTM3U deinterlace=1 m3uautoload=1 url-tvg="https://iptvx.one/EPG; http://epg.one/epg.xml.gz" refresh="86400" tvg-shift=0 cache=500
 
-#EXTGRP:Тест
-#EXTINF:-1 group-title="Тест" tvg-id="TVM3.ch@SD",TVM 3 (1080p)
-https://cache1a.netplus.ch/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzY4MTg5NzQyIiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy90dm0zL2Jyb3dzZXItSExTOC8iLCJzZXNzaW9uX2Nkbl9pZCI6IjNhZmJlZTIxMmU1NjUyODEiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzEwLjAuMjI5LjE5Iiwic2Vzc2lvbl90aW1lb3V0IjowLCJhdWQiOiI1MyIsInNvdXJjZXMiOls0OF19.N29uj_Xo3YmdQUboW5e45wx4lUey-utXtC6RpbbCGgJ8uCl2ngejd8tu_S-3tv7s02OtkHo4Rkf7mitOx_7lcA==/live/eds/tvm3/browser-HLS8/tvm3.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="TVM3.ch@SD",TVM3 (1080p)
-https://livevideo.infomaniak.com/streaming/livecast/tvm3/playlist.m3u8
-
 #EXTGRP:Вещание
 #EXTINF:-1 group-title="Вещание" tvg-logo="http://epg.one/img/2265.png" tvg-id="360-podmoskovie",360° HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
@@ -928,7 +922,7 @@ https://myradio24.org/tisradio_video.m3u8
 #EXTINF:-1 group-title="Музыка 1" tvg-logo="https://iptvx.one/picons/tvm3-ch.png" tvg-id="tvm3-ch",TVM3 [CH]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://livevideo.infomaniak.com/streaming/livecast/tvm3/playlist.m3u8
-#EXTINF:-1 group-title="Музыка 1" tvg-logo="https://k20.usastreams.com:8081/tvsur/index.m3u8",TVSur Canal ULR [Costa Rica]
+#EXTINF:-1 group-title="Музыка 1" tvg-logo="https://play-lh.googleusercontent.com/rpzYoUkH9UpljbF7zMuBAY290pKFx9k_mTgKQ08T-4DIl_rSxLqaOZbGVR4qNbdVts4",TVSur Canal ULR [Costa Rica]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://k20.usastreams.com:8081/tvsur/index.m3u8
 #EXTINF:-1 group-title="Музыка 1" tvg-logo="https://sun9-39.userapi.com/s/v1/ig2/_dP5a5YnYk5YxJam9uFR2AAzGLLn2Wk41U3dy2zub6l86LYAiiYYXzV-wtZnoQc7ocwIhecD2-Qg28fS-jADvF-x.jpg?quality=95&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720&from=bu&cs=720x0",Ultimate Fashion House Mafia
