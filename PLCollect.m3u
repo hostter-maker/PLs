@@ -970,10 +970,10 @@ http://cqw2lystveu.a.trbcdn.net/livemaster/7ak8t_live-hv25n82a0l8.smil/playlist.
 #EXTINF:-1 group-title="Музыка 1" tvg-logo="https://i.imgur.com/ozEqob9.png",Сити Эдем - Play
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://cityeden.catcast.tv/content/34100/index.m3u8
-#EXTINF:-1 group-title="Музыка 2" tvg-logo="https://i.imgur.com/38Q5L5W.png",Сити Эдем - Бирма
+#EXTINF:-1 group-title="Музыка 1" tvg-logo="https://i.imgur.com/38Q5L5W.png",Сити Эдем - Бирма
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://cityeden.catcast.tv/content/34364/index.m3u8
-#EXTINF:-1 group-title="Музыка 2" tvg-logo="https://i.imgur.com/V3MTfyc.png",Сити Эдем - Сиртаки TV
+#EXTINF:-1 group-title="Музыка 1" tvg-logo="https://i.imgur.com/V3MTfyc.png",Сити Эдем - Сиртаки TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://cityeden.catcast.tv/content/46421/index.m3u8
 #EXTINF:-1 group-title="Музыка 1" tvg-logo="http://epg.one/img/5369.png" tvg-id="radio-strana-fm-tv",Страна FM
@@ -1052,7 +1052,7 @@ http://188.225.31.197/bpk-tv/000000160/tve/index.m3u8
 #EXTINF:-1 group-title="Детские" tvg-logo="https://i.postimg.cc/RCgvJhdQ/image.png",CHD TV Мультизона HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://194.26.229.213/souzmultfilm/index.m3u8
-#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://i.imgur.com/odKqEZu.png",DTR Zona 2
+#EXTINF:-1 group-title="Детские" tvg-logo="https://i.imgur.com/odKqEZu.png",DTR Zona 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://kino-stream.online/hls/DTRZONA2.m3u8
 #EXTINF:-1 group-title="Детские" tvg-logo="http://epg.one/img/810.png" tvg-id="gulli-girl",Gulli
@@ -2325,6 +2325,7 @@ https://5a1178b42cc03.streamlock.net/shamshadtelevision/shamshadtelevision/playl
 https://59nyqa5elwap-hls-live.5centscdn.com/Sharq/eec89088ee408b80387155272b113256.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Тест" tvg-id="TamadonTV.af@SD",Tamadon TV (720p)
 https://hls.tamadon.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="TOLOnews.af@SD",Tolo News (720p)
 https://raw.githubusercontent.com/taodicakhia/IPTV_Exception/master/channels/af/tolonews.m3u8
 #EXTINF:-1 group-title="Тест" tvg-id="AlbKanaleMusicTV.al@SD",AlbKanale Music TV (720p)
 https://albportal.net/albkanalemusic.m3u8
