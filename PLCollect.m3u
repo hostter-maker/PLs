@@ -2242,3 +2242,1964 @@ https://stream.yamal1.ru/hls/live/stream.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-logo="http://epg.one/img/9329.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="yamal-region",Ямал регион (Салехард)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_YAMREG_URAL_YNF/variant.m3u8
+
+#EXTGRP:Тест
+#EXTINF:-1 group-title="Тест" tvg-id="123tv.de@SD",1-2-3 TV (270p)
+https://123tv-mx1.flex-cdn.net/index.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="3sat.de@SD",3sat (720p) [Geo-blocked]
+https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="AdventureEarth.de@SD",Adventure Earth (1080p)
+https://a57e9c69976649b582a8d7604c00e69a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AdventureEarth/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="AdventureEarth.de@SD",Adventure Earth (720p)
+https://autentic-adventure-earth-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="AlexBerlin.de@SD",Alex Berlin (1080p)
+https://alex-stream.rosebud-media.de/bounce/alexlivetv50.smil/index.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="AllgauTV.de@SD",Allgäu TV (1080p)
+https://stream01.welocal.stream/stream/fhd-allgaeutv_25679/ngrp:stream_all/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="AltenburgTV.de@SD",Altenburg TV (1080p)
+https://58de7a369a9c4.streamlock.net/abgtv/abgtv_1080p/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="ANIMALKINGDOM.de@SD",ANIMAL KINGDOM (720p)
+https://cdn6.goprimetime.info/feed/202306140918/LC18/index.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="AnixePlus.de@SD",Anixe + (360p)
+https://ma.anixa.tv/clips/stream/anixesd/index.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="AnixeHDSerie.de@SD",Anixe HD Serie (360p)
+https://ma.anixa.tv/clips/stream/anixehd/index.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="ARDalpha.de@SD",ARD-alpha (720p) [Not 24/7]
+https://brlive-lh.akamaihd.net/i/bralpha_germany@119899/master.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="ARDalpha.de@SD",ARD-alpha (720p)
+https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="AristoTV.de@SD",Aristo TV (360p)
+https://ma.anixa.tv/clips/stream/aristo/index.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="arte.de@SD",arte (1080p)
+http://c3921155.edmonst.net/iptv/65C7UBRRW8GHQVYPH2MQT3SA/15171/index.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="arte.de@SD",ARTE (720p) [Geo-blocked]
+https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/index.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="AugsburgTV.de@SD",Augsburg TV (1080p)
+https://stream02.welocal.stream/stream/fhd-augsburgtv_104951/ngrp:stream_all/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="AugsburgTV.de@SD",Augsburg TV (a.tv) (1080p) [Not 24/7]
+https://augsburgtv.iptv-playoutcenter.de/augsburgtv/augsburgtv.stream_1/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="AutenticHistory.de@SD",Autentic History (1080p)
+https://9e754fa707344ccca6d84955c8fcaf36.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticHistory/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="AutenticTravel.de@SD",Autentic Travel (1080p)
+https://cb0c87cc605942ff9766a4e6744bbadc.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticTravel/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="BadenTV.de@SD",Baden TV (1080p) [Not 24/7]
+http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="BadenTV.de@SD",Baden TV (1080p) [Not 24/7]
+http://badentv-stream2.siebnich.info/rtplive/btv.stream/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="BadenTV.de@SD",Baden TV (1080p) [Not 24/7]
+https://cdn.icu.de/rtplive/btv.stream/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="BadenTVSud.de@SD",Baden TV Süd (480p)
+https://cdn.icu.de/rtplive/smil:btvsued.smil/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="BibelTV.de@SD",Bibel TV (720p)
+https://bibint01.iptv-playoutcenter.de/bibint01/bibint01.stream_all/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="BibelTVImpuls.de@SD",Bibel TV Impuls (720p)
+https://bibeltv02.iptv-playoutcenter.de/bibeltv02/bibeltv02.stream_1/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="BibelTVMusik.de@SD",Bibel TV Musik (720p)
+https://bibeltv03.iptv-playoutcenter.de/bibeltv03/bibeltv03.stream_1/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="BLKRegionalTV.de@SD",BLK Regional TV (1080p)
+https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:BLKonline_high/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="BLKRegionalTV.de@SD",BLK TV (1080p) [Not 24/7]
+https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/BLKonline_high/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="BLKRegionalTV.de@SD",BLK TV Hohenmölsen (1080p)
+https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:BLKonline_high/playlist.m3u8?ref=medienportal-sachsen-
+#EXTINF:-1 group-title="Тест" tvg-id="BRFernsehen.de@Nord",BR Fernsehen Nord (720p)
+https://mcdn.br.de/br/fs/bfs_nord/hls/de/master.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="SachsenFernsehenChemnitz.de@SD",Chemnitz Fernsehen (1080p)
+https://chemnitz.iptv-playoutcenter.de/chemnitz/chemnitzfernsehen.stream_1/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="CiraTV.de@SD",Cira TV
+https://cira-tv.akamaized.net/hls/stream_0.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="DaVinciAsia.de@Vietnam",Da Vinci Asia Vietnam
+https://liveh12.vtvprime.vn/hls/DAVINVY/04.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="DasErste.de@SD",Das Erste (720p)
+https://s6.hopslan.com/ardX/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="DasErste.de@HD",Das Erste HD (1080p)
+https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="DASDING908.de@SD",DASDING 90.8 (720p)
+https://swrdasdingvr-hls.akamaized.net/hls/live/2018681/dasdingvr/master.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="DeluxeDance.de@SD",Deluxe Dance (1080p)
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="DeluxeLounge.de@SD",Deluxe Lounge (720p)
+https://jmp2.uk/stvp-CHAJ0500413A
+#EXTINF:-1 group-title="Тест" tvg-id="DeluxeMusic.de@SD",Deluxe Music (720p)
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="DeluxeRap.de@SD",Deluxe Rap (1080p)
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="DMF.de@SD",DMF (1080p) [Not 24/7]
+https://d-m-f.iptv-playoutcenter.de/dmf/dmf1/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="Dokusat.de@SD",Dokusat (1080p)
+https://muc3.iptv-playoutcenter.de/dokusat/dokusat1/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="SachsenFernsehenDresden.de@SD",Dresden Fernsehen (1080p) [Not 24/7]
+https://dresden.iptv-playoutcenter.de/dresden/dresdenfernsehen.stream_1/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="DW.de@Arabic",DW Arabic (1080p)
+https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/master.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="DW.de@English",DW English (1080p)
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="DW.de@English",DW English (720p) [Geo-blocked]
+https://live.fptplay53.net/fnxhd2/dwenglish_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="DW.de@Espanol",DW Espanol (1080p)
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="DW.de@Russian",DW Russian (1080p)
+https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/master.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="EchtJetztTV.de@SD",EchtJetzt TV (720p)
+https://bibeltv03.iptv-playoutcenter.de/bibeltv03/bibeltv03.stream_all/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="emsTVLingen.de@SD",ems TV Lingen (720p)
+https://h058.video-stream-hosting.de/ev1tv-live/_definst_/mp4:stream1.stream/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="ErzTVStollberg.de@SD",Erz-TV Stollberg (576p)
+https://5acade5fc0c29.streamlock.net/kabeljournal/live2020.stream/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="EuroAlTV.de@SD",EuroAl TV (720p)
+http://5.135.92.131:1935/live/euroAl/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="Filstalwelle.de@SD",Filstalwelle (1080p)
+https://h055.video-stream-hosting.de/filstalwelle-live/_definst_/mp4:livestream/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="FinestTV.de@SD",Finest TV (288p) [Not 24/7]
+https://media.finest.tv/hls/live.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="FolxMusicTelevision.de@SD",FOLX Music (1080p)
+https://cdne.folxplay.tv/folx-trz/streams/ch-4/master.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="FrankenFernsehen.de@SD",Franken Fernsehen (Nürnberg) (1080p) [Not 24/7]
+https://frankentv.iptv-playoutcenter.de/frankentv/frankentv.stream_1/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",FrankenPlus (1080p)
+https://stream01.welocal.stream/stream/fhd-frankenplus_119/ngrp:stream_all/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="Hamburg1.de@SD",Hamburg 1 (1080p)
+https://stream.hamburg1.de/live_abr/hamburg1_abr/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="Handystar.de@SD",Handystar (404p) [Not 24/7]
+https://sparhandytv.cdn.ses-ps.com/live/channel01/hls/index.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="HopeChannelGerman.de@SD",Hope Channel German (1080p)
+https://customer-x8zydurm357k8j9p.cloudflarestream.com/5b46490d20cdd87fcac238b0027813e0/manifest/video.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="hrfernsehen.de@SD",hr-fernsehen (1080p)
+https://hrhls.akamaized.net/hls/live/2024525/hrhls/index.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="HSE.de@SD",HSE (1080p)
+https://hse24.akamaized.net/hls/live/2006663/hse24/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="HSEExtra.de@SD",HSE24 Extra (1080p)
+https://hse24extra.akamaized.net/hls/live/2006596/hse24extra/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="HSETrend.de@SD",HSE24 Trend (576p)
+https://hse24trend.akamaized.net/hls/live/2006597/hse24trend/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="iSTUFF.de@SD",iSTUFF (720p) [Not 24/7]
+https://relay2.cdn.fem-net.de/hls/loop/istuff_live/istuff_live-720p.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="Juwelo.de@SD",Juwelo (720p)
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/7441/7441_264_live.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="kabeleinsDoku.de@SD",kabel eins Doku (576p)
+http://79.232.88.203:9981/stream/channelid/81078517
+#EXTINF:-1 group-title="Тест" tvg-id="Kanal12SprembergTV.de@SD",Kanal12 Spremberg TV (404p) [Not 24/7]
+https://58de7a369a9c4.streamlock.net/sprembergtv/live/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="KaufBeiTV.de@SD",KaufBei TV (576p)
+https://api.alpaca.t62a.com/hls/9103/index.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="KaufBeiTV.de@SD",KaufBei TV
+https://elephant.t62a.com/hls/8103/index.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="KiKA.de@SD",KiKA (1080p) [Geo-blocked]
+https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="KiKA.de@SD",KiKA (1080p) [Not 24/7]
+https://kikahls.akamaized.net/hls/live/2022690/livetvkika_ww/master.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="KulturMD.de@SD",KulturMD (1080p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/kulturmd_high/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="LTV.de@SD",L-TV (720p)
+https://live2.telvi.de/hls/l-tv_s1.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="labor14.de@HD",labor14 (720p)
+https://5acade5fc0c29.streamlock.net/OKGera/tmbz_live_high.stream/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="Lausitzwelle.de@SD",Lausitzwelle (1080p)
+https://h056.video-stream-hosting.de/easycast11-live/_definst_/mp4:livestreamhd2/playlist.m3u8?ref=
+#EXTINF:-1 group-title="Тест" tvg-id="SachsenFernsehenLeipzig.de@SD",Leipzig Fernsehen (1080p)
+https://leipzig.iptv-playoutcenter.de/leipzig/leipzigfernsehen.stream_1/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="LightChannel.de@SD",Light Channel (576p) [Not 24/7]
+http://streamer1.streamhost.org:1935/salive/lctvde/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="MagentaMusik360.de@SD",Magenta Musik 360 (1080p)
+https://streaming.magentamusik.de/csm/573870/magentamusik1/index.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="MCTV.de@HD",MC TV (720p)
+https://rrr.sz.xlcdn.com/?account=mceutv&file=mc2&output=playlist.m3u8&protocol=https&service=wowza&type=live
+#EXTINF:-1 group-title="Тест" tvg-id="MDF1.de@SD",MDF.1 (1080p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/mdf1_high/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="MDRFernsehen.de@Sachsen",MDR Fernsehen Sachsen (1080p) [Geo-blocked]
+https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/index.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="MDRFernsehen.de@SachsenAnhalt",MDR Fernsehen Sachsen-Anhalt (1080p) [Geo-blocked]
+https://mdrtvsahls.akamaized.net/hls/live/2016879/mdrtvsa/index.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="MDRFernsehen.de@Thuringen",MDR Fernsehen Thüringen (1080p) [Geo-blocked]
+https://mdrtvthhls.akamaized.net/hls/live/2016880/mdrtvth/index.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="MoreThanSportsTV.de@SD",More Than Sports TV (1080p)
+https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="Motorvision.de@SD",Motorvision TV (720p)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
+#EXTINF:-1 group-title="Тест" tvg-id="MunchenTV.de@SD",München TV (1080p) [Not 24/7]
+https://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="Nachrichten360.de@HD",Nachrichten 360 (1080p) [Geo-blocked]
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01821-lovetvfast-nachrichten360-samsungde/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="NDRFernsehenInternational.de@SD",NDR Fernsehen International (720p)
+https://ndrint.akamaized.net/hls/live/2020766/ndr_int/index.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="NDRFernsehen.de@Hamburg",NDR Hamburg (720p)
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_hh/master.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="NDRFernsehen.de@MecklenburgVorpommern",NDR Mecklenburg-Vorpommern (720p)
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_mv/master.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="NDRFernsehen.de@Niedersachsen",NDR Niedersachsen (720p)
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="NDRFernsehen.de@SchleswigHolstein",NDR Schleswig-Holstein (720p)
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_sh/master.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="Nickelodeon.de@SD",Nick Germany (1080p) [Geo-blocked]
+https://0d26a00dfbb1.airspace-cdn.cbsivideo.com/nick1999/master/nick1999.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="Nickelodeon.de@SD",Nickelodeon
+https://ma.anixa.tv/clips/stream/nickelodeon/playlist.php
+#EXTINF:-1 group-title="Тест" tvg-id="Nickelodeon.de@SD",Nickelodeon Deutschland [Geo-blocked]
+https://unilivemtveu-lh.akamaihd.net/i/nickde_1@448749/master.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="NiederbayernTV.de@SD",Niederbayern TV (720p)
+https://stream03.welocal.stream/stream/sat-nby/ngrp:sat-nby.stream_all/index.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="NiederbayernTVDeggendorfStraubing.de@SD",Niederbayern TV Deggendorf & Straubing (1080p)
+https://stream03.welocal.stream/stream/fhd-nbydeggendorf_99148/ngrp:stream_all/index.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="NiederbayernTVLandshut.de@SD",Niederbayern TV Landshut (1080p) [Not 24/7]
+https://isar-tv.iptv-playoutcenter.de/isar-tv/isar-tv.stream_1/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="NiederbayernTVLandshut.de@SD",Niederbayern TV Landshut (1080p)
+https://stream03.welocal.stream/stream/fhd-nbylandshut_75262/ngrp:stream_all/index.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="NiederbayernTVPassau.de@SD",Niederbayern TV Passau (1080p)
+https://stream03.welocal.stream/stream/fhd-nbypassau_49171/ngrp:stream_all/index.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="noa4Hamburg.de@SD",Noa 4 Hamburg (1080p)
+https://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="noa4Norderstedt.de@SD",Noa 4 Norderstedt (1080p)
+https://hls1.wtnet.de/noa4/apple/wifi6500.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="NRWision.de@SD",NRWision (1080p)
+https://fms.nrwision.de/live/ngrp:livestreamHD.stream/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="OberpfalzTV.de@SD",Oberpfalz TV (1080p)
+https://oberpfalztv.iptv-playoutcenter.de/oberpfalztv/oberpfalztv.stream_1/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="OFTVOffenbach.de@SD",OF-TV Offenbach (720p)
+https://5864df9ceac85.streamlock.net/germanpictures-live/_definst_/mp4:streamschedule/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="OFTVOffenbach.de@SD",OF-TV Offenbach (720p)
+https://5864df9ceac85.streamlock.net/germanpictures-live/mp4:streamschedule/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="OK4.de@SD",OK4 (720p) [Geo-blocked]
+https://s.ok54.de/abr_ok4/live/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="OK54.de@SD",OK54 (720p) [Geo-blocked]
+https://s.ok54.de/ott/webstream/tv/webstream_720p/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="OKDessau.de@SD",OK Dessau (1080p) [Not 24/7]
+http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-dessau_high/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="OKDessau.de@SD",OK Dessau (1080p) [Not 24/7]
+https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:ok-dessau_high/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="OKDessau.de@SD",OK Dessau (1080p) [Not 24/7]
+https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-dessau_high/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="OKFlensburg.de@SD",OK Flensburg (576p)
+https://live-cdn.oksh.de/play/hls/flensburgtv/index.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="OKKaiserslautern.de@SD",OK Kaiserslautern (720p) [Geo-blocked]
+https://s.ok54.de/abr_okkl/webstream/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="OKKassel.de@SD",OK Kassel (720p) [Geo-blocked]
+https://s.ok54.de/mok-ks/kassel/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="OKKiel.de@SD",OK Kiel (576p)
+https://live-cdn.oksh.de/play/hls/kieltv/index.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="OKMagdeburg.de@SD",OK Magdeburg (1080p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-magdeburg_high/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="OKMagdeburg.de@SD",OK Magdeburg (1080p)
+https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-magdeburg_high/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="OKMerseburgQuerfurt.de@SD",OK Merseburg-Querfurt (1080p) [Not 24/7]
+http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-merseburg_high/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="OKMerseburgQuerfurt.de@SD",OK Merseburg-Querfurt (1080p) [Not 24/7]
+https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-merseburg_high/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="OKRheinMain.de@SD",OK Rhein-Main (576p) [Geo-blocked]
+https://s.ok54.de/mok-rm/mok-rm/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="OKSalzwedel.de@SD",OK Salzwedel (1080p) [Not 24/7]
+http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-salzwedel_high/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="OKSalzwedel.de@SD",OK Salzwedel (1080p) [Not 24/7]
+https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:ok-salzwedel_high/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="OKSalzwedel.de@SD",OK Salzwedel (1080p) [Not 24/7]
+https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-salzwedel_high/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="OKStendal.de@SD",OK Stendal (1080p) [Not 24/7]
+http://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-stendal_high/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="OKStendal.de@SD",OK Stendal (1080p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-stendal_high/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="OKTrier.de@SD",OK Trier (720p) [Geo-blocked]
+https://s.ok54.de/ott/webstream/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="OKWeinstrasseNeustadt.de@SD",OK Weinstraße (Neustadt) (432p) [Geo-blocked]
+https://s.ok54.de/okweinstrasse/okweinstrasse/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="OKWernigerode.de@SD",OK Wernigerode (1080p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-wernigerode_high/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="OKWernigerode.de@SD",OK Wernigerode (1080p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-wernigerode_high/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="OKTVLudwigshafen.de@SD",OK-TV Ludwigshafen (720p) [Geo-blocked]
+https://s.ok54.de/oklu/livestream/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="OneMusicTelevision.de@SD",ONE1 Music (1080p)
+https://cdne.folxplay.tv/folx-trz/streams/ch-3/master.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="OneAdria.de@SD",One Adria (1080p)
+https://cdne.folxplay.tv/folx-trz/streams/ch-6/master.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="Parlamentsfernsehen1.de@SD",Parlamentsfernsehen 1 (1080p) [Geo-blocked]
+https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk1/_definst_/live/video/hk1_de.smil/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="Parlamentsfernsehen1.de@SD",Parlamentsfernsehen 1 (1080p) [Not 24/7]
+https://cldf-hlsgw.r53.cdn.tv1.eu/1000153copo/hk1.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="Parlamentsfernsehen2.de@SD",Parlamentsfernsehen 2 (1080p) [Not 24/7]
+https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk2/_definst_/live/video/hk2_de.smil/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="Parlamentsfernsehen3.de@SD",Parlamentsfernsehen 3 (1080p) [Not 24/7]
+https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk3/_definst_/live/video/hk3_de.smil/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="Parlamentsfernsehen4.de@SD",Parlamentsfernsehen 4 (1080p) [Not 24/7]
+https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk4/_definst_/live/video/hk4_de.smil/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="phoenix.de@HD",Phoenix (720p) [Geo-blocked]
+https://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="ProSieben.de@SD",ProSieben (576p)
+#EXTVLCOPT:http-referrer=http://85.187.13.40:18000/
+http://85.187.13.40:18000/ProSieben
+#EXTINF:-1 group-title="Тест" tvg-id="ProSiebenMaxx.de@SD",ProSieben Maxx (576p)
+http://79.232.88.203:9981/stream/channelid/1038721938
+#EXTINF:-1 group-title="Тест" tvg-id="PUNKTumFernsehen.de@SD",PUNKTum Fernsehen (1080p) [Not 24/7]
+http://58bd5b7a98e04.streamlock.net/medienasa-live/punktum_high/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="QVCZwei.de@SD",QVC 2 Germany (540p)
+https://qvcde-live.akamaized.net/hls/live/2097104/qps/master.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="QVC.de@SD",QVC Germany (720p)
+https://qvcde-live.akamaized.net/hls/live/2097104/qvc/master.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="QVCStyle.de@SD",QVC Style Germany (540p)
+https://qvcde-live.akamaized.net/hls/live/2097104/qby/master.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="Radio21TV.de@SD",Radio 21 TV (720p)
+https://live.creacast.com/radio21/smil:radio21.smil/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="RadioBremenFernsehen.de@SD",Radio Bremen Fernsehen (1080p) [Geo-blocked]
+https://rbhlslive.akamaized.net/hls/live/2020435/rbfs/master.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="RadioWeserTVBremen.de@SD",Radio Weser TV Bremen (576p)
+https://5857499ee635b.streamlock.net/radiowesertv-live/_definst_/mp4:livestreamTV/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="RadioWeserTVBremen.de@SD",Radio Weser TV Bremen (576p)
+https://5857499ee635b.streamlock.net/radiowesertv-live/mp4:livestreamTV/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="RAN1.de@SD",RAN1 (1080p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/ran1_high/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="RAN1.de@SD",RAN1 (1080p)
+https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ran1_high/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="rbbFernsehen.de@Berlin",RBB Berlin (1080p) [Geo-blocked]
+https://rbb-hls-berlin.akamaized.net/hls/live/2017824/rbb_berlin/index.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="rbbFernsehen.de@Brandenburg",RBB Brandenburg (1080p) [Geo-blocked]
+https://rbb-hls-brandenburg.akamaized.net/hls/live/2017825/rbb_brandenburg/master.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="RBW.de@SD",RBW (1080p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/rbw_high/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="RBW.de@SD",RBW (1080p)
+https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:rbw_high/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="RBW.de@SD",RBW Bitterfeld-Wolfen (1080p)
+https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:rbw_high/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="RegioTVBodensee.de@SD",Regio TV Bodensee (1080p)
+https://regiotv-b.iptv-playoutcenter.de/regiotv-b/regiotv-b.stream_1/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="RegioTVSchwaben.de@SD",Regio TV Schwaben (1080p)
+https://stream05.welocal.stream/stream/fhd-regiotv_182913/ngrp:stream_all/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="RegioTVStuttgart.de@SD",Regio TV Stuttgart (1080p)
+https://regiotv-s.iptv-playoutcenter.de/regiotv-s/regiotv-s.stream_1/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="RennsteigTV.de@SD",Rennsteig TV (720p)
+http://wowza.telvi.de/rennsteigtv/stream_720p/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="RFH.de@SD",RFH (1080p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/RFH_high/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="RFH.de@SD",RFH (1080p)
+https://h056.video-stream-hosting.de/medienasa-live/_definst_/mp4:RFH_high/index.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="RFO.de@SD",RFO (1080p)
+https://stream01.stream.welocal.world/stream/fhd-rfo_66876/ngrp:stream_all/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="RiC.de@SD",RiC (1080p)
+https://rictv.iptv-playoutcenter.de/rictv/rictv-web/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="RNF.de@SD",RNF (1080p)
+https://rnf.iptv-playoutcenter.de/rnf/rnf.stream_1/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="RockAntenne.de@SD",Rock Antenne [Not 24/7]
+https://stream.rockantenne.de/rockantenne/stream/mp3
+#EXTINF:-1 group-title="Тест" tvg-id="RocklandTV.de@SD",Rockland TV (480p) [Not 24/7]
+https://live.creacast.com/rockland-radio/smil:rockland-radio.smil/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="RTDE.de@SD",RT DE (1080p) [Not 24/7]
+https://rt-ger.rttv.com/dvr/rtdeutsch/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="RTDE.de@SD",RT DE (1080p) [Not 24/7]
+https://rt-ger.rttv.com/live/rtdeutsch/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="RTLCrime.de@HD",RTL Crime HD (1080p)
+http://c3921155.edmonst.net/iptv/65C7UBRRW8GHQVYPH2MQT3SA/15178/index.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="RTLPassion.de@SD",RTL Passion (1080p)
+http://c3921155.edmonst.net/iptv/65C7UBRRW8GHQVYPH2MQT3SA/31369/index.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="SaarlandFernsehen1.de@SD",Saarland Fernsehen 1 (1080p)
+https://saarland1.iptv-playoutcenter.de/saarland1/saarland1.stream_1/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="SaarlandFernsehen2.de@SD",Saarland Fernsehen 2 (720p) [Not 24/7]
+https://saarland2.iptv-playoutcenter.de/saarland2/saarland2.stream_2/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="SachsenEins.de@SD",Sachsen Eins (1080p)
+https://sachsen1.iptv-playoutcenter.de/sachsen1/sachsen1.stream_1/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="SalveTV.de@SD",Salve TV (720p)
+https://58de7a369a9c4.streamlock.net/salvetv/ngrp:stream_720p_web/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="Seenluft24.de@SD",Seenluft24 (1080p)
+https://h056.video-stream-hosting.de/easycast7-live/_definst_/mp4:livestreamhd20/playlist.m3u8?ref=
+#EXTINF:-1 group-title="Тест" tvg-id="SenderNeuJerusalem.de@SD",Sender Neu Jerusalem (576p)
+https://bild-und-ton.stream/snj-de/snj-de.smil/.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="SonnenklarTV.de@SD",Sonnenklar TV (1080p)
+http://euvia.cdn.ses-ps.com/HLS-Live/index.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="SonusFM.de@SD",Sonus FM TV (1080p) [Not 24/7]
+http://www.sonus.fm:1935/public/stream_source/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="SonusFM.de@SD",Sonus FM TV (1080p) [Not 24/7]
+https://60015180a7f57.streamlock.net:444/public/stream_source/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="SophiaTV.de@SD",Sophia TV (720p)
+https://bild-und-ton.stream/sophiatv-en/smil:sophia-tv-en.smil/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="SophiaTVEspanol.de@SD",Sophia TV Español (720p)
+https://bild-und-ton.stream/sophiatv-es/smil:sophia-tv-es.smil/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="SophiaTVFrancais.de@SD",Sophia TV Français (720p)
+https://bild-und-ton.stream/sophiatv-fr/smil:sophia-tv-fr.smil/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="SophiaTV.it@SD",Sophia TV Italy (720p)
+https://bild-und-ton.stream/sophiatv-it/smil:sophia-tv-it.smil/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="SportdigitalFUSSBALL.de@HD",Sportdigital FUSSBALL HD (1080p)
+https://live20.bozztv.com/akamaissh101/ssh101/sportdigtal1/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="SRFernsehen.de@SD",SR Fernsehen (720p)
+https://srfs.akamaized.net/hls/live/689649/srfsgeo/index.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="SRF.de@SD",SRF (1080p)
+https://58de7a369a9c4.streamlock.net/srf/stream_720p/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="Studio47.de@SD",Studio 47 (576p)
+https://h057.video-stream-hosting.de/studio47-live/_definst_/mp4:livestream/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="RTLSuper.de@HD",Super RTL HD (720p)
+#EXTVLCOPT:http-referrer=https://www.2ix2.com/super-rtl-live/
+https://forsizero.github.io/iptv/m3u/superrtlhd.m3u
+#EXTINF:-1 group-title="Тест" tvg-id="SWR3VisualRadio.de@SD",SWR 3 Visual Radio (720p)
+https://swrswr3vr-hls.akamaized.net/hls/live/2018683/swr3vr/master.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="SWRFernsehenBadenWurttemberg.de@SD",SWR Fernsehen Baden-Württemberg (720p) [Geo-blocked]
+https://swrbwd-hls.akamaized.net/hls/live/2018672/swrbwd/master.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="SWRFernsehenRheinlandPfalz.de@SD",SWR Fernsehen Rheinland-Pfalz (720p) [Geo-blocked]
+https://swrrpd-hls.akamaized.net/hls/live/2018676/swrrpd/master.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="tagesschau24.de@SD",Tagesschau 24 (720p)
+https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="teltOwkanal.de@SD",teltOwkanal (1080p)
+https://h056.video-stream-hosting.de/easycast8-live/_definst_/mp4:livestreamhd8/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="TerraMaterWILD.de@German",Terra Mater WILD (1080p)
+https://53ff3982.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9UZXJyYU1hdGVyV2lsZF9ITFM/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="TerraMaterWILD.de@English",Terra Mater WILD English (1080p)
+https://amg01775-amg01775c1-amgplt0343.playout.now3.amagi.tv/playlist/amg01775-amg01775c1-amgplt0343/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="TideTV.de@SD",Tide TV (1080p) [Not 24/7]
+https://5889e7d0d6e28.streamlock.net/tide-live/smil:livestream.smil/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="TideTV.de@SD",Tide TV (1080p)
+https://5889e7d0d6e28.streamlock.net/tide-live/_definst_/smil:livestream.smil/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="tiviTURK.de@SD",tiviTÜRK (720p) [Not 24/7]
+https://stream.tiviturk.de/live/tiviturk.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="TV38SudostNiedersachen.de@SD",TV38 Südost-Niedersachen (1080p)
+https://h057.video-stream-hosting.de/tv38-live/_definst_/smil:livestream.smil/playlist.m3u8?ref=
+#EXTINF:-1 group-title="Тест" tvg-id="TVIngolstadt.de@SD",TV Ingolstadt (1080p)
+https://stream01.welocal.stream/stream/fhd-tvingolstadt_44349/ngrp:stream_all/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="TVMainfranken.de@SD",TV Mainfranken (1080p) [Not 24/7]
+https://tvtouringw.iptv-playoutcenter.de/tvtouringw/tvtouringw.stream_1/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="TVOberfranken.de@SD",TV Oberfranken (TVO) (1080p) [Not 24/7]
+https://tvoberfranken.iptv-playoutcenter.de/tvoberfranken/tvoberfranken.stream_1/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="TVA.de@SD",TVA (1080p) [Not 24/7]
+https://tvaktuellr.iptv-playoutcenter.de/tvaktuellr/tvaktuellr.stream_1/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="Unserding.de@SD",Unserding (720p) [Geo-blocked]
+https://srde.akamaized.net/hls/live/2031842/visualradio-unserding/index.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="VolksmusikTV.de@SD",Volksmusik TV (1080p)
+https://vmtv.iptv-playoutcenter.de/vmtv/vmtv1/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="WDR1Live.de@SD",WDR 1 Live (720p)
+https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/index.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="WDR1Live.de@SD",WDR 1 Live (720p)
+https://wdrfsww247.akamaized.net/hls/live/2009628/wdr_msl4_fs247ww/master.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="WDRFernsehen.de@Koln",WDR Fernsehen (720p)
+https://wdr-live.ard-mcdn.de/wdr/live/hls/de/master.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="WDRFernsehen.de@Aachen",WDR Fernsehen Aachen (720p) [Geo-blocked]
+https://wdrlokalzeit.akamaized.net/hls/live/2018019-b/wdrlz_aachen/master.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="WDRFernsehen.de@Bielefeld",WDR Fernsehen Bielefeld (720p) [Geo-blocked]
+https://wdrlokalzeit.akamaized.net/hls/live/2018026-b/wdrlz_bielefeld/master.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="WDRFernsehen.de@Bonn",WDR Fernsehen Bonn (720p) [Geo-blocked]
+https://wdrlokalzeit.akamaized.net/hls/live/2018021-b/wdrlz_bonn/master.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="WDRFernsehen.de@Dortmund",WDR Fernsehen Dortmund (720p) [Geo-blocked]
+https://wdrlokalzeit.akamaized.net/hls/live/2018022-b/wdrlz_dortmund/master.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="WDRFernsehen.de@Duisburg",WDR Fernsehen Duisburg (720p) [Geo-blocked]
+https://wdrlokalzeit.akamaized.net/hls/live/2018024-b/wdrlz_duisburg/master.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="WDRFernsehen.de@Dusseldorf",WDR Fernsehen Düsseldorf (720p) [Geo-blocked]
+https://wdrlokalzeit.akamaized.net/hls/live/2018023-b/wdrlz_duesseldorf/master.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="WDRFernsehen.de@Essen",WDR Fernsehen Essen (720p) [Geo-blocked]
+https://wdrlokalzeit.akamaized.net/hls/live/2018027-b/wdrlz_essen/master.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="WDRFernsehen.de@Koln",WDR Fernsehen Köln (720p) [Geo-blocked]
+https://wdrlokalzeit.akamaized.net/hls/live/2023550-b/wdrlz_koeln/master.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="WDRFernsehen.de@Munster",WDR Fernsehen Münster (720p) [Geo-blocked]
+https://wdrlokalzeit.akamaized.net/hls/live/2018025-b/wdrlz_muensterland/master.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="WDRFernsehen.de@Siegen",WDR Fernsehen Siegen (720p) [Geo-blocked]
+https://wdrlokalzeit.akamaized.net/hls/live/2018020-b/wdrlz_siegen/master.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="WDRFernsehen.de@Wuppertal",WDR Fernsehen Wuppertal (720p) [Geo-blocked]
+https://wdrlokalzeit.akamaized.net/hls/live/2018028-b/wdrlz_wuppertal/master.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="WELT.de@SD",WELT
+https://s6.hopslan.com/n24X/index.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="WeltderWunderTV.de@SD",Welt der Wunder TV (576p)
+https://wdw.iptv-playoutcenter.de/wdw/wdw1/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="ZDF.de@SD",ZDF (720p) [Geo-blocked]
+https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="ZDFinfo.de@SD",ZDFinfo (720p) [Geo-blocked]
+https://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="ZDFneo.de@SD",ZDFneo (720p) [Geo-blocked]
+https://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="ZweiMusicTelevision.de@SD",ZWEI2 Music (1080p)
+https://cdne.folxplay.tv/folx-trz/streams/ch-2/master.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",21 Jump Street
+https://jmp2.uk/plu-686cffbf3ffa5e0c91cdcfb3.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",90210
+https://jmp2.uk/plu-65a67dd13af63d0008257f17.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Alle hassen Chris
+https://jmp2.uk/plu-622f6e1e2792150007e0b2ff.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Andromeda
+https://jmp2.uk/plu-663a163f8ea5560008a3f234.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Anger Management
+https://jmp2.uk/plu-655ca57e4261ca00080b3a04.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Assassination Classroom
+https://jmp2.uk/plu-65a7d99f4a10d800086083a9.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Auction Hunters
+https://jmp2.uk/plu-5ede45d077746000072be0fe.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Auf Achse
+https://jmp2.uk/plu-61fbf91afb1b10000880dd08.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Auto Motor Sport
+https://jmp2.uk/plu-5f760c3d41aa2d0007bfde19.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="Avatar.us@Germany",Avatar
+https://jmp2.uk/plu-600adbdf8c554e00072125c9.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Awkward
+https://jmp2.uk/plu-62bc1784120ba80007935aaa.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Ax Men Die Holzfäller
+https://jmp2.uk/plu-6914913274601d957ae35565.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Axel!
+https://jmp2.uk/plu-667d63d236a2f90008f72269.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Baywatch
+https://jmp2.uk/plu-65819e62b228b70008570e9f.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="BBCTravel.us@Germany",BBC Travel
+https://jmp2.uk/plu-60e4519e6873180007d3cddb.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Becker
+https://jmp2.uk/plu-630348a54c48ce00077eb6c7.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Beelzebub
+https://jmp2.uk/plu-67fe498f9ebfe4142424c55d.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="BeverlyHills90210.us@Germany",Beverly Hills 90210
+https://jmp2.uk/plu-60afb576053df900076fa2f0.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",BIG BROTHER CLASSIC
+https://jmp2.uk/plu-663e09e4b18d700008e48dcf.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Blue Mountain State
+https://jmp2.uk/plu-67ff7dd84906b1acfad97330.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Bronco
+https://jmp2.uk/plu-684ac10236c9361b1977f7bc.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",BVB-Frauen
+https://jmp2.uk/plu-66337ea1307fa300082c28a0.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",CBS News 24/7
+https://jmp2.uk/plu-62441d6ded1827000763dcda.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="CCPlutoTV.us@Germany",CC Pluto TV
+https://jmp2.uk/plu-5d4947590ba40f75dc29c26b.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="ChaosCity.us@Germany",Chaos City
+https://jmp2.uk/plu-60afbad343e3840007164348.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="Cheers.us@Germany",Cheers
+https://jmp2.uk/plu-611e7f224676bf00076a4d8d.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="ComedyCentralSouthPark.us@Germany",Comedy Central South Park
+https://jmp2.uk/plu-60c716084d842c00085f6e64.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",DAZN Darts x Pluto TV
+https://jmp2.uk/plu-64b67f0424ade50008a3be17.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",DAZN Handball x Pluto TV
+https://jmp2.uk/plu-6683f7fe36a2f9000804940c.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",DAZN Heldinnen x Pluto TV
+https://jmp2.uk/plu-64afe50c5dc16600087f3227.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Der Chef
+https://jmp2.uk/plu-67dc21ce5a15c0759a07ee19.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Der Denver-Clan
+https://jmp2.uk/plu-62cebd7302478b00073a6b71.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Die fliegenden Ärzte
+https://jmp2.uk/plu-688734b9035d6ef9c34aac16.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Die Nanny
+https://jmp2.uk/plu-66c6fc06489bab0008b6f9da.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Die Sieben-Millionen-Dollar-Frau
+https://jmp2.uk/plu-677fb078a4af36ad50111032.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Die Thundermans
+https://jmp2.uk/plu-6447df8cd3fdde0008f1f627.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Dominance FC TV
+https://jmp2.uk/plu-685aaec481c345899e4458bb.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Don Matteo
+https://jmp2.uk/plu-686d004094a028da3aac8cb0.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Drake & Josh
+https://jmp2.uk/plu-65a67c494a10d800085cab06.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Dyn Sport Mix
+https://jmp2.uk/plu-6866525c8a412a0e95c438b4.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Ein Engel auf Erden
+https://jmp2.uk/plu-622f487722d9d400075f74dd.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Eine himmlische Familie
+https://jmp2.uk/plu-66a244d5cd0d3100083b1e47.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Eine schrecklich nette Familie
+https://jmp2.uk/plu-67a324d221af380008105d6f.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="EuronewsGerman.fr@SD",Euronews
+https://jmp2.uk/plu-6639d7d4b18d700008da5316.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",F.B.I. Files
+https://jmp2.uk/plu-64eddce19001910008df22b8.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Familie Dr. Kleist
+https://jmp2.uk/plu-65819f14b9adc4000813ee39.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Farmland TV
+https://jmp2.uk/plu-663a15d7cb3ea10008edac88.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",FIFA+
+https://jmp2.uk/plu-660bfc032433010008def35a.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Filmgold
+https://jmp2.uk/plu-6305ca798bd95300072d2f93.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Flipper
+https://jmp2.uk/plu-68d277fb12bf71eaaed3e9f1.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Fluss-Monster
+https://jmp2.uk/plu-62a0b2aff4cf470007e47e29.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Frasier
+https://jmp2.uk/plu-62cebf042ffc6d0007c4e59a.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Frasier VIDAA TEST
+https://jmp2.uk/plu-67d4572a8d8dc3d775aa4428.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Germany Shore
+https://jmp2.uk/plu-6447dea7e94c380008dba94c.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Gigolos
+https://jmp2.uk/plu-68d27437e6767bdeb23f0336.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Hausmeister Krause
+https://jmp2.uk/plu-622f6faf65be650007f57aab.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Heartland
+https://jmp2.uk/plu-680f375e6798ccd1185b58f9.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Hell's Kitchen
+https://jmp2.uk/plu-644257fe7cb4b100081ed874.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="iCarly.us@Germany",iCarly
+https://jmp2.uk/plu-5e8b580a233dc90007f0cb9d.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="IcePilots.us@Germany",Ice Pilots
+https://jmp2.uk/plu-5ce40f42ba7f7f5ea9518fe1.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Ice Pilots VIDAA TEST
+https://jmp2.uk/plu-67d4586be979b84e78f064d0.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Jackie Chan Adventures
+https://jmp2.uk/plu-67a2367e9a300a00086f2688.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Just.fishing
+https://jmp2.uk/plu-61b33085897b9d000702b72e.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",KultKrimi
+https://jmp2.uk/plu-5cb5cfe5caf83414128f209e.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",KultKrimi: Der Alte
+https://jmp2.uk/plu-65dde5ef28730900089af7cf.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",KultKrimi: Der Kommissar
+https://jmp2.uk/plu-65dde626ec9fda0008b3dc89.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",KultKrimi: Derrick
+https://jmp2.uk/plu-65dde5848145cb00083277f6.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",KultKrimi: Die Rettungsflieger
+https://jmp2.uk/plu-67ed0c86f7c5d70b90889a51.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",KultKrimi: Ein Fall für zwei
+https://jmp2.uk/plu-68590366010ddd78ef837d29.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",KultKrimi: Küstenwache
+https://jmp2.uk/plu-67ebbdced2832b463faa1e79.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Ladykracher
+https://jmp2.uk/plu-667d3534ca74680008696051.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Liebe Sünde
+https://jmp2.uk/plu-68d276ce59fd82da32267d0d.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Love Boat
+https://jmp2.uk/plu-655ca3d1fbc15b00081f1186.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",McLeods Töchter
+https://jmp2.uk/plu-66c6fcfc6838ee00085beb1a.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Melrose Place
+https://jmp2.uk/plu-64be745340962900080b55e7.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Merhaba Türkische Serien
+https://jmp2.uk/plu-6864e8f264d94c1425fb4563.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Mission Impossible
+https://jmp2.uk/plu-634fe5afece2e60007c9d8b8.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Missions
+https://jmp2.uk/plu-6824539e1295f98347e95242.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",MODUS Super Series Darts
+https://jmp2.uk/plu-66337e6ba0a74e000889563b.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="Moviedome.us@Germany",MOVIEDOME
+https://jmp2.uk/plu-615c1e5ce3039400070a0547.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Moviepilot TV mit Pluto TV
+https://jmp2.uk/plu-65a67d572fac9c000835eb3a.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="MTVCatfishTVShow.us@Germany",MTV Catfish TV Show
+https://jmp2.uk/plu-5db6a697d5f34a000934cd13.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="MTVDating.us@Germany",MTV Dating
+https://jmp2.uk/plu-5caf330ea5068259a32320fd.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="MTVPlutoTV.us@Germany",MTV Pluto TV
+https://jmp2.uk/plu-5caf325764025859afdd6c4d.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",MTV Reality
+https://jmp2.uk/plu-685136fb33a52de120bbb086.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="MTVRidiculousness.us@Germany",MTV Ridiculousness
+https://jmp2.uk/plu-5f9847fd513250000728a9a5.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="MTVTeenMom.us@Germany",MTV Teen Mom
+https://jmp2.uk/plu-5cffcf5686dfe15595fb3f56.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="MTVTheShores.us@Germany",MTV The Shores
+https://jmp2.uk/plu-5caf32c2a5068259a32320fc.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="N24Doku.de@SD",N24 Doku
+https://jmp2.uk/plu-60080e8a4bf36000076a81b1.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="Naruto.us@Germany",Naruto
+https://jmp2.uk/plu-65d5fc39a25d5e00082895c4.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Nick Jr. Club
+https://jmp2.uk/plu-67f3eb1c443f0671bc03ece8.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Nickelodeon Classics
+https://jmp2.uk/plu-67f3eb800a1beb98767ca748.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="NickelodeonTeen.fr@SD",Nickelodeon Teen
+https://jmp2.uk/plu-5f0d668b872e4400073acc68.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Nickelodeon Toons
+https://jmp2.uk/plu-5ede448d3d50590007a4419e.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Pastewka
+https://jmp2.uk/plu-686cfef52704ca31d85c4bf1.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Pensacola – Flügel aus Stahl
+https://jmp2.uk/plu-655ca4b94261ca00080b38d2.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="PerryMason.us@SD",Perry Mason
+https://jmp2.uk/plu-64eddc3485efec00085b0369.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Pluto TV Action
+https://jmp2.uk/plu-65004605110545000842035d.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Pluto TV Adult Animation
+https://jmp2.uk/plu-67f68bd2135aeda9ddf0ef54.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="PlutoTVAnimals.us@Germany",Pluto TV Animals
+https://jmp2.uk/plu-5d767ae7b456c8cf265ce922.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="PlutoTVAnime.us@Germany",Pluto TV Anime
+https://jmp2.uk/plu-608181d420fc8500075f612a.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Pluto TV Anime: Fantasy
+https://jmp2.uk/plu-67fe495d9ebfe4142424b7a7.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Pluto TV Britische Serien
+https://jmp2.uk/plu-677e5a3d7bffa6000808dbf2.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="PlutoTVCrime.us@Germany",Pluto TV Crime
+https://jmp2.uk/plu-5e7b6c60fd20c50007910bf5.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Pluto TV Darts
+https://jmp2.uk/plu-67b481cc1a5ca760801c6c5e.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Pluto TV Deutsche Comedy
+https://jmp2.uk/plu-6672f49f61a39900089db68e.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Pluto TV Emmanuelle Filme
+https://jmp2.uk/plu-67ebc04855de98dc71428538.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Pluto TV Europäische Krimis
+https://jmp2.uk/plu-68b176c2a4841127a8ed1ade.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="PlutoTVExplore.us@Germany",Pluto TV Explore
+https://jmp2.uk/plu-5ad9b8551b95267e225e59c1.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Pluto TV Femme Fatale
+https://jmp2.uk/plu-68245366b19ce6d4a30b7687.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Pluto TV Ferne Galaxien
+https://jmp2.uk/plu-68ada46d5190a45dc9c45af1.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="PlutoTVFood.us@Germany",Pluto TV Food
+https://jmp2.uk/plu-5dc280c9aa218c0009724b4b.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Pluto TV heiße Nächte
+https://jmp2.uk/plu-64526a145a0cd50008632bfa.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Pluto TV Heiße Nächte Retro
+https://jmp2.uk/plu-664f10c4f9992200084a2f47.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Pluto TV Historische Serien
+https://jmp2.uk/plu-68ada3395190a45dc9c445cf.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="PlutoTVHistory.us@Germany",Pluto TV History
+https://jmp2.uk/plu-5d767b1c126c65d0a307355f.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="PlutoTVHorror.us@DACH",Pluto TV Horror
+https://jmp2.uk/plu-62f4f4b88157cf00075c22db.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Pluto TV Horror-Serien
+https://jmp2.uk/plu-67ff7d9c7fc25e0e72451bc9.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Pluto TV Kult Comedies
+https://jmp2.uk/plu-66337de656fc840008ff7a65.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="PlutoTVKultfilme.us@Germany",Pluto TV Kultfilme
+https://jmp2.uk/plu-5dde47b63585b500099f74ec.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="PlutoTVMovies.us@Germany",Pluto TV Movies
+https://jmp2.uk/plu-5c5c3b948002db3c3e0b262e.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Pluto TV Mystery
+https://jmp2.uk/plu-617aad99b68ef100072608cd.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="PlutoTVNature.us@Germany",Pluto TV Nature
+https://jmp2.uk/plu-5be1c3f9851dd5632e2c91b2.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Pluto TV Nordic Crime
+https://jmp2.uk/plu-67d984408d8dc3d7754dccf2.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="PlutoTVParanormal.us@Germany",Pluto TV Paranormal
+https://jmp2.uk/plu-5f98487036af340008da1e37.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Pluto TV Polizeiserien
+https://jmp2.uk/plu-64be64445dc166000899ce75.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Pluto TV Popkultur
+https://jmp2.uk/plu-68ada399247c66a111528aaa.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Pluto TV Reality
+https://jmp2.uk/plu-67ebc1b6432a0e406f141341.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Pluto TV Reportagen
+https://jmp2.uk/plu-68ada3edf84960586ad31c7d.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Pluto TV Romance
+https://jmp2.uk/plu-5dc287ce3086a20009f5024c.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Pluto TV Sanfte Berührungen
+https://jmp2.uk/plu-67d983d6a1609bdb523f5f9b.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Pluto TV Sci-Fi
+https://jmp2.uk/plu-60ed498c4248a400077c0b9d.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Pluto TV Science
+https://jmp2.uk/plu-5d767b4889bca2ce7b73ef2e.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Pluto TV Serie
+https://jmp2.uk/plu-5dc190f7bfed110009d934c3.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Pluto TV Serie+
+https://jmp2.uk/plu-5ddbf866b1862a0009a0648e.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Pluto TV Sharks
+https://jmp2.uk/plu-669526d232e25300084bb47b.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="PlutoTVSitcoms.us@Germany",Pluto TV Sitcoms
+https://jmp2.uk/plu-5d767ab2b456c8cf265ce921.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Pluto TV Sitcoms+
+https://jmp2.uk/plu-5cd149f021cb6c55e258bbe8.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Pluto TV Snooker 900
+https://jmp2.uk/plu-68ac5543a1ac0c90f2c8943e.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="PlutoTVSpace.us@Germany",Pluto TV Space
+https://jmp2.uk/plu-61409f8d6feb30000766b675.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Pluto TV Star Trek
+https://jmp2.uk/plu-6152ee71bf99590007893a11.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="PlutoTVThrillers.us@Germany",Pluto TV Thriller
+https://jmp2.uk/plu-5e1efdbf90ba3e0009d99082.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="PlutoTVTrueCrime.us@Germany",Pluto TV True Crime
+https://jmp2.uk/plu-615333098185f00008715a56.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Pluto TV Weddings
+https://jmp2.uk/plu-61923bd34b1ec000075e5e89.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Pluto TV Western
+https://jmp2.uk/plu-630dd3b2605f140007e002f5.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Profiling Paris
+https://jmp2.uk/plu-67d984c989788ef7f058b084.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Quantum Leap
+https://jmp2.uk/plu-677fafd91da79bfe4fb0b4ec.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Rauchende Colts
+https://jmp2.uk/plu-638f2bc7bc363100072f02dd.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Rawhide Tausend Meilen Staub
+https://jmp2.uk/plu-638f2983dcd9100008c2374d.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="RedBullTV.at@DE",Red Bull TV DE (720p)
+https://jmp2.uk/plu-5e7cb84a172a0f0007da69e4.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Red Shoe Diaries
+https://jmp2.uk/plu-645a0ddfe1979c00086d83ff.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",RoboCop
+https://jmp2.uk/plu-6628e513cee0d90008639b46.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Rookie Blue
+https://jmp2.uk/plu-680f462556ff83bcd6ba2816.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Rules of Engagement
+https://jmp2.uk/plu-64be635a40962900080aaca5.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Sabrina Total verhext!
+https://jmp2.uk/plu-622f40c901d4b70007ad7609.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Sea Patrol
+https://jmp2.uk/plu-688735087b2cf33d01a2d411.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",South Park: Butters Collection
+https://jmp2.uk/plu-646b14a0e94c3800082a8d3a.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",South Park: Cartman Collection
+https://jmp2.uk/plu-646b14747cb4b1000875724d.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",South Park: Kenny Collection
+https://jmp2.uk/plu-646b1404ee6a2f00082b5d66.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",South Park: Kyle Collection
+https://jmp2.uk/plu-646b14d0e1979c0008915a09.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",South Park: Original Version
+https://jmp2.uk/plu-646b150a15939400089e2702.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",South Park: Stan Collection
+https://jmp2.uk/plu-646b1438e94c3800082a8cff.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="CuriosityChannel.de@SD",SPIEGEL TV
+https://jmp2.uk/plu-6576c20fb3801200084786c9.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",SPIEGEL TV Konflikte
+https://jmp2.uk/plu-65b9268fc798e800085add89.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="SpongeBobSchwammkopf.us@Germany",SpongeBob Schwammkopf
+https://jmp2.uk/plu-5d00e8adaab96b5635b2a005.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Stand-up Comedy
+https://jmp2.uk/plu-663e09b341af640008c1b68c.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Star Trek: Deep Space Nine
+https://jmp2.uk/plu-65a67d200c7ff50008cb131a.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Star Trek: Enterprise
+https://jmp2.uk/plu-66337ed7a0a74e0008895699.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Star Trek: Voyager
+https://jmp2.uk/plu-6690fcb7d51259000880d479.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Stromberg
+https://jmp2.uk/plu-686cff3224918d4300fa542b.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Swamp People
+https://jmp2.uk/plu-691491c6bb69fb3258c3524a.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="TakeshisCastle.us@Germany",Takeshi's Castle
+https://jmp2.uk/plu-6054a9f4bc8a5f000771504c.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Täterjagd
+https://jmp2.uk/plu-642abea1283aa4000805bb5b.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Telenovela ZDF
+https://jmp2.uk/plu-5cb5d043a461406ffe3fb2de.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="TennisChannel.us@SD",Tennis Channel
+https://jmp2.uk/plu-6870c9333ffa5e0c914e9205.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="TerraMaterWILD.de@German",Terra Mater WILD
+https://jmp2.uk/plu-65b923f90cb1a100088a03ab.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",The L Word – Wenn Frauen lieben
+https://jmp2.uk/plu-68d2759a59fd82da3226492d.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",The Real Housewives
+https://jmp2.uk/plu-677fb0231da79bfe4fb0bf4e.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Top Gear
+https://jmp2.uk/plu-64c109735dc1660008a4a2dc.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="TotallyTurtles.us@Germany",Totally Turtles
+https://jmp2.uk/plu-5d6792bd6be2998ad0ccce30.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Transformers TV
+https://jmp2.uk/plu-643683519b32b400094e0a40.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Unentdeckt – Mörder unter uns
+https://jmp2.uk/plu-650adc3198020f000862eed4.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Unforgettable
+https://jmp2.uk/plu-650adb92a1217e00091a3eff.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="Victorious.us@Germany",Victorious
+https://jmp2.uk/plu-5e8b5e43f294f8000793c3d7.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Wentworth
+https://jmp2.uk/plu-67ebc104f7c5d70b90368360.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Wer ist hier der Boss?
+https://jmp2.uk/plu-609539fa709d6b0007b19887.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Wicked Tuna
+https://jmp2.uk/plu-65253d66c52b3600083d8dd2.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Willkommen bei den Louds
+https://jmp2.uk/plu-627d2d1d05e09f00073ccdff.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Wings – Die Überflieger
+https://jmp2.uk/plu-65b38e310d9ab400082bdec2.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="WorldPokerTour.us@Germany",World Poker Tour
+https://jmp2.uk/plu-5ad9b7aae738977e2c312132.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",X-Factor: Das Unfassbare
+https://jmp2.uk/plu-642d7e029189ce0008958af5.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Xena – Die Kriegerprinzessin
+https://jmp2.uk/plu-655ca2c99d5ac400080d1324.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Yu-Gi-Oh!
+https://jmp2.uk/plu-642d4493aa2d690008f0a03f.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Zoey 101
+https://jmp2.uk/plu-63c69e6c4207be0007f73c22.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Amasia (720p)
+https://splendid-film-amasia-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",BBC Top Gear Germany (1080p)
+https://amg00793-amg00793c44-rakuten-de-5538.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",DEFA TV (720p)
+https://wdrmediagroup-defatv-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",FilmGold Germany (1080p)
+https://mainstreamfilmgold-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Fluss Monster (1080p)
+https://rivermonstergermany-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Graham Norton Germany (1080p)
+https://amg00654-itv-amg00654c37-rakuten-de-7600.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Hell's Kitchen Germany (1080p)
+https://hellskitchengermany-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Krimi (720p)
+https://4dad3dcf.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0FSRFBsdXNLcmltaV9ITFM/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Lindenstrasse (720p)
+https://ad2ef2da.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0FSRFBsdXNMaW5kZW5zdHJhZV9ITFM/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",LooLoo Kids TV (1080p)
+https://amg02757-amg02757c3-rakuten-de-6135.playouts.now.amagi.tv/playlist/amg02757-loolookids-llkdefast-rakutende/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",MyTime Movie Network Germany (1080p)
+https://appletree-mytimemoviegerman-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Naruto Germany (1080p)
+https://palatinmedia-naruto-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="RakutenTVActionMovies.es@Germany",Rakuten TV Action Movies Germany (1080p)
+https://284824cf70404fdfb6ddf9349009c710.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6066/master.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="RakutenTVComedyMovies.es@Germany",Rakuten TV Comedy Movies Germany (1080p)
+https://ecac08c9e2214375b907d6825aaf9a01.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6182/master.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Rakuten TV Crime Series Germany (1080p)
+https://b6244e915ee04a5aa758e863a55a6a3d.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6217/master.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="RakutenTVDramaMovies.es@Germany",Rakuten TV Drama Movies Germany (1080p)
+https://968754c2483045c1a9a7f677caec35b6.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6096/master.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="RakutenTVFamilyMovies.es@Germany",Rakuten TV Family Movies Germany (1080p)
+https://af230031eeac45f3b78d4f8a13265105.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6209/master.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Rakuten TV German Cinema (1080p)
+https://a5dc66582aa040269fd99d7d7a6ac23b.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6200/master.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Rakuten TV Romance Movies Germany (1080p)
+https://romance-rakuten-tv-de.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6475/master.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Rakuten TV Thrillers Germany (1080p)
+https://thriller-rakuten-tv-de.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6481/master.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="RakutenTVTopMovies.es@Germany",Rakuten TV Top Movies Germany (1080p)
+https://cbb622b29f5d43b598991f3fa19de291.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5985/master.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="RedBullTV.at@DE",Red Bull TV DE (1080p)
+https://769a97d9.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1JlZEJ1bGxUVl9ITFM/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Royalworld Germany (720p)
+https://amogonetworx-royalworld-2-de.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Starke Frauen (1080p)
+https://mainstreamstarkefrauen-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="Strongman.us@Germany",Strongman Champions League (720p)
+https://rightsboosterltd-scl-2-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="Tastemade.us@Germany",Tastemade (1080p)
+https://rakutenaa-tm-germany-rakuten-ger-8jboz.amagi.tv/playlist/rakutenAA-tm-germany-rakuten-ger/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Tennis Channel Germany (720p)
+https://tennischanneldeu-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Top Sci-Fi (1080p)
+https://amg00609-amg00609c5-rakuten-uk-3764.playouts.now.amagi.tv/master.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Top Serien (1080p)
+https://amg00609-palatinmediafil-cractiontv-rakuten-dhjcp.amagi.tv/hls/amagi_hls_data_rakutenAA-cractiontv-rakuten/CDN/master.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Travelxp Germany (720p)
+https://travelxp-travelxp-2-de.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Vevo Pop Germany (1080p)
+https://amg00056-amg00056c7-rakuten-de-3245.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Vevo Schlager Pop (1080p)
+https://amg00056-amg00056c15-rakuten-it-3241.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Wicked Tuna Germany (1080p)
+https://amg00353-amg00353c28-rakuten-us-4895.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="WorldofFreesports.de@SD",World of Freesports (1080p)
+https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="XITE.nl@SD",XITE (720p)
+https://xite-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="ZeeOne.uk@German",Zee One German (720p)
+https://e4955b54.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1kZV9aZWVPbmVfSExT/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="RTD.dj@SD",RTD
+https://dvrfl06.bozztv.com/astv-djibouti/index.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="RTD4.dj@SD",RTD 4
+http://dvrfl05.bozztv.com/gin-rtddjibouti/index.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="TVStorbyen.dk@SD",BL-TV/TV Storbyen (720p) [Not 24/7]
+https://5eeb3940cfaa0.streamlock.net/webtv_live/_definst_/mp4:kanalnordvest/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="DR1.dk@SD",DR1 (1080p) [Geo-blocked]
+https://drlivedr1hls.akamaized.net/hls/live/2113625/drlivedr1/master.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="DR2.dk@SD",DR2 (1080p) [Geo-blocked]
+https://drlivedr2hls.akamaized.net/hls/live/2113623/drlivedr2/master.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="DRRamasjang.dk@SD",DR Ramasjang (720p) [Geo-blocked]
+https://drlive03hls.akamaized.net/hls/live/2014190/drlive03/master.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="DRTV.dk@SD",DRTV (1080p)
+https://drlivedrtvahls.akamaized.net/hls/live/2113613/drlivedrtva/master.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="TVfromtheDanishParliament.dk@SD",Folketinget (1080p) [Not 24/7]
+https://cdnapi.kaltura.com/p/2158211/sp/327418300/playManifest/entryId/1_24gfa7qq/protocol/https/format/applehttp/a.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="KanalHovedstaden.dk@SD",Kanal Hovedstaden (720p) [Not 24/7]
+http://khkbh.dk:8080/hls/livestream/index.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="KKRtv.dk@SD",KKRtv (720p) [Not 24/7]
+http://stream.kkr.dk/live/kkr/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="KKRtv.dk@SD",KKRtv (720p) [Not 24/7]
+http://stream.kkr.dk/live/ngrp:kkr_adaptive/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="TV2Bornholm.dk@SD",TV 2/Bornholm (1080p) [Not 24/7]
+https://livecdn.euw1-0005.jwplive.com/live/sites/J42OBHtp/media/vvNWt4O9/live.isml/.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="TVMarineret.dk@SD",TVMarineret (1080p)
+http://sdream.info:8080/hls/livestream/index.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",3point.dk
+https://jmp2.uk/plu-65b915780cb1a1000889b837.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",7th Heaven
+https://jmp2.uk/plu-6728c9c85534bb0008b320a4.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",48 Hours
+https://jmp2.uk/plu-6346937a46f9a2000889073d.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",2900 Happiness
+https://jmp2.uk/plu-6720bc6cdaad7f000872a6e2.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",All exclusive
+https://jmp2.uk/plu-6577224bb3801200084865d6.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",America's Funniest Home Videos
+https://jmp2.uk/plu-69143de2a570568f53230cab.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",America's Next Top Model
+https://jmp2.uk/plu-6464cc595a0cd500088c7749.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Andromeda
+https://jmp2.uk/plu-6177fb39b68ef1000725e59e.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Are You The One?
+https://jmp2.uk/plu-61c091c39863900007ac9e8f.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Auction Hunters
+https://jmp2.uk/plu-62da73c4ec46c000070f4cb1.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Avatar
+https://jmp2.uk/plu-61c09b48d6d97900076e91c5.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Avatar+
+https://jmp2.uk/plu-6266916480ecc800074d6322.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Awkward
+https://jmp2.uk/plu-61c0925c738ecd000882450a.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",AWSN
+https://jmp2.uk/plu-660e7404e8fba8000853abc0.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Beauty and the Beast
+https://jmp2.uk/plu-6512ec7a2ce8e40008bdb433.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Beavis and Butt-Head
+https://jmp2.uk/plu-6486e8984cfc2c0008b6844e.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Becker
+https://jmp2.uk/plu-672e157d7d5da5000812872d.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Bellator MMA
+https://jmp2.uk/plu-62792f34f3aa05000728841e.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Best of MTV
+https://jmp2.uk/plu-632aff5e44111b00076ad9b1.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Best of The Drew Barrymore Show
+https://jmp2.uk/plu-62beb692cda2b10007d5fd76.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",BET
+https://jmp2.uk/plu-61c1939b8929e40007ff6382.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",BET25 LIVE
+https://jmp2.uk/plu-6405d444d200410008009419.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",BET25 Live+
+https://jmp2.uk/plu-675c0762f433320008707f68.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Bloomberg TV+
+https://jmp2.uk/plu-61de991729cd4a00079f812b.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Boligkøb i blinde
+https://jmp2.uk/plu-63c6a27a4faf1c0007b48f7b.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Bondi Rescue
+https://jmp2.uk/plu-660d66be7bcd8600087cfee5.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Breinholts
+https://jmp2.uk/plu-660d6c0094db140008fe2f74.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Britain's Next Top Model
+https://jmp2.uk/plu-67a09ddc21af380008088dc3.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Broad City
+https://jmp2.uk/plu-65cba73611ced700082123bc.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Brøndby TV
+https://jmp2.uk/plu-685029cda1e091e16ff57fc8.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Car Chase
+https://jmp2.uk/plu-65a93b0607e03a000895abda.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Caroline in the City
+https://jmp2.uk/plu-66a7aa44cd0d31000843942b.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Casualty 24/7
+https://jmp2.uk/plu-64e87cc644fe100009ccad13.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Catfish: De største bedrag
+https://jmp2.uk/plu-678e278c3de7c8cf943c0517.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",CBS News 24/7
+https://jmp2.uk/plu-61e82af27027f9000753c6e4.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Celeb Reality
+https://jmp2.uk/plu-65788076b228b7000843fc9a.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Chappelle's Show
+https://jmp2.uk/plu-65e976ad0d456100082d9b74.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Cheaters
+https://jmp2.uk/plu-651e719b575f660008d2e629.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Come Dine with Me
+https://jmp2.uk/plu-65d7239066eec8000881e293.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Comedy Central
+https://jmp2.uk/plu-61c0989431084d0007eab12d.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Comedy Central Roast
+https://jmp2.uk/plu-6641fd41b18d700008e7e2b8.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",COPS
+https://jmp2.uk/plu-6400bc50953da40008b94668.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Crime 360
+https://jmp2.uk/plu-657880c46e4f6a00087404d0.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Crime Scene Solvers
+https://jmp2.uk/plu-6426a821a3ade7000800031c.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",CSI
+https://jmp2.uk/plu-6525419dc52b3600083db9c3.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Dallas Cowboys Cheerleaders
+https://jmp2.uk/plu-64e87c6b28cec700088ceb55.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Dance Moms
+https://jmp2.uk/plu-65787eefcbd0d60008f85b3f.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",DAZN Combat
+https://jmp2.uk/plu-64805922536e0c0008a1a1e6.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Den gode gerning
+https://jmp2.uk/plu-689a0ab0f4af1aaca24530ae.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Den gule sofa med Allan Sindberg
+https://jmp2.uk/plu-66b22714d512590008c3d573.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Det sene show med Christian Fuhlendorff
+https://jmp2.uk/plu-660d6bc10cd4630008f4a25a.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",DFB Play TV
+https://jmp2.uk/plu-66461eb33d173b000805ecd3.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Diagnosis Murder
+https://jmp2.uk/plu-668bf7dd74f5ec000817e6d1.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Ditzel & Turbomodul
+https://jmp2.uk/plu-678f8676ad083171df19ca07.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Dog The Bounty Hunter
+https://jmp2.uk/plu-65787fb36e4f6a0008740127.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Dollars
+https://jmp2.uk/plu-68f0fa98fae18f8db62a920a.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Dominance FC TV
+https://jmp2.uk/plu-67a23b4e15d6eb000827a20d.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Dr. Quinn Medicine Woman
+https://jmp2.uk/plu-68f0f71bb45f4453e05c0863.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Duck Dynasty
+https://jmp2.uk/plu-65787e8232c1b300089a8482.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Escape to the Country
+https://jmp2.uk/plu-66d712fdabec540008ba66cd.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Euronews
+https://jmp2.uk/plu-61de96114757070008d33cae.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Everybody Hates Chris
+https://jmp2.uk/plu-63a1cab19ab2df0007bf1c8b.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Ex On The Beach
+https://jmp2.uk/plu-61c0909b872c650008ed42e4.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Explore TV
+https://jmp2.uk/plu-65ba4c9adc10a40008d9fecc.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",FailArmy
+https://jmp2.uk/plu-6177f6bf7693550007531275.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Familien fra Bryggen
+https://jmp2.uk/plu-61c19c8c9863900007acaa57.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Family Ties
+https://jmp2.uk/plu-654a4a3ef91d250008ac089b.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",FBI Files
+https://jmp2.uk/plu-61814659533163000748aa04.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",FBoy Island
+https://jmp2.uk/plu-6790d6c7bc03978b9bfbfd44.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",FCK Løvinderne
+https://jmp2.uk/plu-68ac5403de4a734954b5ab75.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",FIFA+
+https://jmp2.uk/plu-660bfc7b2433010008def3e3.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",For lækker til love
+https://jmp2.uk/plu-6272511cb389bb0007b30b09.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Forensic Files
+https://jmp2.uk/plu-6181241c1a35d50007874c27.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Forsidefruer
+https://jmp2.uk/plu-61c19dcefbb4b50007d242e1.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Frasier
+https://jmp2.uk/plu-6400c095498393000878a634.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Frasier: Det bedste med Niles
+https://jmp2.uk/plu-6825f91b5c64675195a57f29.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Frasiers bedste gæstestjerner
+https://jmp2.uk/plu-6708f022565d3a0008a552f3.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Frasiers herlige højtider
+https://jmp2.uk/plu-6708f068a07d1a000800b403.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",From South Park with Love
+https://jmp2.uk/plu-65b3d7c033ea860008516824.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Geordie Shore
+https://jmp2.uk/plu-6442512cee6a2f0008d3351f.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Ghost Dimension
+https://jmp2.uk/plu-619e1bb3e9af5a0007f235ad.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Glory Kickboxing
+https://jmp2.uk/plu-65e9b6498b24c8000806b982.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Happy Days
+https://jmp2.uk/plu-654a4e29ab05240008a18625.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Hardcore Pawn
+https://jmp2.uk/plu-6909fc4b74601d957a380613.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Hell's Kitchen
+https://jmp2.uk/plu-61c194ff6f23a7000780073a.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Highway to Heaven
+https://jmp2.uk/plu-68bff9a63efb41cd97562e46.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Hoarders & Dirty Home Rescue
+https://jmp2.uk/plu-64e87ce528cec700088cec55.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Homicide Hunter
+https://jmp2.uk/plu-619e21b213ef6b0007d8c17a.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Horse & Country
+https://jmp2.uk/plu-671b4dc049c4060008f91d3a.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Hot Ones
+https://jmp2.uk/plu-655ca7405812e80008883d4e.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",House of Lies
+https://jmp2.uk/plu-693ae62a43fe00a023e76e0d.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Hundehviskeren
+https://jmp2.uk/plu-6501af923a0d700008b71b53.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",I Survived
+https://jmp2.uk/plu-657881c46e4f6a00087414c2.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",iCarly
+https://jmp2.uk/plu-61c0b9aab7facb0007913908.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Ice Pilots
+https://jmp2.uk/plu-62cd97fb9f8154000727516c.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Ice Road Truckers
+https://jmp2.uk/plu-633560bfa693390008b99cf0.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Iron Chef
+https://jmp2.uk/plu-682b385876963fba9abf0f26.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Jade Fever
+https://jmp2.uk/plu-660d6ade0cd4630008f4a127.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",JAG
+https://jmp2.uk/plu-654a4ab92c1d330008657ae5.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Jersey Shore
+https://jmp2.uk/plu-6442508e5a0cd500083edd3c.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Jersey Shore Family Vacation
+https://jmp2.uk/plu-6728c831c7626f0008b28127.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Judge Judy
+https://jmp2.uk/plu-6380c36389eccc000858c50f.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Just for Laughs GAGS
+https://jmp2.uk/plu-6177fd9812fe0c000726f9eb.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Key & Peele
+https://jmp2.uk/plu-65cba715dc10a40008034917.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Kickin'it
+https://jmp2.uk/plu-659fbb566e4f6a0008b868e6.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Koch'en på toppen
+https://jmp2.uk/plu-660d667519ca71000849a1e1.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Kvart i Bold
+https://jmp2.uk/plu-657c0954dfed030008d82ea1.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Langt fra Bryggen
+https://jmp2.uk/plu-654a3fe6986ad20008a42add.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Love Boat
+https://jmp2.uk/plu-654a4cc3f91d250008ac11f6.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Love Island Danmark
+https://jmp2.uk/plu-61c19bfb3bf4940007804d32.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Love Island UK
+https://jmp2.uk/plu-62bed7cb3279cb0007735327.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Love Island USA
+https://jmp2.uk/plu-695e2857026be6e9d3ad59d3.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Love Island: All Stars
+https://jmp2.uk/plu-68ad8bececd330dcb0f050b5.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Luksusfælden
+https://jmp2.uk/plu-61c19b7785706b00072d421a.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",MacGyver
+https://jmp2.uk/plu-654a59742c1d33000865a797.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Man with a Plan
+https://jmp2.uk/plu-678f88bb272ded16b1558c5e.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",MasterChef Danmarks største madtalenter
+https://jmp2.uk/plu-61c19edbf535220007075c4e.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Matlock
+https://jmp2.uk/plu-66290a779e68c20008a18cf3.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Med kniven for struben
+https://jmp2.uk/plu-63e3b33e8795f300087e6a46.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Mediano TV
+https://jmp2.uk/plu-66952e1ed512590008867b5a.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Medium
+https://jmp2.uk/plu-68f0f54ca362b63a8df4d5a9.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Melrose Place
+https://jmp2.uk/plu-62a0ae0e4e47a30007fe21bb.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Merry Christmas from Viafree
+https://jmp2.uk/plu-63048147b09fd60007847a08.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Mission Impossible
+https://jmp2.uk/plu-6478a9e4f77b61000817034b.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Mit plastikmareridt
+https://jmp2.uk/plu-643814ef479f6400086ff043.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Modern Marvels
+https://jmp2.uk/plu-6578812b12d5ee000884c5c6.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",MODUS Super Series Darts
+https://jmp2.uk/plu-671656a37d5da50008de6514.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Monster Jam
+https://jmp2.uk/plu-65c33fd4dc10a40008f26af8.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",MTV Catfish
+https://jmp2.uk/plu-6177fe76691b2e000702c7fc.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",MTV Dating
+https://jmp2.uk/plu-6851407c21f49d1b9d177493.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",MTV Reality
+https://jmp2.uk/plu-685137f4a1e091e16f2dd471.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",MTV Ridiculousness
+https://jmp2.uk/plu-62cd9641393d8400076f34db.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",MTV Teen Mom
+https://jmp2.uk/plu-61c092157e1b8b0007372a35.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",NCIS
+https://jmp2.uk/plu-6319ec31c62c3f00075c90b1.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",NCIS: Det bedste med Gibbs
+https://jmp2.uk/plu-6901d952ec12c3c759fdc7cd.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",NCIS: Det bedste med Tony & Ziva
+https://jmp2.uk/plu-68921b2f4fa995eff24df6c8.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",NCIS: Los Angeles
+https://jmp2.uk/plu-66fbf4d3d7de140008d41f5b.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",NonStop Kung Fu
+https://jmp2.uk/plu-6728d2be529ac9000830dc15.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Nosey
+https://jmp2.uk/plu-619e1ef4f42ad90007e00a21.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Numbers
+https://jmp2.uk/plu-62bebb3a67307900077a7f9d.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",On the Case
+https://jmp2.uk/plu-62cd971cec90c20007081050.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",På Tur
+https://jmp2.uk/plu-65649791954b020008d09565.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Paradise
+https://jmp2.uk/plu-629e095e511d4b00070c9f44.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Paradise Hotel
+https://jmp2.uk/plu-61c19af83fae0a00078c8918.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Paradise Hotel: Under lagnerne
+https://jmp2.uk/plu-662b71658dd8160008fc3abf.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",PFL MMA
+https://jmp2.uk/plu-65b8f959eb87e30008333201.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",PGA TOUR
+https://jmp2.uk/plu-66c870112630fc0008137ae2.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Pimp My Ride
+https://jmp2.uk/plu-61c091343bf4940007803e03.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Pixel.tv
+https://jmp2.uk/plu-62790dc1c733e8000733ba4d.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Pluto TV Action
+https://jmp2.uk/plu-61c095861782bd000780e0ba.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Pluto TV Alien Invasion
+https://jmp2.uk/plu-650999b86a841400083bd1ab.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Pluto TV Bud & Terence
+https://jmp2.uk/plu-65b915b1dc10a40008d53797.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Pluto TV Danske klassikere
+https://jmp2.uk/plu-67d2b814fe36d6e7b1d2318a.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Pluto TV Dokumentar
+https://jmp2.uk/plu-62b30b0060a9ca0007d628b4.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Pluto TV Film
+https://jmp2.uk/plu-61c09515fbb4b50007d221f5.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Pluto TV Fishing
+https://jmp2.uk/plu-619e1874e0d3a7000729a036.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Pluto TV Håndbold Highlights
+https://jmp2.uk/plu-68dfa431cc3c6cd904053100.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Pluto TV Håndbold Live
+https://jmp2.uk/plu-6618f54baec96800081525ec.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Pluto TV Harlequin
+https://jmp2.uk/plu-68c01afa3efb41cd9759dafb.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Pluto TV Horror
+https://jmp2.uk/plu-63a1c9790cc44a0007dc8857.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Pluto TV Humor
+https://jmp2.uk/plu-61c0974945b45d0007aaa5ac.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Pluto TV John Wayne
+https://jmp2.uk/plu-655ca7aa635c3c000855d655.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Pluto TV Juniorklubben
+https://jmp2.uk/plu-61c09a78bd194c0008decc28.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Pluto TV Klassiske tegnefilm
+https://jmp2.uk/plu-67f508992ebe80e2929b5c98.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Pluto TV Kultfilm
+https://jmp2.uk/plu-63dbe7ed51f5d000083e9499.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Pluto TV Paranormal
+https://jmp2.uk/plu-62b30beb81f89900071fc7b9.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Pluto TV Romantik
+https://jmp2.uk/plu-63a1c954d3897300079fcb12.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Pluto TV Sci-Fi
+https://jmp2.uk/plu-61f9598588f86000078ee7d6.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Pluto TV Snooker 900
+https://jmp2.uk/plu-68ac55bb3efb41cd979a65ec.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Pluto TV Space
+https://jmp2.uk/plu-61b86c6ef30f5d0007e4c6d1.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Pluto TV Sport
+https://jmp2.uk/plu-6357f3de3643ba0007bc0b50.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Pluto TV Star Trek
+https://jmp2.uk/plu-61c1979dfa307000070bbe4d.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Pluto TV Tegnefilm
+https://jmp2.uk/plu-61c09938e0d3a700072b68b1.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Pluto TV True Crime
+https://jmp2.uk/plu-61c097ec8bb1830008e3f962.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Pluto TV Ungdomsserier
+https://jmp2.uk/plu-67f3fb1cdea1c5e0d588ac1b.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Pluto TV Verdenskrigene
+https://jmp2.uk/plu-677d397b60fbeb00084b0bff.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Pluto TV Wild West
+https://jmp2.uk/plu-68c01732b3900870ec74766f.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",PodRadio på Pluto TV
+https://jmp2.uk/plu-67f79fdb3481170e68c0bc38.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Project Runway
+https://jmp2.uk/plu-627254d6ba35210007e5d4ca.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Reality Awards
+https://jmp2.uk/plu-692ec3a76f84242a60f75f59.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Realmadrid TV
+https://jmp2.uk/plu-660d714719ca71000849cc1f.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Reno 911
+https://jmp2.uk/plu-65e9766eec9fda0008cb418a.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Retake E-sport Live
+https://jmp2.uk/plu-66fd1338ec9d6d00081e0443.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Ridiculousness Nye afsnit
+https://jmp2.uk/plu-68dfa160cc3c6cd90404d798.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",River Monsters
+https://jmp2.uk/plu-662a271c06839f0008ccf733.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Robert Prisen
+https://jmp2.uk/plu-692ec3f475169f09b5c0a8b3.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Robinson Ekspeditionen
+https://jmp2.uk/plu-63a42df60cc44a0007dd47f8.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Sabrina the Teenage Witch
+https://jmp2.uk/plu-6512ecf63a0d700008db506a.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Sams Bar
+https://jmp2.uk/plu-63e3b2cba99571000887a6ce.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Scorpion
+https://jmp2.uk/plu-63a1caefc8d285000799e8af.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Se og Hør – rød løber
+https://jmp2.uk/plu-67334bed030a2c000805e414.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Simba Prisen
+https://jmp2.uk/plu-688a20c69034bd35f34aaa9e.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Skønne ombygninger
+https://jmp2.uk/plu-61c19d329b8260000744331b.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Smithsonian Channel Selects
+https://jmp2.uk/plu-61fb988e032c0100077d5252.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Smølferne
+https://jmp2.uk/plu-68adb066f7d7f0a9b9ff5d32.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",South Park
+https://jmp2.uk/plu-61c098df897b9d00070375c8.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",South Park Armageddon
+https://jmp2.uk/plu-660bff28516d260008479e23.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",South Park Halloween
+https://jmp2.uk/plu-6501c8c76625510008cbe20f.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",South Park Rockin' Out
+https://jmp2.uk/plu-664f132c8ea5560008ce4d86.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",South Park: Butters Collection
+https://jmp2.uk/plu-65d87a66ec9fda0008a5ac11.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",South Park: Cartman Collection
+https://jmp2.uk/plu-65d87a058145cb0008265c2e.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",South Park: Holiday Collection
+https://jmp2.uk/plu-66fcedd95049580008d17ddf.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",South Park: Into the Stars
+https://jmp2.uk/plu-664f0eaa8ce31100088036bd.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",South Park: Kenny Collection
+https://jmp2.uk/plu-65d879bd0d4561000805d190.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",South Park: Kyle Collection
+https://jmp2.uk/plu-65d87a908145cb0008265c6d.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",South Park: Stan Collection
+https://jmp2.uk/plu-65d879e266eec8000887e91b.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Star Trek Movies
+https://jmp2.uk/plu-6400c281dff38e00083f59da.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Star Trek: The Original Series
+https://jmp2.uk/plu-693add137e308621c051e733.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",SvampeBob Firkant
+https://jmp2.uk/plu-61c09ac98a80a4000703f992.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Tareq Taylor's Nordic Cookery
+https://jmp2.uk/plu-63c96203636b7e0007d35090.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Taxi
+https://jmp2.uk/plu-66b229b0d2d50d00083990b2.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",The Daily Show
+https://jmp2.uk/plu-65c096d23ba51e0008305a75.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",The Graham Norton Show
+https://jmp2.uk/plu-6915dd5ca570568f53431c7f.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",The Hills
+https://jmp2.uk/plu-61c09039ebd75200072587f9.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",The Nanny
+https://jmp2.uk/plu-6391cef9edb23c0008598cee.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",The Nanny & Mr Sheffield A Fine Romance
+https://jmp2.uk/plu-686d0130ed17cf4c902cbd19.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",The New Detectives
+https://jmp2.uk/plu-618147d2a814250007b42916.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",The Twilight Zone
+https://jmp2.uk/plu-6512ec9f3a0d700008db4f0c.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Til julefrokost hos r8Dio
+https://jmp2.uk/plu-69256bd7db5cc2f81d8a1a08.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Til Middag Hos
+https://jmp2.uk/plu-61c1a05ef30f5d0007e562f3.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Top Gear
+https://jmp2.uk/plu-620234d766314700075cac86.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Top Gear Classics
+https://jmp2.uk/plu-660d6360c8311c0008b8a7c6.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Tosh.0
+https://jmp2.uk/plu-65e977042873090008b48be9.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Totally Turtles
+https://jmp2.uk/plu-61c0bbd95df1da0007bed5a0.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Triton Poker
+https://jmp2.uk/plu-668e5f2bcd0d3100080f6952.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Trucking Hell
+https://jmp2.uk/plu-64e87d090f73a800080e9ca5.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",UFC
+https://jmp2.uk/plu-6792044b680721c77c5b9ba2.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Unsolved Mysteries
+https://jmp2.uk/plu-61813fbfa19d830007b456c2.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Viafree Movies
+https://jmp2.uk/plu-62bebc3459624e00078209c3.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Walker Texas Ranger
+https://jmp2.uk/plu-62a0aefc7c5f9f00075b4e24.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Wildfire
+https://jmp2.uk/plu-62b9b63d3bbe9000073c0a2d.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Wipeout
+https://jmp2.uk/plu-6909e5c3a3a4b49706b8373b.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",World of Love Island
+https://jmp2.uk/plu-6440f8ba939a5900082bddc8.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",World Poker Tour
+https://jmp2.uk/plu-6177f8fdef21ab0007332b53.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="FailArmy.us@US",Failarmy International (720p)
+https://failarmy-international-dk.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="GoUSATV.us@SD",Go USA TV (720p)
+https://brandusa-gousa-1-dk.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="GrjngoWesternMovies.de@SD",Grjngo Western Movies (720p)
+https://amogonetworx-grjngo-3-dk.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="HomesUnderHammer.us@UK",Homes Under The Hammer (720p)
+https://all3media-homes-under-the-hammer-1-dk.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="JustforLaughsGags.us@SD",Just For Laughs Gags (720p)
+https://distributionsjustepourrire-justforlaughsgags-1-dk.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="",Mechplus (720p)
+https://mechtvltd-mechplus-1-dk.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="PeopleAreAwesome.us@SD",People are Awesome (720p)
+https://jukin-peopleareawesome-2-dk.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="StrongmanChampionsLeague.pl@SD",Strongman Champions League (720p)
+https://rightsboosterltd-scl-1-dk.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="ThePetCollective.us@US",The Pet Collective International (720p)
+https://the-pet-collective-international-dk.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="AcentoTV.do@SD",Acento TV
+#EXTVLCOPT:http-referrer=https://acentotv01.streamprolive.com/i/cp/hls/player.html
+https://acentotv01.streamprolive.com/hls/live.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="AdoramTV.do@SD",Adoram TV (720p)
+https://live20.bozztv.com/giatv/giatv-adoram/adoram/chunks.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="AguilaTV.do@HD",Aguila TV (1080p) [Not 24/7]
+https://fox.hostlagarto.com:8081/aguilatv/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="AhoraTV.do@SD",Ahora TV (720p)
+https://tv.livestreaminggroup.info:3513/live/canal35live.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="AIONTV.do@SD",AION TV (1080p) [Not 24/7]
+https://mlb.essastream.com:8081/aiontelevision/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="AlcarrizosTV.do@SD",Alcarrizos TV (720p) [Not 24/7]
+https://5790d294af2dc.streamlock.net/alcarrizostv/alcarrizostv/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="AlegreTVRD.do@SD",Alegre TV RD (720p) [Not 24/7]
+https://streamunoapp.com:3149/live/alegretvlive.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="Ame47.do@SD",Ame 47 (576p)
+https://ss2.tvrdomi.com:1936/ame47/ame47/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="AnimeZoneTV.do@SD",Anime Zone TV (480p)
+http://animezonetv.net/hls/stream.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="Antena7.do@SD",Antena 7 (720p)
+https://d3mhrz6vhsrmmq.cloudfront.net/index.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="Antena7.do@SD",Antena 7 (480p) [Not 24/7] [Geo-blocked]
+https://alba-do-antena7-antena7.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="Antena21.do@SD",Antena 21 (480p) [Not 24/7] [Geo-blocked]
+https://alba-do-antena7-c21.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="Antena21.do@SD",Antena 21
+https://d1p8txxph783az.cloudfront.net/index.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="AtabalTV.do@HD",Atabal TV (1080p) [Not 24/7]
+https://vdopanel.jlahozconsulting.com:3648/live/atabaltvlive.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="BajoTechoTV.do@SD",Bajo Techo TV (1080p) [Not 24/7]
+https://fox.hostlagarto.com:8081/bajotechotv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="BebetoTV.do@SD",Bebeto TV (1080p)
+https://mlb.essastream.com:8081/bebetotelevision/index.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="Bellavision.do@SD",Bellavision (1080p) [Not 24/7]
+https://fox.hostlagarto.com:8081/bellavision8hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="BocaChicaTV.do@SD",Boca Chica TV (720p) [Not 24/7]
+https://fox.hostlagarto.com:8081/bocachicatv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="BonchesLatinosTV.do@SD",Bonches Latinos TV (720p)
+https://5790d294af2dc.streamlock.net/latinostv/latinostv/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="Boreal.do@SD",Boreal (720p) [Not 24/7]
+https://mlb.essastream.com:8081/borealtelevision/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="CamuTV.do@SD",Camu TV (480p) [Not 24/7]
+https://live20.bozztv.com/akamaissh101/ssh101/camutv/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="CanaTVDigital.do@SD",Cana TV Digital (720p) [Not 24/7]
+https://stream.hostuis.com:19360/canatvdigital/canatvdigital.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="Canal4RD.do@SD",Canal 4 RD (1080p)
+https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="Canal17RTVD.do@HD",Canal 17 RTVD (720p)
+https://protvradiostream.com:1936/rtvd17/ngrp:rtvd17_all/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="Canal56.do@SD",Canal 56 (720p)
+https://vdopanel.jlahozconsulting.com/p/3124/hybrid/play.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="CanalCatorce.do@SD",Canal Catorce (720p)
+https://tv.livestreaminggroup.info:3052/live/catorcetvlive.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="CanalDTV.do@SD",Canal DTV (720p)
+https://s.emisoras.tv:8081/dtv/index.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="CanalMultivision.do@SD",Canal Multivision (720p) [Not 24/7]
+https://live20.bozztv.com/akamaissh101/ssh101/canalmulti24/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="Canalda26HD.do@HD",Canalda 26 HD [Not 24/7]
+https://canalda.rgradio.net:3084/live/canaldalive.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="CanangaTV.do@SD",Cananga TV (720p)
+https://cdn.streamingcpanel.com:3545/live/canangatlive.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="CaobaTVRadio.do@HD",Caoba TV Radio (720p) [Not 24/7]
+https://host.streamingnation.live:3940/live/caobatvlive.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="Carivision.do@SD",Carivision (1080p) [Geo-blocked]
+https://ss2.tvrdomi.com:1936/carivision/carivision/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="CascaraTV.do@SD",Cascara TV (720p)
+https://ss2.tvrdomi.com:1936/cascaratv/cascaratv/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="CDNDeportes.do@SD",CDN Deportes (720p)
+http://200.125.170.122:8000/play/a03j/index.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="CenovisionHD.do@HD",Cenovision HD (720p)
+https://5790d294af2dc.streamlock.net/cenovision/cenovision/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="ChinolaTV.do@SD",Chinola TV (480p)
+https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="CibaenaTV.do@SD",Cibaeña TV (720p)
+https://streamunoapp.com:3958/live/cibaenatvlive.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="CieloTV.do@SD",Cielo TV (1080p)
+https://streaming.servervideo.net:1936/cielotv/cielotv/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="CinevisionCanal19.do@SD",Cinevision Canal 19 (720p)
+https://cdn.mycloudstream.io/hls/live/broadcast/etyetihk/index.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="CitricoTV.do@SD",Citrico TV (360p) [Not 24/7]
+https://mlb.essastream.com:8081/citricotv/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="ClaroTelevisionDominicana.do@SD",Claro Televisión Dominicana (360p)
+https://streamunoapp.com:3960/live/claroteledomlive.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="ClaroVisionTV.do@SD",Claro Visión TV (720p)
+https://streamunoapp.com:3057/live/clarovisiontvlive.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="CNTMasTV.do@HD",CNT Mas TV (720p) [Not 24/7]
+https://mlb.essastream.com:8081/cntmas/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="COCOTV.do@SD",COCO TV (1080p) [Not 24/7]
+https://mlb.essastream.com:8081/canalcocotv/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="COCOTV.do@SD",COCO TV (1080p) [Not 24/7]
+https://mlb.essastream.com:8081/canalcocotv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="CodigoTV.do@HD",Codigo TV (1080p) [Not 24/7]
+https://mlb.essastream.com:8081/codigotv/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="ColimdoTV.do@SD",ColimdoT TV (720p)
+https://cnn.livestreaminggroup.info:3132/live/colimdotvlive.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="ColomeTV.do@HD",Colome TV [Not 24/7]
+https://ss2.tvrdomi.com:1936/colometv/colometv/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="ConstanzaTV.do@SD",ConstanzaTV [Not 24/7]
+https://live20.bozztv.com/akamaissh101/ssh101/ctv8hd/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="CotubanamaTV.do@SD",Cotubanama TV (1080p)
+https://host.streamingnation.live/p/3588/hybrid/play.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="CromTV.do@SD",CromTV (1080p) [Not 24/7]
+https://fox.hostlagarto.com:8081/cromtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="CVVisionTV.do@SD",CV Vision TV [Geo-blocked]
+https://eu1.servers10.com:8081/8128/index.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="DANTV.do@SD",DAN TV (1080p) [Not 24/7]
+https://cnn.hostlagarto.com/telesiglo/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="DeUltimoMinutoTV.do@SD",De Ultimo Minuto TV
+https://soportedvb.click:3620/live/deultimominutomedialive.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="DelPuebloTV.do@HD",Del Pueblo TV [Not 24/7]
+https://vdopanel.jlahozconsulting.com:3869/hybrid/play.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="DeltaTVCanal50.do@SD",Delta TV Canal 50 (720p) [Not 24/7]
+https://fox.hostlagarto.com:8081/deltatv50/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="Digital15.do@SD",Digital 15 (1080p)
+http://190.122.104.210:5080/LiveApp/streams/Di15.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="Digital15.do@SD",Digital 15 (1080p)
+#EXTVLCOPT:http-referrer=https://telemicro.com.do/players/5tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
+https://live4.telemicro.com.do/live/digital15cast_1080p/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="Digital809TV.do@SD",Digital809 TV (720p)
+https://inliveserver.com:1936/digital809tv/digital809tv/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="DigitalVision63.do@SD",Digital Vision 63 (720p) [Geo-blocked]
+https://ss2.tvrdomi.com:1936/digitalvision/digitalvision/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="Ecovision.do@SD",Ecovisión (720p)
+https://streaming.grupomediosdelnorte.com:19360/ecovision/ecovision.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="EduPlusTV.do@HD",Edu+ TV
+https://vdopanel.jlahozconsulting.com:3720/hybrid/play.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="ElNuevoDiarioTV.do@SD",El Nuevo Diario TV (480p)
+#EXTVLCOPT:http-referrer=https://nuevodiario01.streamprolive.com/i/cp/hls/player.html
+https://nuevodiario01.streamprolive.com/hls/live.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="ElPitucoTV.do@HD",El Pituco TV (720p)
+https://imagenuniversaltv.net:3439/live/elpitucolive.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="ElPuertoTV.do@SD",El PuertoTV (720p)
+https://5bf8041cb3fed.streamlock.net/PuertoTV/PuertoTV/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="EliasPinaTV.do@SD",Elias Pina TV (720p) [Not 24/7]
+https://cloud2.streaminglivehd.com:1936/8078/8078/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="Enntivision.do@SD",Enntivision (1080p) [Not 24/7]
+https://mlb.essastream.com:8081/enntivision/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="entelevision.do@SD",Entelevisión (720p)
+https://tv.livestreaminggroup.info:3985/live/entelevisionlive.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="EnterateRD.do@HD",Enterate RD [Not 24/7]
+https://5790d294af2dc.streamlock.net/enteraterd/enteraterd/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="Extra86TV.do@HD",Extra 86 TV (720p)
+https://samson.streamerr.co:8081/xtelevisionrd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="Farovision.do@SD",Farovisión (720p)
+https://streamtv.intervenhosting.net:3754/hybrid/play.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="FRATATV.do@SD",FRATA TV (1080p) [Not 24/7]
+https://vdopanel.jlahozconsulting.com:3706/hybrid/play.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="FuegoTV.do@SD",Fuego TV [Not 24/7]
+https://streamunoapp.com:3553/live/cromtvlive.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="GalaxiATeVe.do@SD",Galaxia TV (360p)
+https://streaming.grupomediosdelnorte.com:19360/galaxiateve/galaxiateve.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="GHTelevision.do@SD",GH Television (1080p) [Not 24/7]
+https://fox.hostlagarto.com:8081/ghtelevision/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="GiTelevision.do@SD",Gi Television (720p) [Not 24/7]
+https://canal.gitelevisionserver.com/live/DIEEFIh506fL8huspvl0f0c2PZF3/index.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="GlobalSocialTV.do@SD",Global Social TV (720p) [Not 24/7]
+#EXTVLCOPT:http-referrer=https://player.castr.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+https://stream.castr.com/6809124f3f3e7e594c63cf15/live_8e5d0b50206a11f08690576446b3c082/index.fmp4.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="GlobalTV.do@SD",Global TV (720p)
+https://stmv4.voxtvhd.com.br/globaltv/globaltv/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="GuaymateTV.do@SD",Guaymate TV (720p) [Not 24/7]
+https://live20.bozztv.com/akamaissh101/ssh101/guaymatetv/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="HainaVision.do@SD",Haina Vision (720p)
+https://cdn.streamingcpanel.com:3447/live/hainavisionlive.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="HermanasMirabalTV.do@SD",Hermanas Mirabal TV (720p) [Not 24/7]
+https://fox.hostlagarto.com:8081/hmtv/index.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="HilandoFinoTV.do@SD",Hilando Fino TV (1080p)
+https://hilandofinotv.essastream.com:3606/live/canalhilandofinotvlive.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="Hits360TV.do@SD",Hits 360 TV (720p) [Not 24/7]
+http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="HTVLive.do@SD",HTV Live (1080p) [Not 24/7]
+https://fox.hostlagarto.com:8081/canalhtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="ImagenUniversalTV.do@SD",Imagen Universal TV
+https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="InformeTV.do@HD",Informe TV (1080p) [Not 24/7]
+https://mlb.essastream.com:8081/informetv/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="JARABACOATV.do@HD",JARABACOA TV (1080p) [Not 24/7]
+https://streaming.jarabacoatv.com/Jarabacoa_tv/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="JimaniTV.do@SD",Jimani TV (360p) [Geo-blocked]
+https://cloud2.streaminglivehd.com:1936/8246/8246/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="JPDTV.do@HD",JPD TV [Not 24/7]
+https://imagenuniversaltv.net:3026/live/juanpabloduartetvlive.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="JuniorTechnologiaTV.do@HD",Junior Technologia TV (1080p) [Not 24/7]
+https://streamunoapp.com:3616/live/juniorrodrigueztvlive.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="LaCaletaTV.do@SD",La Caleta TV (720p) [Not 24/7]
+https://mlb.essastream.com:8081/lacaletatv/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="LaDescargaTV.do@HD",La Descarga TV [Geo-blocked]
+https://video.udwn.net:19360/ladescargatv/ladescargatv.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="LAMIATV.do@SD",LA MIA TV (720p) [Geo-blocked]
+https://ss2.tvrdomi.com:1936/lamiatv/lamiatv/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="LaReinaTV.do@HD",La Reina TV [Geo-blocked]
+https://cloud2.streaminglivehd.com:1936/lareinatv/lareinatv/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="LaRutaTV.do@HD",La Ruta TV
+https://streamunoapp.com:3983/live/larutatvlive.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="LaSultanadelEsteTV.do@SD",La Sultana del Este TV (720p) [Not 24/7]
+https://micanal.ovh/livestreams/544.EP3QGO4KPL66.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="LaVozdeJesusHD.do@HD",La Voz de Jesus HD (720p)
+https://live20.bozztv.com/giatvplayout7/giatv-208429/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="LaVozdeMaria.do@SD",La Voz de Maria (720p)
+https://live.lavozdemaria.com:3436/live/lavozdemarialive.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="LaVozdelTropico.do@SD",La Voz del Tropico (480p) [Geo-blocked]
+https://ss2.tvrdomi.com:1936/lavozdeltropico/lavozdeltropico/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="LagunaTV.do@HD",Laguna TV (1080p) [Not 24/7]
+https://cnn.hostlagarto.com/lagutv/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="LarivisionTV.do@HD",Larivision TV [Not 24/7]
+https://live.larimartv.net/livelan/stream.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="LatinaTVInternacional.do@SD",Latina TV Internacional (720p)
+https://5790d294af2dc.streamlock.net/latinatv/latinatv/chunklist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="LenaTV.do@SD",Lena TV [Not 24/7]
+https://5790d294af2dc.streamlock.net/lenaratv/lenaratv/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="LunaTVCanal53.do@SD",Luna TV Canal 53 (720p)
+https://tv.wracanal10.com:3671/live/lunatvcanal53live.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="LuzDivinaTV.do@HD",Luz Divina TV [Not 24/7]
+https://tv.wracanal10.com:3776/live/luzdivinatvlive.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="MakaoTV.do@SD",Makao TV (360p)
+https://live.obslivestream.com/makaomux/tracks-v2a1/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="MakinaTV.do@SD",Makina TV [Not 24/7]
+https://vdopanel.jlahozconsulting.com/p/3303/live/makinalive.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="ManaclarTelevision.do@SD",Manaclar Television [Not 24/7]
+https://5790d294af2dc.streamlock.net/manaclar/manaclar/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="MarkaTV.do@HD",Marka TV (720p) [Not 24/7]
+https://5790d294af2dc.streamlock.net/markatv/markatv/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="MegaCineTV.do@HD",Mega Cine TV (720p) [Not 24/7]
+https://mlb.essastream.com:8081/megacinetv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="MegaCineTV.do@HD",Mega Cine TV (720p)
+https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="MegaVisionTV.do@SD",Megavision Canal 43 (480p) [Not 24/7]
+https://server2grupocam.com/megavision/MV/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="MegaVisionTV.do@SD",Megavisión TV (480p)
+http://server3.prostudionetwork.com:1943/megavision/MV/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="MITurnoTV.do@SD",MI Turno TV
+https://video.udwn.net:19360/miturnotv/miturnotv.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="MiavisionTV.do@HD",Miavision TV (1080p) [Not 24/7]
+https://mlb.essastream.com:8081/miavisiontv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="Microvision10.do@SD",Microvision 10 (720p) [Not 24/7]
+https://streaming.telecablecentral.com.do/live/MicroHD/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="MocaVisionCanal48.do@SD",Moca Vision Canal 48 (720p) [Not 24/7]
+#EXTVLCOPT:http-referrer=https://player.castr.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
+https://stream.castr.com/5da89a909db964293ad13301/live_0950055006c111f18f43137dc9c9d153/index.fmp4.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="MontecristiDigital8.do@HD",Montecristi Digital 8 [Geo-blocked]
+https://soportedvb.click:3400/live/montecristitvlive.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="MorroTV.do@SD",MorroTV (720p) [Not 24/7]
+https://fox.hostlagarto.com:8081/morrotv/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="Musavision.do@SD",Musavision (1080p)
+https://cnn.hostlagarto.com/musavisiontv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="NaranjaTV.do@SD",Naranja TV (720p)
+https://cdn.streamingcpanel.com:3526/live/teleraiceslive.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="NexxoTV.do@SD",Nexxo TV (720p) [Not 24/7]
+https://cdn3.streamgato.us:3938/live/nexxotvlive.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="NitidaTV.do@SD",Nitida TV (720p) [Not 24/7]
+https://vs20.live.opencaster.com/bznudxxdtppv/index.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="Noticias16.do@SD",Noticias 16 (720p) [Not 24/7]
+https://mlb.essastream.com:8081/noticias16/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="NotisurTV.do@HD",Notisur TV [Not 24/7]
+https://ss2.tvrdomi.com:1936/notisur/notisur/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="NuevaVision14.do@HD",Nueva Vision 14 [Not 24/7]
+https://live20.bozztv.com/akamaissh101/ssh101/nuevavisionhd/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="OEPMTV.do@SD",OEPM TV (720p)
+https://cnn.hostlagarto.com/oepmtelevision/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="OndaTV.do@SD",Onda TV (720p)
+https://cnn.hostlagarto.com/ondatv/index.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="ORBITTV.do@SD",ORBIT TV (1080p) [Not 24/7]
+https://cnn.hostlagarto.com/orbittv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="OxiTV.do@HD",OxiTV (720p) [Not 24/7]
+https://streamunoapp.com:3520/live/oxitvcanal36live.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="PalmarTV.do@SD",Palmar TV [Not 24/7]
+https://streamunoapp.com:3255/live/palmartvlive.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="PeraviaVision.do@SD",Peravia Vision (480p) [Geo-blocked]
+https://ss2.tvrdomi.com:1936/peraviavision/peraviavision/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="PortalDigitalTV.do@HD",Portal Digital TV (720p) [Not 24/7]
+https://mlb.essastream.com:8081/portaldigital/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="PronemsTV.do@SD",Pronems TV (1080p) [Not 24/7]
+https://fox.hostlagarto.com:8081/pronemstv/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="PulaTV.do@SD",Pula TV (1080p) [Not 24/7]
+https://fox.hostlagarto.com:8081/pulatv/index.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="PuntaCanaTV.do@SD",Punta Cana TV (720p) [Not 24/7]
+https://fox.hostlagarto.com:8081/puntacanatv/index.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="PuntoTV.do@SD",Punto TV (1080p) [Not 24/7]
+https://fox.hostlagarto.com:8081/puntotv/index.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="PuntoTVDigital40.do@SD",Punto TV Digital 40 [Geo-blocked]
+https://ss2.tvrdomi.com:1936/puntotvdigital/puntotvdigital/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="RTelevision.do@HD",R Television [Not 24/7]
+https://vdopanel.jlahozconsulting.com/p/3142/hybrid/play.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="RETV.do@SD",R&E TV (720p)
+https://live.ryetv.net/livelan/stream.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="RDN.do@SD",RDN (1080p) [Not 24/7]
+https://mlb.essastream.com:8081/rdntv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="ReadyTVCanal6.do@SD",Ready TV Canal 6 (720p) [Not 24/7]
+https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="RedSocialCodiTV.do@SD",Red Social Codi TV (360p) [Not 24/7]
+https://video.misistemareseller.com:19360/redsocial/redsocial.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="ReporteroTV.do@HD",Reportero TV [Not 24/7]
+https://streamrd.cloud:5443/LiveApp/streams/J3E3REmLNBzirS9A10575071547538.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="RocavisionTV.do@SD",Rocavision TV [Not 24/7]
+https://streamunoapp.com:3331/live/rocavisiontvlive.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="RomanaTVCanal42.do@SD",Romana TV Canal 42 (480p)
+https://videoserver.tmcreativos.com:19360/cvmhbyrcat/cvmhbyrcat.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="Ruta66TV.do@SD",Ruta66 TV (720p)
+https://cnn.livestreaminggroup.info:3796/live/ruta66tvlive.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="SanIsidroTV.do@SD",San Isidro TV (720p) [Not 24/7]
+https://5790d294af2dc.streamlock.net/expresooriental/expresooriental/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="SantiagoTV.do@SD",Santiago TV (720p) [Not 24/7]
+https://mlb.essastream.com:8081/telemilenio/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="SenalDigitalTV.do@HD",Senal Digital TV [Not 24/7]
+https://soportedvb.click:3494/live/senaldigitaltvlive.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="SiembraTV.do@SD",Siembra TV (720p)
+https://streamunoapp.com:3809/live/siembratvlive.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="SimavisionCanal18.do@SD",Sima Vision TV (720p)
+https://soportedvb.click:3668/live/simavisiontvlive.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="SistesurCanal49.do@SD",Sistesur Canal 49 (1080p) [Not 24/7]
+https://5790d294af2dc.streamlock.net/SISTESUR/SISTESUR/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="SolucionTV.do@SD",Solucion TV (720p) [Not 24/7]
+https://ss2.tvrdomi.com:1936/soluciontv/soluciontv/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="SRCMediaTV.do@HD",SRC Media TV (720p) [Not 24/7]
+https://video.misistemareseller.com:19360/srctv/srctv.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="Super7FM.do@SD",Super7FM (720p)
+https://tv.livestreaminggroup.info:3295/live/super7tvlive.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="SuperDigitalTV.do@SD",Super Digital TV (720p) [Not 24/7]
+https://inliveserver.com:1936/11516/11516/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="SuperTV55.do@SD",Super TV 55 (720p) [Geo-blocked]
+https://ss2.tvrdomi.com:1936/supertv55/supertv55/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="Supremateve.do@HD",Supremateve (720p) [Not 24/7]
+https://ss2.tvrdomi.com:1936/supremateve/supremateve/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="SurTV.do@SD",Sur TV (720p)
+https://ss2.tvrdomi.com:1936/eradiofonicas/eradiofonicas/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="TeleAntillas.do@SD",Tele Antillas (480p)
+http://200.125.170.122:8000/play/a0cg/index.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="TeleDajabonTV.do@HD",Tele Dajabon TV (720p) [Not 24/7]
+https://tuvideoonline.com.ar:3599/live/tvdajabonlive.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="TeleDominicanaTV.do@SD",Tele Dominicana TV (720p)
+https://vdopanel.jlahozconsulting.com/p/3417/hybrid/play.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="TeleOla44.do@SD",Tele Ola 44 (576i) [Not 24/7]
+https://teleola.ddns.net/hls/stream.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="TelePoderTV.do@HD",Tele Poder TV (720p) [Not 24/7]
+https://cdn.telepoder.online:3229/dash/stream.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="TeleProyectoTV.do@HD",Tele Proyecto TV [Not 24/7]
+https://5790d294af2dc.streamlock.net/Teleproyecto/Teleproyecto/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="Telealtura.do@SD",Telealtura (1080p) [Not 24/7]
+https://live20.bozztv.com/akamaissh101/ssh101/codificador7/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="TeleBendicion.do@SD",TeleBendicion (720p) [Not 24/7]
+https://ss5.domint.net:3180/tbt_str/telebendicion/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="Telecanal12.do@SD",Telecanal 12 (720p) [Not 24/7]
+https://mlb.essastream.com:8081/telecanal12/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="Telecanal28.do@SD",Telecanal 28 (1080p) [Not 24/7]
+https://mlb.essastream.com:8081/telecanal28/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="Telecentro.do@SD",Telecentro (1080p) [Not 24/7]
+#EXTVLCOPT:http-referrer=https://telemicro.com.do/players/5tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
+https://live4.telemicro.com.do/live/telecentrocast_1080p/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="Telecentro.do@SD",Telecentro (1080p)
+http://190.122.104.210:5080/LiveApp/streams/tcentro.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="TeleCibaoHD.do@SD",TeleCibaoHD (720p) [Not 24/7]
+https://mlb.essastream.com:8081/telecibaotv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="TelecomercioTV.do@SD",Telecomercio TV (720p) [Not 24/7]
+https://streaming.grupomediosdelnorte.com:19360/telecomerciotv/telecomerciotv.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="Telecontacto.do@SD",Telecontacto
+https://streaming.grupomediosdelnorte.com:19360/telecontacto/telecontacto.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="Teleimpacto.do@SD",Teleimpacto (720p) [Not 24/7]
+https://vpss2003.streamprolive.com/hls/live.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="Telemax.do@SD",Telemax (1080p) [Not 24/7]
+https://mlb.essastream.com:8081/telemax/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="TelemetroTV.do@SD",Telemetro TV [Not 24/7]
+https://streamunoapp.com:3366/live/telemetrolive.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="Telemicro.do@SD",Telemicro (1080i) [Not 24/7]
+http://190.122.104.210:5080/LiveApp/streams/telemicrolocal5.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="Telemicro.do@SD",Telemicro (1080p)
+#EXTVLCOPT:http-referrer=https://telemicro.com.do/players/5tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
+https://live4.telemicro.com.do/live/telemicrocast_1080p/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="TelenewsTV.do@SD",Telenews TV
+https://hilandofinotv.essastream.com:3480/live/telenewscanallive.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="Telenord8.do@SD",Telenord 8 (1080p) [Not 24/7]
+https://fox.hostlagarto.com:8081/telenord8/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="Telenord10.do@SD",Telenord 10 (720p) [Not 24/7]
+https://fox.hostlagarto.com:8081/telenord10/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="Telenord12.do@SD",Telenord 12 (720p) [Not 24/7]
+https://fox.hostlagarto.com:8081/telenord12/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="Telenovisa43.do@SD",Telenovisa43 (720p) [Not 24/7]
+https://fox.hostlagarto.com:8081/telenonisa43/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="TeleRadioNorte.do@SD",TeleRadioNorte (720p)
+https://angelistic.live:3785/live/tvoficiallive.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="TelerumbaTV.do@HD",Telerumba TV (720p) [Not 24/7]
+https://inliveserver.com:1936/18506/18506/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="Telesantodomingo.do@SD",Telesantodomingo (720p)
+https://vdopanel.jlahozconsulting.com:3769/live/santodomingolive.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="Telesistema11.do@SD",Telesistema 11 (480p)
+http://200.125.170.122:8000/play/a0ci/index.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="Teletur.do@SD",Teletur (720p) [Not 24/7]
+https://fox.hostlagarto.com:8081/teleturtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="Teleunion.do@SD",Teleunion (1080p)
+#EXTVLCOPT:http-referrer=https://teleuniontvrd.com/portal/
+http://server2grupocam.com:1945/teleunion/TU/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="Teleunion.do@SD",Teleunion (480p) [Not 24/7]
+http://server3.prostudionetwork.com:1945/teleunion/TU/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="Teleuniverso.do@SD",Teleuniverso (720p)
+https://videoserver.tmcreativos.com:19360/kptjeckkaa/kptjeckkaa.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="Telever.do@SD",Telever (1080p) [Not 24/7]
+https://soportedvb.click:3413/live/televerlive.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="TeleviaductoCanal14.do@SD",Televiaducto Canal 14 (576p) [Not 24/7]
+#EXTVLCOPT:http-referrer=https://player.castr.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
+https://stream.castr.com/5ec16b5935bd933ad25fdd37/live_35cdedd0092a11f089a6e578a102a00d/index.fmp4.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="TelevisiondelEste.do@SD",Television del Este (1080p) [Not 24/7]
+https://mlb.essastream.com:8081/televisiondeleste/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="TenarensesTV.do@SD",Tenarenses TV (1080p) [Not 24/7]
+https://mlb.essastream.com:8081/tenarensestvrd/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="TigueritoTV.do@HD",Tiguerito TV (720p) [Not 24/7]
+https://ss2.tvrdomi.com:1936/tigueritostv/tigueritostv/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="TNECanal58.do@SD",TNE Canal 58 (720p) [Not 24/7]
+#EXTVLCOPT:http-referrer=https://player.castr.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
+https://stream.castr.com/5da89a909db964293ad13301/live_3ca2dd7006c011f1a1d343392087972b/index.fmp4.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="TomAndJerry.do@HD",Tom And Jerry
+https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="TopicalMoonRD.do@HD",Topical Moon RD (720p) [Not 24/7]
+https://sistemastr.tropicalmoonmedia.com/live/56BE17DB16EB76C9F2DDB8346F4DFA4E/30.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="TourSpotTV.do@HD",Tour Spot TV (1280p) [Not 24/7]
+https://fox.hostlagarto.com:8081/toursporttv/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="TRA2.do@SD",TRA 2 (576p)
+https://live20.bozztv.com/akamaissh101/ssh101/rctvhdtra/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="TuMusicaHD.do@SD",Tu Musica HD (720p)
+https://mlb.essastream.com:8081/tumusicahd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="TurismoHD.do@HD",Turismo HD (720p)
+https://live20.bozztv.com/giatvplayout7/giatv-208343/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="TurismoRDTV.do@HD",Turismo RDTV (720p)
+https://streamunoapp.com:3086/live/telemileniolive.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="TV10SanJuan.do@SD",TV 10 San Juan (720p) [Not 24/7]
+https://59d39900ebfb8.streamlock.net/tv10sanjuan/tv10sanjuan/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="TVCanalSur.do@SD",TV Canal Sur (1080p)
+https://streamtvs.tvcanalsur.com.do/hls/stream/index.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="TVCotuiCanal31.do@SD",TV Cotui Canal 31 (1080p) [Not 24/7]
+https://live20.bozztv.com/akamaissh101/ssh101/tvcotui/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="TVDaja.do@SD",TV Daja (1080p) [Not 24/7]
+https://mlb.essastream.com:8081/dajatv/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="TVExitos.do@SD",TV Éxitos (720p)
+https://streaming.grupomediosdelnorte.com:19360/tvexitos/tvexitos.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="TVHigueyDigital.do@SD",TV Higuey Digital (720p) [Not 24/7]
+https://host.streamingnation.live/p/3467/live/tvhigueylive.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="TVLuz.do@SD",TV Luz (480p)
+https://host.streamingnation.live/p/3780/live/tvluzlive.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="TVMontanaCanal10.do@SD",TV Montana Canal 10 (1080p) [Not 24/7]
+https://live20.bozztv.com/akamaissh101/ssh101/tvmontanahd/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="TVPlata.do@SD",TV Plata (720p) [Geo-blocked]
+https://ss2.tvrdomi.com:1936/tvplata/tvplata/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="TVQuisqueya.us@SD",TV QUISQUEYA (720p)
+https://cloud5.livescast.com:19360/canaltvquisqueya/canaltvquisqueya.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="TVN24.do@SD",TVN24 (720p)
+https://ss2.tvrdomi.com:1936/vozzmedianetwork/vozzmedianetwork/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="TVO.do@SD",TVO
+https://cdn.mycloudstream.io/hls/live/broadcast/aa5i1jfn/index.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="TVS.do@SD",TVS (540p) [Not 24/7]
+https://imagenuniversaltv.net:3741/live/tvslive.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="ValleNuevoTV.do@SD",Valle Nuevo TV
+https://stmv6.voxtvhd.com.br/vallenuevotv/vallenuevotv/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="Vallevision.do@SD",Vallevision Canal 10 (720p) [Not 24/7]
+https://streaming.telecablecentral.com.do/Vallevision/ValleHD/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="VegaTeve.do@SD",VegaTeve (1080p) [Not 24/7]
+https://cloud6.livescast.com:3797/live/vegatevelive.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="VegavisionCanal18.do@SD",Vegavision Canal 18 (1080p) [Not 24/7]
+https://fox.hostlagarto.com:8081/canal26/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="VillaAltagraciaTV.do@SD",VillaAltagracia TV
+https://inliveserver.com:1936/10016/10016/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="Vision3000.do@SD",Vision 3000 [Geo-blocked]
+https://ss2.tvrdomi.com:1936/vision3000/vision3000/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="VisionNDV.do@SD",Vision NDV (720p) [Not 24/7]
+https://soportedvb.click:3891/live/visionndvlive.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="VTVCanal32.do@SD",VTV Canal 32 (1080p)
+https://cnn.livestreaminggroup.info:3507/live/vtv32live.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="XtraTv.do@HD",Xtra Tv (720p) [Not 24/7]
+https://mlb.essastream.com:8081/xtratv/index.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="XtremoChannel.do@SD",Xtremo Channel (720p) [Geo-blocked]
+https://ss2.tvrdomi.com:1936/xtremochannel/xtremochannel/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="ZincNombreTV.do@HD",Zinc Nombre TV (720p) [Not 24/7]
+https://5790d294af2dc.streamlock.net/zincnombretv/live/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="ZonavisionTV.do@SD",Zonavision TV [Not 24/7]
+https://ds.tvabierta.net/memfs/b295f254-7af9-45e4-bfc6-7e0bba41929d.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="Telefuturo.do@SD",Telefuturo (480p) [Not 24/7]
+http://190.122.104.210:5080/LiveApp/streams/tfuturo.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="Yunavision.do@SD",Yunavision (720p) [Not 24/7]
+https://tele-stream.telecasa.net/live/st1/yunavision-hd/index.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="TeleviaductoCanal3.do@SD",Televiaducto Canal 3 (720p) [Not 24/7]
+#EXTVLCOPT:http-referrer=https://player.castr.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
+https://stream.castr.com/5da89a909db964293ad13301/live_3cb3e4400c2d11f19b89efdef653b396/index.fmp4.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="RNN.do@SD",RNN (720p) [Not 24/7]
+https://2-fss-2.streamhoster.com/pl_138/206532-6829902-1/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="MaimonTVCanal3.do@SD",Maimon TV Canal 3 (720p) [Not 24/7]
+https://tele-stream.telecasa.net/live/st3/maimontv-hd/index.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="ElSeis6.do@SD",El Seis 6 (1080p) [Not 24/7]
+https://stream.elseis.do/canal6/live_1080.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="EcosCanal57.do@HD",Ecos Canal 57 (1080p) [Not 24/7]
+https://2-fss-2.streamhoster.com/pl_138/206532-6829872-1/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="CanaldelSol.do@SD",Canal del Sol (1080p) [Not 24/7]
+https://stream.canaldelsol.com/sol26/live_1080.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="BonaoTV.do@SD",Bonao TV (720p) [Not 24/7]
+https://tele-stream.telecasa.net/live/st2/bonaotv-hd/index.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="SuperCanal.do@SD",Super Canal (1080p) [Not 24/7]
+https://cnn.hostlagarto.com/supercanalhd/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="EntunoTV.do@HD",Entuno TV (1080p) [Not 24/7]
+https://soportedvb.click:3442/live/entunotvlive.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="Televida.do@SD",Televida (1080p) [Not 24/7]
+https://cnn.hostlagarto.com/televida/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="ColorVision.do@SD",Color Vision (480p) [Not 24/7]
+http://38.159.232.166:8000/play/a00z/index.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="VTVCanal32.do@SD",VTV Canal 32 (1080p) [Geo-blocked]
+https://dbt-gcore-video-cdn.b-cdn.net/mpegts/986244_4049034/master_mpegts.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="AmouYazidTV.dz@SD",Amou Yazid TV (576p)
+http://mkstream.servehttp.com:1940/AmouYazid/ay1/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="CNA.dz@SD",CNA (Chaîne Nord Africaine) (360p) [Not 24/7]
+https://live.creacast.com/cna/smil:cna.smil/playlist.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="BerbereTV.fr@SD",Berbere TV (1080p)
+http://5.253.46.190:8000/play/a0fi/index.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="ChebabTV.dz@SD",Chebab TV (576p)
+http://5.253.46.190:8000/play/a0fj/index.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="TV1.dz@SD",TV1 Algerian Television (1080p)
+http://5.253.46.190:8000/play/a0eu/index.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="TV2.dz@SD",TV2 Canal Algérie (1080p)
+http://5.253.46.190:8000/play/a0em/index.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="TV4.dz@SD",TV4 Tamazight TV (576p)
+http://5.253.46.190:8000/play/a0en/index.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="TV5.dz@SD",TV5 (576p)
+http://5.253.46.190:8000/play/a0eo/index.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="TV6.dz@SD",TV6 El-Chebabia (1080p)
+http://5.253.46.190:8000/play/a0ep/index.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="TV7.dz@SD",TV7 El-Maarifa (576p)
+http://5.253.46.190:8000/play/a0eq/index.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="TV8.dz@SD",TV8 El-Dhakira (576p)
+http://5.253.46.190:8000/play/a0er/index.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="TV9.dz@SD",TV9 El-Barlamaniya (1080p)
+http://5.253.46.190:8000/play/a0es/index.m3u8
