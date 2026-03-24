@@ -2319,6 +2319,9 @@ https://stream.yamal1.ru/hls/live/stream.m3u8
 https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_YAMREG_URAL_YNF/variant.m3u8
 
 #EXTGRP:Тест
+#EXTINF:-1 group-title="Тест" tvg-logo="https://i.ibb.co/nMMgSRNM/001.jpg",Leña Radio TV [Dominicano]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+https://5790d294af2dc.streamlock.net/lenaratv/lenaratv/playlist.m3u8
 #EXTINF:-1 group-title="Тест" tvg-id="3StonesTV.ke@SD",3 Stones TV (240p) [Not 24/7]
 https://goliveafrica.media:9998/live/64d21e682fd26/index.m3u8
 #EXTINF:-1 group-title="Тест" tvg-id="AviationTV.ke@SD",Aviation TV (480p)
