@@ -904,16 +904,13 @@ https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8
 #EXTINF:-1 group-title="Музыка 1" tvg-logo="https://files.thehandbook.com/uploads/2021/03/aauvwng61xear66sbjpyjpwxkt55y-yvhn0-iecomntstws800-c-k-c0x00ffffff-no-rj.jpg",Rezilienza
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://fl1001.bozztv.com/ushba-t2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Музыка 1" tvg-logo="https://topradio.me/assets/image/radio/180/rtl-italy.png",RTL 102.5 + Plus [IT]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-https://streamcdng14-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S82929343/cAcsSu4Wecc5/chunklist_b5256000.m3u8
 #EXTINF:-1 group-title="Музыка 1" tvg-logo="https://topradio.me/assets/image/radio/180/rtl-italy.png",RTL 102.5 [IT]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist.m3u8
-#EXTINF:-1 group-title="Музыка 1" tvg-logo="https://assets.radioplayer.org/380/380202/1920/1080/kyctyu37.png",RTL 102.5 Best [IT]
+#EXTINF:-1 group-title="Музыка 1" tvg-logo="https://cloud.rtl.it/RTLFM/News/Article/600x600/parte-il-nuovo-palinsesto-di-rtl-1025-best-spazio-alle-grandi-voci-della-radio-square-site-zzhdl.jpg",RTL 102.5 Best [IT]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S76960628/OEPHRUIctA0M/playlist_video.m3u8
-#EXTINF:-1 group-title="Музыка 1" tvg-logo="https://assets.radioplayer.org/380/380198/1920/1080/kyctys7b.png",RTL 102.5 Bro&Sis [IT]
+#EXTINF:-1 group-title="Музыка 1" tvg-logo="https://assets.radioplayer.org/380/380198/600/600/m6kt6ob2.png",RTL 102.5 Bro&Sis [IT]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S75007890/MUGHuxc9dQ3b/playlist_video.m3u8
 #EXTINF:-1 group-title="Музыка 1" tvg-logo="https://assets.radioplayer.org/380/380199/600/600/lrkup7t7.png",RTL 102.5 Caliente [IT]
@@ -925,7 +922,7 @@ https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S51100361/0Fb4R3k82b5Z/p
 #EXTINF:-1 group-title="Музыка 1" tvg-logo="https://assets.radioplayer.org/380/380201/1400/1400/m708m85w.png",RTL 102.5 Napulè [IT]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S27134503/0f9AhuwKlhnZ/playlist_video.m3u8
-#EXTINF:-1 group-title="Музыка 1" tvg-logo="https://topradio.me/assets/image/radio/180/rtl-italy.png",RTL 102.5 Traffic [IT]
+#EXTINF:-1 group-title="Музыка 1" tvg-logo="https://www.phonostar.de/images/auto_created/rtl_1025_traffic184x184.png",RTL 102.5 Traffic [IT]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist.m3u8
 #EXTINF:-1 group-title="Музыка 1" tvg-logo="http://epg.one/img/2409.png" tvg-id="russian-musicbox",Russian MusicBox HD
