@@ -469,6 +469,9 @@ https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v
 #EXTINF:-1 group-title="Релакс" tvg-logo="https://deluxemusic.de/wp-content/uploads/sites/4/2023/01/DLXM_LOUNGE_LOGO.png",Deluxe Lounge [DE] HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/9a087b26-8be4-11eb-a7de-bacfe1f83627/0/master.m3u8?country=DE&optout=0&uid=749544ec3d9a45d48c600d03cac91dfd&vendor=philips
+#EXTINF:-1 group-title="Релакс" tvg-logo="https://deluxemusic.de/wp-content/uploads/sites/4/2023/01/DLXM_LOUNGE_LOGO.png",Deluxe Lounge [DE]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+https://jmp2.uk/stvp-CHAJ0500413A
 #EXTINF:-1 group-title="Релакс" tvg-logo="http://epg.one/img/6035.png" tvg-id="6035",Sochi Live
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://serv30.vintera.tv:8081/sochi/sochi_stream/chunks.m3u8
@@ -736,6 +739,9 @@ https://live.15plusmg.ru/memfs/ce3366b1-bf25-4e24-96bb-1adf0d44bd3d.m3u8
 #EXTINF:-1 group-title="Музыка 1" tvg-logo="http://epg.one/img/4672.png" tvg-id="4fun",4fun.tv [PL]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
+#EXTINF:-1 group-title="Музыка 1" tvg-logo="https://www.conectabalear.com/tv/logos/original/149.png",Activa TV [Bolivia]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+https://streamtv.mediasector.es/hls/activatv/index.m3u8
 #EXTINF:-1 group-title="Музыка 1" tvg-logo="http://epg.one/img/151.png" tvg-id="bridge-tv",Bridge TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://31.148.48.15:80/Bridge_TV/index.m3u8
@@ -799,6 +805,9 @@ http://178.163.38.73:34040/udp/234.0.0.183:2000
 #EXTINF:-1 group-title="Музыка 1" tvg-logo="http://epg.one/img/680.png" tvg-id="tnt-music",FON Music HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://cdn-01.bonus-tv.ru/tntmusic/playlist.m3u8
+#EXTINF:-1 group-title="Музыка 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEn6VD-tU_g4GH-RlrZrFDp-VxmICZQ_lkYA&s",Generations TV [FR]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+https://event.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8
 #EXTINF:-1 group-title="Музыка 1" tvg-logo="https://iptvx.one/picons/hit-tv.png" tvg-id="hit-tv",HIT TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://188.225.31.197/bpk-tv/000001213/tve/index.m3u8
@@ -814,6 +823,9 @@ http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 #EXTINF:-1 group-title="Музыка 1" tvg-logo="https://i.imgur.com/UdMsgkt.png",La Mega Mundial
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://server40.servistreaming.com:3477/stream/play.m3u8
+#EXTINF:-1 group-title="Музыка 1" tvg-logo="https://i.ibb.co/nMMgSRNM/001.jpg",Leña Radio TV [Dominicano]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+https://5790d294af2dc.streamlock.net/lenaratv/lenaratv/playlist.m3u8
 #EXTINF:-1 group-title="Музыка 1" tvg-logo="https://iptvx.one/picons/magic-tv-bg.png" tvg-id="magic-tv-bg",Magic TV [BG]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://bss1.neterra.tv/magictv/magictv.m3u8
@@ -847,6 +859,9 @@ https://tv.a21network.ru/stream/40650/index.m3u8
 #EXTINF:-1 group-title="Музыка 1" tvg-logo="https://avatars.mds.yandex.net/i?id=af6f855d5f5d82c4270a00c644723693a11abd4a-5356399-images-thumbs&n=13",Oxygen Music (Hungary)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8
+#EXTINF:-1 group-title="Музыка 1" tvg-logo="https://img.samsungapps.com/productNew/000006715162/ENG/IconImage_20230821105411506_NEW_WAP_ICON_512_512.png",POP World TV [SPAIN]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+https://janus.xpbroadcasting.com:8443/hls/popworld.m3u8
 #EXTINF:-1 group-title="Музыка 1" tvg-logo="https://radyodinle.com/wp-content/uploads/2024/08/149-min.jpg",Power Dance [PL] HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://listen.powerapp.com.tr/dance/dance.smil/playlist.m3u8
@@ -916,13 +931,15 @@ https://bss1.neterra.tv/thevoice/thevoice.m3u8
 #EXTINF:-1 group-title="Музыка 1" tvg-logo="http://epg.one/img/5597.png" tvg-id="trace-urban",Trace Urban HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://188.225.31.197/bpk-tv/000001661/tve/index.m3u8
+#EXTINF:-1 group-title="Музыка 1" tvg-logo="http://epg.one/img/5597.png" tvg-id="trace-urban",Trace Urban [FR] HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+https://channels.trace.plus/Traceprod/URBAN_FR/.m3u8
 #EXTINF:-1 group-title="Музыка 1" tvg-logo="https://i.pinimg.com/736x/82/00/48/820048f9f7b471fe1065ddf8854357ca.jpg",TRANCE IS STAR RADIO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://myradio24.org/tisradio_video.m3u8
 #EXTINF:-1 group-title="Музыка 1" tvg-logo="https://iptvx.one/picons/tvm3-ch.png" tvg-id="tvm3-ch",TVM3 [CH]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://livevideo.infomaniak.com/streaming/livecast/tvm3/playlist.m3u8
-#EXTINF:-1 group-title="Музыка 1" tvg-logo="https://play-lh.googleusercontent.com/rpzYoUkH9UpljbF7zMuBAY290pKFx9k_mTgKQ08T-4DIl_rSxLqaOZbGVR4qNbdVts4",TVSur Canal ULR [Costa Rica]
+#EXTINF:-1 group-title="Музыка 1" tvg-logo="https://k20.usastreams.com:8081/tvsur/index.m3u8",TVSur Canal ULR [Costa Rica]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://k20.usastreams.com:8081/tvsur/index.m3u8
 #EXTINF:-1 group-title="Музыка 1" tvg-logo="https://sun9-39.userapi.com/s/v1/ig2/_dP5a5YnYk5YxJam9uFR2AAzGLLn2Wk41U3dy2zub6l86LYAiiYYXzV-wtZnoQc7ocwIhecD2-Qg28fS-jADvF-x.jpg?quality=95&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720&from=bu&cs=720x0",Ultimate Fashion House Mafia
@@ -1023,27 +1040,39 @@ http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
 #EXTINF:-1 group-title="Музыка 2" tvg-logo="https://yootv.online/images/logo-channel/afn-music-tv.png",AFN Music
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://bozztv.com/1gbw5/tintv2/tintv2/chunklist.m3u8
+#EXTINF:-1 group-title="Музыка 2" tvg-logo="https://static.wixstatic.com/media/dd5ade_e940fbb6f34249b4b2e9a7c0050ba5db~mv2.png",Alpe d’Huez TV [FR]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+https://edge13.vedge.infomaniak.com/livecast/ik:adhtv/manifest.m3u8
 #EXTINF:-1 group-title="Музыка 2" tvg-logo="http://epg.one/img/2628.png" tvg-id="clubbing-tv",Clubbing TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://d1j2csarxnwazk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-uze1m6xh4fiyr-ssai-prd/master.m3u8
-#EXTINF:-1 group-title="Музыка 2" tvg-logo="https://i3radio.com/userfiles-aplin/avatars/logos-7700179603.jpg",DANCE TV Best of Dance [Hungary]
+#EXTINF:-1 group-title="Музыка 2" tvg-logo="https://i3radio.com/userfiles-aplin/avatars/logos-7700179603.jpg",DANCE TV ALGORHITHM [NL] HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+https://m2b2.worldcast.tv:7443/dancetelevisionfour/dancetelevisionfour.m3u8
+#EXTINF:-1 group-title="Музыка 2" tvg-logo="https://i3radio.com/userfiles-aplin/avatars/logos-7700179603.jpg",DANCE TV Best of Dance [NL]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
-#EXTINF:-1 group-title="Музыка 2" tvg-logo="https://i3radio.com/userfiles-aplin/avatars/logos-7700179603.jpg",DANCE TV HOUSEFLOOR [Hungary]
+#EXTINF:-1 group-title="Музыка 2" tvg-logo="https://i3radio.com/userfiles-aplin/avatars/logos-7700179603.jpg",DANCE TV DEEP HOUSE DISTRICT [NL]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+https://m1b2.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
+#EXTINF:-1 group-title="Музыка 2" tvg-logo="https://i3radio.com/userfiles-aplin/avatars/logos-7700179603.jpg",DANCE TV HOUSEFLOOR [NL]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://m2b2.worldcast.tv:7443/dancetelevisionfive/2/dancetelevisionfive.m3u8
-#EXTINF:-1 group-title="Музыка 2" tvg-logo="https://i3radio.com/userfiles-aplin/avatars/logos-7700179603.jpg",DANCE TV MAINSTAGE [Hungary]
+#EXTINF:-1 group-title="Музыка 2" tvg-logo="https://i3radio.com/userfiles-aplin/avatars/logos-7700179603.jpg",DANCE TV MAINSTAGE [NL]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://mbit1.worldcast.tv/dancetelevisionseven/stream_0.m3u8
-#EXTINF:-1 group-title="Музыка 2" tvg-logo="https://i3radio.com/userfiles-aplin/avatars/logos-7700179603.jpg",DANCE TV MNML [Hungary] HD
+#EXTINF:-1 group-title="Музыка 2" tvg-logo="https://i3radio.com/userfiles-aplin/avatars/logos-7700179603.jpg",DANCE TV MNML [NL] HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://mbit1.worldcast.tv/dancetelevisionsix/stream_0.m3u8
-#EXTINF:-1 group-title="Музыка 2" tvg-logo="https://i3radio.com/userfiles-aplin/avatars/logos-7700179603.jpg",DANCE TV TECHHOUSE [Hungary]
+#EXTINF:-1 group-title="Музыка 2" tvg-logo="https://i3radio.com/userfiles-aplin/avatars/logos-7700179603.jpg",DANCE TV TECHNOHOUSE [NL]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://m2b2.worldcast.tv:7443/dancetelevisionthree/2/dancetelevisionthree.m3u8
 #EXTINF:-1 group-title="Музыка 2" tvg-logo="https://iptvx.one/picons/dstv-bg.png" tvg-id="dstv-bg",DSTV [BG] HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://46.249.95.140:8081/hls/data.m3u8
+#EXTINF:-1 group-title="Музыка 2" tvg-logo="https://radiodigitaltv.com/wp-content/uploads/2022/01/Hilando-fino-logo.jpg",Hilando Fino TV [Dominicana]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+https://hilandofinotv.essastream.com:3606/live/canalhilandofinotvlive.m3u8
 #EXTINF:-1 group-title="Музыка 2" tvg-logo="https://memorias.tv/wp-content/uploads/2025/04/logo-memorias-corazon-1.png",Memorias del Corazon [ARG]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://video.xtrematv.com:3401/live/grupomemoriaslive.m3u8
@@ -1317,6 +1346,9 @@ http://fl1001.bozztv.com/ushba19/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Разное" tvg-logo="http://epg.one/img/2383.png" tvg-id="fashion-one",Fashion One HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://31.148.48.15:80/Fashion_One_HD/index.m3u8
+#EXTINF:-1 group-title="Разное" tvg-logo="http://epg.one/img/2491.png" tvg-id="fashion-tv-eu",Fashion TV Paris L'Original
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+https://edge-fast3.evrideo.tv/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8
 #EXTINF:-1 group-title="Разное" tvg-logo="http://epg.one/img/7635.png" tvg-id="eda-hd",FoodTime HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://31.148.48.15:80/Eda_Premium_HD/index.m3u8
@@ -1497,6 +1529,7 @@ http://hls.tv.3angels.ru/stream/HQ.m3u8
 #EXTINF:-1 group-title="Разное" tvg-logo="https://iptvx.one/picons/yuvelirochka.png" tvg-id="yuvelirochka",Ювелирочка HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8
+
 #EXTGRP:Региональные
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/picons/10-rentv.png" tvg-id="10-rentv",10 канал / РенТВ Саранск
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
@@ -2242,922 +2275,3 @@ https://stream.yamal1.ru/hls/live/stream.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-logo="http://epg.one/img/9329.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="yamal-region",Ямал регион (Салехард)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_YAMREG_URAL_YNF/variant.m3u8
-
-#EXTGRP:Тест
-#EXTINF:-1 group-title="Тест" tvg-id="Eveo.fi@SD",Eveo (720p) [Not 24/7]
-https://live-fi.tvkaista.net/eveo/live.m3u8?hd=true
-#EXTINF:-1 group-title="Тест" tvg-id="Hero.fi@SD",Hero (720p) [Not 24/7]
-https://live-fi.tvkaista.net/hero/live.m3u8?hd=true
-#EXTINF:-1 group-title="Тест" tvg-id="HimlenTV7.fi@SD",Himlen TV7 (720p)
-https://vod.tv7.fi/tv7-se/smil:tv7-se.smil/playlist.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="Jim.fi@SD",Jim (720p)
-https://live-fi.tvkaista.net/jim/live.m3u8?hd=true
-#EXTINF:-1 group-title="Тест" tvg-id="JRTVJarviradio.fi@SD",JRTV Järviradio (720p)
-https://streamer.radiotaajuus.fi/memfs/47f113bf-04ea-493b-a9d4-52945fd9db31.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="Liv.fi@SD",Liv (720p)
-https://live-fi.tvkaista.net/liv/live.m3u8?hd=true
-#EXTINF:-1 group-title="Тест" tvg-id="MTV3.fi@SD",MTV3 (720p)
-https://live-fi.tvkaista.net/mtv3/live.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="MTV3.fi@SD",MTV3 (576p)
-#EXTVLCOPT:http-referrer=http://195.222.7.17:8002/
-http://195.222.7.17:8002/ch352
-#EXTINF:-1 group-title="Тест" tvg-id="MTVAva.fi@SD",MTV Ava (720p)
-https://live-fi.tvkaista.net/ava/live.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="MTVSub.fi@SD",MTV Sub (720p)
-https://live-fi.tvkaista.net/sub/live.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="MTVUutiset.fi@SD",MTV Uutiset (720p)
-https://live.streaming.a2d.tv/asset/20025962.isml/.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="NarTV.fi@SD",NärTV (360p)
-https://streaming.nartv.fi/live/ngrp:NAR_TV.stream_all/playlist.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="NationalGeographic.fi@SD",National Geographic (Finland) (720p) [Geo-blocked]
-https://live-fi.tvkaista.net/national-geographic/live.m3u8?hd=true
-#EXTINF:-1 group-title="Тест" tvg-id="NavahangTV.fi@SD",Navahang TV (720p)
-https://hls.navahang.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="Nelonen.fi@SD",Nelonen (720p)
-https://live-fi.tvkaista.net/nelonen/live.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="NopolaNews.fi@SD",Nopola News (1080p) [Not 24/7]
-https://virta2.nopolanews.fi:8443/live/smil:Stream1.smil/playlist.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="OnniTV.fi@SD",Onni TV (720p)
-https://onnitv.digitacdn.net/live/ott/onnitv/playlist.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="STARChannel.fi@SD",STAR Channel (Finland) (720p)
-https://live-fi.tvkaista.net/star-channel/live.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="TaevasTV7.fi@SD",Taevas TV7 (720p)
-https://vod.tv7.fi/tv7-ee/smil:tv7-ee.smil/playlist.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="TaivasTV7.fi@SD",Taivas TV7 (720p)
-https://vod.tv7.fi/tv7-fi/smil:tv7-fi.smil/playlist.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="ViaplayTV.fi@SD",Viaplay TV (Finland) (720p) [Not 24/7]
-https://live-fi.tvkaista.net/viaplay-tv/live.m3u8?hd=true
-#EXTINF:-1 group-title="Тест" tvg-id="YleTV1.fi@SD",YLE TV 1 (1080p) [Geo-blocked]
-https://yletv.akamaized.net/hls/live/622365/yletv1fin/playlist.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="YleTV1.fi@SD",YLE TV 1 (1080p) [Not 24/7]
-https://yletvworld.akamaized.net/hls/live/622540/yletv1w/index.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="YleTV1.fi@SD",YLE TV 1 (720p) [Not 24/7]
-https://live-fi.tvkaista.net/yle-tv1/live.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="YleTV2.fi@SD",YLE TV 2 (1080p) [Geo-blocked]
-https://yletv.akamaized.net/hls/live/622366/yletv2fin/playlist.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="YleTV2.fi@SD",YLE TV 2 (1080p) [Not 24/7]
-https://yletvworld.akamaized.net/hls/live/622541/yletv2w/index.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="YleTV2.fi@SD",YLE TV 2 (720p) [Not 24/7]
-https://live-fi.tvkaista.net/yle-tv2/live.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="YleTeemaFem.fi@SD",YLE TV Teema & Fem (1080p) [Geo-blocked]
-https://yletv.akamaized.net/hls/live/622367/yletvteemafemfin/playlist.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="YleTeemaFem.fi@SD",YLE TV Teema & Fem (1080p) [Not 24/7]
-https://yletvworld.akamaized.net/hls/live/622547/yletvteemafemw/index.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="YleTeemaFem.fi@SD",YLE TV Teema & Fem (720p) [Not 24/7]
-https://live-fi.tvkaista.net/yle-teema-fem/live.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="YleX.fi@SD",YleX Studio Live (720p)
-https://ylestudiolive.akamaized.net/hls/live/2007826/ylestudiolive-YleX/master.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",5-Minute Craft (1080p)
-https://soul-5mincrafteng-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",BBC Top Gear Finland (1080p)
-https://amg00793-amg00793c49-rakuten-fi-5848.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Celeb Reality (720p)
-https://d3453fcf.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0NlbGViUmVhbGl0eUlOVExfSExT/playlist.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Come Dine With Me (1080p)
-https://amg00654-itv-amg00654c2-rakuten-uk-1281.playouts.now.amagi.tv/playlist/amg00654-itvstudiosfast-comedinewithmeukglobal-rakutenuk/playlist.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="Crime360.us@SD",Crime 360 (720p)
-https://94a3e237.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0NyaW1lMzYwX0hMUw/playlist.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="DontTellTheBride.us@SD",Don't Tell The Bride (1080p)
-https://lds-donttellbride-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Ghost (720p)
-https://9485e5d3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0dob3N0SU5UTF9ITFM/playlist.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="INTRAVEL.nl@Philippines",InTravel (1080p)
-https://amg00861-amg00861c10-rakuten-uk-3152.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",NatureTime Finland (1080p)
-https://bamusa-naturetime-emea-eng-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="RakutenTVActionMovies.es@Finland",Rakuten TV Action Movies Finland (1080p)
-https://bca5a421a70c46ad911efd0a4767c4bf.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6075/master.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="RakutenTVComedyMovies.es@Finland",Rakuten TV Comedy Movies Finland (1080p)
-https://a300af98e00746e2acf2346f43e47bd1.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6191/master.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="RakutenTVDramaMovies.es@Finland",Rakuten TV Drama Movies Finland (1080p)
-https://d7e8ee3c924d4305a0c1840fe94c5d36.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6102/master.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="RakutenTVFamilyMovies.es@Finland",Rakuten TV Family Movies Finland (1080p)
-https://758ee983d61e400381dea6fa8154f4e0.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6227/master.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="RakutenTVNordicFilms.es@Finland",Rakuten TV Nordic Films (1080p)
-https://4aa9ef08b70d4b0c8f3519c5950b1930.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6303/master.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Rakuten TV Romance Movies Finland (1080p)
-https://romance-rakuten-tv-fi.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6744/master.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="RakutenTVTopMovies.es@Finland",Rakuten TV Top Movies Finland (1080p)
-https://1d1b0d4cb6ae4c31985d13221795695b.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6057/master.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="TrueCrimeNow.us@SD",True Crime Now (1080p)
-https://amg00376-magellan-amg00376c11-rakuten-us-1700.playouts.now.amagi.tv/playlist/amg00376-magellantv-truecrimenowww-rakutenus/playlist.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",World of Love Island (1080p)
-https://worldofloveisland-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="FailArmy.us@US",Failarmy International (720p)
-https://failarmy-international-fi.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="GoUSATV.us@SD",Go USA TV (720p)
-https://brandusa-gousa-1-fi.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="GrjngoWesternMovies.de@SD",Grjngo Western Movies (720p)
-https://amogonetworx-grjngo-3-fi.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="HomesUnderHammer.us@UK",Homes Under The Hammer (720p)
-https://all3media-homes-under-the-hammer-1-fi.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="JustforLaughsGags.us@SD",Just For Laughs Gags (720p)
-https://distributionsjustepourrire-justforlaughsgags-1-fi.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Mechplus (720p)
-https://mechtvltd-mechplus-1-fi.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="PeopleAreAwesome.us@SD",People are Awesome (720p)
-https://jukin-peopleareawesome-2-fi.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="StrongmanChampionsLeague.pl@SD",Strongman Champions League (720p)
-https://rightsboosterltd-scl-1-fi.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="ThePetCollective.us@US",The Pet Collective International (720p)
-https://the-pet-collective-international-fi.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="KringvarpForoya.fo@SD",KVF (720p) [Not 24/7]
-https://w-live-edge1.kringvarp.fo/uttanlands/_definst_/smil:uttanlands.smil/playlist.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="KVFSjonvarp.fo@SD",KVF Sjonvarp
-https://live.kringvarp.fo/uttanlands/720/playlist.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="20MinutesTV.fr@SD",20 Minutes TV (1080p)
-https://live-20minutestv.digiteka.com/1961167769/index.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="ADNTVPlus.fr@SD",ADN TV+
-https://d3b73b34o7cvkq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gz2sgqzp076kf/adn.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="Africa24.fr@SD",Africa 24 (1080p)
-https://africa24.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="Africa24English.fr@SD",Africa 24 English (1080p)
-https://edge20.vedge.infomaniak.com/livecast/ik:africa24english/manifest.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="Africa24Sport.fr@SD",Africa 24 Sport (1080p)
-https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="AfricanewsFrench.fr@SD",Africanews French
-https://cdn-euronews.akamaized.net/live/eds/africanews-fr/25050/index.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="AlpedHuezTV.fr@SD",Alpe d’Huez TV (720p) [Not 24/7]
-https://edge13.vedge.infomaniak.com/livecast/ik:adhtv/manifest.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="AngersTele.fr@SD",Angers Tele
-https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/angerstele.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="AntenneReunion.fr@SD",Antenne Réunion (720p) [Not 24/7]
-https://live-antenne-reunion.zeop.tv/live/c3eds/antreunihd/hls_fta/antreunihd.m3u8?location=ZEOP01
-#EXTINF:-1 group-title="Тест" tvg-id="AraBel.fr@SD",AraBel
-https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/arabel.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="arte.fr@SD",Arte (720p) [Geo-blocked]
-https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="BSmartTV.fr@SD",B Smart TV (320p)
-https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/bsmart.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="BFM2.fr@HD",BFM2
-https://d1ib1gsg71oarf.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-scp7wda722jph/BFM2_FR.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="BFMBusiness.fr@SD",BFM Business (576p)
-https://live-cdn-stream-euw1.bfmb.bct.nextradiotv.com/master.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="BFMLyon.fr@SD",BFM Lyon (576p)
-https://live-cdn-bfmtvlyo-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="BFMTV.fr@SD",BFM TV (576p)
-https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="BrionnaisTV.fr@SD",Brionnais TV (720p)
-https://stream2.mandarine.media/brionnaistv/brionnaistv/playlist.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="Caillou.fr@SD",Caillou
-https://do7nccdsswstc.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1aso0bc668saa/a5233c83-f772-4a81-959a-45ec7877ef61/5.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="Canal32.fr@SD",Canal 32 (1080p)
-https://event.vedge.infomaniak.com/livecast/ik:canal32_4/manifest.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="CannesLerinsTV.fr@SD",Cannes Lérins TV (1080p)
-https://vdo2.pro-fhi.net:3628/live/uppodsfqlive.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="CNews.fr@SD",CNews (1080p) [Geo-blocked]
-https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Stream/Live/CNews.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="CNews.fr@SD",CNews
-https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/cnews.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="DBMTV.fr@SD",DBM TV (1080p)
-https://dbmtv.vedge.infomaniak.com/livecast/dbmtv/playlist.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="DisneyJr.fr@SD",Disney Jr.
-http://151.80.18.177:86/Disney_Junior_HD/index.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="EMCITV.fr@SD",EMCI TV
-https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/emciafrique.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="EMCITVEurope.fr@SD",EMCI TV Europe
-https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/emcieurope.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="Equidia.fr@SD",Equidia (1080p)
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/live2.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Equidia Racing Mag (1080p)
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/racingmag.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="EuronewsFrench.fr@SD",Euronews French (720p)
-https://2f6c5bf4.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9FdXJvbmV3c0ZyYW5jYWlzX0hMUw/playlist.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="EuronewsGerman.fr@SD",Euronews German (720p)
-https://575b7833.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9FdXJvbmV3c0RldXRzY2hfSExT/playlist.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="EuronewsItalian.fr@SD",Euronews Italian (720p)
-https://acb6ca89.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9FdXJvbmV3c0l0YWxpYW5vX0hMUw/playlist.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="EuronewsPortuguese.fr@SD",Euronews Portuguese (720p)
-https://6e52fb8b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9FdXJvbmV3c1BvcnR1Z3Vlc19ITFM/playlist.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="FashionTVParisLOriginal.fr@SD",FashionTV Paris L'Original (1080p)
-https://edge-fast3.evrideo.tv/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="FashionTVSecrets.fr@HD",FashionTV Secrets (1080p)
-https://ssai.aniview.com/api/v1/hls/stream.m3u8?AVS_SSAIID=67c0c39764ad6f7dab07aa0b&AV_APPNAME=[ADS.APP_NAME]&AV_APPPKGNAME=[ADS.APP_BUNDLE]&AV_APPSTOREURL=[ADS.APP_STORE_URL]&AV_CCPA=[ADS.US_PRIVACY]&AV_CLIENT_SECTION=ftv_secrets&AV_CONSENT=[ADS.GDPR_CONSENT]&AV_CONTENT_CAT=IAB7&AV_CONTENT_CHANNEL=&AV_CONTENT_CONTEXT=&AV_CONTENT_EPISODE=&AV_CONTENT_GENRE=fashion+and+lifestyle&AV_CONTENT_ID=[ADS.VIDAA_ADS_CONTENTID]&AV_CONTENT_KEYWORDS=&AV_CONTENT_LANGUAGE=en&AV_CONTENT_LENGTH=&AV_CONTENT_NETWORK=&AV_CONTENT_PROVIDER=FTV&AV_CONTENT_RATING=R&AV_CONTENT_SEASON=&AV_CONTENT_SERIES=&AV_CONTENT_TITLE=&AV_CONTENT_URL=&AV_DNT=[ADS.DNT]&AV_GDPR=[ADS.GDPR]&AV_HEIGHT=[ADS.H]&AV_IDFA=[ADS.IFA]&AV_IFA_TYPE=[ADS.IFA_TYPE]&AV_LANGUAGE=[ADS.DEVICE_LANGUAGE]&AV_OSVERS=[ADS.DEVICE_OSV]&AV_RTB_DEVICE_TYPE=[ADS.DEVICE_TYPE]&AV_VAUTH=[ADS.VAUTH]&AV_WIDTH=[ADS.W]&Content_Id=[ADS.ADS_CONTENTID]&ads.vidaa_ads_param=1191723366&cb=[CACHEBUSTER]&content_channel_name=ftv+-fashiontv+Secrets&content_livestream=1
-#EXTINF:-1 group-title="Тест" tvg-id="France2.fr@SD",France 2 (1080p)
-http://69.64.57.208/france2/mono.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="France5.fr@SD",France 5 (1080p)
-http://69.64.57.208/france5/mono.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="France24.fr@Arabic",France 24 Arabic (1080p)
-https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_5000.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="France24.fr@Arabic",France 24 Arabic (1080p)
-https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_5000.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="France24.fr@Arabic",France 24 Arabic (720p)
-https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_2300.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="France24.fr@Arabic",France 24 Arabic (720p)
-https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_2300.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="France24.fr@Arabic",France 24 Arabic (576p)
-https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_900.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="France24.fr@Arabic",France 24 Arabic (576p)
-https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_900.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="France24.fr@Arabic",France 24 Arabic (360p)
-https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_500.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="France24.fr@Arabic",France 24 Arabic (360p)
-https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_500.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="France24.fr@English",France 24 English (1080p)
-https://amg00106-france24-france24-samsunguk-qvpp8.amagi.tv/playlist/amg00106-france24-france24-samsunguk/playlist.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="France24.fr@English",France 24 English (1080p)
-https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="France24.fr@English",France 24 English (1080p)
-https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="France24.fr@English",France 24 English (720p)
-https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_2300.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="France24.fr@English",France 24 English (720p)
-https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_2300.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="France24.fr@English",France 24 English (576p)
-https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_900.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="France24.fr@English",France 24 English (576p)
-https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_900.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="France24.fr@English",France 24 English (360p)
-https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_500.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="France24.fr@English",France 24 English (360p)
-https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_500.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="France24.fr@Spanish",France 24 Español (1080p)
-https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="France24.fr@Spanish",France 24 Español (1080p)
-https://live.france24.com/hls/live/2037220/F24_ES_HI_HLS/master_5000.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="France24.fr@Spanish",France 24 Español (720p)
-https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_2300.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="France24.fr@Spanish",France 24 Español (720p)
-https://live.france24.com/hls/live/2037220/F24_ES_HI_HLS/master_2300.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="France24.fr@Spanish",France 24 Español (576p)
-https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_900.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="France24.fr@Spanish",France 24 Español (576p)
-https://live.france24.com/hls/live/2037220/F24_ES_HI_HLS/master_900.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="France24.fr@Spanish",France 24 Español (360p)
-https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_500.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="France24.fr@Spanish",France 24 Español (360p)
-https://live.france24.com/hls/live/2037220/F24_ES_HI_HLS/master_500.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="France24.fr@French",France 24 French (1080p)
-https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_5000.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="France24.fr@French",France 24 French (1080p)
-https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="France24.fr@French",France 24 French (720p)
-https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_2300.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="France24.fr@French",France 24 French (720p)
-https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_2300.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="France24.fr@French",France 24 French (576p)
-https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_900.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="France24.fr@French",France 24 French (576p)
-https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_900.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="France24.fr@French",France 24 French (360p)
-https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_500.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="France24.fr@French",France 24 French (360p)
-https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_500.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="FranceInter.fr@SD",France Inter
-https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/franceinter.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="Franceinfo.fr@SD",Franceinfo
-https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/franceinfotv.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="Francophonie24.fr@SD",Francophonie (360p)
-http://mv2.tvfrancophonie.org/live/Stream1/playlist.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="Francophonie24.fr@SD",Francophonie24 (1080p)
-https://5421175365ea3.streamlock.net/live/smil:switch.smil/playlist.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="FunRadio.fr@SD",Fun Radio
-https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/funradiofr.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="GenerationsTV.fr@SD",Generations TV (576p)
-https://event.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="Gong.fr@SD",Gong (1080p)
-https://amg01596-gongnetworks-gong-ono-vh5f2.amagi.tv/1080p-vtt/index.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="Gulli.fr@SD",Gulli
-https://origin-caf900c010ea8046.live.6cloud.fr/out/v1/c65696b42ca34e97a9b5f54758d6dd50/cmaf/hlsfmp4_short_q2hyb21h_gulli_sd_index.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="HANDICAPTV.fr@SD",HANDICAP TV France
-https://srv.webtvmanager.fr:3697/stream/play.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="iciElsass.fr@SD",ici Elsass
-https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/icielsass.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="ILTV.fr@SD",ILTV (720p)
-https://live.creacast.com/iltv/smil:iltv.smil/playlist.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="KTO.fr@SD",KTO (404p) [Not 24/7]
-https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="LEquipe.fr@SD",L'Equipe (1080p)
-https://dshn8inoshngm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gac2i63dmu8b7/LEquipe_FR.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="LEquipe.fr@SD",L'Equipe
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/eqpe/equipe.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="LeFigaroTVIledeFrance.fr@SD",Le Figaro IDF (1080p)
-https://figarotv-live.freecaster.com/live/freecaster/figarotv.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="LeFigaroTVIledeFrance.fr@SD",Le Figaro IDF (720p)
-https://static.lefigaro.fr/secom/tnt.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="LeMediaTV.fr@SD",Le Media TV
-https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/lemedia.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="LittoralFMTV.fr@SD",Littoral FM (720p)
-https://live.creacast.com/littoralfm-ch1/stream/playlist.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="LyonCapitaleTV.fr@SD",Lyon Capitale TV
-https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/lyoncapitale.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="MaisonTravauxTV.fr@SD",Maison & Travaux TV
-https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/maisonettravaux.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="MDL.fr@SD",MDL (720p)
-http://tv.mondeduloisir.fr:1935/tixtv/smil:web.smil/playlist.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="Melody.fr@SD",Melody
-https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/radiokaraoke.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="MensUPTV.fr@SD",Men's UP TV
-https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/mensuptv.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="MonteCarloDigitalTelevision.fr@HD",Monte Carlo Digital Television (1080p)
-https://fl718492-exthls-p1.flovp.com/fl718492/live/live.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="MouvTV.fr@SD",Mouv' TV
-https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/mouv.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="MyGospelTV.fr@SD",My Gospel TV
-https://streamtv.cmediahosthosting.net:3046/live/mygospeltvlive.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="MyZenTV.fr@SD",MyZen TV (1080p)
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="Nickelodeon.fr@SD",Nickelodeon
-http://151.80.18.177:86/Nickelodeon_FR/index.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="NickelodeonJunior.fr@SD",Nickelodeon Junior
-http://151.80.18.177:86/Nickelodeon_Junior/index.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="P2MTV.fr@SD",P2M TV (720p)
-https://vdo2.pro-fhi.net:3207/stream/play.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="PublicSenat2424.fr@SD",Public Senat 24/24
-https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/publicsenat.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="PuissanceTV.fr@SD",Puissance TV
-https://event.vedge.infomaniak.com/livecast/ik:puissancetelevision/manifest.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="RadioFrontieres.fr@SD",Radio Frontieres
-https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/radiofrontieres.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="RadioKaraoke.fr@SD",Radio Karaoke
-https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/radiokaraoke-2.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="RTL2.fr@SD",RTL2
-https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/rtl2.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="SonyOneBlacklist.fr@HD",Sony One Blacklist (1080p)
-https://06cb85ad6ccb4a6b97f561e62d16ad3f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-822-FR-SONYONETHEBLACKLIST-LG_FR/playlist.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="SonyOneBlacklist.fr@HD",Sony One Blacklist (1080p)
-https://d1x87j1jmcypab.cloudfront.net/playlist.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="SonyOneFavoris.fr@HD",Sony One Favoris (1080p)
-https://49d735318d6b4c30a24a7997ea594e1b.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-820-FR-SONYONEFAVORIS-LG_FR/playlist.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="SonyOneFavoris.fr@HD",Sony One Favoris (1080p)
-https://d21fkiqbljd83t.cloudfront.net/playlist.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="SonyOneHitsAction.fr@HD",Sony One Hits Action (1080p)
-https://5098a8b860504a3690fd2e7c0a18d68f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-817-FR-SONYONEHITSACTION-LG_FR/playlist.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="SonyOneHitsAction.fr@HD",Sony One Hits Action (1080p)
-https://d1tvu4639eiqii.cloudfront.net/playlist.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="SonyOneHitsComedie.fr@HD",Sony One Hits Comedie (1080p)
-https://7aa9671895264ec9a384dfed1b992171.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-818-FR-SONYONEHITSCOMDIE-LG_FR/playlist.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="SonyOneHitsComedie.fr@HD",Sony One Hits Comedie (1080p)
-https://d3nvxupr08boay.cloudfront.net/playlist.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="SonyOneSeriesComedie.fr@HD",Sony One Series Comedie (1080p)
-https://4f2a3e1ff5274297b115cf0f7da1c2cd.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-819-FR-SONYONESRIESCOMDIE-LG_FR/playlist.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="SonyOneSeriesComedie.fr@HD",Sony One Series Comedie (1080p)
-https://d1d95b9dbrm3cl.cloudfront.net/playlist.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="SonyOneSeriesThriller.fr@HD",Sony One Series Thriller (1080p)
-https://483a1e90c18641c9a6d27becd41ad892.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-821-FR-SONYONESRIESTHRILLER-LG_FR/playlist.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="SonyOneSeriesThriller.fr@HD",Sony One Series Thriller (1080p)
-https://d1573iiyr4aa7c.cloudfront.net/playlist.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="SudRadio.fr@SD",Sud Radio
-https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/sudradio.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="T18.fr@HD",T18 (1080p)
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/t18/t18-dm.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="TeleGohelle.fr@SD",TéléGohelle
-https://videas.agglo-lenslievin.fr/index.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="Telenantes.fr@SD",Telenantes
-https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/telenantes.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="Telesud.fr@SD",Telesud
-https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/telesud.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="TiVi5Monde.fr@SD",TiVi5 Monde [Geo-blocked]
-https://ott.tv5monde.com/Content/HLS/Live/channel(tivi5)/variant.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="TV3V.fr@SD",TV3V (720p)
-https://tv3v.live-kd.com/live/tv3v/livestream/index.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="TV5MondeAsia.fr@SD",TV5Monde Asia (720p)
-https://liveh12.vtvprime.vn/hls/TV5/03.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="TV5MondeAsia.fr@SD",TV5 Monde Asia (Asie) (1080p) [Geo-blocked]
-https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="TV5MondeEurope.fr@SD",TV5Monde Europe (1080p) [Geo-blocked]
-https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="TV5MondeFranceBelgiumSwitzerlandMonaco.fr@SD",TV5Monde France Belgique Suisse Monaco (1080p) [Geo-blocked]
-https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/variant.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="TV5MondeInfo.fr@SD",TV5Monde Info (1080p) [Geo-blocked]
-https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="TV5MondeLatinAmerica.fr@SD",TV5Monde Latin America
-http://45.235.0.78/TV5_Monde/index.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="TV5MondePacific.fr@SD",TV5Monde Pacifique (1080p) [Geo-blocked]
-https://ott.tv5monde.com/Content/HLS/Live/channel(pacifique)/variant.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="TV5MondeStyle.fr@SD",TV5Monde Style (1080p) [Geo-blocked]
-https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/variant.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="TV7Colmar.fr@SD",TV7 Colmar (576p)
-https://tv7.live-kd.com/live/tv7/livestream/playlist.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="TV78.fr@SD",TV78 (720p)
-https://streamtv.cdn.dvmr.fr/TV78/ngrp:tv78.stream_all/master.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="TVR.fr@SD",TVR (Bretagne) (720p)
-https://streamtv.cdn.dvmr.fr/TVR/ngrp:tvr.stream_all/master.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="TZiK.fr@SD",TZiK [Not 24/7]
-https://54627d4fc5996.streamlock.net/tzik/tzik/chunklist.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="ViaMatele.fr@SD",ViàMatélé (1080p)
-https://5dd226f8f01e8.streamlock.net/via-matele-live/matelelive_1080/playlist.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="MoselleTV.fr@SD",viàMoselleTV (720p) [Not 24/7]
-https://live.creacast.com/mirabelletv/smil:mirabelletv.smil/playlist.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="ViaOccitanie.fr@SD",viàOccitanie (540p) [Not 24/7]
-https://streamer01.myvideoplace.tv/streamer02/hls/MDS_VIA_PAD_301117.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="viaTelePaese.fr@SD",viàTéléPaese (720p)
-https://srv.webtvmanager.fr:3970/live/viatelepaeselive.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="VosgesTV.fr@SD",Vosges Télévision (576p) [Not 24/7]
-https://vosgestv.live-kd.com/live/vosgestv/vosgestv/playlist.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="zenith.fr@HD",zenith (1080p)
-#EXTVLCOPT:http-referrer=https://znth.tv
-https://srv.zenith-tv.fr:8888/zenithwchl/index.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="zenith.fr@HD",zenith
-https://srv.zenith-tv.fr:8888/zenithwchl/main_stream.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="TraceUrban.fr@SD",Trace Urban (1080p)
-https://channels.trace.plus/Traceprod/URBAN_FR/.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="BFM2.fr@HD",BFM 2 (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM2/index.m3u8?end=END&start=LIVE
-#EXTINF:-1 group-title="Тест" tvg-id="BFMAlsace.fr@SD",BFM Alsace (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_ALSACE/index.m3u8?end=END&start=LIVE
-#EXTINF:-1 group-title="Тест" tvg-id="BFMBusiness.fr@SD",BFM Business (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?end=END&start=LIVE
-#EXTINF:-1 group-title="Тест" tvg-id="BFMDICIAlpesduSud.fr@SD",BFM DICI Alpes du Sud (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_DICI_ALPESDUSUD/index.m3u8?end=END&start=LIVE
-#EXTINF:-1 group-title="Тест" tvg-id="BFMDICIHauteProvence.fr@SD",BFM DICI Haute-Provence (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_DICI_HAUTEPROVENCE/index.m3u8?end=END&start=LIVE
-#EXTINF:-1 group-title="Тест" tvg-id="BFMGrandLille.fr@SD",BFM Grand Lille (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFMGRANDLILLE/index.m3u8?end=END&start=LIVE
-#EXTINF:-1 group-title="Тест" tvg-id="BFMGrandLittoral.fr@SD",BFM Grand Littoral (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFMGRANDLITTORAL/index.m3u8?end=END&start=LIVE
-#EXTINF:-1 group-title="Тест" tvg-id="",BFM Grands Reportages (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_GRANDSREPORTAGES/index.m3u8?end=END&start=LIVE
-#EXTINF:-1 group-title="Тест" tvg-id="BFMLyon.fr@SD",BFM Lyon (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_LYON/index.m3u8?end=END&start=LIVE
-#EXTINF:-1 group-title="Тест" tvg-id="BFMMarseille.fr@SD",BFM Marseille (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_MARSEILLEPROV/index.m3u8?end=END&start=LIVE
-#EXTINF:-1 group-title="Тест" tvg-id="BFMCotedAzur.fr@SD",BFM Nice Côte d'Azur (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_NICECOTEDAZUR/index.m3u8?end=END&start=LIVE
-#EXTINF:-1 group-title="Тест" tvg-id="BFMNormandie.fr@SD",BFM Normandie (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_NORMANDIE/index.m3u8?end=END&start=LIVE
-#EXTINF:-1 group-title="Тест" tvg-id="BFMTechCo.fr@SD",BFM Tech & Co (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TECHANDCO/index.m3u8?end=END&start=LIVE
-#EXTINF:-1 group-title="Тест" tvg-id="BFMVar.fr@SD",BFM Toulon Var (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TOULONVAR/index.m3u8?end=END&start=LIVE
-#EXTINF:-1 group-title="Тест" tvg-id="BFMTV.fr@SD",BFM TV (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?end=END&start=LIVE
-#EXTINF:-1 group-title="Тест" tvg-id="4Afghanistan.fr@SD",4 Afghanistan
-https://4afghls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="4Kurd.fr@SD",4 Kurd
-https://4kuhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="ChannelOne.us@SD",Channel One
-https://pemirateshls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="PersianaCinema.fr@SD",Persiana Cinema
-https://cinehls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="PersianaComedy.fr@SD",Persiana Comedy
-https://comedyhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="PersianaDocs.fr@HD",Persiana Docs
-https://scihls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="PersianaFamily.fr@SD",Persiana Family
-https://familyhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="PersianaFight.fr@HD",Persiana Fight
-https://fighthls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="PersianaFolk.fr@HD",Persiana Folk
-https://sonhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="PersianaIranian.fr@SD",Persiana Iranian
-https://irhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="PersianaJunior.fr@SD",Persiana Junior
-https://junhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="PersianaKorea.fr@SD",Persiana Korea
-https://korhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="PersianaLatino.fr@SD",Persiana Latino
-https://latinohls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="PersianaMedical.fr@SD",Persiana Medical
-https://phd2hls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="4Music.fr@SD",Persiana Music
-https://musichls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="PersianaNostalgia.fr@SD",Persiana Nostalgia
-https://noshls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="PersianaPlus.fr@SD",Persiana Plus
-https://euhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="PersianaReality.fr@HD",Persiana Reality
-https://twohls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="PersianaSeries.fr@HD",Persiana Series
-https://onehls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="PersianaSports.fr@SD",Persiana Sports
-https://steep-wildflower-284d.nhhwkiszzzvcuojxdo.workers.dev/?url=https://gg.hls2.xyz/live/Persiana%20Sports/chunks.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="PersianaSports2.fr@HD",Persiana Sports 2
-https://steep-wildflower-284d.nhhwkiszzzvcuojxdo.workers.dev/?url=https://gg.hls2.xyz/live/Persiana%20Sports2/chunks.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="PersianaSports3.fr@HD",Persiana Sports 3
-https://steep-wildflower-284d.nhhwkiszzzvcuojxdo.workers.dev/?url=https://gg.hls2.xyz/live/Persiana%20Sports3/chunks.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="PersianaSports4.fr@HD",Persiana Sports 4
-https://steep-wildflower-284d.nhhwkiszzzvcuojxdo.workers.dev/?url=https://gg.hls2.xyz/live/Persiana%20Sports4/chunks.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="PersianaTeen.fr@SD",Persiana Teen
-https://kphls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="PersianaTravel.fr@SD",Persiana Travel
-https://ptravelhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="PersianaTurkiye.fr@SD",Persiana Turkiye
-https://turkhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="PersianaVibe.fr@HD",Persiana Vibe
-https://raphls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Adjugé vendu !
-https://jmp2.uk/plu-64bab8ba5dc1660008969b5a.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Alerte à Malibu
-https://jmp2.uk/plu-60afaa535580be0007ac9ee4.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Alerte Cobra
-https://jmp2.uk/plu-62f3e4bc08f5ec000744f552.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Allociné
-https://jmp2.uk/plu-6618e3037bcd8600089b62a8.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Avatar
-https://jmp2.uk/plu-60b4c17a81e29300071d3a39.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Barbie & Friends
-https://jmp2.uk/plu-686e7499e0ecf0e0cc25dbe3.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",BBC Drama
-https://jmp2.uk/plu-60d35a74c63c3c0008df6a90.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Beyblade
-https://jmp2.uk/plu-664c8ba33d173b00080ef0c8.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Blue Bloods
-https://jmp2.uk/plu-66f55a9a747bfa0008521859.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Bob l'éponge
-https://jmp2.uk/plu-5ffc8c345822750007e167de.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",C'est pas sorcier
-https://jmp2.uk/plu-63b579961bdba100071214cb.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",CATFISH TV
-https://jmp2.uk/plu-5f8eb66537867f0007146953.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",CBS News 24/7
-https://jmp2.uk/plu-6231ec93779a9d00079ba8e2.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Charlotte aux Fraises
-https://jmp2.uk/plu-60dc6937b450ad0007377e48.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Cheers
-https://jmp2.uk/plu-65cce14060eb870008dbd003.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Ciné 666 by Pluto TV
-https://jmp2.uk/plu-6823648580b2665220d9e69a.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Ciné Action by Pluto TV
-https://jmp2.uk/plu-5f8ed1ff5c39700007e2204a.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Ciné by Pluto TV
-https://jmp2.uk/plu-5f8ed0f17564a300082b676a.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Ciné Catastrophe by Pluto TV
-https://jmp2.uk/plu-65a69ef53af63d000825e0ee.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Ciné d'Asie by Pluto TV
-https://jmp2.uk/plu-62f3e2d000418d00070f7dbc.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Ciné Horreur by Pluto TV
-https://jmp2.uk/plu-66e1978babec540008ce41ac.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Ciné Rétro by Pluto TV
-https://jmp2.uk/plu-5f8ed168f72fcd0007e56269.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Ciné Romance by Pluto TV
-https://jmp2.uk/plu-60812fc8539963000707d1e1.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Ciné Sci-Fi by Pluto TV
-https://jmp2.uk/plu-60c34592c911890007f29a73.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Ciné Thrillers by Pluto TV
-https://jmp2.uk/plu-60c3472a51a2050008dad272.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Ciné Western by Pluto TV
-https://jmp2.uk/plu-65cca3e2ec452d0008af3a65.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Coeur Océan
-https://jmp2.uk/plu-62f3dd1c2f29ce0007e18596.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Daria
-https://jmp2.uk/plu-6683b680efa2a10008e8a393.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",DAZN Combat
-https://jmp2.uk/plu-64d626ac9b414d000820e2fc.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Degrassi
-https://jmp2.uk/plu-611e71322f5f180007001dde.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Detective Conan
-https://jmp2.uk/plu-62f3e8ad2a8e8000077b013d.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Diane femme flic
-https://jmp2.uk/plu-6671b26836a2f90008d9333c.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Digimon Adventure
-https://jmp2.uk/plu-617bae1d69bca3000729561e.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Doraemon
-https://jmp2.uk/plu-68b17414c23bb80b3c1d5bb5.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Dossiers FBI
-https://jmp2.uk/plu-5f8edad922b10b000753bc37.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Echappées Belles & Co
-https://jmp2.uk/plu-63b578b524f0cf00072f2a52.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Enquêtes Criminelles
-https://jmp2.uk/plu-66f55d0b5e4a6e0008c2b920.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Enquêtes de Choc
-https://jmp2.uk/plu-63921a1bf76e7d0007c998a6.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Euronews
-https://jmp2.uk/plu-60d35bcaf1ff4a00078af0a6.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",FailArmy
-https://jmp2.uk/plu-5f8ecd9169d2d4000864a974.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Faites entrer l'accusé
-https://jmp2.uk/plu-662a622b5e2370000800f392.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Family Club
-https://jmp2.uk/plu-64c9260ac0222700089ee62b.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",FIFA+
-https://jmp2.uk/plu-660c2a2d2433010008df7e92.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Flashpoint
-https://jmp2.uk/plu-66d71ff86b63480008cf15c5.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Flynn Carson et The Outpost
-https://jmp2.uk/plu-68d292d554c61bfff220a635.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Génération Sitcoms
-https://jmp2.uk/plu-60afb203ec391c00070ea1bf.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Hélène et les garçons
-https://jmp2.uk/plu-604f8de01b479400078fb1e7.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Homicide
-https://jmp2.uk/plu-63921a3d00c96100082a3cb4.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",iCarly TV
-https://jmp2.uk/plu-5f8ecc7aa44d9c00081fca29.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",INA 70
-https://jmp2.uk/plu-639b54404cfdf7000729b3c1.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Inazuma Eleven
-https://jmp2.uk/plu-611e75226b7f420007c3f319.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Incroyables Transformations
-https://jmp2.uk/plu-66f55d205e4a6e0008c2b92b.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Instant Saga
-https://jmp2.uk/plu-60549e98061b5f000776866a.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Investigation by Pluto TV
-https://jmp2.uk/plu-6683cd2fca74680008772545.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",JAG
-https://jmp2.uk/plu-65ccd26060eb870008db95fc.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Just Tattoo of Us
-https://jmp2.uk/plu-6304f20c941c5d00089634e7.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Juste pour Rire GAGS
-https://jmp2.uk/plu-60afa1508284e60007163c08.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",La maison France 5
-https://jmp2.uk/plu-685a999bd33909bdd7d2fb1e.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Le Figaro TV
-https://jmp2.uk/plu-650aff3398020f00086380cd.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Le miracle de l'amour
-https://jmp2.uk/plu-60549c238c3f21000753d3e0.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Les Anges
-https://jmp2.uk/plu-66b228d4cd0d3100085d27b7.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Les Années fac
-https://jmp2.uk/plu-60afae68a7fc50000737186d.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Les filles d'à côté
-https://jmp2.uk/plu-60549d97cd7b090007c73314.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Les Marseillais
-https://jmp2.uk/plu-66f55d565e4a6e0008c2b9d2.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Les Nouveaux Detectives
-https://jmp2.uk/plu-5f8edb6df1ebb800072edf10.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Les Reines du Shopping
-https://jmp2.uk/plu-66f55c55940963000810bb14.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Les Routes du Paradis
-https://jmp2.uk/plu-65cce23bdc10a400080645ad.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Les Schtroumpfs
-https://jmp2.uk/plu-68b16d2282862c1f067dc763.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Les Z'amours
-https://jmp2.uk/plu-652d0b756208700008d758ad.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Louis La Brocante
-https://jmp2.uk/plu-5f8ed6d569d2d4000864a976.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",MacGyver
-https://jmp2.uk/plu-6245ccd0c6cdb800074632e4.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Mattel Junior
-https://jmp2.uk/plu-686e74b0e48af72bc266e798.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Mayday: Catastrophe Aérienne
-https://jmp2.uk/plu-686e74c777ed3360cb6908bf.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Mission Impossible
-https://jmp2.uk/plu-6671b21ffc3a46000857fe75.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",MODUS Super Series Darts
-https://jmp2.uk/plu-671643fc5534bb00089187ad.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Most Haunted
-https://jmp2.uk/plu-66d722d31878f200081c2c64.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",MTV CLASSICS
-https://jmp2.uk/plu-5f92b56a367e170007cd43f4.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Nature Time
-https://jmp2.uk/plu-61fc0df14159c40007250432.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Olive & Tom
-https://jmp2.uk/plu-662a63275a402e00086bc8a5.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="OnePiece.us@FR",One Piece
-https://jmp2.uk/plu-6380c94947c72b0007ee9a13.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Pacific Blue
-https://jmp2.uk/plu-68d279fc840d8021ee1f1e50.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Pêche à haut risque
-https://jmp2.uk/plu-678f894ef5c74bff95c20a7f.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Plus Belle la Vie 2
-https://jmp2.uk/plu-662a6309307fa30008196b4e.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Pluto TV 90's Classics
-https://jmp2.uk/plu-66b4990746762a00084c2f78.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Pluto TV 2010's Classics
-https://jmp2.uk/plu-66b498bc14a2bb00086965bc.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Pluto TV Animaux
-https://jmp2.uk/plu-60925a44f0350600075a1fdc.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Pluto TV Aventure
-https://jmp2.uk/plu-611e7811eb9daf000764cbfd.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Pluto TV Brigade Criminelle
-https://jmp2.uk/plu-684bf01df7d8b74b625b7dd1.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Pluto TV Ciné+
-https://jmp2.uk/stvp-FRAJ3800002W5?.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Pluto TV Classic TV FR
-https://jmp2.uk/plu-5e46ae801f347500099d461a.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Pluto TV Comédie
-https://jmp2.uk/plu-5f8eb91bb9b9e7000817e67f.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Pluto TV Comédies Cultes
-https://jmp2.uk/plu-67b4b2d976a934282e92d71c.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Pluto TV Cuisine
-https://jmp2.uk/plu-5f8ed48146ba9e00078424b6.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Pluto TV Dating
-https://jmp2.uk/plu-682318568e6c0f2f6c6e0038.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Pluto TV French Collection
-https://jmp2.uk/plu-62f3e0522443200008c567d7.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Pluto TV Histoire
-https://jmp2.uk/plu-611e771e2f5f180007002224.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Pluto TV Inside
-https://jmp2.uk/plu-5f8ed3892ed7bb000741a1d2.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Pluto TV Junior
-https://jmp2.uk/plu-5f8ecb336537e8000764a17f.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Pluto TV Kids Classics
-https://jmp2.uk/plu-654a58dbf9cc82000868f0fb.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Pluto TV Kids Club
-https://jmp2.uk/plu-611e6ddc7fcd580007d1eb5f.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Pluto TV Paranormal
-https://jmp2.uk/plu-5f8ed9461b35690007a0bc3a.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Pluto TV Polar
-https://jmp2.uk/plu-5f8ed4dbf6bb0800071ffbcb.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Pluto TV Reality
-https://jmp2.uk/plu-6092544e7639460007d4835e.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Pluto TV Retro Toons
-https://jmp2.uk/plu-611e6a9b4bb5790007a6f0f8.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Pluto TV Séries Fantastiques
-https://jmp2.uk/plu-625ec7a1c853fd00073b38fd.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Pluto TV Snooker 900
-https://jmp2.uk/plu-66fd35e44ca31f0008060b77.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Pluto TV Super Kids
-https://jmp2.uk/plu-652557d93fd33c000802f995.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Pluto TV Teen
-https://jmp2.uk/plu-5f8eb99ff17815000784a3b0.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Pluto TV Toons
-https://jmp2.uk/plu-5f8eba14a4ffb8000764e950.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Qui veut gagner des millions?
-https://jmp2.uk/plu-652d0b9ceb72580008a4ea5b.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Ridiculousness
-https://jmp2.uk/plu-5f8eb8a8b2619a000710605c.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Series by Pluto TV
-https://jmp2.uk/plu-5f8ed2d1c34c2300073bf02c.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Star Trek: The Original Series
-https://jmp2.uk/plu-67b4b3c51a5ca760802cc1c7.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Teen Mom
-https://jmp2.uk/plu-62f3f05505e621000783df2f.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",The Asylum
-https://jmp2.uk/plu-5f8ece1a89d79800072510e6.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Top Gear
-https://jmp2.uk/plu-64c1093824ade50008bd117f.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Tortues Ninja TV
-https://jmp2.uk/plu-5f8ecc1b37867f00071469e9.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Tout le monde déteste Chris
-https://jmp2.uk/plu-67b4b4a21a5ca760802d25fd.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Toute une histoire
-https://jmp2.uk/plu-62f3e6aebcdda4000754fa47.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",True Crime by Pluto TV
-https://jmp2.uk/plu-5f914f4b36d67d0007a91a04.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Turbo
-https://jmp2.uk/plu-66f55c3955567d0008ef9b68.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",UFC
-https://jmp2.uk/plu-67921b78b83355184c667770.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Un gars une fille
-https://jmp2.uk/plu-62f3ece7b09fd6000783bfb9.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Un Si Grand Soleil
-https://jmp2.uk/plu-6683cd0f63a5f20008fb84a3.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Un Village Français
-https://jmp2.uk/plu-6304f2e2eb10450007298023.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Voyages & Saveurs
-https://jmp2.uk/plu-680291e38e1ff89c2427aefd.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Walker Texas Ranger
-https://jmp2.uk/plu-60afa749ac7f3200078adb40.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Wild Side TV
-https://jmp2.uk/plu-60b4d6c806ad2a00073b3108.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",WPT
-https://jmp2.uk/plu-5f8ecfb9db6c180007a6d1b0.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Y'a que la vérité qui compte
-https://jmp2.uk/plu-612e044c970e6f00083bcf3b.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Yu-Gi-Oh!
-https://jmp2.uk/plu-6130d9c712c2b000070abb50.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Z Nation
-https://jmp2.uk/plu-66b227b446762a000846c208.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Zone Interdite
-https://jmp2.uk/plu-66f55cf2483d460008f68746.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",100% Docs
-https://amg02162-newenconnect-amg02162c2-rakuten-us-1981.playouts.now.amagi.tv/playlist/amg02162-newenconnect-100pour100docs-rakutenus/playlist.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Banijay Mr Bean Animé
-https://amg00627-amg00627c31-rakuten-fr-3991.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanfrcc-rakutenfr/playlist.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",BBC Top Gear France (1080p)
-https://amg00793-amg00793c45-rakuten-fr-5539.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Beyblade
-https://amg01796-amg01796c6-rakuten-fr-5334.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-beybladefr-rakutenfr/playlist.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Bref Cinéma 100% Court Métrage
-https://lagenceducourtmetrage-brefcinema-01-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="CGTNFrench.cn@SD",CGTN Français
-https://amg01314-cgtn-amg01314c2-rakuten-us-1319.playouts.now.amagi.tv/cgtn-fr-rakuten/playlist.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Drive TV (1080p)
-https://amg01796-amg01796c2-rakuten-uk-3887.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Enquetes de Choc (1080p)
-https://fastmedia-enquetesdechoc-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Euronews Africanews Français
-https://fd455e302ce44beb82997b99d4d215fc.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-fr_AfricaNews/playlist.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="EuronewsFrench.fr@SD",Euronews Français
-https://euronews-live-fra-fr.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6564/bitok/eyJzdGlkIjoiYjA1ZmVmMzAtYjhkZC00Y2E5LThkM2ItMTRkNjE1MjdmYjE0IiwibWt0IjoiZnIiLCJjaCI6NjU2NCwicHRmIjo1fQ==/26032/euronews-fr.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="FashionTVEurope.fr@SD",FashionTV Europe (1080p)
-https://68f1accef2154d2195cae87dec183843.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_FashionTV/playlist.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",FilmRise Binge Watch France (720p)
-https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883021
-#EXTINF:-1 group-title="Тест" tvg-id="",FilmRise DeGrassi la nouvelle génération
-https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883113
-#EXTINF:-1 group-title="Тест" tvg-id="",FilmRise Hot Ones (720p)
-https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883082
-#EXTINF:-1 group-title="Тест" tvg-id="",FilmRise Les Routes du Paradis (720p)
-https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883083
-#EXTINF:-1 group-title="Тест" tvg-id="",FilmRise Séries France (720p)
-https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883033
-#EXTINF:-1 group-title="Тест" tvg-id="",FilmRise Z Nation France (720p)
-https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883103
-#EXTINF:-1 group-title="Тест" tvg-id="",France 24 FAST English
-https://amg00106-amg00106c1-rakuten-uk-4654.playouts.now.amagi.tv/playlist/amg00106-france24fast-france24-rakutenuk/playlist.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Generation Sitcoms (1080p)
-https://production-fastbpk.content.okast.tv/fa2e8c4385712f9aa35c5b79a2b4ac2d/channels/eec463a6-4364-473b-8d89-555acc5b8fb2/e36e4304-73ff-4f9f-8d38-e748576a1f51/media_.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Grjngo Films de Western (1080p)
-https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/a5fc1b02-5945-11ef-a2df-87241c204d22/0/master.m3u8?country=fr&vendor=rakuten
-#EXTINF:-1 group-title="Тест" tvg-id="",Homicide la chaîne du fait divers
-https://rakutenaa-fastmedia-homicide-rakuten-pw6g3.amagi.tv/playlist/rakutenAA-fastmedia-homicide-rakuten/playlist.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",INA 70s
-https://fast-rakuten.okast.tv/fa2e8c4385712f9af3e719ec904b3543/channels/34d82f76-b51f-4bf5-9b35-769fb5904e79/96f96405-90e7-489a-a1e6-8ede5d2b4933/media_.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",INA Ardivision
-https://fast-rakuten.okast.tv/fa2e8c4385712f9a3b579747e448699c/channels/34d82f76-b51f-4bf5-9b35-769fb5904e79/a4226699-b685-4f5d-9cb6-2a6cac14c377/media_.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",ITV Un Village Français
-https://amg00654-itv-amg00654c32-rakuten-fr-6134.playouts.now.amagi.tv/playlist/amg00654-itvstudiosfast-unvillagesfrancais-rakutenfr/playlist.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",L'Effet Papillon
-https://amg02162-newenconnect-amg02162c1-rakuten-us-1983.playouts.now.amagi.tv/playlist/amg02162-newenconnect-leffetpapillon-rakutenus/playlist.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Le Meilleur d'Arthur
-https://amg02393-awpg-amg02393c2-rakuten-uk-2464.playouts.now.amagi.tv/playlist/amg02393-awpg-lemeilleurdarthur-rakutenuk/playlist.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Le Meilleur de la TV Realite (1080p)
-https://amg02393-awpg-amg02393c4-rakuten-uk-3886.playouts.now.amagi.tv/playlist/amg02393-awpg-lemeilleurdelatvrealite-rakutenuk/playlist.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Les Anges
-https://amg02393-awpg-amg02393c5-rakuten-uk-2463.playouts.now.amagi.tv/playlist/amg02393-awpg-lesanges-rakutenuk/playlist.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Les Secrets de Nos Régions
-https://amg02393-awpg-amg02393c6-rakuten-uk-2460.playouts.now.amagi.tv/playlist/amg02393-awpg-lessecretsdenosregions-rakutenuk/playlist.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Les Z'Amours
-https://amg02393-awpg-amg02393c3-rakuten-uk-2462.playouts.now.amagi.tv/playlist/amg02393-awpg-leszamours-rakutenuk/playlist.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Motorracing France
-https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/7b971242-c5fe-11ec-967f-401ac48a6867/0/master.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="MotorvisionPlus.de@SD",Motorvision.tv (French)
-https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883047
-#EXTINF:-1 group-title="Тест" tvg-id="",Motus La Chaîne
-https://rakutenaa-fastmedia-motuslachaine-rakuten-547u3.amagi.tv/playlist/rakutenAA-fastmedia-motuslachaine-rakuten/playlist.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",MyTime Movie Network France (1080p)
-https://mytimemoviefrance-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Nature Time France (1080p)
-https://bamusa-naturetime-emea-fra-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="NewsWorld.pl@FAST",NewsWorld
-https://amg01076-lightning-amg01076c5-rakuten-us-1788.playouts.now.amagi.tv/playlist/amg01076-lightning-newsworld-rakutenus/playlist.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Qui Veut Gagner Des Millions La Chaîne
-https://amg02393-awpg-amg02393c1-rakuten-uk-2461.playouts.now.amagi.tv/playlist/amg02393-awpg-quiveutgagnerdesmillions-rakutenuk/playlist.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="QwestTV.fr@SD",Qwest TV (1080p)
-https://qwestjazz-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-qwestjazz-rakuten/CDN/master.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Rakuten TV Alerte Cobra
-https://alarm-for-cobra-rakuten-tv-fr.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6477/master.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Rakuten TV Films Action (720p)
-https://01ac9352fbfa4204998783d41f9b1a2e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6068/master.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Rakuten TV Films Comédie (720p)
-https://cc9f70371e7144e7acae4de8b5832d7a.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6183/master.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Rakuten TV Films Drames (720p)
-https://f396f4db84a54f7bb496b2541477b626.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6095/master.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Rakuten TV Films Famille
-https://b3088e48baab418a9a95dc8110a1b736.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6206/master.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Rakuten TV Films Français (720p)
-https://499fde1f527c4ce9af8917b3ee7a217a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-fr_Local/playlist.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Rakuten TV Films Romance (720p)
-https://9affb6144c4c4cdca25d58908cb55a64.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6195/master.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Rakuten TV Films Thriller (720p)
-https://thriller-rakuten-tv-fr.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6479/master.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Rakuten TV Séries Crime (720p)
-https://1ffd245e4d30495e9b006502a155479e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6214/master.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Rakuten TV Top Films France (720p)
-https://93ed06eba1ef4cf783b66dc6ea7c4f28.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5986/master.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Rakuten TV Viki Europe (720p)
-https://newidco-rakutenviki-2-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="ReutersTV.us@SD",Reuters
-https://amg00453-reuters-amg00453c1-rakuten-uk-2110.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-rakutenuk/playlist.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Revry Europe (Frequency backend)
-https://03e7e5beea1d42fea576037d67f531eb.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_Revry/playlist.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Revry News Europe (Frequency backend)
-https://dce9e10d279f410d87ef5ad1c3740459.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_RevryNews/playlist.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Televisa Telenovela Channel
-https://televisa-telenovelas-3-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="TraceUrban.fr@SD",Trace Urban (1080p)
-https://amg01131-tracetv-amg01131c1-rakuten-us-1081.playouts.now.amagi.tv/playlist/amg01131-tracetvfast-traceurban-rakutenus/playlist.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Travelxp France (720p)
-https://travelxp-travelxp-4-fr.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Vevo Hip-Hop et RnB
-https://amg00056-amg00056c14-rakuten-fr-3244.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevohiphopandrbfr-rakutenfr/playlist.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="VevoPop.us@SD",Vevo Pop
-https://amg00056-amg00056c9-rakuten-fr-3243.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevopopfr-rakutenfr/playlist.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Vogue Europe
-https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883060
-#EXTINF:-1 group-title="Тест" tvg-id="",Wasabi la chaîne anime
-https://amg01796-amg01796c3-rakuten-uk-2555.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-wasabii-rakutenuk/playlist.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Y'a Que La Vérité Qui Compte La Chaîne
-https://rakutenaa-fastmedia-yaquelaverite-rakuten-81p2x.amagi.tv/playlist/rakutenAA-fastmedia-yaquelaverite-rakuten/playlist.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="ZeeOne.uk@UK",Zee One
-https://87e3eec452134557a82da031f54a1899.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-fr_ZeeMagic/playlist.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="CineNanar.fr@SD",Zylo Ciné Nanar
-https://zylo-cinenanar-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="CineWestern.fr@SD",Zylo Ciné Western
-https://amg00711-zylo-amg00711c8-rakuten-uk-2686.playouts.now.amagi.tv/playlist/amg00711-zylofast-cinewestern-rakutenuk/playlist.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="EmotionL.fr@SD",Zylo Emotion' L
-https://rakutenaa-zylo-emotional-rakuten-r1zkm.amagi.tv/playlist/rakutenAA-zylo-emotional-rakuten/playlist.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="FrequenceNovelas.fr@SD",Zylo Fréquence Novelas
-https://d20oth1416y9a1.cloudfront.net/playlist/amg00711-zylofast-frequencenovelas-rakutenus/playlist.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="IntoCrime.fr@SD",Zylo Into Crime (1080p)
-https://amg00711-zylo-amg00711c10-rakuten-fr-6731.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="ScreamIN.fr@SD",Zylo ScreamIN
-https://rakutenaa-zylo-screamin-rakuten-p11ej.amagi.tv/playlist/rakutenAA-zylo-screamin-rakuten/playlist.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Mytime Movies (1080p)
-https://mytimefrance-rakuten-samsung.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="",Stormcast Novelas TV
-https://stormcast-telenovelatv-1-fr.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="TNTV.pf@SD",TNTV (1080p)
-https://tntv-samsung-fr.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="WildSideTV.fr@SD",Wildside TV (720p)
-https://versatile-wildsidetv-1-fr.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="ZeeOne.uk@French",Zee One Français (720p)
-https://7689426c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1mcl9aZWVNYWdpY19ITFM/playlist.m3u8
