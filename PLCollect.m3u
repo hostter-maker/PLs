@@ -939,7 +939,7 @@ https://channels.trace.plus/Traceprod/URBAN_FR/.m3u8
 https://myradio24.org/tisradio_video.m3u8
 #EXTINF:-1 group-title="Музыка 1" tvg-logo="https://iptvx.one/picons/tvm3-ch.png" tvg-id="tvm3-ch",TVM3 [CH]
 https://livevideo.infomaniak.com/streaming/livecast/tvm3/playlist.m3u8
-#EXTINF:-1 group-title="Музыка 1" tvg-logo="https://k20.usastreams.com:8081/tvsur/index.m3u8",TVSur Canal ULR [Costa Rica]
+#EXTINF:-1 group-title="Музыка 1" tvg-logo="https://play-lh.googleusercontent.com/rpzYoUkH9UpljbF7zMuBAY290pKFx9k_mTgKQ08T-4DIl_rSxLqaOZbGVR4qNbdVts4",TVSur Canal ULR [Costa Rica]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://k20.usastreams.com:8081/tvsur/index.m3u8
 #EXTINF:-1 group-title="Музыка 1" tvg-logo="https://sun9-39.userapi.com/s/v1/ig2/_dP5a5YnYk5YxJam9uFR2AAzGLLn2Wk41U3dy2zub6l86LYAiiYYXzV-wtZnoQc7ocwIhecD2-Qg28fS-jADvF-x.jpg?quality=95&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720&from=bu&cs=720x0",Ultimate Fashion House Mafia
