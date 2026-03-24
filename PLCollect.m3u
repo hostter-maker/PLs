@@ -2244,7 +2244,7 @@ https://stream.yamal1.ru/hls/live/stream.m3u8
 https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_YAMREG_URAL_YNF/variant.m3u8
 
 #EXTGRP:Тест
-#EXTINF:-1 tvg-id="Eveo.fi@SD",Eveo (720p) [Not 24/7]
+#EXTINF:-1 group-title="Тест" tvg-id="Eveo.fi@SD",Eveo (720p) [Not 24/7]
 https://live-fi.tvkaista.net/eveo/live.m3u8?hd=true
 #EXTINF:-1 tvg-id="Hero.fi@SD",Hero (720p) [Not 24/7]
 https://live-fi.tvkaista.net/hero/live.m3u8?hd=true
