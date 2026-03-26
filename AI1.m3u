@@ -182,7 +182,7 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/11048/ind
 #EXTINF:-1 group-title="Кинозал" tvg-id="4753" tvg-logo="http://epg.one/img/4753.png" tvg-rec="7",BCU Fantastic HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/11032/index.m3u8
-#EXTINF:-1 group-title="Кинозал" tvg-id="4754" tvg-logo="http://epg.one/img/4754.png" tvg-rec="7",BCU FilMystic HD
+#EXTINF:-1 group-title="Кинозал" tvg-id="bcu-filmystic" tvg-logo="http://epg.one/img/4754.png" tvg-shift="-24" tvg-rec="7",BCU FilMystic HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/11033/index.m3u8
 #EXTINF:-1 group-title="Кинозал" tvg-id="4755" tvg-logo="http://epg.one/img/4755.png" tvg-rec="7",BCU History HD
