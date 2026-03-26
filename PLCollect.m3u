@@ -26,13 +26,13 @@ https://livetv.mylifeisgood.net.ru/channels/ntvhd.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
 #EXTINF:0 group-title="Вещание" tvg-logo="http://epg.one/img/983.png" tvg-id="pervy",Первый канал HD
 https://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
-#EXTINF:0 group-title="Вещание" tvg-logo="http://epg.one/img/1003.png" tvg-id="piatnica" catchup-days="1" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Пятница!
+#EXTINF:0 group-title="Вещание" tvg-logo="http://epg.one/img/1003.png" tvg-id="piatnica" catchup-days="0" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Пятница!
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
-#EXTINF:0 group-title="Вещание" tvg-logo="http://epg.one/img/427.png" tvg-id="5kanal-ru" catchup-days="1" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Пятый канал
+#EXTINF:0 group-title="Вещание" tvg-logo="http://epg.one/img/427.png" tvg-id="5kanal-ru" catchup-days="0" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Пятый канал
 http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
-#EXTINF:0 group-title="Вещание" tvg-logo="http://epg.one/img/743.png" tvg-id="rbk" catchup-days="1" catchup-source="?offset=-${offset}&utcstart=${timestamp}",РБК HD
+#EXTINF:0 group-title="Вещание" tvg-logo="http://epg.one/img/743.png" tvg-id="rbk" catchup-days="0" catchup-source="?offset=-${offset}&utcstart=${timestamp}",РБК HD
 https://s91030.cdn.ngenix.net/hls/CH_R25_RBKTVHD_VLDK/variant.m3u8
-#EXTINF:0 group-title="Вещание" tvg-logo="http://epg.one/img/18.png" tvg-id="rentv" catchup-days="1" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Рен ТВ
+#EXTINF:0 group-title="Вещание" tvg-logo="http://epg.one/img/18.png" tvg-id="rentv" catchup-days="0" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Рен ТВ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
 #EXTINF:0 group-title="Вещание" tvg-logo="http://epg.one/img/2471.png" tvg-id="rzhd-tv",РЖД ТВ HD
 http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8
