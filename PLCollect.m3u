@@ -2,7 +2,7 @@
 
 #EXTINF:0 group-title="Вещание" tvg-logo="http://epg.one/img/2265.png tvg-id="360-podmoskovie",360° HD
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8
-#EXTINF:0 group-title="Вещание" tvg-logo="http://epg.one/img/4458.png" tvg-id="360-news,360° Новости HD
+#EXTINF:0 group-title="Вещание" tvg-logo="http://epg.one/img/4458.png" tvg-id="360-news",360° Новости HD
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8
 #EXTINF:0 group-title="Вещание" tvg-logo="http://epg.one/img/2295.png" tvg-id="rtd-ru",RT Doc HD
 http://rt-doc.rttv.com/dvr/rtdru/rtdru1080.m3u8
