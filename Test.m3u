@@ -1,3 +1,62 @@
+#EXTM3U deinterlace=1 m3uautoload=1 url-tvg="https://iptvx.one/EPG; http://epg.one/epg.xml.gz" refresh="86400" tvg-shift=0 cache=500
 
-#EXTINF:-1 group-title="Региональные" tvg-logo="http://epg.one/img/7879.png" tvg-id="afontovo-kr",Афонтово Красноярск HD
+#EXTINF:0 group-title="Региональные" tvg-logo="http://epg.one/img/7879.png" tvg-id="afontovo-kr",Афонтово Красноярск HD
 https://stream.afontovo.ru/hd.m3u8
+#EXTINF:0 group-title="🔅 Основные" tvg-id="karusel",Карусель HD
+http://tv.woobl.ru:9090/channel/n46da30ee/index.m3u8?q=96d403e6e052d3144c470e98ad45042b
+#EXTINF:0 group-title="🔅 Основные" tvg-name="Первый канал Европа" tvg-id="pervy-kanal-eu",Первый канал Европа
+http://tv.woobl.ru:9090/channel/37226c62/index.m3u8?q=96d403e6e052d3144c470e98ad45042b
+#EXTINF:0 group-title="🔅 Основные" tvg-name="СТС International" tvg-id="sts-int",СТС International
+http://tv.woobl.ru:9090/channel/n748f5f9d/index.m3u8?q=96d403e6e052d3144c470e98ad45042b
+#EXTINF:0 group-title="👶 Детские" tvg-id="jimjam",Jim Jam
+http://tv.woobl.ru:9090/channel/n230655a8/index.m3u8?q=96d403e6e052d3144c470e98ad45042b
+#EXTINF:0 group-title="👶 Детские" tvg-id="malysh",СуперГерои HD
+http://tv.woobl.ru:9090/channel/n48738ee0/index.m3u8?q=96d403e6e052d3144c470e98ad45042b
+#EXTINF:0 group-title="👶 Детские" tvg-name="ТипТоп" tvg-id="tiptop",ТипТоп HD
+http://tv.woobl.ru:9090/channel/1e009d69/index.m3u8?q=96d403e6e052d3144c470e98ad45042b
+#EXTINF:0 group-title="👶 Детские" tvg-id="no_epg" tvg-logo="https://img.catcast.tv/uploads/28042024/logos/46775-662e075a0f6a2.png",Том и Джерри
+http://tv.woobl.ru:9090/channel/n332cfce7/index.m3u8?q=96d403e6e052d3144c470e98ad45042b
+#EXTINF:0 group-title="👶 Детские" catchup="append" catchup-days="3" catchup-source="?utc=${start}&lutc=${timestamp}" timeshift="3",Уникум
+http://tv.woobl.ru:9090/channel/5c14ab41/index.m3u8?q=96d403e6e052d3144c470e98ad45042b
+#EXTINF:0 group-title="👶 Детские" tvg-id="chizhik",Чижик HD
+http://tv.woobl.ru:9090/channel/3d030e81/index.m3u8?q=96d403e6e052d3144c470e98ad45042b
+#EXTINF:0 group-title="🔎 Познавательные" tvg-name="H2 HD" tvg-id="h2",H2 HD
+http://tv.woobl.ru:9090/channel/nd616c3e/index.m3u8?q=96d403e6e052d3144c470e98ad45042b
+#EXTINF:0 group-title="🏄 Развлекательные",Liberty South Park HD
+http://tv.woobl.ru:9090/channel/5d145aff/index.m3u8?q=96d403e6e052d3144c470e98ad45042b
+#EXTINF:0 group-title="🏄 Развлекательные" tvg-id="tv-rus",TV RUS HD
+http://tv.woobl.ru:9090/channel/n4733e066/index.m3u8?q=96d403e6e052d3144c470e98ad45042b
+#EXTINF:0 group-title="🏄 Развлекательные" tvg-id="tv-rus-plus",TV RUS+ HD
+http://tv.woobl.ru:9090/channel/n49cb0bd1/index.m3u8?q=96d403e6e052d3144c470e98ad45042b
+#EXTINF:0 group-title="🏄 Развлекательные" tvg-id="narod-vsio-vidit",Народ Всё Видит
+http://tv.woobl.ru:9090/channel/n18f02caa/index.m3u8?q=96d403e6e052d3144c470e98ad45042b
+#EXTINF:0 group-title="🏄 Развлекательные",Пес и Ко
+http://tv.woobl.ru:9090/channel/n5f1fe5b8/index.m3u8?q=96d403e6e052d3144c470e98ad45042b
+#EXTINF:0 group-title="🏄 Развлекательные" tvg-id="sts-love" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" timeshift="3",СТС Love
+http://tv.woobl.ru:9090/channel/n12bc1bf2/index.m3u8?q=96d403e6e052d3144c470e98ad45042b
+#EXTINF:0 group-title="🏄 Развлекательные" tvg-id="teatr",Театр ТВ
+http://tv.woobl.ru:9090/channel/n72c2f213/index.m3u8?q=96d403e6e052d3144c470e98ad45042b
+#EXTINF:0 group-title="🏄 Развлекательные" tvg-id="tochka-tv" catchup="append" catchup-days="3" catchup-source="?utc=${start}&lutc=${timestamp}" timeshift="3",Точка ТВ
+http://tv.woobl.ru:9090/channel/n6fe2ed45/index.m3u8?q=96d403e6e052d3144c470e98ad45042b
+#EXTINF:0 group-title="📺 Кино" tvg-id="timeless-dizi",Timeless Dizi Channel
+http://tv.woobl.ru:9090/channel/5f3e6a80/index.m3u8?q=96d403e6e052d3144c470e98ad45042b
+#EXTINF:0 group-title="📺 Кино" tvg-name="Viasat Kino World" tvg-id="tv1000-worldkino",Viasat Kino World HD CEE
+http://tv.woobl.ru:9090/channel/3cae0a4c/index.m3u8?q=96d403e6e052d3144c470e98ad45042b
+#EXTINF:0 group-title="📺 Кино" tvg-id="kino1int-tviksel",Кино 1 International
+http://tv.woobl.ru:9090/channel/n22a64ac3/index.m3u8?q=96d403e6e052d3144c470e98ad45042b
+#EXTINF:0 group-title="📺 Кино" tvg-id="kino2-tviksel",Кино 2 HD
+http://tv.woobl.ru:9090/channel/n7ad722ea/index.m3u8?q=96d403e6e052d3144c470e98ad45042b
+#EXTINF:0 group-title="📺 Кино",Кинодром HD
+http://tv.woobl.ru:9090/channel/n58a8839/index.m3u8?q=96d403e6e052d3144c470e98ad45042b
+#EXTINF:0 group-title="📺 Кино" tvg-id="doverie" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" timeshift="3",Москва. Доверие
+http://tv.woobl.ru:9090/channel/62e072d4/index.m3u8?q=96d403e6e052d3144c470e98ad45042b
+#EXTINF:0 group-title="📺 Кино" tvg-id="no_epg",Фантастика HD
+http://tv.woobl.ru:9090/channel/36d4f402/index.m3u8?q=96d403e6e052d3144c470e98ad45042b
+#EXTINF:0 group-title="🎵 Музыка" tvg-id="bridge-tv-fresh",Bridge TV Фрэш
+http://tv.woobl.ru:9090/channel/51b7afe2/index.m3u8?q=96d403e6e052d3144c470e98ad45042b
+#EXTINF:0 group-title="🎵 Музыка" tvg-id="no_epg" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/685286c919ab8768f8a6f70eb5dc8171.webp",K-POP TV
+https://live.24hrkpop.com/hls/2/stream.m3u8
+#EXTINF:0 group-title="🎵 Музыка" tvg-id="no_epg" tvg-logo="https://ritsatv.ru/files/poster/medium/700812.jpg",MOOZ Dance TV
+https://rtmp.digitalbroadcast.ro/moozdance/moozdance.m3u8
+#EXTINF:0 group-title="🎵 Музыка" tvg-id="no_epg_music" tvg-logo="https://i.imgur.com/HTQodST.png",Retro Music 1980-2000
+http://tv.woobl.ru:9090/channel/5eb726e2/index.m3u8?q=96d403e6e052d3144c470e98ad45042b
