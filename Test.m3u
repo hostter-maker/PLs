@@ -1,5 +1,7 @@
 #EXTM3U deinterlace=1 m3uautoload=1 url-tvg="https://iptvx.one/EPG; http://epg.one/epg.xml.gz" refresh="86400" tvg-shift=0 cache=500
 
+#EXTINF:0 group-title="Кинотест" tvg-logo="https://img.icons8.com/m_outlined/1200/unchecked-checkbox.jpg" tvg-id="",Новый Русский
+https://live.15plusmg.ru/memfs/f983b507-a170-41a9-85a9-d9afc6cba9c1.m3u8
 #EXTINF:0 group-title="Региональные" tvg-logo="http://epg.one/img/7879.png" tvg-id="afontovo-kr",Афонтово Красноярск HD
 https://stream.afontovo.ru/hd.m3u8
 #EXTINF:0 group-title="🔅 Основные" tvg-id="karusel",Карусель HD
