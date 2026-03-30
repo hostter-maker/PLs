@@ -1,18 +1,18 @@
 #EXTM3U deinterlace=1 m3uautoload=1 url-tvg="https://iptvx.one/EPG; http://epg.one/epg.xml.gz" refresh="86400" tvg-shift=0 cache=500
 
-#EXTINF:0 group-title="Музыка 1" tvg-id="5997" tvg-logo="http://epg.one/img/5997.png" tvg-rec="0",#ё (Самара) HD [E]
+#EXTINF:0 group-title="Музыка 1" tvg-id="5997" tvg-logo="http://epg.one/img/5997.png" tvg-rec="0",#ё (Самара) [HD] [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/20162/index.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-logo="https://static.goodgame.ru/files/avatars/av_1641869_2z1T.jpg",15+ Music HD [L]
+#EXTINF:0 group-title="Музыка 1" tvg-logo="https://static.goodgame.ru/files/avatars/av_1641869_2z1T.jpg",15+ Music [HD] [L]
 https://live.15plusmg.ru/memfs/ce3366b1-bf25-4e24-96bb-1adf0d44bd3d.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-id="1hd" tvg-logo="https://iptvx.one/picons/1hd-music.png",1HD Music Television HD [L]
+#EXTINF:0 group-title="Музыка 1" tvg-id="1hd" tvg-logo="https://iptvx.one/picons/1hd-music.png",1HD Music Television [HD] [L]
 http://188.225.31.197/bpk-tv/000001020/tve/index.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-id="4037" tvg-logo="http://epg.one/img/4037.png" tvg-rec="3",1HD Music Television HD [E]
+#EXTINF:0 group-title="Музыка 1" tvg-id="4037" tvg-logo="http://epg.one/img/4037.png" tvg-rec="3",1HD Music Television [HD] [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/9001/index.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-logo="https://cdn-www.bluestacks.com/bs-images/304bcf3ab9f7870eddbd65d253911df2.png",4ACE.TV [UK] HD [L]
+#EXTINF:0 group-title="Музыка 1" tvg-logo="https://cdn-www.bluestacks.com/bs-images/304bcf3ab9f7870eddbd65d253911df2.png",4ACE.TV [UK] [HD] [L]
 https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/CVA0UNL2K6KH61IL162P/hls3/now,-1m/m.m3u8?ads.vf=xoQ8tvFLQ70
-#EXTINF:0 group-title="Музыка 1" tvg-logo="https://cdn-www.bluestacks.com/bs-images/304bcf3ab9f7870eddbd65d253911df2.png",4ACE.TV Classic Hits [UK] HD [L]
+#EXTINF:0 group-title="Музыка 1" tvg-logo="https://cdn-www.bluestacks.com/bs-images/304bcf3ab9f7870eddbd65d253911df2.png",4ACE.TV Classic Hits [UK] [HD] [L]
 https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/MH8JAMWTLW2AQV5RA55S/hls3/now,-1m/m.m3u8?ads.vf=TGt7I6yRWZC
-#EXTINF:0 group-title="Музыка 1" tvg-id="2379" tvg-logo="http://epg.one/img/2379.png" tvg-rec="3",4ever Music [UA] HD [E]
+#EXTINF:0 group-title="Музыка 1" tvg-id="2379" tvg-logo="http://epg.one/img/2379.png" tvg-rec="3",4ever Music [UA] [HD] [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/970/index.m3u8
 #EXTINF:0 group-title="Музыка 1" tvg-id="4fun" tvg-logo="https://iptvx.one/picons/4fun.png",4Fun TV [PL] [L]
 https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
