@@ -8,9 +8,11 @@ https://live.15plusmg.ru/memfs/ce3366b1-bf25-4e24-96bb-1adf0d44bd3d.m3u8
 http://188.225.31.197/bpk-tv/000001020/tve/index.m3u8
 #EXTINF:0 group-title="Музыка 1" tvg-id="4037" tvg-logo="http://epg.one/img/4037.png" tvg-rec="3",1HD Music Television [HD] [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/9001/index.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-logo="https://cdn-www.bluestacks.com/bs-images/304bcf3ab9f7870eddbd65d253911df2.png",4ACE.TV [UK] [HD] [L]
+#EXTINF:-1 group-title="Музыка 1" tvg-logo="https://cdn-www.bluestacks.com/bs-images/304bcf3ab9f7870eddbd65d253911df2.png",4ACE.TV [UK] [HD] [L]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/CVA0UNL2K6KH61IL162P/hls3/now,-1m/m.m3u8?ads.vf=xoQ8tvFLQ70
-#EXTINF:0 group-title="Музыка 1" tvg-logo="https://cdn-www.bluestacks.com/bs-images/304bcf3ab9f7870eddbd65d253911df2.png",4ACE.TV Classic Hits [UK] [HD] [L]
+#EXTINF:-1 group-title="Музыка 1" tvg-logo="https://cdn-www.bluestacks.com/bs-images/304bcf3ab9f7870eddbd65d253911df2.png",4ACE.TV Classic Hits [UK] [HD] [L]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/MH8JAMWTLW2AQV5RA55S/hls3/now,-1m/m.m3u8?ads.vf=TGt7I6yRWZC
 #EXTINF:0 group-title="Музыка 1" tvg-id="2379" tvg-logo="http://epg.one/img/2379.png" tvg-rec="3",4ever Music [UA] [HD] [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/970/index.m3u8
