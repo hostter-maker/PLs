@@ -23,7 +23,7 @@ http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:0 group-title="Вещание" tvg-id="405" tvg-logo="http://ru.epg.one/img/405.png" tvg-rec="0",Звезда HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/15115/index.m3u8
 #EXTINF:0 group-title="Вещание" tvg-id="zvezda-plus" tvg-logo="https://iptvx.one/picons/zvezda-plus.png",Звезда Плюс HD [V]
-http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v1a1/mono.ts.m3u8
+http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v2a1/mono.ts.m3u8
 #EXTINF:0 group-title="Вещание" tvg-id="4661" tvg-logo="http://ru.epg.one/img/4661.png" tvg-rec="0",Звезда Плюс HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/19230/index.m3u8
 #EXTINF:0 group-title="Вещание" tvg-id="izvestia" tvg-logo="https://iptvx.one/picons/izvestia.png",Известия HD [V]
