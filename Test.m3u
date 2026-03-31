@@ -58,7 +58,7 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/20018/ind
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/19241/index.m3u8
 #EXTINF:0 group-title="Вещание" tvg-id="pervy" tvg-logo="https://iptvx.one/picons/pervy.png",Первый канал [V]
 https://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
-#EXTINF:0 group-title="Вещание" tvg-id="146" tvg-logo="http://ru.epg.one/img/983.png" tvg-rec="3",Первый канал [FHD] [E]
+#EXTINF:0 group-title="Вещание" tvg-id="146" tvg-logo="http://ru.epg.one/img/983.png" tvg-rec="0",Первый канал [FHD] [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/2402/index.m3u8
 #EXTINF:0 group-title="Вещание" tvg-id="4830" tvg-logo="http://ru.epg.one/img/4830.png" tvg-rec="0",Первый Канал Европа [HD] [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/12023/index.m3u8
@@ -72,7 +72,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/112/index.m3u8
 #EXTINF:0 group-title="Вещание" tvg-id="rbk" tvg-logo="https://iptvx.one/picons/rbk.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",РБК [HD] [V]
 https://s91030.cdn.ngenix.net/hls/CH_R25_RBKTVHD_VLDK/variant.m3u8
-#EXTINF:0 group-title="Вещание" tvg-id="743" tvg-logo="http://ru.epg.one/img/743.png" tvg-rec="3",РБК [FHD] [E]
+#EXTINF:0 group-title="Вещание" tvg-id="743" tvg-logo="http://ru.epg.one/img/743.png" tvg-rec="0",РБК [FHD] [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/2404/index.m3u8
 #EXTINF:0 group-title="Вещание" tvg-id="18" tvg-logo="https://karnei4.github.io/convert/img/8082.png" tvg-rec="0",Рен ТВ [4K UHD] [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/19404/index.m3u8
@@ -88,7 +88,7 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/9118/inde
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/19242/index.m3u8
 #EXTINF:0 group-title="Вещание" tvg-id="rossia1" tvg-logo="https://iptvx.one/picons/rossia1.png",Россия 1 [HD] [V]
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
-#EXTINF:0 group-title="Вещание" tvg-id="711" tvg-logo="http://ru.epg.one/img/984.png" tvg-rec="3",Россия 1 [FHD] [E]
+#EXTINF:0 group-title="Вещание" tvg-id="711" tvg-logo="http://ru.epg.one/img/984.png" tvg-rec="0",Россия 1 [FHD] [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/2409/index.m3u8
 #EXTINF:0 group-title="Вещание" tvg-id="rossia-24" tvg-logo="https://iptvx.one/picons/rossia-24.png",Россия 24 [HD] [V]
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/index.m3u8
@@ -112,8 +112,8 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/18042/ind
 https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1
 #EXTINF:0 group-title="Вещание" tvg-id="sts" tvg-logo="https://iptvx.one/picons/sts.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",СТС [V]
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
-#EXTINF:0 group-title="Вещание" tvg-id="79" tvg-logo="http://ru.epg.one/img/79.png" tvg-rec="3",СТС [HD] [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/6303/index.m3u8
+#EXTINF:0 group-title="Вещание" tvg-id="79" tvg-logo="http://ru.epg.one/img/79.png" tvg-rec="0",СТС [HD] [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/9000/index.m3u8
 #EXTINF:0 group-title="Вещание" tvg-id="sts-int" tvg-logo="https://iptvx.one/picons/sts-int.png",СТС International [V]
 http://158.101.222.193:88/georgia_play.php?id=ctctv
 #EXTINF:0 group-title="Вещание" tvg-id="5652" tvg-logo="http://ru.epg.one/img/5652.png" tvg-rec="0",СТС International [E]
