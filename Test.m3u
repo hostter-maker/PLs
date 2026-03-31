@@ -132,7 +132,7 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/19222/ind
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/19238/index.m3u8
 #EXTINF:0 group-title="Вещание" tvg-id="tnt" tvg-logo="https://iptvx.one/picons/tnt.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ТНТ [V]
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
-#EXTINF:0 group-title="Вещание" tvg-id="353" tvg-logo="http://ru.epg.one/img/1767.png" tvg-rec="3",ТНТ [FHD] [E]
+#EXTINF:0 group-title="Вещание" tvg-id="353" tvg-logo="http://ru.epg.one/img/1767.png" tvg-rec="0",ТНТ [FHD] [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/2417/index.m3u8
 #EXTINF:0 group-title="Вещание" tvg-id="5692" tvg-logo="http://ru.epg.one/img/5692.png" tvg-rec="0",ТНТ International [HD] [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/15230/index.m3u8
