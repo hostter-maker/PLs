@@ -1,427 +1,185 @@
 #EXTM3U deinterlace=1 m3uautoload=1 url-tvg="https://iptvx.one/EPG; http://epg.one/epg.xml.gz" refresh="86400" tvg-shift=0 cache=500
 
-#EXTINF:0 group-title="Музыка 1" tvg-id="5997" tvg-logo="http://epg.one/img/5997.png" tvg-rec="0",#ё (Самара) [HD] [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/20162/index.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-logo="https://static.goodgame.ru/files/avatars/av_1641869_2z1T.jpg",15+ Music [HD] [L]
-https://live.15plusmg.ru/memfs/ce3366b1-bf25-4e24-96bb-1adf0d44bd3d.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-id="1hd" tvg-logo="https://iptvx.one/picons/1hd-music.png",1HD Music Television [HD] [L]
-http://188.225.31.197/bpk-tv/000001020/tve/index.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-id="4037" tvg-logo="http://epg.one/img/4037.png" tvg-rec="3",1HD Music Television [HD] [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/9001/index.m3u8
-#EXTINF:-1 group-title="Музыка 1" tvg-logo="https://cdn-www.bluestacks.com/bs-images/304bcf3ab9f7870eddbd65d253911df2.png",4ACE.TV [UK] [HD] [L]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/CVA0UNL2K6KH61IL162P/hls3/now,-1m/m.m3u8?ads.vf=xoQ8tvFLQ70
-#EXTINF:-1 group-title="Музыка 1" tvg-logo="https://cdn-www.bluestacks.com/bs-images/304bcf3ab9f7870eddbd65d253911df2.png",4ACE.TV Classic Hits [UK] [HD] [L]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/MH8JAMWTLW2AQV5RA55S/hls3/now,-1m/m.m3u8?ads.vf=TGt7I6yRWZC
-#EXTINF:0 group-title="Музыка 1" tvg-id="2379" tvg-logo="http://epg.one/img/2379.png" tvg-rec="3",4ever Music [UA] [HD] [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/970/index.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-id="4fun" tvg-logo="https://iptvx.one/picons/4fun.png",4Fun TV [PL] [L]
-https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-id="4672" tvg-logo="http://epg.one/img/4672.png" tvg-rec="7",4Fun TV [PL] [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/10069/index.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-logo="https://www.conectabalear.com/tv/logos/original/149.png",Activa TV [BO] [L]
-https://streamtv.mediasector.es/hls/activatv/index.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-logo="https://static6.tgstat.ru/channels/_0/e7/e7e71c8c1ae45930ea3c37aca2383475.jpg",Aist Global TV [MN] [HD] [L]
-https://cdn4.skygo.mn/live/disk1/GlobalTV/DASH-FTA/GlobalTV.mpd
-#EXTINF:0 group-title="Музыка 1" tvg-id="2837" tvg-logo="http://epg.one/img/2837.png" tvg-rec="3",AIVA TV [HD] [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/9085/index.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-id="8809" tvg-logo="http://epg.one/img/8809.png" tvg-rec="0",BOX Metall [HD] [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/31651/index.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-id="6707" tvg-logo="http://epg.one/img/6707.png" tvg-rec="0",BOX Music [4K HDR] [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/19282/index.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-id="7887" tvg-logo="http://epg.one/img/7887.png" tvg-rec="0",BOX RU.RAP [HD] [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/20171/index.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-id="bridge-tv" tvg-logo="https://iptvx.one/picons/bridge-tv.png",Bridge TV [L]
-http://31.148.48.15:80/Bridge_TV/index.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-id="151" tvg-logo="http://epg.one/img/151.png" tvg-rec="3",Bridge TV [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/122/index.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-id="bridge-tv-classic" tvg-logo="https://iptvx.one/picons/bridge-tv-classic.png",Bridge TV Classic [L]
-http://31.148.48.15:80/Bridge_TV_Classic/index.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-id="4373" tvg-logo="http://epg.one/img/4373.png" tvg-rec="3",Bridge TV Classic [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/9259/index.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-id="bridge-hd" tvg-logo="https://iptvx.one/picons/bridge-hd.png",Bridge TV Deluxe [HD] [L]
-http://31.148.48.15/Bridge_TV_HD/index.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-id="2022" tvg-logo="http://epg.one/img/2022.png" tvg-rec="7",Bridge TV Deluxe [HD] [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/236/index.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-id="bridge-tv-dance" tvg-logo="https://iptvx.one/picons/bridge-tv-dance.png",Bridge TV Hits [L]
-http://31.148.48.15/Bridge_TV_Dance/index.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-id="2024" tvg-logo="http://epg.one/img/2024.png" tvg-rec="0",Bridge TV Hits [HD] [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/19227/index.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-id="6188" tvg-logo="http://epg.one/img/6188.png" tvg-rec="0",Bridge TV Rock [HD] [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/17043/index.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-id="bridge-tv-ruxit" tvg-logo="https://iptvx.one/picons/bridge-tv-ruxit.png",Bridge TV Русский Хит [L]
-http://193.25.8.59:8000/rusong
-#EXTINF:0 group-title="Музыка 1" tvg-id="591" tvg-logo="http://epg.one/img/591.png" tvg-rec="0",Bridge TV Русский Хит [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/19226/index.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-id="8803" tvg-logo="http://epg.one/img/8803.png" tvg-rec="3",Bridge TV Фрэш [HD] [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/9053/index.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-id="bridge-tv-shlager" tvg-logo="https://iptvx.one/picons/bridge-tv-shlager.png",Bridge TV Шлягер [L]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/10038/index.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-id="4621" tvg-logo="http://epg.one/img/4621.png" tvg-rec="0",Bridge TV Шлягер [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/10038/index.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-logo="https://i.imgur.com/L38mC6H.png",California Music Channel
-https://hwlive.streamingmediahosting.com/14215-live/0_obd393sh/playlist.m3u8
-#EXTINF:0 group-title="Музыка 1"  tvg-logo="https://cominmag.ch/wp-content/uploads/2023/09/01-1-e1693927758661.jpg",CARAC 1 [HD]
-http://event.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-logo="http://ru.epg.one/img2/11512.png" tvg-id="11512",CHD-TV Rock [HD] [L]
-http://194.26.229.213/chdtv_rock/index.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-logo="http://epg.one/img/11512.png" tvg-id="11512",CHD-TV Rock [HD] [E]
-http://194.26.229.213/chdtv_rock/index.m3u8
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/19394/index.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-logo="https://i.postimg.cc/3rkRjpjC/photo-2024-01-14-15-41-50.jpg",CHD-TV RU Rock [HD] [L]
-http://194.26.229.213/chdtv_ru_rock/index.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-id="7153" tvg-logo="http://epg.one/img/7153.png" tvg-rec="0",Citrus Live [HD] [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/19436/index.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-logo="https://iptvx.one/picons/city-tv-bg.png" tvg-id="city-tv-bg",City TV [BG] [L]
-https://tv.city.bg/play/tshls/citytv/2.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-logo="https://smotret.tv/images/company-tv.jpg",Company Tv [IT] [L]
-https://company.fluid.stream/CompanyTV/smil:Company_ALL.smil/playlist.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-logo="https://i.imgur.com/uMw3kks.png",DanceHits80 [L]
-http://dancehits80.denvs.ru:8080/index.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-id="deejaytv-it" tvg-logo="https://iptvx.one/picons/deejaytv-it.png",Deejay TV [IT] [HD] [L]
-https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-id="4673" tvg-logo="http://epg.one/img/4673.png" tvg-rec="7",Deejay TV [IT] [HD] [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/10070/index.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-id="88047" tvg-logo="http://ru.epg.one/img/88047.png",Deluxe Dance [DE] [HD] [L]
-https://d2hnivx8upksrk.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1q019khonuqjh/01efc271-2cc2-49ed-adfc-a8c5117f7d26/3.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-id="88047" tvg-logo="http://epg.one/img/88047.png" tvg-rec="0",Deluxe Dance [DE] [HD] [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/31560/index.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-id="deluxe-music-de" tvg-logo="https://iptvx.one/picons/deluxe-music-de.png",Deluxe Music [DE] [L]
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-id="8044" tvg-logo="http://epg.one/img/8044.png" tvg-rec="0",Deluxe Music [DE] [FHD] [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/31307/index.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-logo="https://cdn-sbws.hd-plus.de/1200x800/f054351e72/deluxe-rap-hd-transparent.png",Deluxe Rap [DE] [HD] [L]
-http://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-logo="https://avatars.mds.yandex.net/i?id=b1fe24541bbc722e071f28043d3aaca7_l-5886795-images-thumbs&n=13",Dmitry-tv [HD] [L]
-http://dmitry-tv.ddns.net:8000/his/CH_DMITRY-TVHD
-#EXTINF:0 group-title="Музыка 1" tvg-logo="https://i.imgur.com/3picWDA.png",DTR Music 1 [L]
-https://kino-stream.online/hls/DTRMUSIC1.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-id="5368" tvg-logo="http://epg.one/img/5368.png" tvg-rec="0",Gold MusicBox [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/14149/index.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-id="6619" tvg-logo="http://epg.one/img/6619.png" tvg-rec="0",Eska Rock TV [PL] [HD] [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/19172/index.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-id="6620" tvg-logo="http://epg.one/img/6620.png" tvg-rec="0",Eska TV Extra [PL] [HD] [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/19173/index.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-id="2094" tvg-logo="http://epg.one/img/2094.png" tvg-rec="3",EU Music [UA] [FHD] [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/15277/index.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-id="europa-plus-tv" tvg-logo="https://iptvx.one/picons/europa-plus-tv.png",Europa Plus TV [HD] [L]
-http://31148.rafail1982.uz/Europa_Plus_HD/index.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-id="681" tvg-logo="http://epg.one/img/681.png" tvg-rec="0",Europa Plus TV [HD] [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/20029/index.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-id="tnt-music" tvg-logo="https://iptvx.one/picons/tnt-music.png",FON Music [HD] [L]
-https://cdn-01.bonus-tv.ru/tntmusic/playlist.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-id="680" tvg-logo="http://epg.one/img/680.png" tvg-rec="0",FON Music [HD] [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/19223/index.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-id="6275" tvg-logo="http://epg.one/img/6275.png" tvg-rec="0",FRESH Dance [HD] [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/18087/index.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-id="6272" tvg-logo="http://epg.one/img/6272.png" tvg-rec="0",FRESH Hits [HD] [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/18084/index.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-id="6281" tvg-logo="http://epg.one/img/6281.png" tvg-rec="0",FRESH Lyrics [HD] [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/18093/index.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-id="6280" tvg-logo="http://epg.one/img/6280.png" tvg-rec="0",FRESH Retro [HD] [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/18092/index.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-id="6276" tvg-logo="http://epg.one/img/6276.png" tvg-rec="0",FRESH Rock [HD] [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/18088/index.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-id="6277" tvg-logo="http://epg.one/img/6277.png" tvg-rec="0",FRESH Rock Covers [HD] [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/18089/index.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-id="6273" tvg-logo="http://epg.one/img/6273.png" tvg-rec="0",FRESH Russian Hits [HD] [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/18085/index.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-id="6278" tvg-logo="http://epg.one/img/6278.png" tvg-rec="0",FRESH Russian Rap [HD] [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/18090/index.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEn6VD-tU_g4GH-RlrZrFDp-VxmICZQ_lkYA&s",Generations TV [FR] [L]
-https://event.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-logo="https://iptvx.one/picons/hit-tv.png" tvg-id="hit-tv",HIT TV [L]
-http://188.225.31.197/bpk-tv/000001213/tve/index.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-id="7201" tvg-logo="http://epg.one/img/7201.png" tvg-rec="0",Jukebox DE [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/31327/index.m3u8
-#EXTINF:-1 group-title="Музыка 1"  tvg-logo="https://avatars.mds.yandex.net/i?id=bdda3436e76975f47028821accc483695c275f80-5217295-images-thumbs&n=13",Kaloopy
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/ebe730b7-f364-458e-82e0-2f49dfd9e6c4/0.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-id="6116" tvg-logo="http://epg.one/img/6116.png" tvg-rec="0",Kiss Kiss [IT] [HD] [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/16072/index.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-id="6117" tvg-logo="http://epg.one/img/6117.png" tvg-rec="0",Kiss Kiss Italia [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/16073/index.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-logo="https://play-lh.googleusercontent.com/ADrXQf8XcyzEP8zd77F9AN5m-SX1GhPXqqvRBjgT2zmSqkwVm5LIBg_cLv0vHuHXZ38",Kpop TV [L]
-https://live.24hrkpop.com/hls/2/stream.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-logo="https://play-lh.googleusercontent.com/ADrXQf8XcyzEP8zd77F9AN5m-SX1GhPXqqvRBjgT2zmSqkwVm5LIBg_cLv0vHuHXZ38",Kpop TV Play [L]
-https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-logo="http://ru.epg.one/img2/4653.png" tvg-id="4653",Kronehit [HD] [L]
-http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-logo="http://epg.one/img/4653.png" tvg-id="4653" tvg-rec="7",Kronehit [HD] [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/10065/index.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-id="5128" tvg-logo="http://epg.one/img/5128.png" tvg-rec="0",MM Rock [HD] [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/13015/index.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-id="5136" tvg-logo="http://epg.one/img/5136.png" tvg-rec="0",MM World Hits [HD] [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/13023/index.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-id="5148" tvg-logo="http://epg.one/img/5148.png" tvg-rec="0",MM Квартирник [HD] [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/13035/index.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-logo="https://i.ibb.co/nMMgSRNM/001.jpg",Leña Radio TV [DO] [L]
-https://5790d294af2dc.streamlock.net/lenaratv/lenaratv/playlist.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-logo="https://iptvx.one/picons/magic-tv-bg.png" tvg-id="magic-tv-bg",Magic TV [BG] [L]
-https://bss1.neterra.tv/magictv/magictv.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-logo="https://iptvx.one/picons/mcm-top.png" tvg-id="mcm-top",MCM Top [L]
-http://188.225.31.197/bpk-tv/000000327/tve/index.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-logo="http://epg.one/img/2276.png" tvg-id="2276" tvg-rec="7",MCM Top [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/836/index.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-logo="https://memorias.tv/wp-content/uploads/2024/11/logo-MEMORIAS-CLASSIC-OK-png-540x304-1.png",Memorias TV Classic [AR] [L]
-https://video.xtrematv.com:3576/live/memoriasclassiclive.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-logo="https://sun1-28.userapi.com/LwiK7gjEXY61gRLmdyekOz2VpbxyUc58OevFHA/JsuTeDb90sk.jpg",MIXMTV [HD] [L]
-http://89.179.247.144/hls/mixm.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-logo="https://pic.rtbcdn.ru/user/48/fd/48fdb513c53f22bfa8d4a4386739ea79.jpg",Mr. Dj MONJ [L]
-https://fl1001.bozztv.com/ushba-monj/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-logo="http://ru.epg.one/img/6799.png" tvg-id="6799" tvg-rec="0",MusicBox [GE] [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/7155/index.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-logo="https://cdn1.ozonusercontent.com/s3/marketing-api/banners/nz/KF/c200/nzKFOlyLIY4pobIwoGo7brfo1u23p2JM.png",Music 3 [L]
-https://fl1001.bozztv.com/ushba-t3/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-logo="https://cdn1.ozonusercontent.com/s3/marketing-api/banners/nz/KF/c200/nzKFOlyLIY4pobIwoGo7brfo1u23p2JM.png",Music 5 [L]
-https://fl1001.bozztv.com/ushba-t5/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-logo="https://cdn1.ozonusercontent.com/s3/marketing-api/banners/nz/KF/c200/nzKFOlyLIY4pobIwoGo7brfo1u23p2JM.png",Music 9 [L]
-https://fl1001.bozztv.com/ushba67/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-logo="https://iptvx.one/picons/muzzone.png" tvg-id="muzzone",MuzZone [HD] [L]
-http://188.225.31.197/bpk-tv/000000783/tve/index.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-id="7591" tvg-logo="http://ru.epg.one/img2/7591.png",NM Television [L]
-https://tv.a21network.ru/stream/40650/index.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-id="7591" tvg-logo="http://epg.one/img/7591.png" tvg-rec="0",NM Television [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/20161/index.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-id="6625" tvg-logo="http://epg.one/img/6625.png" tvg-rec="0",Now 70s [UK] [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/19194/index.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-id="6627" tvg-logo="http://epg.one/img/6627.png" tvg-rec="0",Now 80s [UK] [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/19196/index.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-id="6628" tvg-logo="http://epg.one/img/6628.png" tvg-rec="0",Now Rock [UK] [HD] [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/19197/index.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-id="4650" tvg-logo="http://epg.one/img/4650.png" tvg-rec="0",NRG 91 [GR] [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/7223/index.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-id="6630" tvg-logo="http://epg.one/img/6630.png" tvg-rec="0",NRJ Hits [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/19199/index.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-id="8091" tvg-logo="http://ru.epg.one/img/8091.png" tvg-rec="0",One Music Television [DE] [HD] [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/31354/index.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-logo="https://avatars.mds.yandex.net/i?id=af6f855d5f5d82c4270a00c644723693a11abd4a-5356399-images-thumbs&n=13",Oxygen Music [HU] [HD] [L]
-https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-logo="https://img.samsungapps.com/productNew/000006715162/ENG/IconImage_20230821105411506_NEW_WAP_ICON_512_512.png",POP World TV [ES] [L]
-https://janus.xpbroadcasting.com:8443/hls/popworld.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-logo="https://radyodinle.com/wp-content/uploads/2024/08/149-min.jpg",Power Dance [PL] [HD] [L]
-https://listen.powerapp.com.tr/dance/dance.smil/playlist.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-logo="https://cdn-profiles.tunein.com/s2862/images/logog.png?t=1",Power Hit Radio [LT] [L]
-https://cdnlb.tvplayhome.lt/live/eds/PWR_LTU_Live/GO3_LIVE_HLS/PWR_LTU_Live.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NDczNDU2NjEsInBhdGgiOiIvbGl2ZS9lZHMvUFdSX0xUVV9MaXZlL0dPM19MSVZFX0hMUy8iLCJzaXAiOiI3Mi4xMS4xNTcuMTEyIiwiZGV2aWNlX2lkIjoiMCIsInNlc3Npb25faWQiOiIwIiwiY2xpZW50X2lkIjoiMCJ9.oHc5wUgwNPQ-4P7wJy_WvWQh0muFg9Lprhc4STS3cUHi0FI4tAKGdZOOeE-dOhVBHKFUYETmoXSMrrVHOeLC3g
-#EXTINF:0 group-title="Музыка 1" tvg-logo="https://nevolna.ru/uploads/admin/images/radios/6MwrG9ksLlbKG2QKaRQlb5gDSI63NOY4-sm.jpg",Power Love [PL] [HD] [L]
-https://listen.powerapp.com.tr/plove/love.smil/playlist.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-logo="https://iptvx.one/picons/powertv-pl.png" tvg-id="powertv-pl",Power TV [PL] [HD] [L]
-https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Qmusic_logo.svg/1004px-Qmusic_logo.svg.png",Q MUSIC [NL] [HD] [L]
-https://stream.qmusic.nl/qmusic/videohls.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-logo="https://fm.radiobaza.com/images/56039_category.jpg",Radio Freccia [IT] [HD] [L]
-https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-logo="https://www.radioimmagine.it/wp-content/uploads/2022/06/Radio_Immagine-300x72.png",Radio Immagine Tv [IT] [L]
-https://media.velcom.it:8081/RadioImmagineTV/index.fmp4.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-logo="https://iptvx.one/picons/radio-italia-tv-it.png" tvg-id="radio-italia-tv-it",Radio Italia TV [IT] [L]
-https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/master.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Radio_m2o_-_Logo_2019.svg/1097px-Radio_m2o_-_Logo_2019.svg.png",Radio M2O [IT] [HD] [L]
-http://streamcdnm5-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/index.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Logo_radiozeta_2017.jpg/250px-Logo_radiozeta_2017.jpg",Radio ZETA [IT] [HD] [L]
-https://streamcdnb1-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/chunklist.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-logo="https://iptvx.one/picons/retro-music-cz.png" tvg-id="retro-music-cz",Retro Music TV [CZ] [L]
-https://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w2024688549.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-logo="http://epg.one/img/88046.png" tvg-id="88046" tvg-rec="0",Retro Music TV [CZ] [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/31558/index.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-logo="https://play-lh.googleusercontent.com/v9R1zwrCl1UMRGySlNnwXEKbgfE9_WXkfposawI8XhVVUYQUEDzW7nq6GQojDA6imrE",Retro Plus [CH] [L]
-https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-logo="https://files.thehandbook.com/uploads/2021/03/aauvwng61xear66sbjpyjpwxkt55y-yvhn0-iecomntstws800-c-k-c0x00ffffff-no-rj.jpg",Rezilienza [L]
-https://fl1001.bozztv.com/ushba-t2/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-id="88050" tvg-logo="http://epg.one/img/88050.png" tvg-rec="3",RFM TV [FR] [HD] [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/1038/index.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-logo="https://iptvx.one/picons/rock-tv-ro.png" tvg-id="rock-tv-ro",Rock TV [RO] [L]
-https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-logo="https://topradio.me/assets/image/radio/180/rtl-italy.png",RTL 102.5 [IT]
-https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-logo="https://cloud.rtl.it/RTLFM/News/Article/600x600/parte-il-nuovo-palinsesto-di-rtl-1025-best-spazio-alle-grandi-voci-della-radio-square-site-zzhdl.jpg",RTL 102.5 Best [IT]
-https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S76960628/OEPHRUIctA0M/playlist_video.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-logo="https://assets.radioplayer.org/380/380198/600/600/m6kt6ob2.png",RTL 102.5 Bro&Sis [IT] [HD] [L]
-https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S75007890/MUGHuxc9dQ3b/playlist_video.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-logo="https://assets.radioplayer.org/380/380199/600/600/lrkup7t7.png",RTL 102.5 Caliente [IT] [HD] [L]
-https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S8448465/zTYa1Z5Op9ue/playlist_video.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-logo="https://assets.radioplayer.org/380/380197/600/600/mc0roexp.jpeg",RTL 102.5 Disco [IT] [HD] [L]
-https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S51100361/0Fb4R3k82b5Z/playlist_video.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-logo="https://assets.radioplayer.org/380/380201/1400/1400/m708m85w.png",RTL 102.5 Napulè [IT] [HD] [L]
-https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S27134503/0f9AhuwKlhnZ/playlist_video.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-logo="https://www.phonostar.de/images/auto_created/rtl_1025_traffic184x184.png",RTL 102.5 Traffic [IT] [HD] [L]
-https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-id="2277" tvg-logo="http://epg.one/img/2277.png" tvg-rec="0",RU TV [HD] [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/19247/index.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-id="2409" tvg-logo="http://epg.one/img/2409.png" tvg-rec="0",Russian MusicBox [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/19255/index.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-logo="https://m.media-amazon.com/images/I/417nmnZ4z+L.png",Sexy Kpop TV [promo] [L]
-https://fl1001.bozztv.com/ushba-m4/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-id="8120" tvg-logo="http://ru.epg.one/img/8120.png" tvg-rec="0",Schlager Deluxe [HD] [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/31379/index.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-id="song-tv-ru" tvg-logo="https://iptvx.one/picons/song-tv-ru.png",SONGTV Россия [HD] [L]
-https://songtv.hls.iptvdc.com/web-russia/playlist.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-id="3358" tvg-logo="http://epg.one/img/3358.png" tvg-rec="3",SONGTV Россия [HD] [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/6394/index.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-logo="https://magicmotionstudio.com/wp-content/uploads/2024/03/sony-music-large-logo-q941vb2jb438sr3i64yzt2g2v9dduasadf7cnigao0-840x840.jpg",Sony Music South [L]
-https://fl1001.bozztv.com/ushba-t4/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-id="4657" tvg-logo="http://epg.one/img/4657.png" tvg-rec="7",Spirit TV [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/10073/index.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-id="4042" tvg-logo="http://epg.one/img/4042.png" tvg-rec="0",Stingray iConcerts [HD] [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/9056/index.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-id="8154" tvg-logo="http://ru.epg.one/img/8154.png" tvg-rec="0",Stingray iConcerts [DE] [HD] [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/31417/index.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-logo="https://i.imgur.com/rKkHhkX.png",Stryk TV [HD] [L]
-https://fffffff110156200.tvustream.com:8298/ryfy.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-logo="https://i.imgur.com/MiVs42N.jpeg",Supermúsica TV [CO] [L]
-https://backupmaxmedia.hvmultiplay.com/hls/stream4/supermusica.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dd/The_Country_Network_Logo.png",The Country Network [L]
-https://a-cdn.klowdtv.com/live2/countrytv_720p/playlist.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-logo="https://iptvx.one/picons/the-voice-bg.png" tvg-id="the-voice-bg",The Voice [BG] [L]
-https://bss1.neterra.tv/thevoice/thevoice.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-id="5113" tvg-logo="http://epg.one/img/5113.png" tvg-rec="0",TOP Великолепный Век [HD] [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/13001/index.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-logo="https://iptvx.one/picons/trace-brasil.png" tvg-id="trace-brasil",Trace Brasil [L]
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-brazuca/encrypted.m3u8?ads.vf=5QzwnXm_tO0
-#EXTINF:0 group-title="Музыка 1" tvg-logo="https://iptvx.one/picons/trace-latina-fr.png" tvg-id="trace-latina-fr",Trace Latina [L]
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-latina/encrypted.m3u8?ads.vf=8rE20DsHHI0
-#EXTINF:0 group-title="Музыка 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Trace_UK.png/250px-Trace_UK.png",Trace UK [L]
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-uk/encrypted.m3u8?ads.vf=cgXMgPi7oBS
-#EXTINF:0 group-title="Музыка 1" tvg-logo="https://iptvx.one/picons/trace-urban.png" tvg-id="trace-urban",Trace Urban [HD] [L]
-http://188.225.31.197/bpk-tv/000001661/tve/index.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-logo="http://epg.one/img/5597.png" tvg-id="5597" tvg-rec="0",Trace Urban [HD] [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/15107/index.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-logo="http://epg.one/img/5597.png" tvg-id="trace-urban-fr",Trace Urban [FR] [HD] [L]
-https://channels.trace.plus/Traceprod/URBAN_FR/.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-logo="https://i.pinimg.com/736x/82/00/48/820048f9f7b471fe1065ddf8854357ca.jpg",TRANCE IS STAR RADIO [L]
-https://myradio24.org/tisradio_video.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-id="6265" tvg-logo="http://epg.one/img/6265.png" tvg-rec="0",Tviksel Музыка 1 [HD] [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/18077/index.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-id="6266" tvg-logo="http://epg.one/img/6266.png" tvg-rec="0",Tviksel Музыка 1 International [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/18078/index.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-id="6267" tvg-logo="http://epg.one/img/6267.png" tvg-rec="0",Tviksel Музыка 2 [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/18079/index.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-id="6268" tvg-logo="http://epg.one/img/6268.png" tvg-rec="0",Tviksel Музыка 2 International [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/18080/index.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-logo="https://iptvx.one/picons/tvm3-ch.png" tvg-id="tvm3-ch",TVM3 [CH] [HD] [L]
-https://livevideo.infomaniak.com/streaming/livecast/tvm3/playlist.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-logo="https://play-lh.googleusercontent.com/rpzYoUkH9UpljbF7zMuBAY290pKFx9k_mTgKQ08T-4DIl_rSxLqaOZbGVR4qNbdVts4",TVSur Canal ULR [CR] [HD] [L]
-https://k20.usastreams.com:8081/tvsur/index.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-logo="https://sun9-39.userapi.com/s/v1/ig2/_dP5a5YnYk5YxJam9uFR2AAzGLLn2Wk41U3dy2zub6l86LYAiiYYXzV-wtZnoQc7ocwIhecD2-Qg28fS-jADvF-x.jpg?quality=95&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720&from=bu&cs=720x0",Ultimate Fashion House Mafia [L]
-https://fl1001.bozztv.com/ushba-mafia/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-logo="https://urbanotvcr.com/new/wp-content/uploads/2025/07/Urbano-TV-calca-negro.png",Urbano TV [CR] [L]
-https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-id="5483" tvg-logo="http://ru.epg.one/img2/5483.png",V2BEAT [UK] [L]
-https://abr.de1se01.v2beat.live/live/live6/chunks.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-id="5483" tvg-logo="http://epg.one/img/5483.png" tvg-rec="0",V2BEAT [UK] [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/15020/index.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-id="8808" tvg-logo="http://epg.one/img/8808.png" tvg-rec="0",VeleS Магнитофон [HD] [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/31645/index.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-logo="https://images.pluto.tv/channels/5f32f26bcd8aea00071240e5/featuredImage.jpg",Vevo '70s [HD] [L]
-https://amg00056-vevotv-vevo70saunz-samsungnz-lmeak.amagi.tv/ts-us-e2-n1/playlist/amg00056-vevotv-vevo70saunz-samsungnz/playlist.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-logo="https://i.imgur.com/dZHktKR.png",Vevo Pop [HD] [L]
-https://d2n3779oy6efpi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5rxuagztow0k3/playlist.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-id="7553" tvg-logo="http://epg.one/img/7553.png" tvg-rec="0",VF Britney Spears [HD] [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/14005/index.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-id="6168" tvg-logo="http://epg.one/img/6168.png" tvg-rec="3",VF Metal [HD] [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/17033/index.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-id="9230" tvg-logo="http://epg.one/img/9230.png" tvg-rec="0",VF Michael Jackson [HD] [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/31554/index.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-id="7552" tvg-logo="http://epg.one/img/7552.png" tvg-rec="0",VF Modern Talking [HD] [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/14004/index.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-id="5986" tvg-logo="http://epg.one/img/5986.png" tvg-rec="0",VF Music [HD] [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/15516/index.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-id="6169" tvg-logo="http://epg.one/img/6169.png" tvg-rec="0",VF Rap [HD] [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/17034/index.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-id="5987" tvg-logo="http://epg.one/img/5987.png" tvg-rec="0",VF Rock [HD] [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/15517/index.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-id="5988" tvg-logo="http://epg.one/img/5988.png" tvg-rec="0",VF Караоке [HD] [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/15518/index.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-id="9228" tvg-logo="http://epg.one/img/9228.png" tvg-rec="0",VF Король и Шут [HD] [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/31555/index.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-id="7573" tvg-logo="http://epg.one/img/7573.png" tvg-rec="7",VF Легенды Ретро ФМ [HD] [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/10067/index.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-id="5990" tvg-logo="http://epg.one/img/5990.png" tvg-rec="0",VF Музсоюз [HD] [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/15521/index.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-id="5985" tvg-logo="http://epg.one/img/5985.png" tvg-rec="0",VF Музыка [HD] [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/15512/index.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-id="6154" tvg-logo="http://epg.one/img/6154.png" tvg-rec="0",VF Привет из 90х [HD] [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/17011/index.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-id="6171" tvg-logo="http://epg.one/img/6171.png" tvg-rec="0",VF Русский рок [HD] [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/17037/index.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-id="6170" tvg-logo="http://epg.one/img/6170.png" tvg-rec="0",VF Хит-парад [HD] [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/17036/index.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-logo="https://videotourchannel.com/wp-content/uploads/2023/01/cropped-LOGO-MASTER-VECTORIZADO-01-300x194-2-1.png",Video Tour Channel [CR] [L]
-http://k4.usastreams.com/videotour/videotour/playlist.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2Qx09u7ByBIS3uBaka5GcfbRKxpVmQvQdxQ&s",Vintage Music [CR] [L]
-https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-logo="https://iptvx.one/picons/viva-rus.png" tvg-id="viva-rus",VIVA Russia [HD] [L]
-https://live20.bozztv.com/akamaissh101/ssh101/vivarussia/chunks.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB320000647_20240702T044851SQUARE.png",XITE 80s Flashback [HD] [L]
-https://d1n314cytqn9r3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bklagqy82v0pr/XITE_80s_Flashback.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBB320000647
-#EXTINF:0 group-title="Музыка 1" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200007AK_20240702T044853SQUARE.png",XITE 90s Throwback [HD] [L]
-https://d284aawtm5vi48.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fjdfi2br1jtq7/XITE_90s_Throwback.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBB3200007AK
-#EXTINF:0 group-title="Музыка 1" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD350003932_20240702T044845SQUARE.png",XITE Celebrates [HD] [L]
-https://dt1s4l2cmiyit.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fcwpee1h7t5cs/XITE_Celebrates.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD350003932
-#EXTINF:0 group-title="Музыка 1" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300004RH_20241105T024203SQUARE.png",XITE Hits [HD] [L]
-https://d726x48n2pd5h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-skxr1pazhltvp/XITE_Hits.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD3300004RH
-#EXTINF:0 group-title="Музыка 1" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2300003JZ_20240716T002652SQUARE.png",XITE Just Chill [HD] [L]
-https://dvnftgdlbnemm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-dh48uzd9o895t/XITE_Just_Chill.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBB2300003JZ
-#EXTINF:0 group-title="Музыка 1" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300007PB_20240924T011037SQUARE.png",XITE Nuevo Latino [HD] [L]
-https://d3bsgqzbpkrvbb.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-w288eaw03izg1/XITE_Nuevo_Latino.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD3300007PB
-#EXTINF:0 group-title="Музыка 1" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2300004KV_20240716T002654SQUARE.png",XITE Rock x Metal [HD] [L]
-https://d198ro05q94rc4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-c5xdq9qwilrd2/XITE_Rock_On.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBB2300004KV
-#EXTINF:0 group-title="Музыка 1" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300010L9_20240924T011040SQUARE.png",XITE Siempre Latino [HD] [L]
-https://d1xc25jm9e0l4b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xplkt8i7m24dc/XITE_Siempre_Latino.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD3300010L9
-#EXTINF:0 group-title="Музыка 1" tvg-id="5363" tvg-logo="http://epg.one/img/5363.png" tvg-rec="0",Yosso TV Music Hits [HD] [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/14179/index.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-id="5290" tvg-logo="http://epg.one/img/5290.png" tvg-rec="0",Z!Music [HD] [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/14138/index.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-id="5291" tvg-logo="http://epg.one/img/5291.png" tvg-rec="0",Z!Rock [HD] [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/14139/index.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-id="5484" tvg-logo="http://epg.one/img/5484.png" tvg-rec="0",Zerouno TV [IT] [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/16076/index.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-id="zhara" tvg-logo="https://iptvx.one/picons/zhara.png",Жара [L]
-http://178.163.38.73:34040/udp/234.0.0.214:2000
-#EXTINF:0 group-title="Музыка 1" tvg-id="165" tvg-logo="http://epg.one/img/165.png" tvg-rec="3",Жара [HD] [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/2129/index.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-id="6212" tvg-logo="http://epg.one/img/6212.png" tvg-rec="0",Мелодии и ритмы зарубежной эстрады
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/17057/index.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-logo="https://iptvx.one/picons/muztv.png" tvg-id="muztv",МузТВ [HD] [L]
-https://livetv.mylifeisgood.net.ru/channels/muztvhd.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-logo="http://epg.one/img/897.png" tvg-id="897" tvg-rec="7",МузТВ [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/116/index.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-id="la-minor" tvg-logo="https://iptvx.one/picons/la-minor.png",Музыка Live [L]
-http://31.148.48.15:80/La-Minor_TV/index.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-id="2408" tvg-logo="http://epg.one/img/2408.png" tvg-rec="7",Музыка Live [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/2043/index.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-logo="https://iptvx.one/picons/muzyka-pervogo.png" tvg-id="muzyka-pervogo",Музыка Первого [L]
-http://188.225.31.197/bpk-tv/000000204/tve/index.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-logo="http://epg.one/img/715.png" tvg-id="715" tvg-rec="7",Музыка Первого [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/155/index.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-logo="https://cdn-ru.bitrix24.by/b5882563/landing/163/1636e359518e0f1d72f1e1a792de168b/LOGO_BI_2x.png",Новое Радио [BY] [HD] [L]
-http://live.novoeradio.by:8081/live/novoeradio_1080p/chunks.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-logo="https://pt.clover.fm/uploads/img_566vuAv9YMMABPu.jpg",Новое Радио ТВ [HD] [L]
-http://hls-video01.cdnvideo.ru/video01/hDvideo01-0O.sdp/playlist.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-logo="https://tvtvtv.ru/icons/novoe_televidenie.png" tvg-id="novoe-televidenie",Новое ТВ [L]
-http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-id="o2tv" tvg-logo="https://iptvx.one/picons/o2tv.png",О2ТВ [HD] [L]
-http://77.232.131.211/O2TV/index.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-id="2412" tvg-logo="http://epg.one/img/2412.png" tvg-rec="3",О2ТВ [HD] [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/2141/index.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-id="5364" tvg-logo="http://epg.one/img/5364.png" tvg-rec="0",Первый музыкальный [HD] [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/14142/index.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-id="5365" tvg-logo="http://epg.one/img/5365.png" tvg-rec="0",Первый музыкальный [BY] [HD] [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/14144/index.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-logo="https://sun9-19.userapi.com/c836421/u395934017/video/l_07d27d64.jpg",Радио Kids FM [L]
-http://cqw2lystveu.a.trbcdn.net/livemaster/7ak8t_live-hv25n82a0l8.smil/playlist.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-id="6010" tvg-logo="http://epg.one/img/6010.png" tvg-rec="3",Радио LoveIsRadio.by HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/16015/index.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-logo="https://i.imgur.com/ozEqob9.png",Сити Эдем - Play [L]
-http://cityeden.catcast.tv/content/34100/index.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-logo="https://i.imgur.com/38Q5L5W.png",Сити Эдем - Бирма [L]
-http://cityeden.catcast.tv/content/34364/index.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-logo="https://i.imgur.com/V3MTfyc.png",Сити Эдем - Сиртаки TV [L]
-http://cityeden.catcast.tv/content/46421/index.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-id="radio-strana-fm-tv" tvg-logo="https://iptvx.one/picons/radio-strana-fm-tv.png",Страна FM [L]
-http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-id="5369" tvg-logo="http://epg.one/img/5369.png" tvg-rec="3",Страна FM [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/14152/index.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyL7UqnjqQaLJHi34SFvc3qJzr0VDkXvyg3g&s",Хөг-жим [MN] [HD] [L]
-https://cdn4.skygo.mn/live/disk1/Khugjim/DASH-FTA/Khugjim.mpd
+#EXTINF:0 group-title="Вещание" tvg-id="360-podmoskovie" tvg-logo="https://iptvx.one/picons/360-podmoskovie.png",360° [HD] [V]
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8
+#EXTINF:0 group-title="Вещание" tvg-id="2265" tvg-logo="http://ru.epg.one/img/2265.png" tvg-rec="3",360° [HD] [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/2065/index.m3u8
+
+#EXTINF:0 group-title="Вещание" tvg-id="360-news" tvg-logo="https://iptvx.one/picons/360-news.png",360° Новости [HD] [V]
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8
+#EXTINF:0 group-title="Вещание" tvg-id="4458" tvg-logo="http://ru.epg.one/img/4458.png" tvg-rec="0",360° Новости [HD] [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/18038/index.m3u8
+
+#EXTINF:0 group-title="Вещание" tvg-id="2268" tvg-logo="http://ru.epg.one/img/2268.png" tvg-rec="3",CGTN Русский [HD] [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/9223/index.m3u8
+
+#EXTINF:0 group-title="Вещание" tvg-id="2266" tvg-logo="http://ru.epg.one/img/2266.png" tvg-rec="7",360° Euronews Россия [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/828/index.m3u8
+
+#EXTINF:0 group-title="Вещание" tvg-id="rtd-ru" tvg-logo="https://iptvx.one/picons/rt-doc.png",RT Doc [HD] [V]
+http://rt-doc.rttv.com/dvr/rtdru/rtdru1080.m3u8
+#EXTINF:0 group-title="Вещание" tvg-id="2295" tvg-logo="http://ru.epg.one/img/2295.png" tvg-rec="0",RT Doc [HD] [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/9031/index.m3u8
+
+#EXTINF:0 group-title="Вещание" tvg-id="2399" tvg-logo="http://ru.epg.one/img/2399.png" tvg-rec="0",Дождь [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/2030/index.m3u8
+
+#EXTINF:0 group-title="Вещание" tvg-id="zvezda" tvg-logo="https://iptvx.one/picons/zvezda.png",Звезда [HD] [V]
+http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+#EXTINF:0 group-title="Вещание" tvg-id="405" tvg-logo="http://ru.epg.one/img/405.png" tvg-rec="0",Звезда [HD] [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/15115/index.m3u8
+
+#EXTINF:0 group-title="Вещание" tvg-id="zvezda-plus" tvg-logo="https://iptvx.one/picons/zvezda-plus.png",Звезда Плюс [HD] [V]
+http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v1a1/mono.ts.m3u8
+#EXTINF:0 group-title="Вещание" tvg-id="4661" tvg-logo="http://ru.epg.one/img/4661.png" tvg-rec="0",Звезда Плюс [HD] [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/19230/index.m3u8
+
+#EXTINF:0 group-title="Вещание" tvg-id="izvestia" tvg-logo="https://iptvx.one/picons/izvestia.png",Известия [HD] [V]
+http://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v1a1/mono.ts.m3u8
+#EXTINF:0 group-title="Вещание" tvg-id="2271" tvg-logo="http://ru.epg.one/img/2271.png" tvg-rec="0",Известия [HD] [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/18039/index.m3u8
+
+#EXTINF:0 group-title="Вещание" tvg-id="ldpr-tv" tvg-logo="https://iptvx.one/picons/ldpr-tv.png",ЛДПР ТВ [HD] [V]
+http://46.46.143.222:1935/live/mp4:ldpr.stream/playlist.m3u8
+#EXTINF:0 group-title="Вещание" tvg-id="2465" tvg-logo="http://ru.epg.one/img/2465.png" tvg-rec="3",ЛДПР ТВ [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/9120/index.m3u8
+
+#EXTINF:0 group-title="Вещание" tvg-id="mir" tvg-logo="https://iptvx.one/picons/mir.png",Мир [HD] [V]
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:0 group-title="Вещание" tvg-id="726" tvg-logo="http://ru.epg.one/img/726.png" tvg-rec="3",Мир [HD] [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/15119/index.m3u8
+
+#EXTINF:0 group-title="Вещание" tvg-id="mir-24" tvg-logo="https://iptvx.one/picons/mir24.png",Мир 24 [HD] [V]
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:0 group-title="Вещание" tvg-id="2078" tvg-logo="http://ru.epg.one/img/2078.png" tvg-rec="3",Мир 24 [HD] [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/2107/index.m3u8
+
+#EXTINF:0 group-title="Вещание" tvg-id="162" tvg-logo="https://tvprogviewer.ru/images/thumbs/0000074_ntv-hd_220.png" tvg-rec="0",НТВ [4K UHD] [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/19405/index.m3u8
+#EXTINF:0 group-title="Вещание" tvg-id="ntv" tvg-logo="https://iptvx.one/picons/ntv.png",НТВ [HD] [V]
+https://livetv.mylifeisgood.net.ru/channels/ntvhd.m3u8
+#EXTINF:0 group-title="Вещание" tvg-id="162" tvg-logo="http://ru.epg.one/img/2001.png" tvg-rec="7",НТВ [HD] [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/213/index.m3u8
+#EXTINF:0 group-title="Вещание" tvg-id="6773" tvg-logo="http://ru.epg.one/img/6773.png" tvg-rec="0",НТВ Беларусь [BY] [HD] [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/19371/index.m3u8
+
+#EXTINF:0 group-title="Вещание" tvg-id="otr" tvg-logo="https://iptvx.one/picons/otr.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ОТР [V]
+http://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
+#EXTINF:0 group-title="Вещание" tvg-id="1000" tvg-logo="http://ru.epg.one/img/1000.png" tvg-rec="0",ОТР [HD] [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/20018/index.m3u8
+
+#EXTINF:0 group-title="Вещание" tvg-id="146" tvg-logo="https://comptek.ru/images/dell/1hd1.png" tvg-rec="0",Первый канал [4K UHD] [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/19241/index.m3u8
+#EXTINF:0 group-title="Вещание" tvg-id="pervy" tvg-logo="https://iptvx.one/picons/pervy.png",Первый канал [V]
+https://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+#EXTINF:0 group-title="Вещание" tvg-id="146" tvg-logo="http://ru.epg.one/img/983.png" tvg-rec="7",Первый канал [FHD] [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/2402/index.m3u8
+#EXTINF:0 group-title="Вещание" tvg-id="4830" tvg-logo="http://ru.epg.one/img/4830.png" tvg-rec="0",Первый Канал Европа [HD] [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/12023/index.m3u8
+
+#EXTINF:0 group-title="Вещание" tvg-id="piatnica" tvg-logo="https://iptvx.one/picons/piatnica.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Пятница! [V]
+http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
+#EXTINF:0 group-title="Вещание" tvg-id="1003" tvg-logo="http://ru.epg.one/img/2765.png" tvg-rec="3",Пятница! [HD] [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/5031/index.m3u8
+
+#EXTINF:0 group-title="Вещание" tvg-id="5kanal-ru" tvg-logo="https://iptvx.one/picons/5kanal-ru.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Пятый канал [V]
+http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
+#EXTINF:0 group-title="Вещание" tvg-id="427" tvg-logo="http://ru.epg.one/img/427.png" tvg-rec="7",Пятый канал [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/112/index.m3u8
+
+#EXTINF:0 group-title="Вещание" tvg-id="rbk" tvg-logo="https://iptvx.one/picons/rbk.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",РБК [HD] [V]
+https://s91030.cdn.ngenix.net/hls/CH_R25_RBKTVHD_VLDK/variant.m3u8
+#EXTINF:0 group-title="Вещание" tvg-id="743" tvg-logo="http://ru.epg.one/img/743.png" tvg-rec="3",РБК [FHD] [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/2404/index.m3u8
+
+#EXTINF:0 group-title="Вещание" tvg-id="18" tvg-logo="https://karnei4.github.io/convert/img/8082.png" tvg-rec="0",Рен ТВ [4K UHD] [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/19404/index.m3u8
+#EXTINF:0 group-title="Вещание" tvg-id="rentv" tvg-logo="https://iptvx.one/picons/rentv.png",Рен ТВ [V]
+http://dmi3y-tv6.ru/hls/smotrim/T2/CH_RUSSIA1.m3u8
+#EXTINF:0 group-title="Вещание" tvg-id="18" tvg-logo="http://ru.epg.one/img/18.png" tvg-rec="7",Рен ТВ [HD] [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/2024/index.m3u8
+#EXTINF:0 group-title="Вещание" tvg-id="rentv-int" tvg-logo="https://iptvx.one/picons/rentv-int.png",Рен ТВ International [V]
+http://cdn4.skygo.mn/live/disk1/RenTV/HLSv3-FTA/RenTV.m3u8
+
+#EXTINF:0 group-title="Вещание" tvg-id="rzhd-tv" tvg-logo="https://iptvx.one/picons/rzhd-tv.png",РЖД ТВ [HD] [V]
+http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8
+#EXTINF:0 group-title="Вещание" tvg-id="2471" tvg-logo="http://ru.epg.one/img/2471.png" tvg-rec="3",РЖД ТВ [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/9118/index.m3u8
+
+#EXTINF:0 group-title="Вещание" tvg-id="711" tvg-logo="https://nnov54.ru/wp-content/uploads/2025/12/image-12.png" tvg-rec="0",Россия 1 [4K UHD] [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/19242/index.m3u8
+#EXTINF:0 group-title="Вещание" tvg-id="rossia1" tvg-logo="https://iptvx.one/picons/rossia1.png",Россия 1 [HD] [V]
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
+#EXTINF:0 group-title="Вещание" tvg-id="711" tvg-logo="http://ru.epg.one/img/984.png" tvg-rec="3",Россия 1 [FHD] [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/2409/index.m3u8
+
+#EXTINF:0 group-title="Вещание" tvg-id="rossia-24" tvg-logo="https://iptvx.one/picons/rossia-24.png",Россия 24 [HD] [V]
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/index.m3u8
+#EXTINF:0 group-title="Вещание" tvg-id="1683" tvg-logo="http://ru.epg.one/img/1683.png" tvg-rec="7",Россия 24  [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/507/index.m3u8
+
+#EXTINF:0 group-title="Вещание" tvg-id="kultura" tvg-logo="https://iptvx.one/picons/kultura.png",Россия К [HD] [V]
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
+#EXTINF:0 group-title="Вещание" tvg-id="187" tvg-logo="http://ru.epg.one/img/187.png" tvg-rec="7",Россия К [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/505/index.m3u8
+
+#EXTINF:0 group-title="Вещание" tvg-id="rtr-planeta-azia" tvg-logo="https://iptvx.one/picons/rtr-planeta-azia.png",РТР-Планета Азия [V]
+http://player.smotrim.ru/iframe/stream/live_id/683d9649-a96c-4a4d-b468-91c0ee2bf363.m3u8
+#EXTINF:0 group-title="Вещание" tvg-id="rtr-planeta-amerika" tvg-logo="https://iptvx.one/picons/rtr-planeta.png",РТР-Планета Америка [V]
+http://player.smotrim.ru/iframe/stream/live_id/cf22fa5c-e21a-433e-8317-7e8dd3150d6a.m3u8
+#EXTINF:0 group-title="Вещание" tvg-id="rtr-planeta-eu" tvg-logo="https://iptvx.one/picons/rtr-planeta.png",РТР-Планета Европа [V]
+http://player.smotrim.ru/iframe/stream/live_id/d7fef212-df66-485d-9952-7eab82d7d51b.m3u8
+#EXTINF:0 group-title="Вещание" tvg-id="rtr-belarus" tvg-logo="https://iptvx.one/picons/rtr-planeta.png",РТР Планета СНГ [V]
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
+#EXTINF:0 group-title="Вещание" tvg-id="2547" tvg-logo="http://ru.epg.one/img/2547.png" tvg-rec="0",РТР Планета [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/18042/index.m3u8
+
+#EXTINF:0 group-title="Вещание" tvg-id="solovjinypomiot" tvg-logo="https://iptvx.one/picons/solovjinypomiot.png",Соловьев.Live [HD] [V]
+https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1
+
+#EXTINF:0 group-title="Вещание" tvg-id="sts" tvg-logo="https://iptvx.one/picons/sts.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",СТС [V]
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
+#EXTINF:0 group-title="Вещание" tvg-id="79" tvg-logo="http://ru.epg.one/img/79.png" tvg-rec="3",СТС [HD] [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/6303/index.m3u8
+
+#EXTINF:0 group-title="Вещание" tvg-id="sts-int" tvg-logo="https://iptvx.one/picons/sts-int.png",СТС International [V]
+https://cdn4.skygo.mn/live/disk1/STS/HLSv3-FTA/STS.m3u8
+#EXTINF:0 group-title="Вещание" tvg-id="5652" tvg-logo="http://ru.epg.one/img/5652.png" tvg-rec="0",СТС International [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/15228/index.m3u8
+
+#EXTINF:0 group-title="Вещание" tvg-id="" tvg-logo="https://www.museumpushkin.ru/assets/images/logo(1).png",ТАСС [HD] [V]
+https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream/playlist.m3u8
+
+#EXTINF:0 group-title="Вещание" tvg-id="tv3-ru" tvg-logo="https://iptvx.one/picons/tv3-ru.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ТВ 3 [V]
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
+#EXTINF:0 group-title="Вещание" tvg-id="698" tvg-logo="http://ru.epg.one/img/698.png" tvg-rec="3",ТВ 3 [HD] [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/5033/index.m3u8
+
+#EXTINF:0 group-title="Вещание" tvg-id="tvcentr" tvg-logo="https://iptvx.one/picons/tvcentr.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ТВЦ [V]
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
+#EXTINF:0 group-title="Вещание" tvg-id="649" tvg-logo="http://ru.epg.one/img/649.png" tvg-rec="0",ТВЦ[HD] [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/19222/index.m3u8
+#EXTINF:0 group-title="Вещание" tvg-id="tvci" tvg-logo="https://iptvx.one/picons/tvci.png",ТВЦ International [V]
+https://cdn4.skygo.mn/live/disk1/TV_center/HLSv3-FTA/TV_center.m3u8
+
+#EXTINF:0 group-title="Вещание" tvg-id="353" tvg-logo="https://karnei4.github.io/convert/img/1337.png" tvg-rec="0",ТНТ [4K UHD] [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/19238/index.m3u8
+#EXTINF:0 group-title="Вещание" tvg-id="tnt" tvg-logo="https://iptvx.one/picons/tnt.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ТНТ [V]
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
+#EXTINF:0 group-title="Вещание" tvg-id="353" tvg-logo="http://ru.epg.one/img/1767.png" tvg-rec="3",ТНТ [FHD] [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/2417/index.m3u8
+#EXTINF:0 group-title="Вещание" tvg-id="5692" tvg-logo="http://ru.epg.one/img/5692.png" tvg-rec="0",ТНТ International [HD] [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/15230/index.m3u8
+
+#EXTINF:0 group-title="Вещание" tvg-id="tnt4" tvg-logo="https://iptvx.one/picons/tnt4.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ТНТ4 [V]
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
+#EXTINF:0 group-title="Вещание" tvg-id="1649" tvg-logo="http://ru.epg.one/img/1649.png" tvg-rec="3",ТНТ4[HD] [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/6370/index.m3u8
+#EXTINF:0 group-title="Вещание" tvg-id="tnt4-international" tvg-logo="https://iptvx.one/picons/tnt4.png",ТНТ4 International [V]
+https://cdn4.skygo.mn/live/disk1/TNT4/HLSv3-FTA/TNT4.m3u8
+
+#EXTINF:0 group-title="Вещание" tvg-id="yu" tvg-logo="https://iptvx.one/picons/yu.png",Ю [V]
+http://cdn-01.bonus-tv.ru/u/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Вещание" tvg-id="898" tvg-logo="http://ru.epg.one/img/898.png" tvg-rec="7",Ю [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/534/index.m3u8
 
