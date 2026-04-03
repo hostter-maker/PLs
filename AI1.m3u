@@ -975,453 +975,371 @@ http://5.188.158.65:4040/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:0 group-title="Кинозал" tvg-id="2309" tvg-logo="http://epg.one/img/2309.png" tvg-rec="3",Шокирующее HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/9004/index.m3u8
 
-#EXTGRP:Сериалы
-#EXTINF:-1 group-title="Сериалы" tvg-id="935" tvg-logo="http://epg.one/img/935.png" tvg-rec="3",.black HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Сериалы" tvg-id="sony-turbo" tvg-logo="https://iptvx.one/picons/sony-turbo.png",.black [V]
+http://188.225.31.197/bpk-tv/000000520/tve/index.m3u8
+#EXTINF:0 group-title="Сериалы" tvg-id="935" tvg-logo="http://epg.one/img/935.png" tvg-rec="0",.black HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/20019/index.m3u8
-#EXTINF:-1 group-title="Сериалы" tvg-id="311" tvg-logo="http://epg.one/img/311.png" tvg-rec="3",.red HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Сериалы" tvg-id="sony-tv" tvg-logo="https://iptvx.one/picons/sony.png",.red HD [V]
+http://193.25.8.59:8000/set
+#EXTINF:0 group-title="Сериалы" tvg-id="311" tvg-logo="http://epg.one/img/311.png" tvg-rec="3",.red HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/2062/index.m3u8
-#EXTINF:-1 group-title="Сериалы" tvg-id="516" tvg-logo="http://epg.one/img/516.png" tvg-rec="0",.sci-fi HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Сериалы" tvg-id="sony-scifi" tvg-logo="https://iptvx.one/picons/sony-scifi.png",.sci-fi HD [V]
+http://178.163.38.73:34040/udp/234.0.0.13:2000
+#EXTINF:0 group-title="Сериалы" tvg-id="516" tvg-logo="http://epg.one/img/516.png" tvg-rec="0",.sci-fi HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/20020/index.m3u8
-#EXTINF:-1 group-title="Сериалы" tvg-logo="https://online-hit.ru/wp-content/uploads/2024/02/312-kino.jpg",312 ТВ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Сериалы" tvg-logo="https://online-hit.ru/wp-content/uploads/2024/02/312-kino.jpg",312 ТВ [V]
 http://176.126.166.43:1935/live/312musik/playlist.m3u8
-#EXTINF:-1 group-title="Сериалы" tvg-id="1371" tvg-logo="http://epg.one/img/1371.png" tvg-rec="3",Amedia 1 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Сериалы" tvg-id="amedia1" tvg-logo="https://iptvx.one/picons/amedia1.png",Amedia 1 HD [V]
+http://188.225.31.197/bpk-tv/000000710/tve/index.m3u8
+#EXTINF:0 group-title="Сериалы" tvg-id="1371" tvg-logo="http://epg.one/img/1371.png" tvg-rec="3",Amedia 1 HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/9069/index.m3u8
-#EXTINF:-1 group-title="Сериалы" tvg-id="2492" tvg-logo="http://epg.one/img/2492.png" tvg-rec="7",Amedia 2 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Сериалы" tvg-id="amedia2" tvg-logo="https://iptvx.one/picons/amedia2.png",Amedia 2 HD [V]
+http://188.225.31.197/bpk-tv/000000351/tve/index.m3u8
+#EXTINF:0 group-title="Сериалы" tvg-id="2492" tvg-logo="http://epg.one/img/2492.png" tvg-rec="7",Amedia 2 HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/2046/index.m3u8
-#EXTINF:-1 group-title="Сериалы" tvg-id="2007" tvg-logo="http://epg.one/img/2007.png" tvg-rec="3",Amedia Hit HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/6010/index.m3u8
-#EXTINF:-1 group-title="Сериалы" tvg-id="1372" tvg-logo="http://epg.one/img/1372.png" tvg-rec="7",Amedia Premium HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/229/index.m3u8
-#EXTINF:-1 group-title="Сериалы" tvg-id="4767" tvg-logo="http://epg.one/img/4767.png" tvg-rec="7",BCU RuSerial HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Сериалы" tvg-id="amedia-hit" tvg-logo="https://iptvx.one/picons/amedia-hit.png",Amedia Hit HD [V]
+http://188.225.31.197/bpk-tv/000000351/tve/index.m3u8
+#EXTINF:0 group-title="Сериалы" tvg-id="2007" tvg-logo="http://epg.one/img/2007.png" tvg-rec="3",Amedia Hit HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/9070/index.m3u8
+#EXTINF:0 group-title="Сериалы" tvg-id="amedia-premium" tvg-logo="https://iptvx.one/picons/amedia-premium.png",Amedia Premium HD [V]
+http://188.225.31.197/bpk-tv/000000709/tve/index.m3u8
+#EXTINF:0 group-title="Сериалы" tvg-id="1372" tvg-logo="http://epg.one/img/1372.png" tvg-rec="3",Amedia Premium FHD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/9233/index.m3u8
+#EXTINF:0 group-title="Сериалы" tvg-id="4767" tvg-logo="http://epg.one/img/4767.png" tvg-rec="7",BCU RuSerial HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/11046/index.m3u8
-#EXTINF:-1 group-title="Сериалы" tvg-id="4768" tvg-logo="http://epg.one/img/4768.png" tvg-rec="7",BCU Сваты HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Сериалы" tvg-id="4768" tvg-logo="http://epg.one/img/4768.png" tvg-rec="7",BCU Сваты HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/11047/index.m3u8
-#EXTINF:-1 group-title="Сериалы" tvg-id="2138" tvg-logo="http://epg.one/img/2138.png" tvg-rec="3",Bolt Россия HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Сериалы" tvg-id="bolt-ru" tvg-logo="https://iptvx.one/picons/bolt.png",Bolt Россия HD [V]
+http://178.163.38.73:34040/udp/234.0.0.193:2000
+#EXTINF:0 group-title="Сериалы" tvg-id="2138" tvg-logo="http://epg.one/img/2138.png" tvg-rec="3",Bolt Россия HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/6322/index.m3u8
-#EXTINF:-1 group-title="Сериалы" tvg-id="6703" tvg-logo="http://epg.one/img/6703.png" tvg-rec="3",BOX Serial HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Сериалы" tvg-id="6703" tvg-logo="http://epg.one/img/6703.png" tvg-rec="0",BOX Serial HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/19281/index.m3u8
-#EXTINF:-1 group-title="Сериалы" tvg-id="8923" tvg-logo="http://epg.one/img/8923.png" tvg-rec="3",BOX Serial 4K
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Сериалы" tvg-id="8923" tvg-logo="http://epg.one/img/8923.png" tvg-rec="0",BOX Serial 4K [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/31657/index.m3u8
-#EXTINF:-1 group-title="Сериалы" tvg-id="7150" tvg-logo="http://epg.one/img/7150.png" tvg-rec="3",CineMan MiniSeries
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Сериалы" tvg-id="7150" tvg-logo="http://epg.one/img/7150.png" tvg-rec="0",CineMan MiniSeries HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/19437/index.m3u8
-#EXTINF:-1 group-title="Сериалы" tvg-id="9437" tvg-logo="http://epg.one/img/9437.png" tvg-rec="3",CineMan Комедийные Сериалы
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Сериалы" tvg-id="9437" tvg-logo="http://epg.one/img/9437.png" tvg-rec="0",CineMan Комедийные Сериалы HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/31628/index.m3u8
-#EXTINF:-1 group-title="Сериалы" tvg-id="9436" tvg-logo="http://epg.one/img/9436.png" tvg-rec="3",CineMan Криминальные Сериалы
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Сериалы" tvg-id="9436" tvg-logo="http://epg.one/img/9436.png" tvg-rec="0",CineMan Криминальные Сериалы HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/31626/index.m3u8
-#EXTINF:-1 group-title="Сериалы" tvg-id="6053" tvg-logo="http://epg.one/img/6053.png" tvg-rec="3",CineMan Лесник
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Сериалы" tvg-id="6053" tvg-logo="http://epg.one/img/6053.png" tvg-rec="0",CineMan Лесник HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/16065/index.m3u8
-#EXTINF:-1 group-title="Сериалы" tvg-id="6051" tvg-logo="http://epg.one/img/6051.png" tvg-rec="3",CineMan Ментовские войны
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Сериалы" tvg-id="6051" tvg-logo="http://epg.one/img/6051.png" tvg-rec="0",CineMan Ментовские войны HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/16063/index.m3u8
-#EXTINF:-1 group-title="Сериалы" tvg-id="6052" tvg-logo="http://epg.one/img/6052.png" tvg-rec="3",CineMan ПёС + Лихач
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Сериалы" tvg-id="6052" tvg-logo="http://epg.one/img/6052.png" tvg-rec="0",CineMan ПёС + Лихач HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/16064/index.m3u8
-#EXTINF:-1 group-title="Сериалы" tvg-id="4692" tvg-logo="http://epg.one/img/4692.png" tvg-rec="7",CineMan Сваты
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Сериалы" tvg-id="4692" tvg-logo="http://epg.one/img/4692.png" tvg-rec="7",CineMan Сваты HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/11014/index.m3u8
-#EXTINF:-1 group-title="Сериалы" tvg-id="5524" tvg-logo="http://epg.one/img/5524.png" tvg-rec="3",CineMan Скорая Помощь
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Сериалы" tvg-id="5524" tvg-logo="http://epg.one/img/5524.png" tvg-rec="0",CineMan Скорая Помощь HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/15100/index.m3u8
-#EXTINF:-1 group-title="Сериалы" tvg-id="7901" tvg-logo="http://epg.one/img/7901.png" tvg-rec="3",DetectiveJam HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Сериалы" tvg-id="7901" tvg-logo="http://epg.one/img/7901.png" tvg-rec="0",DetectiveJam HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/20209/index.m3u8
-#EXTINF:-1 group-title="Сериалы" tvg-id="2229" tvg-logo="http://epg.one/img/2229.png" tvg-rec="3",Epic Drama HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Сериалы" tvg-id="2229" tvg-logo="http://epg.one/img/2229.png" tvg-rec="3",Epic Drama HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/1048/index.m3u8
-#EXTINF:-1 group-title="Сериалы" tvg-id="1031" tvg-logo="http://epg.one/img/1031.png" tvg-rec="3",FOX HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/19216/index.m3u8
-#EXTINF:-1 group-title="Сериалы" tvg-id="6717" tvg-logo="http://epg.one/img/6717.png" tvg-rec="3",Fresh Series
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/19295/index.m3u8
-#EXTINF:-1 group-title="Сериалы" tvg-id="615" tvg-logo="http://epg.one/img/615.png" tvg-rec="3",FX Life HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Сериалы" tvg-id="fox" tvg-logo="https://iptvx.one/picons/fox.png",FX HD [V]
+http://188.225.31.197/bpk-tv/000004472/tve/index.m3u8
+#EXTINF:0 group-title="Сериалы" tvg-id="1031" tvg-logo="http://epg.one/img/1031.png" tvg-rec="3",FX HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/9018/index.m3u8
+#EXTINF:0 group-title="Сериалы" tvg-id="foxlife" tvg-logo="https://iptvx.one/picons/foxlife.png",FX Life HD [V]
+http://188.225.31.197/bpk-tv/000004471/tve/index.m3u8
+#EXTINF:0 group-title="Сериалы" tvg-id="615" tvg-logo="http://epg.one/img/615.png" tvg-rec="0",FX Life [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/14003/index.m3u8
-#EXTINF:-1 group-title="Сериалы" tvg-id="5516" tvg-logo="http://epg.one/img/5516.png" tvg-rec="3",Liberty DC FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Сериалы" tvg-id="6717" tvg-logo="http://epg.one/img/6717.png" tvg-rec="0",Fresh Series HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/19295/index.m3u8
+#EXTINF:0 group-title="Сериалы" tvg-id="9123" tvg-logo="http://epg.one/img/9123.png" tvg-rec="0",KinoLiving [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/16018/index.m3u8
+#EXTINF:0 group-title="Сериалы" tvg-id="5516" tvg-logo="http://epg.one/img/5516.png" tvg-rec="0",Liberty DC FHD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/15087/index.m3u8
-#EXTINF:-1 group-title="Сериалы" tvg-id="5520" tvg-logo="http://epg.one/img/5520.png" tvg-rec="3",Liberty Короткометражки FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Сериалы" tvg-id="5520" tvg-logo="http://epg.one/img/5520.png" tvg-rec="0",Liberty Короткометражки FHD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/15091/index.m3u8
-#EXTINF:-1 group-title="Сериалы" tvg-id="8925" tvg-logo="http://epg.one/img/8925.png" tvg-rec="3",Liberty Мюзикл 4K
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Сериалы" tvg-id="8925" tvg-logo="http://epg.one/img/8925.png" tvg-rec="0",Liberty Мюзикл 4K [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/31662/index.m3u8
-#EXTINF:-1 group-title="Сериалы" tvg-id="5633" tvg-logo="http://epg.one/img/5633.png" tvg-rec="3",Liberty Сваты FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Сериалы" tvg-id="5633" tvg-logo="http://epg.one/img/5633.png" tvg-rec="3",Liberty Сваты FHD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/15164/index.m3u8
-#EXTINF:-1 group-title="Сериалы" tvg-id="6058" tvg-logo="http://epg.one/img/6058.png" tvg-rec="3",Liberty Сериалы FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Сериалы" tvg-id="6058" tvg-logo="http://epg.one/img/6058.png" tvg-rec="0",Liberty Сериалы FHD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/16055/index.m3u8
-#EXTINF:-1 group-title="Сериалы" tvg-id="8928" tvg-logo="http://epg.one/img/8928.png" tvg-rec="3",Liberty Сериалы 4K
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Сериалы" tvg-id="8928" tvg-logo="http://epg.one/img/8928.png" tvg-rec="0",Liberty Сериалы 4K [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/31665/index.m3u8
-#EXTINF:-1 group-title="Сериалы" tvg-id="6064" tvg-logo="http://epg.one/img/6064.png" tvg-rec="3",MM Classic HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Сериалы" tvg-id="6064" tvg-logo="http://epg.one/img/6064.png" tvg-rec="0",MM Classic HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/16085/index.m3u8
-#EXTINF:-1 group-title="Сериалы" tvg-id="5137" tvg-logo="http://epg.one/img/5137.png" tvg-rec="3",MM Агата Кристи HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Сериалы" tvg-id="5137" tvg-logo="http://epg.one/img/5137.png" tvg-rec="0",MM Агата Кристи HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/13024/index.m3u8
-#EXTINF:-1 group-title="Сериалы" tvg-id="5144" tvg-logo="http://epg.one/img/5144.png" tvg-rec="3",MM Воронины HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Сериалы" tvg-id="5144" tvg-logo="http://epg.one/img/5144.png" tvg-rec="0",MM Воронины HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/13031/index.m3u8
-#EXTINF:-1 group-title="Сериалы" tvg-id="5153" tvg-logo="http://epg.one/img/5153.png" tvg-rec="3",MM Крутые 90-е HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Сериалы" tvg-id="5153" tvg-logo="http://epg.one/img/5153.png" tvg-rec="0",MM Крутые 90-е HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/13040/index.m3u8
-#EXTINF:-1 group-title="Сериалы" tvg-id="5162" tvg-logo="http://epg.one/img/5162.png" tvg-rec="3",MM Полицейский с Рублёвки HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Сериалы" tvg-id="5162" tvg-logo="http://epg.one/img/5162.png" tvg-rec="0",MM Полицейский с Рублёвки HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/13049/index.m3u8
-#EXTINF:-1 group-title="Сериалы" tvg-id="5164" tvg-logo="http://epg.one/img/5164.png" tvg-rec="3",MM Сваты HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Сериалы" tvg-id="5164" tvg-logo="http://epg.one/img/5164.png" tvg-rec="0",MM Сваты HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/13051/index.m3u8
-#EXTINF:-1 group-title="Сериалы" tvg-id="5159" tvg-logo="http://epg.one/img/5159.png" tvg-rec="3",MM Ситком 2.0 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Сериалы" tvg-id="5159" tvg-logo="http://epg.one/img/5159.png" tvg-rec="0",MM Ситком 2.0 HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/13046/index.m3u8
-#EXTINF:-1 group-title="Сериалы" tvg-id="5605" tvg-logo="http://epg.one/img/5605.png" tvg-rec="3",MS Crime HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Сериалы" tvg-id="5605" tvg-logo="http://epg.one/img/5605.png" tvg-rec="0",MS Crime HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/15136/index.m3u8
-#EXTINF:-1 group-title="Сериалы" tvg-id="5593" tvg-logo="http://epg.one/img/5593.png" tvg-rec="3",MS Prisons HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Сериалы" tvg-id="5593" tvg-logo="http://epg.one/img/5593.png" tvg-rec="0",MS Prisons HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/15137/index.m3u8
-#EXTINF:-1 group-title="Сериалы" tvg-id="9074" tvg-logo="http://epg.one/img/9074.png" tvg-rec="3",NOW Series HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Сериалы" tvg-id="9074" tvg-logo="http://epg.one/img/9074.png" tvg-rec="0",NOW Series HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/15102/index.m3u8
-#EXTINF:-1 group-title="Сериалы" tvg-id="4726" tvg-logo="http://epg.one/img/4726.png" tvg-rec="7",PG Serial HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Сериалы" tvg-id="4726" tvg-logo="http://epg.one/img/4726.png" tvg-rec="7",PG Serial HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/11101/index.m3u8
-#EXTINF:-1 group-title="Сериалы" tvg-id="4722" tvg-logo="http://epg.one/img/4722.png" tvg-rec="7",PG Victory HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Сериалы" tvg-id="4722" tvg-logo="http://epg.one/img/4722.png" tvg-rec="7",PG Victory HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/11097/index.m3u8
-#EXTINF:-1 group-title="Сериалы" tvg-id="9179" tvg-logo="http://epg.one/img/9179.png" tvg-rec="3",Romance HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Сериалы" tvg-id="romance" tvg-logo="https://iptvx.one/picons/romance.png",Romance [V]
+http://193.25.8.59:8000/tlc
+#EXTINF:0 group-title="Сериалы" tvg-id="star-cinema" tvg-logo="https://iptvx.one/picons/star-cinema.png" tvg-rec="0",Romance HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/2037/index.m3u8
-#EXTINF:-1 group-title="Сериалы" tvg-id="3328" tvg-logo="http://epg.one/img/3328.png" tvg-rec="3",Star Cinema Россия HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Сериалы" tvg-id="3328" tvg-logo="http://epg.one/img/3328.png",Star Cinema Россия HD [V]
+http://178.163.38.73:34040/udp/234.0.0.152:2000
+#EXTINF:0 group-title="Сериалы" tvg-id="3328" tvg-logo="http://epg.one/img/3328.png" tvg-rec="3",Star Cinema Россия HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/6325/index.m3u8
-#EXTINF:-1 group-title="Сериалы" tvg-id="6241" tvg-logo="http://epg.one/img/6241.png" tvg-rec="3",START Air HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Сериалы" tvg-id="start-air" tvg-logo="https://iptvx.one/picons/start-air.png",START Air HD [V]
+http://188.225.31.197/bpk-tv/000007815/tve/index.m3u8
+#EXTINF:0 group-title="Сериалы" tvg-id="6241" tvg-logo="http://epg.one/img/6241.png" tvg-rec="0",START Air HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/18036/index.m3u8
-#EXTINF:-1 group-title="Сериалы" tvg-id="6240" tvg-logo="http://epg.one/img/6240.png" tvg-rec="3",START World HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Сериалы" tvg-id="start-world" tvg-logo="https://iptvx.one/picons/start-world.png",START World HD [V]
+http://188.225.31.197/bpk-tv/000007818/tve/index.m3u8
+#EXTINF:0 group-title="Сериалы" tvg-id="6240" tvg-logo="http://epg.one/img/6240.png" tvg-rec="0",START World [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/19248/index.m3u8
-#EXTINF:-1 group-title="Сериалы" tvg-id="4693" tvg-logo="http://epg.one/img/4693.png" tvg-rec="7",StrahTV The X-Files
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Сериалы" tvg-id="4693" tvg-logo="http://epg.one/img/4693.png" tvg-rec="7",StrahTV The X-Files [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/11055/index.m3u8
-#EXTINF:-1 group-title="Сериалы" tvg-id="8793" tvg-logo="http://epg.one/img/8793.png" tvg-rec="3",StrahTV Байки из склепа
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Сериалы" tvg-id="8793" tvg-logo="http://epg.one/img/8793.png" tvg-rec="0",StrahTV Байки из склепа [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/31711/index.m3u8
-#EXTINF:-1 group-title="Сериалы" tvg-id="8794" tvg-logo="http://epg.one/img/8794.png" tvg-rec="3",StrahTV Громовы
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Сериалы" tvg-id="8794" tvg-logo="http://epg.one/img/8794.png" tvg-rec="0",StrahTV Громовы [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/31712/index.m3u8
-#EXTINF:-1 group-title="Сериалы" tvg-id="4694" tvg-logo="http://epg.one/img/4694.png" tvg-rec="7",StrahTV Интерны ТВ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Сериалы" tvg-id="4694" tvg-logo="http://epg.one/img/4694.png" tvg-rec="7",StrahTV Интерны ТВ [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/11060/index.m3u8
-#EXTINF:-1 group-title="Сериалы" tvg-id="8795" tvg-logo="http://epg.one/img/8795.png" tvg-rec="3",StrahTV Коломбо
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Сериалы" tvg-id="8795" tvg-logo="http://epg.one/img/8795.png" tvg-rec="0",StrahTV Коломбо [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/31713/index.m3u8
-#EXTINF:-1 group-title="Сериалы" tvg-id="88023" tvg-logo="http://epg.one/img/88023.png" tvg-rec="3",StrahTV Однажды в милиции
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Сериалы" tvg-id="88023" tvg-logo="http://epg.one/img/88023.png" tvg-rec="0",StrahTV Однажды в милиции [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/31715/index.m3u8
-#EXTINF:-1 group-title="Сериалы" tvg-id="8799" tvg-logo="http://epg.one/img/8799.png" tvg-rec="3",StrahTV Ольга HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Сериалы" tvg-id="8799" tvg-logo="http://epg.one/img/8799.png" tvg-rec="0",StrahTV Ольга HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/31718/index.m3u8
-#EXTINF:-1 group-title="Сериалы" tvg-id="4696" tvg-logo="http://epg.one/img/4696.png" tvg-rec="7",StrahTV Сваты
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Сериалы" tvg-id="4696" tvg-logo="http://epg.one/img/4696.png" tvg-rec="7",StrahTV Сваты [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/11062/index.m3u8
-#EXTINF:-1 group-title="Сериалы" tvg-id="4697" tvg-logo="http://epg.one/img/4697.png" tvg-rec="7",StrahTV Универ ТВ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Сериалы" tvg-id="4697" tvg-logo="http://epg.one/img/4697.png" tvg-rec="7",StrahTV Универ ТВ [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/11063/index.m3u8
-#EXTINF:-1 group-title="Сериалы" tvg-id="9180" tvg-logo="http://epg.one/img/9180.png" tvg-rec="3",Suspense HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Сериалы" tvg-id="9180" tvg-logo="http://epg.one/img/9180.png" tvg-rec="0",Suspense HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/2049/index.m3u8
-#EXTINF:-1 group-title="Сериалы" tvg-id="6724" tvg-logo="http://epg.one/img/6724.png" tvg-rec="3",Timeless Dizi Channel
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Сериалы" tvg-id="6724" tvg-logo="http://epg.one/img/6724.png" tvg-rec="0",Timeless Dizi Channel HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/14006/index.m3u8
-#EXTINF:-1 group-title="Сериалы" tvg-id="6242" tvg-logo="http://epg.one/img/6242.png" tvg-rec="3",VB Российские Сериалы
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/18043/index.m3u8
-#EXTINF:-1 group-title="Сериалы" tvg-id="8749" tvg-logo="http://epg.one/img/8749.png" tvg-rec="3",VB Сваты HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/31624/index.m3u8
-#EXTINF:-1 group-title="Сериалы" tvg-id="7897" tvg-logo="http://epg.one/img/7897.png" tvg-rec="3",VB Спецназ-Диверсант HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/20176/index.m3u8
-#EXTINF:-1 group-title="Сериалы" tvg-id="8762" tvg-logo="http://epg.one/img/8762.png" tvg-rec="3",VeleS Киносерия
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Сериалы" tvg-id="8762" tvg-logo="http://epg.one/img/8762.png" tvg-rec="0",VeleS Киносерия HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/31640/index.m3u8
-#EXTINF:-1 group-title="Сериалы" tvg-id="4800" tvg-logo="http://epg.one/img/4800.png" tvg-rec="3",VF Cartoon 18+
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Сериалы" tvg-id="4800" tvg-logo="http://epg.one/img/4800.png" tvg-rec="0",VF Cartoon 18+ HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/11117/index.m3u8
-#EXTINF:-1 group-title="Сериалы" tvg-id="6824" tvg-logo="http://epg.one/img/6824.png" tvg-rec="3",VF HBO
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Сериалы" tvg-id="6824" tvg-logo="http://epg.one/img/6824.png" tvg-rec="0",VF HBO HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/19428/index.m3u8
-#EXTINF:-1 group-title="Сериалы" tvg-id="4663" tvg-logo="http://epg.one/img/4663.png" tvg-rec="7",VF Marvel
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Сериалы" tvg-id="4663" tvg-logo="http://epg.one/img/4663.png" tvg-rec="7",VF Marvel HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/10081/index.m3u8
-#EXTINF:-1 group-title="Сериалы" tvg-id="6823" tvg-logo="http://epg.one/img/6823.png" tvg-rec="3",VF Netflix
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Сериалы" tvg-id="6823" tvg-logo="http://epg.one/img/6823.png" tvg-rec="0",VF Netflix HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/19427/index.m3u8
-#EXTINF:-1 group-title="Сериалы" tvg-id="5198" tvg-logo="http://epg.one/img/5198.png" tvg-rec="3",VF Series
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Сериалы" tvg-id="5198" tvg-logo="http://epg.one/img/5198.png" tvg-rec="0",VF Series HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/13085/index.m3u8
-#EXTINF:-1 group-title="Сериалы" tvg-id="6146" tvg-logo="http://epg.one/img/6146.png" tvg-rec="3",VF The X-Files
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Сериалы" tvg-id="6146" tvg-logo="http://epg.one/img/6146.png" tvg-rec="0",VF The X-Files HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/17002/index.m3u8
-#EXTINF:-1 group-title="Сериалы" tvg-id="4789" tvg-logo="http://epg.one/img/4789.png" tvg-rec="3",VF TOP Series
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Сериалы" tvg-id="4789" tvg-logo="http://epg.one/img/4789.png" tvg-rec="0",VF TOP Series HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/11116/index.m3u8
-#EXTINF:-1 group-title="Сериалы" tvg-id="6149" tvg-logo="http://epg.one/img/6149.png" tvg-rec="3",VF Американская история ужасов
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Сериалы" tvg-id="6149" tvg-logo="http://epg.one/img/6149.png" tvg-rec="0",VF Американская история ужасов HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/17005/index.m3u8
-#EXTINF:-1 group-title="Сериалы" tvg-id="6160" tvg-logo="http://epg.one/img/6160.png" tvg-rec="3",VF Без цензуры
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Сериалы" tvg-id="6160" tvg-logo="http://epg.one/img/6160.png" tvg-rec="0",VF Без цензуры HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/17017/index.m3u8
-#EXTINF:-1 group-title="Сериалы" tvg-id="7272" tvg-logo="http://epg.one/img/7272.png" tvg-rec="7",VF Бесстыжие
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Сериалы" tvg-id="7272" tvg-logo="http://epg.one/img/7272.png" tvg-rec="0",VF Бесстыжие HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/10075/index.m3u8
-#EXTINF:-1 group-title="Сериалы" tvg-id="5196" tvg-logo="http://epg.one/img/5196.png" tvg-rec="3",VF Воронины
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Сериалы" tvg-id="5196" tvg-logo="http://epg.one/img/5196.png" tvg-rec="0",VF Воронины HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/13083/index.m3u8
-#EXTINF:-1 group-title="Сериалы" tvg-id="7273" tvg-logo="http://epg.one/img/7273.png" tvg-rec="7",VF Два с половиной человека
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Сериалы" tvg-id="7273" tvg-logo="http://epg.one/img/7273.png" tvg-rec="7",VF Два с половиной человека HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/10062/index.m3u8
-#EXTINF:-1 group-title="Сериалы" tvg-id="6159" tvg-logo="http://epg.one/img/6159.png" tvg-rec="3",VF Доктор Хаус
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Сериалы" tvg-id="6159" tvg-logo="http://epg.one/img/6159.png" tvg-rec="0",VF Доктор Хаус HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/17016/index.m3u8
-#EXTINF:-1 group-title="Сериалы" tvg-id="6150" tvg-logo="http://epg.one/img/6150.png" tvg-rec="3",VF Друзья
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Сериалы" tvg-id="6150" tvg-logo="http://epg.one/img/6150.png" tvg-rec="0",VF Друзья HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/17006/index.m3u8
-#EXTINF:-1 group-title="Сериалы" tvg-id="6323" tvg-logo="http://epg.one/img/6323.png" tvg-rec="3",VF Игра престолов
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Сериалы" tvg-id="6323" tvg-logo="http://epg.one/img/6323.png" tvg-rec="0",VF Игра престолов HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/18119/index.m3u8
-#EXTINF:-1 group-title="Сериалы" tvg-id="7275" tvg-logo="http://epg.one/img/7275.png" tvg-rec="3",VF Карточный домик
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Сериалы" tvg-id="7275" tvg-logo="http://epg.one/img/7275.png" tvg-rec="0",VF Карточный домик HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/14221/index.m3u8
-#EXTINF:-1 group-title="Сериалы" tvg-id="5206" tvg-logo="http://epg.one/img/5206.png" tvg-rec="3",VF Криминал
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Сериалы" tvg-id="5206" tvg-logo="http://epg.one/img/5206.png" tvg-rec="0",VF Криминал HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/13093/index.m3u8
-#EXTINF:-1 group-title="Сериалы" tvg-id="6418" tvg-logo="http://epg.one/img/6418.png" tvg-rec="3",VF Кухня
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Сериалы" tvg-id="6418" tvg-logo="http://epg.one/img/6418.png" tvg-rec="0",VF Кухня HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/18199/index.m3u8
-#EXTINF:-1 group-title="Сериалы" tvg-id="5201" tvg-logo="http://epg.one/img/5201.png" tvg-rec="3",VF Мыльные оперы
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Сериалы" tvg-id="5201" tvg-logo="http://epg.one/img/5201.png" tvg-rec="0",VF Мыльные оперы HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/13088/index.m3u8
-#EXTINF:-1 group-title="Сериалы" tvg-id="6158" tvg-logo="http://epg.one/img/6158.png" tvg-rec="3",VF Реальные пацаны
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Сериалы" tvg-id="6158" tvg-logo="http://epg.one/img/6158.png" tvg-rec="0",VF Реальные пацаны HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/17015/index.m3u8
-#EXTINF:-1 group-title="Сериалы" tvg-id="6151" tvg-logo="http://epg.one/img/6151.png" tvg-rec="3",VF СашаТаня
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Сериалы" tvg-id="6151" tvg-logo="http://epg.one/img/6151.png" tvg-rec="0",VF СашаТаня HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/17008/index.m3u8
-#EXTINF:-1 group-title="Сериалы" tvg-id="5193" tvg-logo="http://epg.one/img/5193.png" tvg-rec="3",VF Сваты
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Сериалы" tvg-id="5193" tvg-logo="http://epg.one/img/5193.png" tvg-rec="0",VF Сваты HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/13080/index.m3u8
-#EXTINF:-1 group-title="Сериалы" tvg-id="6147" tvg-logo="http://epg.one/img/6147.png" tvg-rec="3",VF Сверхъестественное
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Сериалы" tvg-id="6147" tvg-logo="http://epg.one/img/6147.png" tvg-rec="0",VF Сверхъестественное HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/17003/index.m3u8
-#EXTINF:-1 group-title="Сериалы" tvg-id="7277" tvg-logo="http://epg.one/img/7277.png" tvg-rec="3",VF Секс в большом городе
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Сериалы" tvg-id="7277" tvg-logo="http://epg.one/img/7277.png" tvg-rec="0",VF Секс в большом городе HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/14224/index.m3u8
-#EXTINF:-1 group-title="Сериалы" tvg-id="5200" tvg-logo="http://epg.one/img/5200.png" tvg-rec="3",VF Сериал
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Сериалы" tvg-id="5200" tvg-logo="http://epg.one/img/5200.png" tvg-rec="0",VF Сериал HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/13087/index.m3u8
-#EXTINF:-1 group-title="Сериалы" tvg-id="4805" tvg-logo="http://epg.one/img/4805.png" tvg-rec="3",VF Сериал 4K
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Сериалы" tvg-id="4805" tvg-logo="http://epg.one/img/4805.png" tvg-rec="0",VF Сериал 4K [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/11115/index.m3u8
-#EXTINF:-1 group-title="Сериалы" tvg-id="9226" tvg-logo="http://epg.one/img/9226.png" tvg-rec="3",VF Сериалы Турции
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Сериалы" tvg-id="9226" tvg-logo="http://epg.one/img/9226.png" tvg-rec="3",VF Сериалы Турции HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/9123/index.m3u8
-#EXTINF:-1 group-title="Сериалы" tvg-id="5199" tvg-logo="http://epg.one/img/5199.png" tvg-rec="3",VF След
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Сериалы" tvg-id="5199" tvg-logo="http://epg.one/img/5199.png" tvg-rec="0",VF След HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/13086/index.m3u8
-#EXTINF:-1 group-title="Сериалы" tvg-id="5194" tvg-logo="http://epg.one/img/5194.png" tvg-rec="3",VF Солдаты
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Сериалы" tvg-id="5194" tvg-logo="http://epg.one/img/5194.png" tvg-rec="0",VF Солдаты HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/13081/index.m3u8
-#EXTINF:-1 group-title="Сериалы" tvg-id="7271" tvg-logo="http://epg.one/img/7271.png" tvg-rec="3",VF Счастливы Вместе
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Сериалы" tvg-id="7271" tvg-logo="http://epg.one/img/7271.png" tvg-rec="3",VF Счастливы Вместе HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/9242/index.m3u8
-#EXTINF:-1 group-title="Сериалы" tvg-id="5195" tvg-logo="http://epg.one/img/5195.png" tvg-rec="3",VF Тайны следствия
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Сериалы" tvg-id="5195" tvg-logo="http://epg.one/img/5195.png" tvg-rec="0",VF Тайны следствия HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/13082/index.m3u8
-#EXTINF:-1 group-title="Сериалы" tvg-id="7279" tvg-logo="http://epg.one/img/7279.png" tvg-rec="3",VF Теория большого взрыва
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Сериалы" tvg-id="7279" tvg-logo="http://epg.one/img/7279.png" tvg-rec="0",VF Теория большого взрыва HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/15009/index.m3u8
-#EXTINF:-1 group-title="Сериалы" tvg-id="5197" tvg-logo="http://epg.one/img/5197.png" tvg-rec="3",VF Универ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Сериалы" tvg-id="5197" tvg-logo="http://epg.one/img/5197.png" tvg-rec="0",VF Универ HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/13084/index.m3u8
-#EXTINF:-1 group-title="Сериалы" tvg-id="6156" tvg-logo="http://epg.one/img/6156.png" tvg-rec="3",VF Универ новая общага
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Сериалы" tvg-id="6156" tvg-logo="http://epg.one/img/6156.png" tvg-rec="0",VF Универ новая общага HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/17013/index.m3u8
-#EXTINF:-1 group-title="Сериалы" tvg-id="6157" tvg-logo="http://epg.one/img/6157.png" tvg-rec="3",VF Ходячие мертвецы
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Сериалы" tvg-id="6157" tvg-logo="http://epg.one/img/6157.png" tvg-rec="0",VF Ходячие мертвецы HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/17014/index.m3u8
-#EXTINF:-1 group-title="Сериалы" tvg-id="5898" tvg-logo="http://epg.one/img/5898.png" tvg-rec="3",Z!Serial HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/15140/index.m3u8
-#EXTINF:-1 group-title="Сериалы" tvg-id="5899" tvg-logo="http://epg.one/img/5899.png" tvg-rec="3",Z!Sitcom HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/15141/index.m3u8
-#EXTINF:-1 group-title="Сериалы" tvg-id="2174" tvg-logo="http://epg.one/img/2174.png" tvg-rec="3",Дорама HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/2131/index.m3u8
-#EXTINF:-1 group-title="Сериалы" tvg-id="2838" tvg-logo="http://epg.one/img/2838.png" tvg-rec="3",Viju+ Serial HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Сериалы" tvg-id="2838" tvg-logo="http://epg.one/img/2838.png" tvg-rec="3",Viju+ Serial HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/2443/index.m3u8
-#EXTINF:-1 group-title="Сериалы" tvg-logo="https://i.postimg.cc/Rh516HVw/1.png",Ведьмак [IPTVPLAY] HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Сериалы" tvg-id="5898" tvg-logo="http://epg.one/img/5898.png" tvg-rec="0",Z!Serial [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/15140/index.m3u8
+#EXTINF:0 group-title="Сериалы" tvg-id="5899" tvg-logo="http://epg.one/img/5899.png" tvg-rec="0",Z!Sitcom [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/15141/index.m3u8
+#EXTINF:0 group-title="Сериалы" tvg-logo="https://i.postimg.cc/Rh516HVw/1.png",Ведьмак [IPTVPLAY] HD [V]
 http://5.188.158.65:4040/IPTVPLAYVEDMAK.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:-1 group-title="Сериалы" tvg-logo="https://i.postimg.cc/v8KFj826/1.png",Великая Отечественная [IPTVPLAY] HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Сериалы" tvg-logo="https://i.postimg.cc/v8KFj826/1.png",Великая Отечественная [IPTVPLAY] HD [V]
 http://5.188.158.65:4040/IPTVPLAYVOV.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:-1 group-title="Сериалы" tvg-id="669" tvg-logo="http://epg.one/img/669.png" tvg-rec="3",Время
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Сериалы" tvg-id="vremia" tvg-logo="https://iptvx.one/picons/vremia.png",Время [V]
+http://188.225.31.197/bpk-tv/000000205/tve/index.m3u8
+#EXTINF:0 group-title="Сериалы" tvg-id="669" tvg-logo="http://epg.one/img/669.png" tvg-rec="3",Время [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/9298/index.m3u8
-#EXTINF:-1 group-title="Сериалы" tvg-logo="https://i.postimg.cc/D06WvJWn/1.png",Десятое королевство [IPTVPLAY] HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Сериалы" tvg-logo="https://i.postimg.cc/D06WvJWn/1.png",Десятое королевство [IPTVPLAY] HD [V]
 http://5.188.158.65:4040/IPTVPLAY10KOROLEVSTVO.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:-1 group-title="Сериалы" tvg-id="834" tvg-logo="http://epg.one/img/834.png" tvg-rec="7",Дом Кино
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Сериалы" tvg-id="domkino" tvg-logo="https://iptvx.one/picons/domkino.png",Дом Кино [V]
+http://188.225.31.197/bpk-tv/000000050/tve/index.m3u8
+#EXTINF:0 group-title="Сериалы" tvg-id="834" tvg-logo="http://epg.one/img/834.png" tvg-rec="7",Дом Кино [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/154/index.m3u8
-#EXTINF:-1 group-title="Сериалы" tvg-id="304" tvg-logo="http://epg.one/img/304.png" tvg-rec="3",Домашний HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Сериалы" tvg-id="domashny" tvg-logo="https://iptvx.one/picons/domashny.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Домашний [V]
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
+#EXTINF:0 group-title="Сериалы" tvg-id="304" tvg-logo="http://epg.one/img/304.png" tvg-rec="0",Домашний HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/15116/index.m3u8
-#EXTINF:-1 group-title="Сериалы" tvg-logo="https://iptvx.one/picons/domashny-int.png" tvg-id="domashny-int",Домашний International
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Сериалы" tvg-logo="https://iptvx.one/picons/domashny-int.png" tvg-id="domashny-int",Домашний International [V]
 https://cdn4.skygo.mn/live/disk1/Domashni/HLSv3-FTA/Domashni.m3u8
-#EXTINF:-1 group-title="Сериалы" tvg-logo="https://static1.tgstat.ru/channels/_0/54/54f689480500290c64aabff888c7981a.jpg",За!ТВ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Сериалы" tvg-id="2174" tvg-logo="http://epg.one/img/2174.png" tvg-rec="3",Дорама HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/2131/index.m3u8
+#EXTINF:0 group-title="Сериалы" tvg-logo="https://static1.tgstat.ru/channels/_0/54/54f689480500290c64aabff888c7981a.jpg",За!ТВ [V]
 https://streaming.televizor-24-tochka.ru/live/25-req_offset_28000000-req_window_0-1k_v5.m3u8
-#EXTINF:-1 group-title="Сериалы" tvg-id="2403" tvg-logo="http://epg.one/img/2403.png" tvg-rec="3",Иллюзион+ HD orig
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Сериалы" tvg-id="illuzion-plus" tvg-logo="https://iptvx.one/picons/illuzion-plus.png",Иллюзион+ [V]
+http://31.148.48.15:80/Illusion_plus/index.m3u8
+#EXTINF:0 group-title="Сериалы" tvg-id="2403" tvg-logo="http://epg.one/img/2403.png" tvg-rec="3",Иллюзион+ HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/9079/index.m3u8
-#EXTINF:-1 group-title="Сериалы" tvg-id="2233" tvg-logo="http://epg.one/img/2233.png" tvg-rec="3",Индия HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Сериалы" tvg-id="2233" tvg-logo="http://epg.one/img/2233.png" tvg-rec="0",Индия [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/19250/index.m3u8
-#EXTINF:-1 group-title="Сериалы" tvg-logo="https://i.postimg.cc/3N8Rc8tq/1.png",Интерны [IPTVPLAY] HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Сериалы" tvg-logo="https://i.postimg.cc/3N8Rc8tq/1.png",Интерны [IPTVPLAY] HD [V]
 http://5.188.158.65:4040/IPTVPLAYINTERNY.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:-1 group-title="Сериалы" tvg-id="7314" tvg-logo="http://epg.one/img/7314.png" tvg-rec="3",Кинеко HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Сериалы" tvg-id="kineko" tvg-logo="https://iptvx.one/picons/kineko.png",Кинеко HD [V]
+http://188.225.31.197/bpk-tv/000008136/tve/index.m3u8
+#EXTINF:0 group-title="Сериалы" tvg-id="7314" tvg-logo="http://epg.one/img/7314.png" tvg-rec="3",Кинеко HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/9135/index.m3u8
-#EXTINF:-1 group-title="Сериалы" tvg-id="9156" tvg-logo="http://epg.one/img/9156.png" tvg-rec="3",Ключ HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Сериалы" tvg-id="799" tvg-logo="http://epg.one/img/799.png" tvg-rec="0",Киносерия HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/19229/index.m3u8
+#EXTINF:0 group-title="Сериалы" tvg-id="kluch" tvg-logo="https://iptvx.one/picons/kluch.png",Ключ HD [V]
+http://188.225.31.197/bpk-tv/000004585/tve/index.m3u8
+#EXTINF:0 group-title="Сериалы" tvg-id="9156" tvg-logo="http://epg.one/img/9156.png" tvg-rec="0",Ключ HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/20041/index.m3u8
-#EXTINF:-1 group-title="Сериалы" tvg-id="2570" tvg-logo="http://epg.one/img/2570.png" tvg-rec="3",КТК [KZ] HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Сериалы" tvg-id="ktk-kz" tvg-logo="https://iptvx.one/picons/ktk-kz.png",КТК [KZ] HD [V]
+https://wz-kt.ktk.kz/ktklive/smil:ktk-live.smil/playlist.m3u8
+#EXTINF:0 group-title="Сериалы" tvg-id="2570" tvg-logo="http://epg.one/img/2570.png" tvg-rec="3",КТК [KZ] [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/2211/index.m3u8
-#EXTINF:-1 group-title="Сериалы" tvg-id="9001" tvg-logo="http://epg.one/img/9001.png" tvg-rec="7",Лавстори HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Сериалы" tvg-id="lavstori" tvg-logo="https://iptvx.one/picons/lavstori.png",Лавстори [V]
+http://178.163.38.73:34040/udp/234.0.0.177:2000
+#EXTINF:0 group-title="Сериалы" tvg-id="9001" tvg-logo="http://epg.one/img/9001.png" tvg-rec="7",Лавстори HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/2034/index.m3u8
-#EXTINF:-1 group-title="Сериалы" tvg-id="2275" tvg-logo="http://epg.one/img/2275.png" tvg-rec="7",Мир Сериала
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Сериалы" tvg-id="mir-seriala" tvg-logo="https://iptvx.one/picons/mir-seriala.png",Мир Сериала [V]
+http://188.225.31.197/bpk-tv/000000319/tve/index.m3u8
+#EXTINF:0 group-title="Сериалы" tvg-id="2275" tvg-logo="http://epg.one/img/2275.png" tvg-rec="7",Мир Сериала [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/856/index.m3u8
-#EXTINF:-1 group-title="Сериалы" tvg-id="2018" tvg-logo="http://epg.one/img/2018.png" tvg-rec="3",Наше HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Сериалы" tvg-id="2018" tvg-logo="http://epg.one/img/2018.png" tvg-rec="3",Наше HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/9046/index.m3u8
-#EXTINF:-1 group-title="Сериалы" tvg-id="2835" tvg-logo="http://epg.one/img/2835.png" tvg-rec="3",Наше Мужское HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Сериалы" tvg-id="nashe-muzhskoe" tvg-logo="https://iptvx.one/picons/nashe-muzhskoe.png",Наше Мужское [V]
+http://178.163.38.73:34040/udp/234.0.0.114:2000
+#EXTINF:0 group-title="Сериалы" tvg-id="2835" tvg-logo="http://epg.one/img/2835.png" tvg-rec="3",Наше Мужское HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/2440/index.m3u8
-#EXTINF:-1 group-title="Сериалы" tvg-logo="https://iptvx.one/picons/nowy-igrowoj.png" tvg-id="nowy-igrowoj",Новый Игровой Канал
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Сериалы" tvg-logo="https://iptvx.one/picons/nowy-igrowoj.png" tvg-id="nowy-igrowoj",Новый Игровой Канал [V]
 http://188.225.31.197/bpk-tv/000008615/tve/index.m3u8
-#EXTINF:-1 group-title="Сериалы" tvg-id="1754" tvg-logo="http://epg.one/img/1754.png" tvg-rec="7",НТВ Сериал
+#EXTINF:0 group-title="Сериалы" tvg-id="" tvg-logo="https://img.icons8.com/m_outlined/1200/unchecked-checkbox.jpg",Новый Русский HD [V]
+https://live.15plusmg.ru/memfs/f983b507-a170-41a9-85a9-d9afc6cba9c1.m3u8
+#EXTINF:0 group-title="Сериалы" tvg-id="ntv-serial" tvg-logo="https://iptvx.one/picons/ntv-serial.png",НТВ Сериал [V]
+https://cdn.ntv.ru/th_serial/tracks-v1a1/playlist.m3u8
+#EXTINF:0 group-title="Сериалы" tvg-id="1754" tvg-logo="http://epg.one/img/1754.png" tvg-rec="7",НТВ Сериал [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/744/index.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-#EXTINF:-1 group-title="Сериалы" tvg-logo="http://epg.one/img/1754.png",НТВ Сериал Балабол
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Сериалы" tvg-logo="https://iptvx.one/picons/ntv-serial.png",НТВ Сериал Балабол [V]
 https://cdn-dvr.ntv.ru/Balabol/tracks-v1a1/rewind-240.ts.m3u8
-#EXTINF:-1 group-title="Сериалы" tvg-logo="http://epg.one/img/1754.png",НТВ сериал Невский
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Сериалы" tvg-logo="https://iptvx.one/picons/ntv-serial.png",НТВ сериал Невский [V]
 https://cdn-dvr.ntv.ru/Nevskiy/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Сериалы" tvg-logo="http://epg.one/img/1754.png",НТВ сериал Первый Отдел
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Сериалы" tvg-logo="https://iptvx.one/picons/ntv-serial.png",НТВ сериал Первый Отдел [V]
 https://cdn-dvr.ntv.ru/Perviy_otdel/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Сериалы", tvg-logo="http://epg.one/img/1754.png",НТВ сериал Пес
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Сериалы", tvg-logo="https://iptvx.one/picons/ntv-serial.png",НТВ сериал Пес [V]
 https://cdn-dvr.ntv.ru/Pes/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Сериалы" tvg-logo="http://epg.one/img/1754.png",НТВ Сериал Пять минут тишины
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Сериалы" tvg-logo="https://iptvx.one/picons/ntv-serial.png",НТВ Сериал Пять минут тишины [V]
 https://cdn-dvr.ntv.ru/5_minut_tishiny/tracks-v1a1/rewind-240.ts.m3u8
-#EXTINF:-1 group-title="Сериалы" tvg-logo="http://epg.one/img/1754.png",НТВ сериал Скорая Помощь
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Сериалы" tvg-logo="https://iptvx.one/picons/ntv-serial.png",НТВ сериал Скорая Помощь [V]
 https://cdn-dvr.ntv.ru/Skoraja_pomosh/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Сериалы" tvg-logo="http://epg.one/img/1754.png",НТВ сериал Следствие вели ...
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Сериалы" tvg-logo="https://iptvx.one/picons/ntv-serial.png",НТВ сериал Следствие вели ... [V]
 https://cdn-dvr.ntv.ru/sledstvie/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Сериалы" tvg-logo="http://epg.one/img/1754.png",НТВ сериал Шеф
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Сериалы" tvg-logo="https://iptvx.one/picons/ntv-serial.png",НТВ сериал Шеф [V]
 https://cdn-dvr.ntv.ru/Shef/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Сериалы" tvg-id="2041" tvg-logo="http://epg.one/img/2041.png" tvg-rec="3",НТВ Хит HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Сериалы" tvg-id="ntv-xit" tvg-logo="https://iptvx.one/picons/ntv-xit.png",НТВ Хит [V]
+https://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
+#EXTINF:0 group-title="Сериалы" tvg-id="2041" tvg-logo="http://epg.one/img/2041.png" tvg-rec="0",НТВ Хит HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/16062/index.m3u8
-#EXTINF:-1 group-title="Сериалы" tvg-logo="https://i.ibb.co/7gj4dQM/Pamyat.png",Память [IPTVPLAY] HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Сериалы" tvg-logo="https://i.ibb.co/7gj4dQM/Pamyat.png",Память [IPTVPLAY] HD [V]
 http://5.188.158.65:4040/IPTVPLAYPAMYAT.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:-1 group-title="Сериалы" tvg-id="11469" tvg-logo="http://epg.one/img/11469.png" tvg-rec="3",Патриот
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Сериалы" tvg-id="patriot" tvg-logo="https://iptvx.one/picons/patriot.png",Патриот [V]
+http://185.46.48.18:80/asvtv/index.m3u8
+#EXTINF:0 group-title="Сериалы" tvg-id="11469" tvg-logo="http://epg.one/img/11469.png" tvg-rec="0",Патриот [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/31928/index.m3u8
-#EXTINF:-1 group-title="Сериалы" tvg-id="2447" tvg-logo="http://epg.one/img/2447.png" tvg-rec="7",Победа
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Сериалы" tvg-id="pobeda" tvg-logo="https://iptvx.one/picons/pobeda.png",Победа [V]
+http://188.225.31.197/bpk-tv/000004534/tve/index.m3u8
+#EXTINF:0 group-title="Сериалы" tvg-id="2447" tvg-logo="http://epg.one/img/2447.png" tvg-rec="7",Победа [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/2003/index.m3u8
-#EXTINF:-1 group-title="Сериалы" tvg-id="12" tvg-logo="http://epg.one/img/12.png" tvg-rec="7",Родное Кино
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Сериалы" tvg-id="12" tvg-logo="http://epg.one/img/12.png" tvg-rec="7",Родное Кино [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/126/index.m3u8
-#EXTINF:-1 group-title="Сериалы" tvg-id="2772" tvg-logo="http://epg.one/img/2772.png" tvg-rec="3",Романтичное HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Сериалы" tvg-id="2772" tvg-logo="http://epg.one/img/2772.png" tvg-rec="3",Романтичное HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/5053/index.m3u8
-#EXTINF:-1 group-title="Сериалы" tvg-id="994" tvg-logo="http://epg.one/img/994.png" tvg-rec="7",Русский бестселлер
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Сериалы" tvg-id="russky-bestseller" tvg-logo="https://iptvx.one/picons/russky-bestseller.png",Русский бестселлер [V]
+http://31.148.48.15:80/Russkiy_Bestseller/index.m3u8
+#EXTINF:0 group-title="Сериалы" tvg-id="994" tvg-logo="http://epg.one/img/994.png" tvg-rec="7",Русский бестселлер [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/905/index.m3u8
-#EXTINF:-1 group-title="Сериалы" tvg-id="1570" tvg-logo="http://epg.one/img/1570.png" tvg-rec="7",Русский детектив
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Сериалы" tvg-id="russky-detektiv" tvg-logo="https://iptvx.one/picons/russky-detektiv.png",Русский детектив [V]
+http://31.148.48.15:80/Russkiy_Detektiv/index.m3u8
+#EXTINF:0 group-title="Сериалы" tvg-id="1570" tvg-logo="http://epg.one/img/1570.png" tvg-rec="7",Русский детектив [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/907/index.m3u8
-#EXTINF:-1 group-title="Сериалы" tvg-id="7315" tvg-logo="http://epg.one/img/7315.png" tvg-rec="3",Сапфир HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Сериалы" tvg-id="sapfir" tvg-logo="https://iptvx.one/picons/sapfir.png",Сапфир HD [V]
+http://188.225.31.197/bpk-tv/000008135/tve/index.m3u8
+#EXTINF:0 group-title="Сериалы" tvg-id="7315" tvg-logo="http://epg.one/img/7315.png" tvg-rec="3",Сапфир HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/6389/index.m3u8
-#EXTINF:-1 group-title="Сериалы" tvg-logo="https://iptvx.one/picons/cityedem-telenov.png" tvg-id="cityedem-telenov",Сити Эдем - Теленовелла
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Сериалы" tvg-logo="https://iptvx.one/picons/cityedem-telenov.png" tvg-id="cityedem-telenov",Сити Эдем - Теленовелла [V]
 https://cityeden.catcast.tv/content/46209/index.m3u8
-#EXTINF:-1 group-title="Сериалы" tvg-id="1322" tvg-logo="http://epg.one/img/1322.png" tvg-rec="7",СТС Love
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Сериалы" tvg-id="sts-love" tvg-logo="https://iptvx.one/picons/sts-love.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",СТС Love [V]
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
+#EXTINF:0 group-title="Сериалы" tvg-id="1322" tvg-logo="http://epg.one/img/1322.png" tvg-rec="7",СТС Love [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/103/index.m3u8
-#EXTINF:-1 group-title="Сериалы" tvg-id="6355" tvg-logo="http://epg.one/img/6355.png" tvg-rec="3",Триколор Ментовские войны
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Сериалы" tvg-id="6355" tvg-logo="http://epg.one/img/6355.png" tvg-rec="0",Триколор Ментовские войны [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/18128/index.m3u8
-#EXTINF:-1 group-title="Сериалы" tvg-id="6357" tvg-logo="http://epg.one/img/6357.png" tvg-rec="3",Триколор Мир без границ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Сериалы" tvg-id="6357" tvg-logo="http://epg.one/img/6357.png" tvg-rec="0",Триколор Мир без границ [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/18130/index.m3u8
-#EXTINF:-1 group-title="Сериалы" tvg-id="6358" tvg-logo="http://epg.one/img/6358.png" tvg-rec="3",Триколор Некрасивая подружка
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Сериалы" tvg-id="6358" tvg-logo="http://epg.one/img/6358.png" tvg-rec="0",Триколор Некрасивая подружка [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/18131/index.m3u8
-#EXTINF:-1 group-title="Сериалы" tvg-id="6354" tvg-logo="http://epg.one/img/6354.png" tvg-rec="3",Триколор След
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Сериалы" tvg-id="6354" tvg-logo="http://epg.one/img/6354.png" tvg-rec="0",Триколор След [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/18127/index.m3u8
-#EXTINF:-1 group-title="Сериалы" tvg-id="6353" tvg-logo="http://epg.one/img/6353.png" tvg-rec="3",Триколор Шерлок Холмс и доктор Ватсон
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Сериалы" tvg-id="6353" tvg-logo="http://epg.one/img/6353.png" tvg-rec="0",Триколор Шерлок Холмс и доктор Ватсон [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/18126/index.m3u8
-#EXTINF:-1 group-title="Сериалы" tvg-id="2404" tvg-logo="http://epg.one/img/2404.png" tvg-rec="3",Феникс+ Кино HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Сериалы" tvg-id="feniks-plus-kino" tvg-logo="https://iptvx.one/picons/feniks-plus-kino.png",Феникс+ Кино [V]
+http://188.225.31.197/bpk-tv/000000125/tve/index.m3u8
+#EXTINF:0 group-title="Сериалы" tvg-id="2404" tvg-logo="http://epg.one/img/2404.png" tvg-rec="0",Феникс+ Кино HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/16154/index.m3u8
-#EXTINF:-1 group-title="Сериалы" tvg-id="2833" tvg-logo="http://epg.one/img/2833.png" tvg-rec="3",Хит HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Сериалы" tvg-id="khit" tvg-logo="https://iptvx.one/picons/khit.png",Хит [V]
+http://178.163.38.73:34040/udp/234.0.0.184:2000
+#EXTINF:0 group-title="Сериалы" tvg-id="2833" tvg-logo="http://epg.one/img/2833.png" tvg-rec="3",Хит HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/2438/index.m3u8
-#EXTINF:-1 group-title="Сериалы" tvg-logo="https://iptvx.one/picons/chestny-detektiv.png" tvg-id="chestny-detektiv",Честный детектив HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Сериалы" tvg-logo="https://iptvx.one/picons/chestny-detektiv.png" tvg-id="chestny-detektiv",Честный детектив HD [V]
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
 
 #EXTGRP:Релакс
