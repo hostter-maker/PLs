@@ -1342,66 +1342,50 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/2438/inde
 #EXTINF:0 group-title="Сериалы" tvg-logo="https://iptvx.one/picons/chestny-detektiv.png" tvg-id="chestny-detektiv",Честный детектив HD [V]
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
 
-#EXTGRP:Релакс
-#EXTINF:-1 group-title="Релакс" tvg-id="9234" tvg-logo="http://epg.one/img/9234.png" tvg-rec="3",BOX Lo-Fi HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Релакс" tvg-id="9234" tvg-logo="http://epg.one/img/9234.png" tvg-rec="0",BOX Lo-Fi HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/31545/index.m3u8
-#EXTINF:-1 group-title="Релакс" tvg-id="6708" tvg-logo="http://epg.one/img/6708.png" tvg-rec="3",BOX Relax 4K
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Релакс" tvg-id="6708" tvg-logo="http://epg.one/img/6708.png" tvg-rec="0",BOX Relax 4K [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/19283/index.m3u8
-#EXTINF:-1 group-title="Релакс" tvg-logo="https://deluxemusic.de/wp-content/uploads/sites/4/2023/01/DLXM_LOUNGE_LOGO.png",Deluxe Lounge [DE] HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Релакс" tvg-logo="https://deluxemusic.de/wp-content/uploads/sites/4/2023/01/DLXM_LOUNGE_LOGO.png",Deluxe Lounge [DE] HD [V]
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/9a087b26-8be4-11eb-a7de-bacfe1f83627/0/master.m3u8?country=DE&optout=0&uid=749544ec3d9a45d48c600d03cac91dfd&vendor=philips
-#EXTINF:-1 group-title="Релакс" tvg-logo="https://deluxemusic.de/wp-content/uploads/sites/4/2023/01/DLXM_LOUNGE_LOGO.png",Deluxe Lounge [DE]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Релакс" tvg-logo="https://deluxemusic.de/wp-content/uploads/sites/4/2023/01/DLXM_LOUNGE_LOGO.png",Deluxe Lounge [V]
 https://jmp2.uk/stvp-CHAJ0500413A
-#EXTINF:-1 group-title="Релакс" tvg-id="2745" tvg-logo="http://epg.one/img/2745.png" tvg-rec="3",Home 4K
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Релакс" tvg-id="2745" tvg-logo="http://epg.one/img/2745.png" tvg-rec="3",Home 4K [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/4002/index.m3u8
-#EXTINF:-1 group-title="Релакс" tvg-id="5573" tvg-logo="http://epg.one/img/5573.png" tvg-rec="3",MM Relax HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Релакс" tvg-id="5573" tvg-logo="http://epg.one/img/5573.png" tvg-rec="0",MM Relax HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/13030/index.m3u8
-#EXTINF:-1 group-title="Релакс" tvg-logo="https://play-lh.googleusercontent.com/ebz03u4BtprTtn3ngMViXNKCHC_6423rFdMkKva09RLGTwaOnWo2eQr2nQwrPtbbg8s=w600-h300-pc0xffffff-pd" tvg-id="6035",NatureStream.tv
+#EXTINF:0 group-title="Релакс" tvg-logo="https://play-lh.googleusercontent.com/ebz03u4BtprTtn3ngMViXNKCHC_6423rFdMkKva09RLGTwaOnWo2eQr2nQwrPtbbg8s=w600-h300-pc0xffffff-pd" tvg-id="6035",NatureStream.tv [V]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/naturestreamtv/master.m3u8?ads.vf=igg3JlWa1e0
-#EXTINF:-1 group-title="Релакс" tvg-id="6695" tvg-logo="http://epg.one/img/6695.png" tvg-rec="3",Quadro 4K
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/19262/index.m3u8
-#EXTINF:-1 group-title="Релакс" tvg-logo="http://epg.one/img/6035.png" tvg-id="6035",Sochi Live
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Релакс" tvg-id="" tvg-logo="http://ru.epg.one/img2/6035.png",Sochi Live [V]
 http://serv30.vintera.tv:8081/sochi/sochi_stream/chunks.m3u8
-#EXTINF:-1 group-title="Релакс" channel-id="SamsungTVPlus-USBD3500038R6" tvg-name="Stingray Holidayscapes" tvg-id="USBD3500038R6" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500038R6_20240520T212838SQUARE.png" group-title="Сортировка" tvg-chno="4570",Stingray Holidayscapes HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Релакс" tvg-id="6695" tvg-logo="http://epg.one/img/6695.png" tvg-rec="0",Quadro 4K [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/19262/index.m3u8
+#EXTINF:0 group-title="Релакс" tvg-id="6035" tvg-logo="http://epg.one/img/6035.png" tvg-rec="0",Sochi Live HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/16038/index.m3u8
+#EXTINF:0 group-title="Релакс" channel-id="SamsungTVPlus-USBD3500038R6" tvg-name="Stingray Holidayscapes" tvg-id="USBD3500038R6" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500038R6_20240520T212838SQUARE.png" group-title="Сортировка" tvg-chno="4570",Stingray Holidayscapes HD [V]
 https://d10cyxntpn0bwm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-udbgiwo3vva3o/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD3500038R6
-#EXTINF:-1 group-title="Релакс" channel-id="SamsungTVPlus-USBD3500013DG" tvg-name="Stingray Spa" tvg-id="USBD3500013DG" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500013DG_20240520T212850SQUARE.png" group-title="Сортировка" tvg-chno="4580",Stingray Spa HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Релакс" channel-id="SamsungTVPlus-USBD3500013DG" tvg-name="Stingray Spa" tvg-id="USBD3500013DG" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500013DG_20240520T212850SQUARE.png" group-title="Сортировка" tvg-chno="4580",Stingray Spa HD [V]
 https://d9rd4243pcy92.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-e4dxftqz7hlvi/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD3500013DG
-#EXTINF:-1 group-title="Релакс" tvg-logo="https://hd.traveltv.bg/wp-content/uploads/sites/3/2018/12/ThisIsBG.HDTV_.TV_-500x73.png",This is Bulgaria HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Релакс" tvg-logo="https://hd.traveltv.bg/wp-content/uploads/sites/3/2018/12/ThisIsBG.HDTV_.TV_-500x73.png",This is Bulgaria HD [V]
 https://streamer103.neterra.tv/thisisbulgaria/thisisbulgaria_HD.m3u8
-#EXTINF:-1 group-title="Релакс" tvg-logo="https://sun6-23.userapi.com/s/v1/if1/AqPRb-h9JZz05daoOIWdi7haKVLVE46Mi1EMW0GSmkL_ZCpPcRjNr1PhlTDI3wd51hMXuX76.jpg?size=957x957&quality=96&crop=0,0,957,957&ava=1",VIP TV HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Релакс" tvg-logo="https://sun6-23.userapi.com/s/v1/if1/AqPRb-h9JZz05daoOIWdi7haKVLVE46Mi1EMW0GSmkL_ZCpPcRjNr1PhlTDI3wd51hMXuX76.jpg?size=957x957&quality=96&crop=0,0,957,957&ava=1",VIP TV HD [V]
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/vip.m3u8
-#EXTINF:-1 group-title="Релакс" tvg-logo="https://avatars.mds.yandex.net/get-pdb/3946622/f25f8a24-de20-4c9e-8f05-98db50810075/orig",WORLD HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Релакс" tvg-logo="https://avatars.mds.yandex.net/get-pdb/3946622/f25f8a24-de20-4c9e-8f05-98db50810075/orig",WORLD HD [V]
 http://185.57.68.33/232/index.m3u8
-#EXTINF:-1 group-title="Релакс" tvg-logo="http://epg.one/img/2495.png" tvg-id="zhivaya-priroda",Живая природа HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Релакс" tvg-id="zhivaya-priroda" tvg-logo="https://iptvx.one/picons/zhivaya-priroda.png",Живая природа HD [V]
 http://188.225.31.197/bpk-tv/000001187/tve/index.m3u8
-#EXTINF:-1 group-title="Релакс" tvg-logo="https://i.postimg.cc/SNzCzTBf/5c203420845831-562f213b2e6f7.png",Камин
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Релакс" tvg-id="2495" tvg-logo="http://epg.one/img/2495.png" tvg-rec="3",Живая природа HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/2074/index.m3u8
+#EXTINF:0 group-title="Релакс" tvg-logo="https://play-lh.googleusercontent.com/aj22vhOy55-igoGeWunSYqAGyzZe3WuX2bMNBDx7ypUbXIgOiVFlfDBr5ru3QX0NZg",Камин HD [V]
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R05_KAMINTV/variant.m3u8
-#EXTINF:-1 group-title="Релакс" tvg-logo="https://i.imgur.com/l7BE8l6.png",Сити Эдем - Классическая музыка
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-https://cityeden.catcast.tv/content/47400/index.m3u8
-#EXTINF:-1 group-title="Релакс" tvg-id="4444" tvg-logo="http://epg.one/img/4444.png" tvg-rec="3",Наша Сибирь HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/4003/index.m3u8
-#EXTINF:-1 group-title="Релакс" tvg-id="2746" tvg-logo="http://epg.one/img/2746.png" tvg-rec="3",Наша Сибирь 4K
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Релакс" tvg-id="2746" tvg-logo="http://epg.one/img/2746.png" tvg-rec="3",Наша Сибирь 4K [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/9330/index.m3u8
-#EXTINF:-1 group-title="Релакс" tvg-logo="https://www.cityeden.info/logotv/siti_ehdem-meditacija.png",Сити Эдем - Музыка для медитации
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Релакс" tvg-id="4444" tvg-logo="http://epg.one/img/4444.png" tvg-rec="3",Наша Сибирь HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/4003/index.m3u8
+#EXTINF:0 group-title="Релакс" tvg-logo="https://i.imgur.com/l7BE8l6.png",Сити Эдем - Классическая музыка [V]
+https://cityeden.catcast.tv/content/47400/index.m3u8
+#EXTINF:0 group-title="Релакс" tvg-logo="https://www.cityeden.info/logotv/siti_ehdem-meditacija.png",Сити Эдем - Музыка для медитации
 https://cityeden.catcast.tv/content/47410/index.m3u8
 
 #EXTGRP:Развлекательные
