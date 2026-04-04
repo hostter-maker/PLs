@@ -1,47 +1,86 @@
 #EXTM3U deinterlace=1 m3uautoload=1 url-tvg="https://iptvx.one/EPG; http://epg.one/epg.xml.gz" refresh="86400" tvg-shift=0 cache=500
 
-
-#EXTINF:0 group-title="Релакс" tvg-id="9234" tvg-logo="http://epg.one/img/9234.png" tvg-rec="0",BOX Lo-Fi HD [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/31545/index.m3u8
-#EXTINF:0 group-title="Релакс" tvg-id="6708" tvg-logo="http://epg.one/img/6708.png" tvg-rec="0",BOX Relax 4K [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/19283/index.m3u8
-#EXTINF:0 group-title="Релакс" tvg-logo="https://deluxemusic.de/wp-content/uploads/sites/4/2023/01/DLXM_LOUNGE_LOGO.png",Deluxe Lounge [DE] HD [V]
-https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/9a087b26-8be4-11eb-a7de-bacfe1f83627/0/master.m3u8?country=DE&optout=0&uid=749544ec3d9a45d48c600d03cac91dfd&vendor=philips
-#EXTINF:0 group-title="Релакс" tvg-logo="https://deluxemusic.de/wp-content/uploads/sites/4/2023/01/DLXM_LOUNGE_LOGO.png",Deluxe Lounge [V]
-https://jmp2.uk/stvp-CHAJ0500413A
-#EXTINF:0 group-title="Релакс" tvg-id="2745" tvg-logo="http://epg.one/img/2745.png" tvg-rec="3",Home 4K [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/4002/index.m3u8
-#EXTINF:0 group-title="Релакс" tvg-id="5573" tvg-logo="http://epg.one/img/5573.png" tvg-rec="0",MM Relax HD [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/13030/index.m3u8
-#EXTINF:-1 group-title="Релакс" tvg-logo="https://png.pngtree.com/png-vector/20220906/ourmid/pngtree-mountain-iconlogo-business-template-high-template-wave-vector-png-image_39108408.png",NatureStream.tv
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/naturestreamtv/master.m3u8?ads.vf=igg3JlWa1e0
-#EXTINF:0 group-title="Релакс" tvg-id="" tvg-logo="http://ru.epg.one/img2/6035.png",Sochi Live [V]
-http://serv30.vintera.tv:8081/sochi/sochi_stream/chunks.m3u8
-#EXTINF:0 group-title="Релакс" tvg-id="6695" tvg-logo="http://epg.one/img/6695.png" tvg-rec="0",Quadro 4K [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/19262/index.m3u8
-#EXTINF:0 group-title="Релакс" tvg-id="6035" tvg-logo="http://epg.one/img/6035.png" tvg-rec="0",Sochi Live HD [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/16038/index.m3u8
-#EXTINF:0 group-title="Релакс" channel-id="SamsungTVPlus-USBD3500038R6" tvg-name="Stingray Holidayscapes" tvg-id="USBD3500038R6" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500038R6_20240520T212838SQUARE.png" group-title="Сортировка" tvg-chno="4570",Stingray Holidayscapes HD [V]
-https://d10cyxntpn0bwm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-udbgiwo3vva3o/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD3500038R6
-#EXTINF:0 group-title="Релакс" channel-id="SamsungTVPlus-USBD3500013DG" tvg-name="Stingray Spa" tvg-id="USBD3500013DG" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500013DG_20240520T212850SQUARE.png" group-title="Сортировка" tvg-chno="4580",Stingray Spa HD [V]
-https://d9rd4243pcy92.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-e4dxftqz7hlvi/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD3500013DG
-#EXTINF:0 group-title="Релакс" tvg-logo="https://hd.traveltv.bg/wp-content/uploads/sites/3/2018/12/ThisIsBG.HDTV_.TV_-500x73.png",This is Bulgaria HD [V]
-https://streamer103.neterra.tv/thisisbulgaria/thisisbulgaria_HD.m3u8
-#EXTINF:0 group-title="Релакс" tvg-logo="https://sun6-23.userapi.com/s/v1/if1/AqPRb-h9JZz05daoOIWdi7haKVLVE46Mi1EMW0GSmkL_ZCpPcRjNr1PhlTDI3wd51hMXuX76.jpg?size=957x957&quality=96&crop=0,0,957,957&ava=1",VIP TV HD [V]
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/vip.m3u8
-#EXTINF:0 group-title="Релакс" tvg-logo="https://avatars.mds.yandex.net/get-pdb/3946622/f25f8a24-de20-4c9e-8f05-98db50810075/orig",WORLD HD [V]
-http://185.57.68.33/232/index.m3u8
-#EXTINF:0 group-title="Релакс" tvg-id="zhivaya-priroda" tvg-logo="https://iptvx.one/picons/zhivaya-priroda.png",Живая природа HD [V]
-http://188.225.31.197/bpk-tv/000001187/tve/index.m3u8
-#EXTINF:0 group-title="Релакс" tvg-id="2495" tvg-logo="http://epg.one/img/2495.png" tvg-rec="3",Живая природа HD [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/2074/index.m3u8
-#EXTINF:0 group-title="Релакс" tvg-logo="https://play-lh.googleusercontent.com/aj22vhOy55-igoGeWunSYqAGyzZe3WuX2bMNBDx7ypUbXIgOiVFlfDBr5ru3QX0NZg",Камин HD [V]
-https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R05_KAMINTV/variant.m3u8
-#EXTINF:0 group-title="Релакс" tvg-id="2746" tvg-logo="http://epg.one/img/2746.png" tvg-rec="3",Наша Сибирь 4K [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/9330/index.m3u8
-#EXTINF:0 group-title="Релакс" tvg-id="4444" tvg-logo="http://epg.one/img/4444.png" tvg-rec="3",Наша Сибирь HD [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/4003/index.m3u8
-#EXTINF:0 group-title="Релакс" tvg-logo="https://i.imgur.com/l7BE8l6.png",Сити Эдем - Классическая музыка [V]
-https://cityeden.catcast.tv/content/47400/index.m3u8
-#EXTINF:0 group-title="Релакс" tvg-logo="https://www.cityeden.info/logotv/siti_ehdem-meditacija.png",Сити Эдем - Музыка для медитации
-https://cityeden.catcast.tv/content/47410/index.m3u8
+#EXTINF:0 group-title="Развлекательные" tvg-id="" tvg-logo="https://i.ibb.co/ZcCXw5P/alphaf.png",alpha Funny HD [V]
+https://live.15plusmg.ru/memfs/90b76c71-a86e-488a-aac4-cb66d6f88781.m3u8
+#EXTINF:0 group-title="Развлекательные" tvg-id="" tvg-logo="https://i.imgur.com/ddPUnpQ.png" tvg-rec="0",DTR Zona 1 [V]
+https://kino-stream.online/hls/DTRZONA1.m3u8
+#EXTINF:0 group-title="Развлекательные" tvg-id="gags-network" tvg-logo="https://iptvx.one/picons/gags-network.png",Gags Network HD [V]
+http://188.225.31.197/bpk-tv/000006639/tve/index.m3u8
+#EXTINF:0 group-title="Развлекательные" tvg-id="3551" tvg-logo="http://epg.one/img/3551.png" tvg-rec="0",Gags Network [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/14024/index.m3u8
+#EXTINF:0 group-title="Развлекательные" tvg-id="6181" tvg-logo="http://epg.one/img/6181.png" tvg-rec="0",Liberty Шоу FHD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/17030/index.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6842" tvg-logo="http://epg.one/img/6842.png" tvg-rec="0",MM OldSchool HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/19413/index.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="5165" tvg-logo="http://epg.one/img/5165.png" tvg-rec="0",MM Ситком HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/13052/index.m3u8
+#EXTINF:0 group-title="Взрослые" tvg-id="8847" tvg-logo="http://epg.one/img/8847.png" tvg-rec="0",StrahTV PlayBoyz TV HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/31709/index.m3u8
+#EXTINF:0 group-title="Развлекательные" tvg-id="4733" tvg-logo="http://epg.one/img/4733.png" tvg-rec="7",StrahTV Назад в 90-e [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/11067/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="11589" tvg-logo="http://epg.one/img/11589.png" tvg-rec="0",Venera.TV Экстрасенсы HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/30190/index.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6284" tvg-logo="http://epg.one/img/6284.png" tvg-rec="0",VF Comedy Woman HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/18101/index.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6226" tvg-logo="http://epg.one/img/6226.png" tvg-rec="0",VF Городок HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/18097/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="7595" tvg-logo="http://epg.one/img/7595.png" tvg-rec="0",VF Ералаш HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/14163/index.m3u8
+#EXTINF:0 group-title="Развлекательные" tvg-id="9233" tvg-logo="http://epg.one/img/9233.png" tvg-rec="0",VF Каламбур HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/31557/index.m3u8
+#EXTINF:0 group-title="Развлекательные" tvg-id="7664" tvg-logo="http://epg.one/img/7664.png" tvg-rec="0",VF КВН HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/14170/index.m3u8
+#EXTINF:0 group-title="Развлекательные" tvg-id="7663" tvg-logo="http://epg.one/img/7663.png" tvg-rec="0",VF Концерты HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/14159/index.m3u8
+#EXTINF:0 group-title="Развлекательные" tvg-id="9232" tvg-logo="http://epg.one/img/9232.png" tvg-rec="0",VF Маски Шоу HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/31556/index.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6153" tvg-logo="http://epg.one/img/6153.png" tvg-rec="0",VF Наша Раша HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/17010/index.m3u8
+#EXTINF:0 group-title="Развлекательные" tvg-id="6706" tvg-logo="http://epg.one/img/6706.png" tvg-rec="0",VF Однажды в России HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/19286/index.m3u8
+#EXTINF:0 group-title="Развлекательные" tvg-id="6417" tvg-logo="http://epg.one/img/6417.png" tvg-rec="0",VF Уральские пельмени HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/18198/index.m3u8
+#EXTINF:0 group-title="Развлекательные" tvg-id="6129" tvg-logo="http://epg.one/img/6129.png" tvg-rec="0",VF Юмор 18+ HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/16137/index.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="8791" tvg-logo="http://epg.one/img/8791.png" tvg-rec="0",Z!Fun [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/31706/index.m3u8
+#EXTINF:0 group-title="Развлекательные" tvg-id="anekdottv" tvg-logo="https://iptvx.one/picons/anekdottv.png",Анекдот ТВ [V]
+http://188.225.31.197/bpk-tv/000001921/tve/index.m3u8
+#EXTINF:0 group-title="Развлекательные" tvg-id="2760" tvg-logo="http://epg.one/img/2760.png" tvg-rec="3",Анекдот ТВ [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/5034/index.m3u8
+#EXTINF:0 group-title="Развлекательные" tvg-logo="https://cs6.pikabu.ru/avatars/1017/x1017409-1935654150.png", Бенни Хилл Шоу [V]
+https://fl1001.bozztv.com/ushba62/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Развлекательные" tvg-logo="https://crdtv.net/b/templates/ottch/eralash.png" tvg-id="",Ералаш [V]
+https://fl1001.bozztv.com/ushba8/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Развлекательные" tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/7d/aa/ae/7daaaef9-643e-9969-28b9-c6433f719a7c/source/0x0ss-85.png" tvg-id="",Ералаш 2 [V]
+https://fl1001.bozztv.com/ushba10/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Развлекательные" tvg-logo="https://i.pinimg.com/originals/b5/5a/d8/b55ad81ea7f9b5a357ca8fa37c48ba1f.png",Залипательные Ролики [V]
+https://fl1001.bozztv.com/ushba60/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Общие" tvg-id="kvn-tv" tvg-logo="https://iptvx.one/picons/kvn-tv.png",КВН ТВ [V]
+http://178.163.38.73:34040/udp/234.0.0.233:2000
+#EXTINF:0 group-title="Общие" tvg-id="1700" tvg-logo="http://epg.one/img/1700.png" tvg-rec="7",КВН ТВ [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/546/index.m3u8
+#EXTINF:0 group-title="Развлекательные" tvg-logo="https://pngfre.com/wp-content/uploads/Mr-Bean-5-291x300.png", Мистер Бин HD [V]
+https://fl1001.bozztv.com/ushba45/index.m3u8
+#EXTINF:0 group-title="Развлекательные" tvg-id="perec-int" tvg-logo="https://iptvx.one/picons/perec-int.png" tvg-rec="0",Перец [V]
+http://158.101.222.193:88/georgia_play.php?id=perec
+#EXTINF:0 group-title="Развлекательные" tvg-id="5651" tvg-logo="http://epg.one/img/5651.png" tvg-rec="0",Перец [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/15227/index.m3u8
+#EXTINF:0 group-title="Развлекательные" tvg-logo="https://lh3.googleusercontent.com/JWSxO5T4D5tZuRqHlDY38b982eyKUpB3_Zwg_2PieEHwDH4mfiDmIfqjvRCaJf-44Gk",Приколы [V]
+https://fl1001.bozztv.com/ushba11/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Развлекательные" tvg-logo="https://play-lh.googleusercontent.com/VLTorIywFeSRplrW5k4WCrbeb8NlmbMz_KSusGaveJSqNfkhl6vtNzdNFOhIOW9ZYjc",Приколы 2 [V]
+https://fl1001.bozztv.com/ushba20/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Общие" tvg-id="sarafan" tvg-logo="https://iptvx.one/picons/sarafan.png",Сарафан [V]
+http://31.148.48.15:80/Sarafan/index.m3u8
+#EXTINF:0 group-title="Общие" tvg-id="663" tvg-logo="http://epg.one/img/663.png" tvg-rec="7",Сарафан [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/748/index.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="tvoyo-tv-hd" tvg-logo="https://iptvx.one/picons/tvoyo-tv-hd.png",Твое ТВ HD [V]
+http://tvoetv.space:8080/tvoetv/index.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="5441" tvg-logo="http://epg.one/img/5441.png" tvg-rec="0",Твое ТВ HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/14229/index.m3u8
+#EXTINF:0 group-title="Развлекательные" tvg-logo="https://iptvx.one/picons/tvoetv-humor.png" tvg-id="tvoetv-humor",ТВОЕ ТВ - ЮМОР HD
+http://tvoetv.space:8080/tvoetv_humor/index.m3u8
+#EXTINF:0 group-title="Общие" tvg-id="che" tvg-logo="https://iptvx.one/picons/che.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Че!
+http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
+#EXTINF:0 group-title="Общие" tvg-id="1598" tvg-logo="http://epg.one/img/1598.png" tvg-rec="7",Че!
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/513/index.m3u8
