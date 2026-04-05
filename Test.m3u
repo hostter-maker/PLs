@@ -1,22 +1,344 @@
 #EXTM3U deinterlace=1 m3uautoload=1 url-tvg="https://iptvx.one/EPG; http://epg.one/epg.xml.gz" refresh="86400" tvg-shift=0 cache=500
 
-#EXTINF:-1 tvg-id="" tvg-name="EN| CHRISTMAS 1 4K" tvg-logo="http://103.176.90.95/images/978715.png" group-title="",EN| CHRISTMAS 1 4K
-http://line.iptventes.site:80/5ef441a8dd/32371d61ef32/978715
-#EXTINF:-1 tvg-id="" tvg-name="EN| CHRISTMAS 2 4K" tvg-logo="http://103.176.90.95/images/978714.png" group-title="",EN| CHRISTMAS 2 4K
-http://line.iptventes.site:80/5ef441a8dd/32371d61ef32/978714
-#EXTINF:-1 tvg-id="" tvg-name="EN| CHRISTMAS 3 4K" tvg-logo="http://103.176.90.95/images/978713.png" group-title="",EN| CHRISTMAS 3 4K
-http://line.iptventes.site:80/5ef441a8dd/32371d61ef32/978713
-#EXTINF:-1 tvg-id="" tvg-name="EN| CHRISTMAS 4 4K" tvg-logo="http://103.176.90.95/images/978712.png" group-title="",EN| CHRISTMAS 4 4K
-http://line.iptventes.site:80/5ef441a8dd/32371d61ef32/978712
-#EXTINF:-1 tvg-id="" tvg-name="EN| CHRISTMAS 5 4K" tvg-logo="http://103.176.90.95/images/978710.png" group-title="",EN| CHRISTMAS 5 4K
-http://line.iptventes.site:80/5ef441a8dd/32371d61ef32/978710
-#EXTINF:-1 tvg-id="" tvg-name="EN| CHRISTMAS 6 4K" tvg-logo="http://103.176.90.95/images/978709.png" group-title="",EN| CHRISTMAS 6 4K
-http://line.iptventes.site:80/5ef441a8dd/32371d61ef32/978709
-#EXTINF:-1 tvg-id="" tvg-name="EN| CHRISTMAS 7 4K" tvg-logo="http://103.176.90.95/images/978708.png" group-title="",EN| CHRISTMAS 7 4K
-http://line.iptventes.site:80/5ef441a8dd/32371d61ef32/978708
-#EXTINF:-1 tvg-id="" tvg-name="EN| CHRISTMAS 8 4K" tvg-logo="http://103.176.90.95/images/978707.png" group-title="",EN| CHRISTMAS 8 4K
-http://line.iptventes.site:80/5ef441a8dd/32371d61ef32/978707
-#EXTINF:-1 tvg-id="" tvg-name="EN| CHRISTMAS 9 4K" tvg-logo="http://103.176.90.95/images/978706.png" group-title="",EN| CHRISTMAS 9 4K
-http://line.iptventes.site:80/5ef441a8dd/32371d61ef32/978706
-#EXTINF:-1 tvg-id="" tvg-name="EN| CHRISTMAS 10 4K" tvg-logo="http://103.176.90.95/images/978705.png" group-title="",EN| CHRISTMAS 10 4K
-http://line.iptventes.site:80/5ef441a8dd/32371d61ef32/978705
+#EXTINF:0 group-title="Познавательные" tvg-id="animal-planet-eu" tvg-logo="https://iptvx.one/picons/animal-planet-eu.png",Animal Planet HD [V]
+http://188.225.31.197/bpk-tv/000000216/tve/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="365" tvg-logo="http://epg.one/img/365.png" tvg-rec="7",Animal Planet HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/218/index.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="8769" tvg-logo="http://epg.one/img/8769.png" tvg-rec="0",BCU Russia 90s HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/31658/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="big-planet" tvg-logo="https://iptvx.one/picons/big-planet.png",Big Planet HD [V]
+http://188.225.31.197/bpk-tv/000008052/tve/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="7623" tvg-logo="http://epg.one/img/7623.png" tvg-rec="0",Big Planet HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/20036/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="8818" tvg-logo="http://epg.one/img/8818.png" tvg-rec="0",BOX AutoTrend HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/31654/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="7662" tvg-logo="http://epg.one/img/7662.png" tvg-rec="0",BOX Docu HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/20153/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="9301" tvg-logo="http://epg.one/img/9301.png" tvg-rec="0",BOX History 4K HDR [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/31546/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="9303" tvg-logo="http://epg.one/img/9303.png" tvg-rec="0",BOX Kosmo 4K HDR [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/31548/index.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="7493" tvg-logo="http://epg.one/img/7493.png" tvg-rec="0",BOX Mayday HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/20159/index.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6701" tvg-logo="http://epg.one/img/6701.png" tvg-rec="0",BOX Memory HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/19279/index.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="7489" tvg-logo="http://epg.one/img/7489.png" tvg-rec="0",BOX Stories HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/20155/index.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6831" tvg-logo="http://epg.one/img/6831.png" tvg-rec="0",BOX Travel HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/19418/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="8816" tvg-logo="http://epg.one/img/8816.png" tvg-rec="0",BOX Travel Premiere HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/31652/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="7266" tvg-logo="http://epg.one/img/7266.png" tvg-rec="3",Curiosity Stream HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/9072/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="da-vinci" tvg-logo="https://iptvx.one/picons/da-vinci.png",Da Vinci [V]
+http://188.225.31.197/bpk-tv/000000333/tve/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="410" tvg-logo="http://epg.one/img/410.png" tvg-rec="7",Da Vinci [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/537/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="discovery-channel" tvg-logo="https://iptvx.one/picons/discovery-channel.png",Discovery Channel HD [V]
+http://188.225.31.197/bpk-tv/000001496/tve/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="325" tvg-logo="http://epg.one/img/325.png" tvg-rec="7",Discovery Channel HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/227/index.m3u8
+#EXTINF:0 group-title="Развлекательные" tvg-id="epic" tvg-logo="https://iptvx.one/picons/epic.png",Ep!c [V]
+http://193.25.8.59:8000/dtx
+#EXTINF:0 group-title="Развлекательные" tvg-id="9054" tvg-logo="http://epg.one/img/9054.png" tvg-rec="3",Ep!c HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/2054/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="galaxy-tv" tvg-logo="https://iptvx.one/picons/galaxy-tv.png",Galaxy HD [V]
+http://188.225.31.197/bpk-tv/000000332/tve/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="2418" tvg-logo="http://epg.one/img/2418.png" tvg-rec="3",Galaxy HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/5045/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="history" tvg-logo="https://iptvx.one/picons/history.png",History HD [V]
+http://188.225.31.197/bpk-tv/000001000/tve/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="1394" tvg-logo="http://epg.one/img/1394.png" tvg-rec="7",History FHD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/837/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="2356" tvg-logo="http://epg.one/img/2356.png" tvg-rec="7",History 2 FHD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/2033/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="2507" tvg-logo="http://epg.one/img/2507.png" tvg-rec="3",Investigation Discovery FHD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/9322/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="5598" tvg-logo="http://epg.one/img/5598.png" tvg-rec="0",Liberty BBC FHD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/15108/index.m3u8
+#EXTINF:0 group-title="Развлекательные" tvg-id="5599" tvg-logo="http://epg.one/img/5599.png" tvg-rec="0",Liberty Авто Гир FHD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/15109/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="6739" tvg-logo="http://epg.one/img/6739.png" tvg-rec="0",Liberty Наука FHD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/19305/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="6177" tvg-logo="http://epg.one/img/6177.png" tvg-rec="0",Liberty Планета 360 FHD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/17026/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="6845" tvg-logo="http://epg.one/img/6845.png" tvg-rec="0",MM Experiment HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/19412/index.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="5208" tvg-logo="http://epg.one/img/5208.png" tvg-rec="0",MM Live Planet HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/13095/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="6411" tvg-logo="http://epg.one/img/6411.png" tvg-rec="0",MM Макромир HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/18194/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="6412" tvg-logo="http://epg.one/img/6412.png" tvg-rec="0",MM Мегамир HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/18195/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="6410" tvg-logo="http://epg.one/img/6410.png" tvg-rec="0",MM Микромир HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/18193/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="6846" tvg-logo="http://epg.one/img/6846.png" tvg-rec="0",MM Открытия HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/19415/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="7621" tvg-logo="http://epg.one/img/7621.png" tvg-rec="0",Museum 4K UHD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/14016/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="3304" tvg-logo="http://epg.one/img/3304.png" tvg-rec="0",Museum TV HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/20032/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="2428" tvg-logo="http://epg.one/img/2428.png" tvg-rec="3",Nano [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/2081/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="nat-geo-wild" tvg-logo="https://iptvx.one/picons/nat-geo-wild.png",Nat Geo Wild HD [V]
+http://188.225.31.197/bpk-tv/000004474/tve/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="223" tvg-logo="http://epg.one/img/223.png" tvg-rec="3",Nat Geo Wild FHD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/2415/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="national-geographic" tvg-logo="https://iptvx.one/picons/national-geographic.png",National Geographic HD [V]
+http://188.225.31.197/bpk-tv/000000034/tve/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="102" tvg-logo="http://epg.one/img/102.png" tvg-rec="0",National Geographic HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/14001/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="648" tvg-logo="http://epg.one/img/648.png" tvg-rec="7",RTG HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/210/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="2280" tvg-logo="http://epg.one/img/2280.png" tvg-rec="7",RTG TV [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/841/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-logo="https://i.pinimg.com/736x/3d/c5/bc/3dc5bc334f8d478a2793c4d98a5d6f6f--youtube-com.jpg",Star Media [V]
+https://fl1001.bozztv.com/ushba4/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="4778" tvg-logo="http://epg.one/img/4778.png" tvg-rec="7",StrahTV Космо HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/11065/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="terra-ru" tvg-logo="https://iptvx.one/picons/terra-ru.png",TERRA HD [V]
+http://188.225.31.197/bpk-tv/000008142/tve/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="7632" tvg-logo="http://epg.one/img/7632.png" tvg-rec="3",TERRA HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/2416/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="9082" tvg-logo="http://epg.one/img/9082.png" tvg-rec="0",The Explorers HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/16035/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="613" tvg-logo="http://epg.one/img/613.png" tvg-rec="3",Travel Channel HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/9025/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="travel-adventure" tvg-logo="https://iptvx.one/picons/travel-adventure.png",Travel+Adventure HD [V]
+http://31.148.48.15:80/Travel_Adventure_HD/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="1035" tvg-logo="http://epg.one/img/1035.png" tvg-rec="3",Travel+Adventure HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/9019/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="9154" tvg-logo="http://epg.one/img/9154.png" tvg-rec="0",TravelXP 4K UHD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/20031/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="7617" tvg-logo="http://epg.one/img/7617.png" tvg-rec="0",TravelXP 4K UHD HDR [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/14026/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="9155" tvg-logo="http://epg.one/img/9155.png" tvg-rec="0",TravelXP HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/15018/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-logo="https://iptvx.one/picons/tv-brics.png" tvg-id="tv-brics",Tv Brics HD [V]
+http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="univer-tv" tvg-logo="https://iptvx.one/picons/univer-tv.png",Univer TV HD [V]
+http://cdn.universmotri.ru/live/univer.sdp_1080p/playlist.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="5600" tvg-logo="http://epg.one/img/5600.png" tvg-rec="0",Univer TV [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/15113/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="11553" tvg-logo="http://epg.one/img/11553.png" tvg-rec="0",Venera.TV Космос HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/30197/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="11595" tvg-logo="http://epg.one/img/11595.png" tvg-rec="0",Venera.TV Подводная одиссея HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/30196/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="5991" tvg-logo="http://epg.one/img/5991.png" tvg-rec="0",VF Авто HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/15511/index.m3u8
+#EXTINF:0 group-title="Развлекательные" tvg-id="6419" tvg-logo="http://epg.one/img/6419.png" tvg-rec="0",VF Баня HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/18200/index.m3u8
+#EXTINF:0 group-title="Развлекательные" tvg-id="9328" tvg-logo="http://epg.one/img/9328.png" tvg-rec="0",VF Орел и решка HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/31476/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="5992" tvg-logo="http://epg.one/img/5992.png" tvg-rec="0",VF Охота HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/15513/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="5994" tvg-logo="http://epg.one/img/5994.png" tvg-rec="0",VF Путешествия HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/15515/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="6124" tvg-logo="http://epg.one/img/6124.png" tvg-rec="0",VF Рыбалка HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/16138/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="6125" tvg-logo="http://epg.one/img/6125.png" tvg-rec="0",VF Стройка HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/16139/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="viasat-explore" tvg-logo="https://iptvx.one/picons/viasat-explore.png",Viju Explore HD [V]
+http://188.225.31.197/bpk-tv/000004157/tve/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="521" tvg-logo="http://epg.one/img/521.png" tvg-rec="3",Viju Explore HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/6381/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="viasat-history" tvg-logo="https://iptvx.one/picons/viasat-history.png",Viju History HD [V]
+http://188.225.31.197/bpk-tv/000005528/tve/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="277" tvg-logo="http://epg.one/img/277.png" tvg-rec="7",Viju History HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/203/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="viasat-nature" tvg-logo="https://iptvx.one/picons/viasat-nature.png",Viju Nature HD [V]
+http://188.225.31.197/bpk-tv/000006482/tve/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="765" tvg-logo="http://epg.one/img/765.png" tvg-rec="0",Viju Nature HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/15225/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="2012" tvg-logo="http://epg.one/img/2012.png" tvg-rec="3",Viju+ Planet HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/9027/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="8813" tvg-logo="http://epg.one/img/8813.png" tvg-rec="0",Yosso TV Nature HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/31618/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="8812" tvg-logo="http://epg.one/img/8812.png" tvg-rec="0",Yosso TV Science HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/31617/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="8814" tvg-logo="http://epg.one/img/8814.png" tvg-rec="0",Yosso TV Travel HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/31619/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="8822" tvg-logo="http://epg.one/img/8822.png" tvg-rec="0",Z!Science [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/31705/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="6213" tvg-logo="http://epg.one/img/6213.png" tvg-rec="0",Z!Travel [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/17063/index.m3u8
+#EXTINF:0 group-title="Развлекательные" tvg-id="zoopark" tvg-logo="https://iptvx.one/picons/zoopark.png",Zоопарк [V]
+http://178.163.38.73:34040/udp/234.0.0.216:2000
+#EXTINF:0 group-title="Развлекательные" tvg-id="367" tvg-logo="http://epg.one/img/367.png" tvg-rec="3",Zоопарк HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/9097/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="avto24" tvg-logo="https://iptvx.one/picons/avto24.png",Авто 24 [V]
+http://188.225.31.197/bpk-tv/000000815/tve/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="2008" tvg-logo="http://epg.one/img/2008.png" tvg-rec="0",Авто 24 HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/20033/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="avto-plus" tvg-logo="https://iptvx.one/picons/avto-plus.png",Авто Плюс [V]
+http://31.148.48.15:80/Avto_Plus/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="153" tvg-logo="http://epg.one/img/153.png" tvg-rec="3",Авто Плюс HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/6369/index.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://img.hhcdn.ru/employer-logo/1978551.png",АригУс HD [V]
+https://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R01_ARIGUS/variant.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="2498" tvg-logo="http://epg.one/img/2498.png" tvg-rec="3",В мире животных HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/2089/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="voprosy-i-otvety" tvg-logo="https://iptvx.one/picons/voprosy-i-otvety.png",Вопросы и ответы [V]
+http://188.225.31.197/bpk-tv/000000195/tve/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="2451" tvg-logo="http://epg.one/img/2451.png" tvg-rec="7",Вопросы и ответы [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/2026/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="5979" tvg-logo="http://epg.one/img/5979.png" tvg-rec="0",Глазами Туриста 4K UHD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/15191/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="glazami-turista" tvg-logo="https://iptvx.one/picons/glazami-turista.png",Глазами Туриста HD [V]
+http://188.225.31.197/bpk-tv/000001414/tve/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="2508" tvg-logo="http://epg.one/img/2508.png" tvg-rec="3",Глазами Туриста HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/2104/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="dialogi-o-rybalke" tvg-logo="https://iptvx.one/picons/dialogi-o-rybalke.png",Диалоги о рыбалке [V]
+http://188.225.31.197/bpk-tv/000003174/tve/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="2627" tvg-logo="http://epg.one/img/2627.png" tvg-rec="3",Диалоги о рыбалке HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/2394/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="dikaya-oxota-hd" tvg-logo="https://iptvx.one/picons/dikaya-oxota-hd.png",Дикая охота HD [V]
+http://178.163.38.73:34040/udp/234.0.0.11:2000
+#EXTINF:0 group-title="Познавательные" tvg-id="2483" tvg-logo="http://epg.one/img/2483.png" tvg-rec="7",Дикая охота HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/2004/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="2484" tvg-logo="http://epg.one/img/2484.png" tvg-rec="7",Дикая рыбалка HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/2005/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="2283" tvg-logo="http://epg.one/img/2283.png" tvg-rec="7",Дикий [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/847/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="domashnie-zhivotnye" tvg-logo="https://iptvx.one/picons/domashnie-zhivotnye.png",Домашние Животные [V]
+http://188.225.31.197/bpk-tv/000000146/tve/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="520" tvg-logo="http://epg.one/img/520.png" tvg-rec="7",Домашние Животные [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/158/index.m3u8
+#EXTINF:0 group-title="Развлекательные" tvg-id="drive" tvg-logo="https://iptvx.one/picons/drive.png",Драйв [V]
+http://185.46.16.239:8000/Drayv
+#EXTINF:0 group-title="Развлекательные" tvg-id="2443" tvg-logo="http://epg.one/img/2443.png" tvg-rec="0",Драйв HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/9068/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="zhivaya-planeta" tvg-logo="https://iptvx.one/picons/zhivaya-planeta.png",Живая Планета [V]
+http://185.46.16.239:8000/Zhivaya_Planeta
+#EXTINF:0 group-title="Познавательные" tvg-id="2432" tvg-logo="http://epg.one/img/2432.png" tvg-rec="3",Живая Планета [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/2101/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="2495" tvg-logo="http://epg.one/img/2495.png" tvg-rec="3",Живая природа HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/2074/index.m3u8
+#EXTINF:0 group-title="Развлекательные" tvg-id="zagorodnaya-zhizn" tvg-logo="https://iptvx.one/picons/zagorodnaya-zhizn.png",Загородная Жизнь HD [V]
+http://188.225.31.197/bpk-tv/000000289/tve/index.m3u8
+#EXTINF:0 group-title="Развлекательные" tvg-id="2298" tvg-logo="http://epg.one/img/2298.png" tvg-rec="0",Загородная Жизнь HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/7348/index.m3u8
+#EXTINF:0 group-title="Общие" tvg-id="2463" tvg-logo="http://epg.one/img/2463.png" tvg-rec="3",Загородный [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/2099/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="zagorodny-int" tvg-logo="https://iptvx.one/picons/zagorodny-int.png",Загородный International HD [V]
+https://livetv.mylifeisgood.net.ru/channels/zagorodint.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="2513" tvg-logo="http://epg.one/img/2513.png" tvg-rec="3",Загородный International HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/2124/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="zootv" tvg-logo="https://iptvx.one/picons/zootv.png",Зоо ТВ HD [V]
+http://188.225.31.197/bpk-tv/000000260/tve/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="2431" tvg-logo="http://epg.one/img/2431.png" tvg-rec="3",Зоо ТВ [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/2100/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="istoria" tvg-logo="https://iptvx.one/picons/istoria.png",История [V]
+http://185.46.16.239:8000/Istoriya
+#EXTINF:0 group-title="Познавательные" tvg-id="1036" tvg-logo="http://epg.one/img/1036.png" tvg-rec="7",История [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/111/index.m3u8
+#EXTINF:0 group-title="Общие" tvg-id="2456" tvg-logo="http://epg.one/img/2456.png" tvg-rec="7",Кто есть кто [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/2042/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="mir-uvlecheniy" tvg-logo="https://iptvx.one/picons/mir-uvlecheniy.png",Кто Куда [V]
+http://188.225.31.197/bpk-tv/000001377/tve/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="2467" tvg-logo="http://epg.one/img/2467.png" tvg-rec="3",Кто Куда [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/2112/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg",Лекторий Достоевский [V]
+https://fl1001.bozztv.com/ushba3/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="5642" tvg-logo="http://epg.one/img/5642.png" tvg-rec="0",Мир Вокруг HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/15219/index.m3u8
+#EXTINF:0 group-title="Общие" tvg-id="moskovsky-obrazovatelny" tvg-logo="https://iptvx.one/picons/moskovsky-obrazovatelny.png",Московский образовательный [V]
+http://retc.educom.ru/mosobrtv/tv2/index.m3u8
+#EXTINF:0 group-title="Общие" tvg-id="6037" tvg-logo="http://epg.one/img/6037.png" tvg-rec="0",Московский образовательный [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/16043/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="2028" tvg-logo="http://epg.one/img/2028.png" tvg-rec="0",Моя Стихия HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/7349/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="muzhskoy" tvg-logo="https://iptvx.one/picons/muzhskoy.png",Мужской HD [V]
+http://188.225.31.197/bpk-tv/000000286/tve/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="2444" tvg-logo="http://epg.one/img/2444.png" tvg-rec="0",Мужской HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/20035/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="2521" tvg-logo="http://epg.one/img/2521.png" tvg-rec="3",Нано ТВ HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/9271/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="723" tvg-logo="http://epg.one/img/723.png" tvg-rec="3",Наука HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/2155/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="nauka-20" tvg-logo="https://iptvx.one/picons/nauka-20.png",Наука 2.0 [V]
+http://vod.tuva.ru/nauka2/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="11352" tvg-logo="http://epg.one/img/11352.png" tvg-rec="0",Научпоп HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/31924/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="nasha-tema" tvg-logo="https://iptvx.one/picons/nasha-tema.png",Наша Тема HD [V]
+http://live-3.otcnet.ru/nashatema/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="2433" tvg-logo="http://epg.one/img/2433.png" tvg-rec="3",Наша Тема [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/2118/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-logo="https://iptvx.one/picons/neizvestnaya-planeta.png" tvg-id="neizvestnaya-planeta",Неизвестная планета HD [V]
+http://stitch.teletarget.ru/api/v1/hls/vintera/neplaneta/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="neizvestnaya-rosia" tvg-logo="https://iptvx.one/picons/neizvestnaya-rosia.png",Неизвестная Россия HD [V]
+https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="9015" tvg-logo="http://epg.one/img/9015.png" tvg-rec="0",Неизвестная Россия HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/16087/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="55" tvg-logo="http://epg.one/img/55.png" tvg-rec="7",Океан [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/703/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="oruzhie" tvg-logo="https://iptvx.one/picons/oruzhie.png",Оружие [V]
+http://188.225.31.197/bpk-tv/000000308/tve/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="2430" tvg-logo="http://epg.one/img/2430.png" tvg-rec="3",Оружие [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/2087/index.m3u8
+#EXTINF:0 group-title="Общие" tvg-id="otkryty-mir" tvg-logo="https://iptvx.one/picons/otkryty-mir.png",Открытый мир [V]
+http://v4.proofix.ru/0mir/index.m3u8
+#EXTINF:0 group-title="Общие" tvg-id="2462" tvg-logo="http://epg.one/img/2462.png" tvg-rec="3",Открытый мир [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/2078/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="oxota-i-rybalka" tvg-logo="https://iptvx.one/picons/oxota-i-rybalka.png",Охота и рыбалка [V]
+http://178.163.38.73:34040/udp/234.0.0.230:2000
+#EXTINF:0 group-title="Познавательные" tvg-id="2419" tvg-logo="http://epg.one/img/2419.png" tvg-rec="7",Охота и рыбалка [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/2019/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="1681" tvg-logo="http://epg.one/img/1681.png" tvg-rec="7",Охотник и Рыболов HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/917/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="2310" tvg-logo="http://epg.one/img/2310.png" tvg-rec="7",Первый космический HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/908/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="2434" tvg-logo="http://epg.one/img/2434.png" tvg-rec="3",Пёс и Ко [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/2123/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="moya-planeta" tvg-logo="https://iptvx.one/picons/moya-planeta.png",Планета HD [V]
+http://188.225.31.197/bpk-tv/000001049/tve/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="675" tvg-logo="http://epg.one/img/675.png" tvg-rec="3",Планета HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/2090/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="poexali" tvg-logo="https://iptvx.one/picons/poexali.png",Поехали! [V]
+http://188.225.31.197/bpk-tv/000002991/tve/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="2350" tvg-logo="http://epg.one/img/2350.png" tvg-rec="7",Поехали! [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/135/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="2311" tvg-logo="http://epg.one/img/2311.png" tvg-rec="7",Приключения HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/920/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-logo="https://iptvx.one/picons/pro-business.png" tvg-id="pro-business",Про Бизнес [V]
+https://tv-streaming.bsh.ru:21938/probusiness/probusiness.stream/chunklist.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="prosveschenie" tvg-logo="https://iptvx.one/picons/prosveschenie.png",Просвещение [V]
+http://cdn-01.bonus-tv.ru/prosveschenie_edge/tracks-v1a1/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-logo="https://iptvx.one/picons/reportior-73.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="reportior-73",Репортер 73 [V]
+http://rt-vlg-ul-htlive.cdn.ngenix.net/hls/CH_R03_REP73/variant.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-logo="https://iptvx.one/picons/rybalka-i-oxota.png" tvg-id="rybalka-i-oxota",Рыбалка и охота [V]
+http://188.225.31.197/bpk-tv/000002510/tve/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="2466" tvg-logo="http://epg.one/img/2466.png" tvg-rec="3",Связист ТВ HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/9291/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-logo="https://i.imgur.com/qpe8L27.png",Сити Эдем - АвтоГид [V]
+http://cityeden.catcast.tv/content/47515/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="sovsek" tvg-logo="https://iptvx.one/picons/sovsek.png",Совершенно секретно [V]
+http://178.163.38.73:34040/udp/234.0.0.185:2000
+#EXTINF:0 group-title="Познавательные" tvg-id="275" tvg-logo="http://epg.one/img/275.png" tvg-rec="7",Совершенно секретно [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/121/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="2426" tvg-logo="http://epg.one/img/2426.png" tvg-rec="3",Тайна [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/9316/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-logo="https://iptvx.one/picons/tv21plus.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="tv21plus",ТВ-21+ [V]
+https://rt-nw-murm-htlive.cdn.ngenix.net/hls/CH_R01_TV21PLUS/variant.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-logo="https://pic.rutubelist.ru/user/2025-02-10/dd/19/dd197f4b85debc85dc178bb8458b959f.jpg",Телеканал Сок ТВ [V]
+http://sok.ath.cx:8080/941f070df772290824bdf3906afc01f9/video.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="teleputeshestvia" tvg-logo="https://iptvx.one/picons/teleputeshestvia.png",Телепутешествия [V]
+http://31.148.48.15:80/Teleputeshestviya/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="2424" tvg-logo="http://epg.one/img/2424.png" tvg-rec="3",Телепутешествия [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/2051/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-logo="https://iptvx.one/picons/tivisi-hd.png" tvg-id="tivisi-hd",ТиВиСи HD [V]
+https://zrnr369ssda.a.trbcdn.net/livemaster/rpwpuqsjap_tvstv/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="tochka-otryva" tvg-logo="https://iptvx.one/picons/tochka-otryva.png",Точка Отрыва [V]
+http://188.225.31.197/bpk-tv/000003208/tve/index.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="617" tvg-logo="http://epg.one/img/617.png" tvg-rec="0",Точка Отрыва HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/20034/index.m3u8
+#EXTINF:0 group-title="Общие" tvg-id="2457" tvg-logo="http://epg.one/img/2457.png" tvg-rec="3",Точка ТВ [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/2053/index.m3u8
+#EXTINF:0 group-title="Развлекательные" tvg-id="415" tvg-logo="http://epg.one/img/415.png" tvg-rec="7",Точка.РФ FHD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/226/index.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6361" tvg-logo="http://epg.one/img/6361.png" tvg-rec="0",Триколор Знание [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/18134/index.m3u8
+#EXTINF:0 group-title="Развлекательные" tvg-id="usadba" tvg-logo="https://iptvx.one/picons/usadba.png",Усадьба [V]
+http://178.163.38.73:34040/udp/234.0.0.220:2000
+#EXTINF:0 group-title="Развлекательные" tvg-id="434" tvg-logo="http://epg.one/img/434.png" tvg-rec="0",Усадьба HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/9071/index.m3u8
