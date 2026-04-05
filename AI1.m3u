@@ -2026,11 +2026,11 @@ https://janus.xpbroadcasting.com:8443/hls/popworld.m3u8
 https://listen.powerapp.com.tr/dance/dance.smil/playlist.m3u8
 #EXTINF:0 group-title="Музыка 1" tvg-logo="https://cdn-profiles.tunein.com/s2862/images/logog.png?t=1",Power Hit Radio [V]
 https://cdnlb.tvplayhome.lt/live/eds/PWR_LTU_Live/GO3_LIVE_HLS/PWR_LTU_Live.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NDczNDU2NjEsInBhdGgiOiIvbGl2ZS9lZHMvUFdSX0xUVV9MaXZlL0dPM19MSVZFX0hMUy8iLCJzaXAiOiI3Mi4xMS4xNTcuMTEyIiwiZGV2aWNlX2lkIjoiMCIsInNlc3Npb25faWQiOiIwIiwiY2xpZW50X2lkIjoiMCJ9.oHc5wUgwNPQ-4P7wJy_WvWQh0muFg9Lprhc4STS3cUHi0FI4tAKGdZOOeE-dOhVBHKFUYETmoXSMrrVHOeLC3g
-#EXTINF:0 group-title="Музыка 1" tvg-logo="https://nevolna.ru/uploads/admin/images/radios/6MwrG9ksLlbKG2QKaRQlb5gDSI63NOY4-sm.jpg",Power Love HD [V]
+#EXTINF:0 group-title="Музыка 1" tvg-logo="https://www.parsatv.com/index_files/channels/powerlove.png",Power Love HD [V]
 https://listen.powerapp.com.tr/plove/love.smil/playlist.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-logo="https://iptvx.one/picons/powertv-pl.png" tvg-id="powertv-pl",Power TV HD [V]
+#EXTINF:0 group-title="Музыка 1" tvg-logo="https://www.canlitv.legal/kanallar/power-tv-hd-izle.png" tvg-id="powertv-pl",Power TV HD [V]
 https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Qmusic_logo.svg/1004px-Qmusic_logo.svg.png",Q MUSIC HD [V]
+#EXTINF:0 group-title="Музыка 1" tvg-logo="https://www.mediaspecs.be/wp-content/uploads/2020/08/Qmusic-logo2020.png",Q MUSIC HD [V]
 https://stream.qmusic.nl/qmusic/videohls.m3u8
 #EXTINF:0 group-title="Музыка 1" tvg-logo="https://fm.radiobaza.com/images/56039_category.jpg",Radio Freccia HD [V]
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist.m3u8
@@ -2038,7 +2038,7 @@ https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/pl
 https://media.velcom.it:8081/RadioImmagineTV/index.fmp4.m3u8
 #EXTINF:0 group-title="Музыка 1" tvg-logo="https://iptvx.one/picons/radio-italia-tv-it.png" tvg-id="radio-italia-tv-it",Radio Italia TV [V]
 https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/master.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Radio_m2o_-_Logo_2019.svg/1097px-Radio_m2o_-_Logo_2019.svg.png",Radio M2O HD [V]
+#EXTINF:0 group-title="Музыка 1" tvg-logo="https://www.phonostar.de/images/auto_created/m2o_4184x184.png",Radio M2O HD [V]
 http://streamcdnm5-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/index.m3u8
 #EXTINF:0 group-title="Музыка 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Logo_radiozeta_2017.jpg/250px-Logo_radiozeta_2017.jpg",Radio ZETA HD [V]
 https://streamcdnb1-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/chunklist.m3u8
@@ -2086,7 +2086,7 @@ https://fl1001.bozztv.com/ushba-t4/tracks-v1a1/mono.m3u8
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/10073/index.m3u8
 #EXTINF:0 group-title="Музыка 1" tvg-id="4042" tvg-logo="http://epg.one/img/4042.png" tvg-rec="0",Stingray iConcerts HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/9056/index.m3u8
-#EXTINF:0 group-title="Музыка 1" tvg-id="8154" tvg-logo="http://ru.epg.one/img/8154.png" tvg-rec="0",Stingray iConcerts HD [E]
+#EXTINF:0 group-title="Музыка 1" tvg-id="8154" tvg-logo="http://ru.epg.one/img/8154.png" tvg-rec="0",Stingray iConcerts HD [DE] [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/31417/index.m3u8
 #EXTINF:0 group-title="Музыка 1" tvg-logo="https://i.imgur.com/rKkHhkX.png",Stryk TV HD [V]
 https://fffffff110156200.tvustream.com:8298/ryfy.m3u8
@@ -2102,7 +2102,7 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/13001/ind
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-brazuca/encrypted.m3u8?ads.vf=5QzwnXm_tO0
 #EXTINF:0 group-title="Музыка 1" tvg-logo="https://iptvx.one/picons/trace-latina-fr.png" tvg-id="trace-latina-fr",Trace Latina [V]
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-latina/encrypted.m3u8?ads.vf=8rE20DsHHI0
-#EXTINF:0 group-title="Музыка 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Trace_UK.png/250px-Trace_UK.png",Trace UK [V]
+#EXTINF:0 group-title="Музыка 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Trace_UK_Logo.png",Trace UK [V]
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-uk/encrypted.m3u8?ads.vf=cgXMgPi7oBS
 #EXTINF:0 group-title="Музыка 1" tvg-logo="https://iptvx.one/picons/trace-urban.png" tvg-id="trace-urban",Trace Urban HD [V]
 http://188.225.31.197/bpk-tv/000001661/tve/index.m3u8
@@ -2246,6 +2246,90 @@ http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/14152/index.m3u8
 #EXTINF:0 group-title="Музыка 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyL7UqnjqQaLJHi34SFvc3qJzr0VDkXvyg3g&s",Хөг-жим HD [V]
 https://cdn4.skygo.mn/live/disk1/Khugjim/DASH-FTA/Khugjim.mpd
+
+
+#EXTINF:0 group-title="Музыка 2" tvg-id="" tvg-logo="https://www.88stereo.com/wp-content/uploads/2017/05/88Stereo-logoweb.png",88 Stereo [V]
+http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
+#EXTINF:0 group-title="Музыка 2" tvg-id="" tvg-logo="https://yootv.online/images/logo-channel/afn-music-tv.png",AFN Music [V]
+https://bozztv.com/1gbw5/tintv2/tintv2/chunklist.m3u8
+#EXTINF:0 group-title="Музыка 2" tvg-id="" tvg-logo="https://static.wixstatic.com/media/dd5ade_e940fbb6f34249b4b2e9a7c0050ba5db~mv2.png",Alpe d’Huez TV HD [V]
+https://edge13.vedge.infomaniak.com/livecast/ik:adhtv/manifest.m3u8
+#EXTINF:0 group-title="Музыка 2" tvg-id="4651" tvg-logo="http://epg.one/img/4651.png" tvg-rec="7",Baraza Music HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/10077/index.m3u8
+#EXTINF:0 group-title="Музыка 2" tvg-id="11350" tvg-logo="http://epg.one/img/11350.png" tvg-rec="0",Bridge Этно HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/31922/index.m3u8
+#EXTINF:0 group-title="Музыка 2" tvg-id="7555" tvg-logo="http://epg.one/img/7555.png" tvg-rec="0",Classic Music HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/14009/index.m3u8
+#EXTINF:0 group-title="Музыка 2" tvg-id="clubbing-tv" tvg-logo="https://iptvx.one/picons/clubbing-tv.png",Clubbing TV HD [V]
+https://d1j2csarxnwazk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-uze1m6xh4fiyr-ssai-prd/master.m3u8
+#EXTINF:0 group-title="Музыка 2" tvg-id="2628" tvg-logo="http://epg.one/img/2628.png" tvg-rec="3",Clubbing TV HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/2395/index.m3u8
+#EXTINF:0 group-title="Музыка 2" tvg-id="" tvg-logo="https://i3radio.com/userfiles-aplin/avatars/logos-7700179603.jpg",DANCE TV ALGORHITHM HD [V]
+https://m2b2.worldcast.tv:7443/dancetelevisionfour/dancetelevisionfour.m3u8
+#EXTINF:0 group-title="Музыка 2" tvg-id="" tvg-logo="https://i3radio.com/userfiles-aplin/avatars/logos-7700179603.jpg",DANCE TV Best of Dance HD [V]
+https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
+#EXTINF:0 group-title="Музыка 2" tvg-id="" tvg-logo="https://i3radio.com/userfiles-aplin/avatars/logos-7700179603.jpg",DANCE TV DEEP HOUSE DISTRICT [V]
+https://m1b2.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
+#EXTINF:0 group-title="Музыка 2" tvg-id="" tvg-logo="https://i3radio.com/userfiles-aplin/avatars/logos-7700179603.jpg",DANCE TV HOUSEFLOOR [V]
+https://m2b2.worldcast.tv:7443/dancetelevisionfive/2/dancetelevisionfive.m3u8
+#EXTINF:0 group-title="Музыка 2" tvg-id="" tvg-logo="https://i3radio.com/userfiles-aplin/avatars/logos-7700179603.jpg",DANCE TV MAINSTAGE HD [V]
+https://mbit1.worldcast.tv/dancetelevisionseven/stream_0.m3u8
+#EXTINF:0 group-title="Музыка 2" tvg-id="" tvg-logo="https://i3radio.com/userfiles-aplin/avatars/logos-7700179603.jpg",DANCE TV MNML HD [V]
+https://mbit1.worldcast.tv/dancetelevisionsix/stream_0.m3u8
+#EXTINF:0 group-title="Музыка 2" tvg-id="" tvg-logo="https://i3radio.com/userfiles-aplin/avatars/logos-7700179603.jpg",DANCE TV TECHNOHOUSE [V]
+https://m2b2.worldcast.tv:7443/dancetelevisionthree/2/dancetelevisionthree.m3u8
+#EXTINF:0 group-title="Музыка 2" tvg-id="dstv-bg" tvg-logo="https://iptvx.one/picons/dstv-bg.png",DSTV HD [V]
+http://46.249.95.140:8081/hls/data.m3u8
+#EXTINF:0 group-title="Музыка 2" tvg-id="" tvg-logo="https://radiodigitaltv.com/wp-content/uploads/2022/01/Hilando-fino-logo.jpg",Hilando Fino TV HD [V]
+https://hilandofinotv.essastream.com:3606/live/canalhilandofinotvlive.m3u8
+#EXTINF:0 group-title="Музыка 2" tvg-id="" tvg-logo="https://thumb.canalplus.pro/bran/unsafe/280x157/filters:quality(80)/image/67e6bf6cd8f4a/uploads/media/myCANAL_Logo_Fiche_Programme_1920x1080_5.png",Kalac TV HD [V]
+https://edge13.vedge.infomaniak.com/livecast/ik:kalactv/chunklist_w280736538.m3u8
+#EXTINF:0 group-title="Музыка 2" tvg-id="" tvg-logo="https://www.madrasfm.tv/wp-content/uploads/2021/02/cropped-ffffddsss2.png",Madras FM TV HD [V]
+https://edge12.vedge.infomaniak.com/livecast/ik:madrasfmtv/manifest.m3u8
+#EXTINF:0 group-title="Музыка 2" tvg-id="" tvg-logo="https://memorias.tv/wp-content/uploads/2025/04/logo-memorias-corazon-1.png",Memorias del Corazon [V]
+https://video.xtrematv.com:3401/live/grupomemoriaslive.m3u8
+#EXTINF:0 group-title="Музыка 2" tvg-id="" tvg-logo="https://cdn-icons-png.flaticon.com/512/6723/6723286.png",Memorias FM Pop Latino [V]
+https://video.xtrematv.com:3891/live/memoriaspoplatinolive.m3u8
+#EXTINF:0 group-title="Музыка 2" tvg-id="" tvg-logo="https://memorias.tv/wp-content/uploads/2024/11/logo-MEMORIAS-TROPICAL-png--300x168.png",Memorias TV Tropical [V]
+https://video.xtrematv.com:3361/live/memoriastropicallive.m3u8
+#EXTINF:0 group-title="Музыка 2" tvg-id="" tvg-logo="https://cdn1.ozonusercontent.com/s3/marketing-api/banners/nz/KF/c200/nzKFOlyLIY4pobIwoGo7brfo1u23p2JM.png",Music 1 [V]
+https://fl1001.bozztv.com/ushba-t1/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Музыка 2" tvg-id="" tvg-logo="https://cdn1.ozonusercontent.com/s3/marketing-api/banners/nz/KF/c200/nzKFOlyLIY4pobIwoGo7brfo1u23p2JM.png",Music 10 [V]
+https://fl1001.bozztv.com/ushba76/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Музыка 2" tvg-id="" tvg-logo="https://cdn1.ozonusercontent.com/s3/marketing-api/banners/nz/KF/c200/nzKFOlyLIY4pobIwoGo7brfo1u23p2JM.png",Music 11 [V]
+https://fl1001.bozztv.com/ushba96/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Музыка 2" tvg-id="" tvg-logo="https://cdn1.ozonusercontent.com/s3/marketing-api/banners/nz/KF/c200/nzKFOlyLIY4pobIwoGo7brfo1u23p2JM.png",Music 6 [V]
+https://fl1003.bozztv.com/ushba0/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Музыка 2" tvg-id="" tvg-logo="https://cdn1.ozonusercontent.com/s3/marketing-api/banners/nz/KF/c200/nzKFOlyLIY4pobIwoGo7brfo1u23p2JM.png",Music 7 [V]
+https://fl1001.bozztv.com/ushba33/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Музыка 2" tvg-id="" tvg-logo="https://cdn1.ozonusercontent.com/s3/marketing-api/banners/nz/KF/c200/nzKFOlyLIY4pobIwoGo7brfo1u23p2JM.png",Music 8 [V]
+https://fl1001.bozztv.com/ushba63/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Музыка 2" tvg-id="" tvg-logo="https://i.imgur.com/jLQsU1u.png",Telerayo [V]
+https://s.emisoras.tv:8081/telerayo/index.m3u8
+#EXTINF:0 group-title="Музыка 2" tvg-id="" tvg-logo="https://i.imgur.com/1iOAl2j.png",TMA Caraibes HD [V]
+http://hls.tmacaraibes.com/live/index.m3u8
+#EXTINF:0 group-title="Музыка 2" tvg-id="6269" tvg-logo="http://epg.one/img/6269.png" tvg-rec="0",Tviksel Музыка Кино [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/18081/index.m3u8
+#EXTINF:0 group-title="Музыка 2" tvg-id="6270" tvg-logo="http://epg.one/img/6270.png" tvg-rec="0",Tviksel Музыка Кино International [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/18082/index.m3u8
+#EXTINF:0 group-title="Музыка 2" tvg-id="8807" tvg-logo="http://epg.one/img/8807.png" tvg-rec="0",VeleS Dj Set HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/31639/index.m3u8
+#EXTINF:0 group-title="Музыка 2" tvg-id="5989" tvg-logo="http://epg.one/img/5989.png" tvg-rec="0",VF Шансон HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/15519/index.m3u8
+#EXTINF:0 group-title="Музыка 2" tvg-id="2415" tvg-logo="http://epg.one/img/2415.png" tvg-rec="3",Жар Птица [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/2142/index.m3u8
+#EXTINF:0 group-title="Музыка 2" tvg-id="" tvg-logo="http://ru.epg.one/img2/6191.png",Радио Хит(Орск) [V]
+http://hithd.camsh.orsk.ru/hls/hithd.m3u8
+#EXTINF:0 group-title="Музыка 2" tvg-id="6191" tvg-logo="http://epg.one/img2/6191.png" tvg-rec="0",Радио Хит(Орск) [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/17048/index.m3u8
+#EXTINF:0 group-title="Музыка 2" tvg-id="radio-shanson" tvg-logo="https://iptvx.one/picons/radio-shanson.png",Радио Шансон [V]
+http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live_hiq/index.m3u8
+#EXTINF:0 group-title="Музыка 2" tvg-id="6012" tvg-logo="http://epg.one/img/6012.png" tvg-rec="3",Радио Шансон [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/16036/index.m3u8
+#EXTINF:0 group-title="Музыка 2" tvg-id="shanson-tv" tvg-logo="https://iptvx.one/picons/shanson-tv.png",Шансон ТВ [V]
+http://185.46.16.239:8000/Shanson
+#EXTINF:0 group-title="Музыка 2" tvg-id="2278" tvg-logo="http://epg.one/img/2278.png" tvg-rec="7",Шансон ТВ [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/859/index.m3u8
 
 #EXTINF:0 group-title="Музыка 2" tvg-id="" tvg-logo="https://www.88stereo.com/wp-content/uploads/2017/05/88Stereo-logoweb.png",88 Stereo [V]
 http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
