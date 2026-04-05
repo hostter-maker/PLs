@@ -1,344 +1,367 @@
 #EXTM3U deinterlace=1 m3uautoload=1 url-tvg="https://iptvx.one/EPG; http://epg.one/epg.xml.gz" refresh="86400" tvg-shift=0 cache=500
 
-#EXTINF:0 group-title="Познавательные" tvg-id="animal-planet-eu" tvg-logo="https://iptvx.one/picons/animal-planet-eu.png",Animal Planet HD [V]
-http://188.225.31.197/bpk-tv/000000216/tve/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="365" tvg-logo="http://epg.one/img/365.png" tvg-rec="7",Animal Planet HD [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/218/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="8769" tvg-logo="http://epg.one/img/8769.png" tvg-rec="0",BCU Russia 90s HD [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/31658/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="big-planet" tvg-logo="https://iptvx.one/picons/big-planet.png",Big Planet HD [V]
-http://188.225.31.197/bpk-tv/000008052/tve/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="7623" tvg-logo="http://epg.one/img/7623.png" tvg-rec="0",Big Planet HD [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/20036/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="8818" tvg-logo="http://epg.one/img/8818.png" tvg-rec="0",BOX AutoTrend HD [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/31654/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="7662" tvg-logo="http://epg.one/img/7662.png" tvg-rec="0",BOX Docu HD [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/20153/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="9301" tvg-logo="http://epg.one/img/9301.png" tvg-rec="0",BOX History 4K HDR [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/31546/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="9303" tvg-logo="http://epg.one/img/9303.png" tvg-rec="0",BOX Kosmo 4K HDR [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/31548/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="7493" tvg-logo="http://epg.one/img/7493.png" tvg-rec="0",BOX Mayday HD [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/20159/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="6701" tvg-logo="http://epg.one/img/6701.png" tvg-rec="0",BOX Memory HD [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/19279/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="7489" tvg-logo="http://epg.one/img/7489.png" tvg-rec="0",BOX Stories HD [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/20155/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="6831" tvg-logo="http://epg.one/img/6831.png" tvg-rec="0",BOX Travel HD [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/19418/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="8816" tvg-logo="http://epg.one/img/8816.png" tvg-rec="0",BOX Travel Premiere HD [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/31652/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="7266" tvg-logo="http://epg.one/img/7266.png" tvg-rec="3",Curiosity Stream HD [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/9072/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="da-vinci" tvg-logo="https://iptvx.one/picons/da-vinci.png",Da Vinci [V]
-http://188.225.31.197/bpk-tv/000000333/tve/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="410" tvg-logo="http://epg.one/img/410.png" tvg-rec="7",Da Vinci [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/537/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="discovery-channel" tvg-logo="https://iptvx.one/picons/discovery-channel.png",Discovery Channel HD [V]
-http://188.225.31.197/bpk-tv/000001496/tve/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="325" tvg-logo="http://epg.one/img/325.png" tvg-rec="7",Discovery Channel HD [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/227/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="epic" tvg-logo="https://iptvx.one/picons/epic.png",Ep!c [V]
-http://193.25.8.59:8000/dtx
-#EXTINF:0 group-title="Познавательные" tvg-id="9054" tvg-logo="http://epg.one/img/9054.png" tvg-rec="3",Ep!c HD [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/2054/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="galaxy-tv" tvg-logo="https://iptvx.one/picons/galaxy-tv.png",Galaxy HD [V]
-http://188.225.31.197/bpk-tv/000000332/tve/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="2418" tvg-logo="http://epg.one/img/2418.png" tvg-rec="3",Galaxy HD [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/5045/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="history" tvg-logo="https://iptvx.one/picons/history.png",History HD [V]
-http://188.225.31.197/bpk-tv/000001000/tve/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="1394" tvg-logo="http://epg.one/img/1394.png" tvg-rec="7",History FHD [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/837/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="2356" tvg-logo="http://epg.one/img/2356.png" tvg-rec="7",History 2 FHD [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/2033/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="2507" tvg-logo="http://epg.one/img/2507.png" tvg-rec="3",Investigation Discovery FHD [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/9322/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="5598" tvg-logo="http://epg.one/img/5598.png" tvg-rec="0",Liberty BBC FHD [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/15108/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="5599" tvg-logo="http://epg.one/img/5599.png" tvg-rec="0",Liberty Авто Гир FHD [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/15109/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="6739" tvg-logo="http://epg.one/img/6739.png" tvg-rec="0",Liberty Наука FHD [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/19305/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="6177" tvg-logo="http://epg.one/img/6177.png" tvg-rec="0",Liberty Планета 360 FHD [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/17026/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="6845" tvg-logo="http://epg.one/img/6845.png" tvg-rec="0",MM Experiment HD [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/19412/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="5208" tvg-logo="http://epg.one/img/5208.png" tvg-rec="0",MM Live Planet HD [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/13095/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="6411" tvg-logo="http://epg.one/img/6411.png" tvg-rec="0",MM Макромир HD [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/18194/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="6412" tvg-logo="http://epg.one/img/6412.png" tvg-rec="0",MM Мегамир HD [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/18195/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="6410" tvg-logo="http://epg.one/img/6410.png" tvg-rec="0",MM Микромир HD [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/18193/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="6846" tvg-logo="http://epg.one/img/6846.png" tvg-rec="0",MM Открытия HD [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/19415/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="7621" tvg-logo="http://epg.one/img/7621.png" tvg-rec="0",Museum 4K UHD [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/14016/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="3304" tvg-logo="http://epg.one/img/3304.png" tvg-rec="0",Museum TV HD [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/20032/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="2428" tvg-logo="http://epg.one/img/2428.png" tvg-rec="3",Nano [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/2081/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="nat-geo-wild" tvg-logo="https://iptvx.one/picons/nat-geo-wild.png",Nat Geo Wild HD [V]
-http://188.225.31.197/bpk-tv/000004474/tve/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="223" tvg-logo="http://epg.one/img/223.png" tvg-rec="3",Nat Geo Wild FHD [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/2415/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="national-geographic" tvg-logo="https://iptvx.one/picons/national-geographic.png",National Geographic HD [V]
-http://188.225.31.197/bpk-tv/000000034/tve/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="102" tvg-logo="http://epg.one/img/102.png" tvg-rec="0",National Geographic HD [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/14001/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="648" tvg-logo="http://epg.one/img/648.png" tvg-rec="7",RTG HD [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/210/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="2280" tvg-logo="http://epg.one/img/2280.png" tvg-rec="7",RTG TV [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/841/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-logo="https://i.pinimg.com/736x/3d/c5/bc/3dc5bc334f8d478a2793c4d98a5d6f6f--youtube-com.jpg",Star Media [V]
-https://fl1001.bozztv.com/ushba4/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="4778" tvg-logo="http://epg.one/img/4778.png" tvg-rec="7",StrahTV Космо HD [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/11065/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="terra-ru" tvg-logo="https://iptvx.one/picons/terra-ru.png",TERRA HD [V]
-http://188.225.31.197/bpk-tv/000008142/tve/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="7632" tvg-logo="http://epg.one/img/7632.png" tvg-rec="3",TERRA HD [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/2416/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="9082" tvg-logo="http://epg.one/img/9082.png" tvg-rec="0",The Explorers HD [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/16035/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="613" tvg-logo="http://epg.one/img/613.png" tvg-rec="3",Travel Channel HD [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/9025/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="travel-adventure" tvg-logo="https://iptvx.one/picons/travel-adventure.png",Travel+Adventure HD [V]
-http://31.148.48.15:80/Travel_Adventure_HD/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="1035" tvg-logo="http://epg.one/img/1035.png" tvg-rec="3",Travel+Adventure HD [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/9019/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="9154" tvg-logo="http://epg.one/img/9154.png" tvg-rec="0",TravelXP 4K UHD [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/20031/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="7617" tvg-logo="http://epg.one/img/7617.png" tvg-rec="0",TravelXP 4K UHD HDR [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/14026/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="9155" tvg-logo="http://epg.one/img/9155.png" tvg-rec="0",TravelXP HD [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/15018/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-logo="https://iptvx.one/picons/tv-brics.png" tvg-id="tv-brics",Tv Brics HD [V]
-http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="univer-tv" tvg-logo="https://iptvx.one/picons/univer-tv.png",Univer TV HD [V]
-http://cdn.universmotri.ru/live/univer.sdp_1080p/playlist.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="5600" tvg-logo="http://epg.one/img/5600.png" tvg-rec="0",Univer TV [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/15113/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="11553" tvg-logo="http://epg.one/img/11553.png" tvg-rec="0",Venera.TV Космос HD [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/30197/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="11595" tvg-logo="http://epg.one/img/11595.png" tvg-rec="0",Venera.TV Подводная одиссея HD [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/30196/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="5991" tvg-logo="http://epg.one/img/5991.png" tvg-rec="0",VF Авто HD [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/15511/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="6419" tvg-logo="http://epg.one/img/6419.png" tvg-rec="0",VF Баня HD [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/18200/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="9328" tvg-logo="http://epg.one/img/9328.png" tvg-rec="0",VF Орел и решка HD [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/31476/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="5992" tvg-logo="http://epg.one/img/5992.png" tvg-rec="0",VF Охота HD [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/15513/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="5994" tvg-logo="http://epg.one/img/5994.png" tvg-rec="0",VF Путешествия HD [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/15515/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="6124" tvg-logo="http://epg.one/img/6124.png" tvg-rec="0",VF Рыбалка HD [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/16138/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="6125" tvg-logo="http://epg.one/img/6125.png" tvg-rec="0",VF Стройка HD [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/16139/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="viasat-explore" tvg-logo="https://iptvx.one/picons/viasat-explore.png",Viju Explore HD [V]
-http://188.225.31.197/bpk-tv/000004157/tve/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="521" tvg-logo="http://epg.one/img/521.png" tvg-rec="3",Viju Explore HD [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/6381/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="viasat-history" tvg-logo="https://iptvx.one/picons/viasat-history.png",Viju History HD [V]
-http://188.225.31.197/bpk-tv/000005528/tve/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="277" tvg-logo="http://epg.one/img/277.png" tvg-rec="7",Viju History HD [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/203/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="viasat-nature" tvg-logo="https://iptvx.one/picons/viasat-nature.png",Viju Nature HD [V]
-http://188.225.31.197/bpk-tv/000006482/tve/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="765" tvg-logo="http://epg.one/img/765.png" tvg-rec="0",Viju Nature HD [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/15225/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="2012" tvg-logo="http://epg.one/img/2012.png" tvg-rec="3",Viju+ Planet HD [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/9027/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="8813" tvg-logo="http://epg.one/img/8813.png" tvg-rec="0",Yosso TV Nature HD [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/31618/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="8812" tvg-logo="http://epg.one/img/8812.png" tvg-rec="0",Yosso TV Science HD [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/31617/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="8814" tvg-logo="http://epg.one/img/8814.png" tvg-rec="0",Yosso TV Travel HD [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/31619/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="8822" tvg-logo="http://epg.one/img/8822.png" tvg-rec="0",Z!Science [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/31705/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="6213" tvg-logo="http://epg.one/img/6213.png" tvg-rec="0",Z!Travel [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/17063/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="zoopark" tvg-logo="https://iptvx.one/picons/zoopark.png",Zоопарк [V]
-http://178.163.38.73:34040/udp/234.0.0.216:2000
-#EXTINF:0 group-title="Познавательные" tvg-id="367" tvg-logo="http://epg.one/img/367.png" tvg-rec="3",Zоопарк HD [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/9097/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="avto24" tvg-logo="https://iptvx.one/picons/avto24.png",Авто 24 [V]
-http://188.225.31.197/bpk-tv/000000815/tve/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="2008" tvg-logo="http://epg.one/img/2008.png" tvg-rec="0",Авто 24 HD [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/20033/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="avto-plus" tvg-logo="https://iptvx.one/picons/avto-plus.png",Авто Плюс [V]
-http://31.148.48.15:80/Avto_Plus/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="153" tvg-logo="http://epg.one/img/153.png" tvg-rec="3",Авто Плюс HD [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/6369/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-logo="https://img.hhcdn.ru/employer-logo/1978551.png",АригУс HD [V]
-https://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R01_ARIGUS/variant.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="2498" tvg-logo="http://epg.one/img/2498.png" tvg-rec="3",В мире животных HD [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/2089/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="voprosy-i-otvety" tvg-logo="https://iptvx.one/picons/voprosy-i-otvety.png",Вопросы и ответы [V]
-http://188.225.31.197/bpk-tv/000000195/tve/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="2451" tvg-logo="http://epg.one/img/2451.png" tvg-rec="7",Вопросы и ответы [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/2026/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="5979" tvg-logo="http://epg.one/img/5979.png" tvg-rec="0",Глазами Туриста 4K UHD [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/15191/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="glazami-turista" tvg-logo="https://iptvx.one/picons/glazami-turista.png",Глазами Туриста HD [V]
-http://188.225.31.197/bpk-tv/000001414/tve/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="2508" tvg-logo="http://epg.one/img/2508.png" tvg-rec="3",Глазами Туриста HD [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/2104/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="dialogi-o-rybalke" tvg-logo="https://iptvx.one/picons/dialogi-o-rybalke.png",Диалоги о рыбалке [V]
-http://188.225.31.197/bpk-tv/000003174/tve/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="2627" tvg-logo="http://epg.one/img/2627.png" tvg-rec="3",Диалоги о рыбалке HD [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/2394/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="dikaya-oxota-hd" tvg-logo="https://iptvx.one/picons/dikaya-oxota-hd.png",Дикая охота HD [V]
-http://178.163.38.73:34040/udp/234.0.0.11:2000
-#EXTINF:0 group-title="Познавательные" tvg-id="2483" tvg-logo="http://epg.one/img/2483.png" tvg-rec="7",Дикая охота HD [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/2004/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="2484" tvg-logo="http://epg.one/img/2484.png" tvg-rec="7",Дикая рыбалка HD [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/2005/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="2283" tvg-logo="http://epg.one/img/2283.png" tvg-rec="7",Дикий [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/847/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="domashnie-zhivotnye" tvg-logo="https://iptvx.one/picons/domashnie-zhivotnye.png",Домашние Животные [V]
-http://188.225.31.197/bpk-tv/000000146/tve/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="520" tvg-logo="http://epg.one/img/520.png" tvg-rec="7",Домашние Животные [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/158/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="drive" tvg-logo="https://iptvx.one/picons/drive.png",Драйв [V]
-http://185.46.16.239:8000/Drayv
-#EXTINF:0 group-title="Познавательные" tvg-id="2443" tvg-logo="http://epg.one/img/2443.png" tvg-rec="0",Драйв HD [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/9068/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="zhivaya-planeta" tvg-logo="https://iptvx.one/picons/zhivaya-planeta.png",Живая Планета [V]
-http://185.46.16.239:8000/Zhivaya_Planeta
-#EXTINF:0 group-title="Познавательные" tvg-id="2432" tvg-logo="http://epg.one/img/2432.png" tvg-rec="3",Живая Планета [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/2101/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="2495" tvg-logo="http://epg.one/img/2495.png" tvg-rec="3",Живая природа HD [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/2074/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="zagorodnaya-zhizn" tvg-logo="https://iptvx.one/picons/zagorodnaya-zhizn.png",Загородная Жизнь HD [V]
-http://188.225.31.197/bpk-tv/000000289/tve/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="2298" tvg-logo="http://epg.one/img/2298.png" tvg-rec="0",Загородная Жизнь HD [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/7348/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="2463" tvg-logo="http://epg.one/img/2463.png" tvg-rec="3",Загородный [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/2099/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="zagorodny-int" tvg-logo="https://iptvx.one/picons/zagorodny-int.png",Загородный International HD [V]
-https://livetv.mylifeisgood.net.ru/channels/zagorodint.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="2513" tvg-logo="http://epg.one/img/2513.png" tvg-rec="3",Загородный International HD [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/2124/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="zootv" tvg-logo="https://iptvx.one/picons/zootv.png",Зоо ТВ HD [V]
-http://188.225.31.197/bpk-tv/000000260/tve/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="2431" tvg-logo="http://epg.one/img/2431.png" tvg-rec="3",Зоо ТВ [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/2100/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="istoria" tvg-logo="https://iptvx.one/picons/istoria.png",История [V]
-http://185.46.16.239:8000/Istoriya
-#EXTINF:0 group-title="Познавательные" tvg-id="1036" tvg-logo="http://epg.one/img/1036.png" tvg-rec="7",История [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/111/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="2456" tvg-logo="http://epg.one/img/2456.png" tvg-rec="7",Кто есть кто [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/2042/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="mir-uvlecheniy" tvg-logo="https://iptvx.one/picons/mir-uvlecheniy.png",Кто Куда [V]
-http://188.225.31.197/bpk-tv/000001377/tve/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="2467" tvg-logo="http://epg.one/img/2467.png" tvg-rec="3",Кто Куда [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/2112/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg",Лекторий Достоевский [V]
-https://fl1001.bozztv.com/ushba3/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="5642" tvg-logo="http://epg.one/img/5642.png" tvg-rec="0",Мир Вокруг HD [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/15219/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="moskovsky-obrazovatelny" tvg-logo="https://iptvx.one/picons/moskovsky-obrazovatelny.png",Московский образовательный [V]
-http://retc.educom.ru/mosobrtv/tv2/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="6037" tvg-logo="http://epg.one/img/6037.png" tvg-rec="0",Московский образовательный [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/16043/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="2028" tvg-logo="http://epg.one/img/2028.png" tvg-rec="0",Моя Стихия HD [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/7349/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="muzhskoy" tvg-logo="https://iptvx.one/picons/muzhskoy.png",Мужской HD [V]
-http://188.225.31.197/bpk-tv/000000286/tve/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="2444" tvg-logo="http://epg.one/img/2444.png" tvg-rec="0",Мужской HD [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/20035/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="2521" tvg-logo="http://epg.one/img/2521.png" tvg-rec="3",Нано ТВ HD [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/9271/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="723" tvg-logo="http://epg.one/img/723.png" tvg-rec="3",Наука HD [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/2155/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="nauka-20" tvg-logo="https://iptvx.one/picons/nauka-20.png",Наука 2.0 [V]
-http://vod.tuva.ru/nauka2/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="11352" tvg-logo="http://epg.one/img/11352.png" tvg-rec="0",Научпоп HD [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/31924/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="nasha-tema" tvg-logo="https://iptvx.one/picons/nasha-tema.png",Наша Тема HD [V]
-http://live-3.otcnet.ru/nashatema/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="2433" tvg-logo="http://epg.one/img/2433.png" tvg-rec="3",Наша Тема [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/2118/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-logo="https://iptvx.one/picons/neizvestnaya-planeta.png" tvg-id="neizvestnaya-planeta",Неизвестная планета HD [V]
-http://stitch.teletarget.ru/api/v1/hls/vintera/neplaneta/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="neizvestnaya-rosia" tvg-logo="https://iptvx.one/picons/neizvestnaya-rosia.png",Неизвестная Россия HD [V]
-https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="9015" tvg-logo="http://epg.one/img/9015.png" tvg-rec="0",Неизвестная Россия HD [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/16087/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="55" tvg-logo="http://epg.one/img/55.png" tvg-rec="7",Океан [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/703/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="oruzhie" tvg-logo="https://iptvx.one/picons/oruzhie.png",Оружие [V]
-http://188.225.31.197/bpk-tv/000000308/tve/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="2430" tvg-logo="http://epg.one/img/2430.png" tvg-rec="3",Оружие [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/2087/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="otkryty-mir" tvg-logo="https://iptvx.one/picons/otkryty-mir.png",Открытый мир [V]
-http://v4.proofix.ru/0mir/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="2462" tvg-logo="http://epg.one/img/2462.png" tvg-rec="3",Открытый мир [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/2078/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="oxota-i-rybalka" tvg-logo="https://iptvx.one/picons/oxota-i-rybalka.png",Охота и рыбалка [V]
-http://178.163.38.73:34040/udp/234.0.0.230:2000
-#EXTINF:0 group-title="Познавательные" tvg-id="2419" tvg-logo="http://epg.one/img/2419.png" tvg-rec="7",Охота и рыбалка [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/2019/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="1681" tvg-logo="http://epg.one/img/1681.png" tvg-rec="7",Охотник и Рыболов HD [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/917/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="2310" tvg-logo="http://epg.one/img/2310.png" tvg-rec="7",Первый космический HD [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/908/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="2434" tvg-logo="http://epg.one/img/2434.png" tvg-rec="3",Пёс и Ко [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/2123/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="moya-planeta" tvg-logo="https://iptvx.one/picons/moya-planeta.png",Планета HD [V]
-http://188.225.31.197/bpk-tv/000001049/tve/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="675" tvg-logo="http://epg.one/img/675.png" tvg-rec="3",Планета HD [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/2090/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="poexali" tvg-logo="https://iptvx.one/picons/poexali.png",Поехали! [V]
-http://188.225.31.197/bpk-tv/000002991/tve/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="2350" tvg-logo="http://epg.one/img/2350.png" tvg-rec="7",Поехали! [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/135/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="2311" tvg-logo="http://epg.one/img/2311.png" tvg-rec="7",Приключения HD [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/920/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-logo="https://iptvx.one/picons/pro-business.png" tvg-id="pro-business",Про Бизнес [V]
-https://tv-streaming.bsh.ru:21938/probusiness/probusiness.stream/chunklist.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="prosveschenie" tvg-logo="https://iptvx.one/picons/prosveschenie.png",Просвещение [V]
-http://cdn-01.bonus-tv.ru/prosveschenie_edge/tracks-v1a1/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-logo="https://iptvx.one/picons/reportior-73.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="reportior-73",Репортер 73 [V]
-http://rt-vlg-ul-htlive.cdn.ngenix.net/hls/CH_R03_REP73/variant.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-logo="https://iptvx.one/picons/rybalka-i-oxota.png" tvg-id="rybalka-i-oxota",Рыбалка и охота [V]
-http://188.225.31.197/bpk-tv/000002510/tve/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="2466" tvg-logo="http://epg.one/img/2466.png" tvg-rec="3",Связист ТВ HD [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/9291/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-logo="https://i.imgur.com/qpe8L27.png",Сити Эдем - АвтоГид [V]
-http://cityeden.catcast.tv/content/47515/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="sovsek" tvg-logo="https://iptvx.one/picons/sovsek.png",Совершенно секретно [V]
-http://178.163.38.73:34040/udp/234.0.0.185:2000
-#EXTINF:0 group-title="Познавательные" tvg-id="275" tvg-logo="http://epg.one/img/275.png" tvg-rec="7",Совершенно секретно [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/121/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="2426" tvg-logo="http://epg.one/img/2426.png" tvg-rec="3",Тайна [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/9316/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-logo="https://iptvx.one/picons/tv21plus.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="tv21plus",ТВ-21+ [V]
-https://rt-nw-murm-htlive.cdn.ngenix.net/hls/CH_R01_TV21PLUS/variant.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-logo="https://pic.rutubelist.ru/user/2025-02-10/dd/19/dd197f4b85debc85dc178bb8458b959f.jpg",Телеканал Сок ТВ [V]
-http://sok.ath.cx:8080/941f070df772290824bdf3906afc01f9/video.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="teleputeshestvia" tvg-logo="https://iptvx.one/picons/teleputeshestvia.png",Телепутешествия [V]
-http://31.148.48.15:80/Teleputeshestviya/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="2424" tvg-logo="http://epg.one/img/2424.png" tvg-rec="3",Телепутешествия [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/2051/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-logo="https://iptvx.one/picons/tivisi-hd.png" tvg-id="tivisi-hd",ТиВиСи HD [V]
-https://zrnr369ssda.a.trbcdn.net/livemaster/rpwpuqsjap_tvstv/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="tochka-otryva" tvg-logo="https://iptvx.one/picons/tochka-otryva.png",Точка Отрыва [V]
-http://188.225.31.197/bpk-tv/000003208/tve/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="617" tvg-logo="http://epg.one/img/617.png" tvg-rec="0",Точка Отрыва HD [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/20034/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="2457" tvg-logo="http://epg.one/img/2457.png" tvg-rec="3",Точка ТВ [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/2053/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="415" tvg-logo="http://epg.one/img/415.png" tvg-rec="7",Точка.РФ FHD [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/226/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="6361" tvg-logo="http://epg.one/img/6361.png" tvg-rec="0",Триколор Знание [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/18134/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="usadba" tvg-logo="https://iptvx.one/picons/usadba.png",Усадьба [V]
-http://178.163.38.73:34040/udp/234.0.0.220:2000
-#EXTINF:0 group-title="Познавательные" tvg-id="434" tvg-logo="http://epg.one/img/434.png" tvg-rec="0",Усадьба HD [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/9071/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="2na2" tvg-logo="https://iptvx.one/picons/2na2.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",2x2 [V]
+http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="323" tvg-logo="http://epg.one/img/323.png" tvg-rec="0",2x2 HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/31913/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="ani" tvg-logo="https://iptvx.one/picons/ani.png",Ani [V]
+http://185.46.16.239:8000/Ani
+#EXTINF:0 group-title="Детские" tvg-id="2011" tvg-logo="http://epg.one/img/2011.png" tvg-rec="7",Ani [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/129/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="9029" tvg-logo="http://epg.one/img/9029.png" tvg-rec="0",Baby Time [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/20030/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="6185" tvg-logo="http://epg.one/img/6185.png" tvg-rec="0",BCU Kids 4K UHD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/17023/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="4756" tvg-logo="http://epg.one/img/4756.png" tvg-rec="7",BCU Kids HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/11035/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="4757" tvg-logo="http://epg.one/img/4757.png" tvg-rec="7",BCU Kids+ HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/11036/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="6848" tvg-logo="http://epg.one/img/6848.png" tvg-rec="0",BCU Little HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/19425/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="4746" tvg-logo="http://epg.one/img/4746.png" tvg-rec="7",BCU Multserial HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/11025/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="6698" tvg-logo="http://epg.one/img/6698.png" tvg-rec="0",BOX Anime HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/19276/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="6702" tvg-logo="http://epg.one/img/6702.png" tvg-rec="0",BOX M.Serial HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/19280/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="8922" tvg-logo="http://epg.one/img/8922.png" tvg-rec="0",BOX Remast+ 4K UHD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/31656/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="cartoon-classics" tvg-logo="https://iptvx.one/picons/cartoon-classics.png",Cartoon Classics [V]
+http://193.25.8.59:8000/Avto24
+#EXTINF:0 group-title="Детские" tvg-id="9183" tvg-logo="http://epg.one/img/9183.png" tvg-rec="0",Cartoon Classics [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/2075/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="cartoon-network" tvg-logo="https://iptvx.one/picons/cartoon-network.png",Cartoon Network [V]
+http://188.225.31.197/bpk-tv/000000015/tve/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="601" tvg-logo="http://epg.one/img/601.png" tvg-rec="3",Cartoon Network HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/9261/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="boomerang" tvg-logo="https://iptvx.one/picons/boomerang.png",Cartoonito [V]
+http://188.225.31.197/bpk-tv/000000160/tve/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="929" tvg-logo="http://epg.one/img/929.png" tvg-rec="3",Cartoonito HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/9189/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-logo="https://i.postimg.cc/RCgvJhdQ/image.png",CHD TV Мультизона HD [V]
+http://194.26.229.213/souzmultfilm/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="4728" tvg-logo="http://epg.one/img/4728.png" tvg-rec="7",CineMan Cartoons 90 HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/11001/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="4730" tvg-logo="http://epg.one/img/4730.png" tvg-rec="7",CineMan Cartoons Big HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/11003/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="4729" tvg-logo="http://epg.one/img/4729.png" tvg-rec="7",CineMan Cartoons Short HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/11002/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="5525" tvg-logo="http://epg.one/img/5525.png" tvg-rec="0",CineMan Симпсоны HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/15101/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="6006" tvg-logo="http://epg.one/img/6006.png" tvg-rec="0",Citrus Cartoon HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/16050/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-logo="https://i.imgur.com/odKqEZu.png",DTR Zona 2 [V]
+https://kino-stream.online/hls/DTRZONA2.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="2156" tvg-logo="http://epg.one/img/2156.png" tvg-rec="3",Duck TV HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/1031/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="6128" tvg-logo="http://epg.one/img/6128.png" tvg-rec="0",Fresh Kids HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/19288/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="11360" tvg-logo="http://epg.one/img/11360.png" tvg-rec="0",Funny Kids HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/31918/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="gulli-girl" tvg-logo="https://iptvx.one/picons/gulli-girl.png",Gulli Girl [V]
+http://178.163.38.73:34040/udp/234.0.0.153:2000
+#EXTINF:0 group-title="Детские" tvg-id="810" tvg-logo="http://epg.one/img/810.png" tvg-rec="7",Gulli Girl [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/109/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="494" tvg-logo="http://epg.one/img/494.png" tvg-rec="3",JimJam [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/9185/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="9025" tvg-logo="http://epg.one/img/9025.png" tvg-rec="0",Kids TV HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/20008/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="9092" tvg-logo="http://epg.one/img/9092.png" tvg-rec="0",KinoKazka [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/15019/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="6180" tvg-logo="http://epg.one/img/6180.png" tvg-rec="0",Liberty Аниме FHD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/17029/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="6178" tvg-logo="http://epg.one/img/6178.png" tvg-rec="0",Liberty Бебимульт FHD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/17027/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="5549" tvg-logo="http://epg.one/img/5549.png" tvg-rec="0",Liberty Дисней FHD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/15093/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="8924" tvg-logo="http://epg.one/img/8924.png" tvg-rec="0",Liberty Дрим Воркс 4K UHD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/31661/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="6341" tvg-logo="http://epg.one/img/6341.png" tvg-rec="0",Liberty Куб 4K UHD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/18161/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="6729" tvg-logo="http://epg.one/img/6729.png" tvg-rec="0",Liberty МиМ FHD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/19306/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="6232" tvg-logo="http://epg.one/img/6232.png" tvg-rec="0",Liberty Мульт 4K UHD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/18051/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="5548" tvg-logo="http://epg.one/img/5548.png" tvg-rec="0",Liberty Пиксар FHD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/15092/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="7486" tvg-logo="http://epg.one/img/7486.png" tvg-rec="0",Liberty Планктон FHD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/20140/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="5590" tvg-logo="http://epg.one/img/5590.png" tvg-rec="0",Liberty Симпсоны FHD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/15111/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="6728" tvg-logo="http://epg.one/img/6728.png" tvg-rec="0",Liberty Сказки FHD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/19304/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="6056" tvg-logo="http://epg.one/img/6056.png" tvg-rec="0",Liberty Южный Парк FHD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/16053/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="6251" tvg-logo="http://epg.one/img/6251.png" tvg-rec="0",Magic Disney HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/18064/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="6843" tvg-logo="http://epg.one/img/6843.png" tvg-rec="0",MM Family Guy HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/19414/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="5139" tvg-logo="http://epg.one/img/5139.png" tvg-rec="0",MM Honey HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/13026/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="5155" tvg-logo="http://epg.one/img/5155.png" tvg-rec="0",MM Lesson HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/13042/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="5156" tvg-logo="http://epg.one/img/5156.png" tvg-rec="0",MM Smile HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/13043/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="5129" tvg-logo="http://epg.one/img/5129.png" tvg-rec="0",MM Tom and Jerry HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/13016/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="5133" tvg-logo="http://epg.one/img/5133.png" tvg-rec="0",MM USSR Мультфильм HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/13020/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="5134" tvg-logo="http://epg.one/img/5134.png" tvg-rec="0",MM USSR Сказки HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/13021/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="5571" tvg-logo="http://epg.one/img/5571.png" tvg-rec="0",MM Walt Disney HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/13064/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="5157" tvg-logo="http://epg.one/img/5157.png" tvg-rec="0",MM Мифология HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/13044/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="6166" tvg-logo="http://epg.one/img/6166.png" tvg-rec="0",MS Animated HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/17024/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="5594" tvg-logo="http://epg.one/img/5594.png" tvg-rec="0",MS Toons HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/15138/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="nick-jr" tvg-logo="https://iptvx.one/picons/nick-jr.png",Nick Jr. [V]
+http://188.225.31.197/bpk-tv/000000449/tve/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="917" tvg-logo="http://epg.one/img/917.png" tvg-rec="7",Nick Jr. [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/114/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="nickelodeon-ru" tvg-logo="https://iptvx.one/picons/nickelodeon-ru.png",Nickelodeon HD [V]
+http://188.225.31.197/bpk-tv/000000499/tve/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="423" tvg-logo="http://epg.one/img/423.png" tvg-rec="7",Nickelodeon HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/223/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="nicktoons" tvg-logo="https://iptvx.one/picons/nicktoons.png",NickToons HD [V]
+http://188.225.31.197/bpk-tv/000004365/tve/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="2994" tvg-logo="http://epg.one/img/2994.png" tvg-rec="7",NickToons [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/849/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-logo="https://i.postimg.cc/ht8ryzS9/nsc8689089087.png",NSC+ HD [V]
+https://live.15plusmg.ru/memfs/5a03fc7a-8417-4874-b56f-91b8aeba1210.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="4774" tvg-logo="http://epg.one/img/4774.png" tvg-rec="7",StrahTV Весёлая Карусель [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/11057/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="4731" tvg-logo="http://epg.one/img/4731.png" tvg-rec="7",StrahTV Кроха ТВ [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/11066/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="8800" tvg-logo="http://epg.one/img/8800.png" tvg-rec="0",StrahTV Репка HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/31719/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="8828" tvg-logo="http://epg.one/img/8828.png" tvg-rec="0",StrahTV Том и Джерри [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/31721/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="9181" tvg-logo="http://epg.one/img/9181.png" tvg-rec="0",Sumiko HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/2163/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="tiji" tvg-logo="https://iptvx.one/picons/tiji.png",Tiji TV [V]
+http://188.225.31.197/bpk-tv/000000174/tve/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="555" tvg-logo="http://epg.one/img/555.png" tvg-rec="7",Tiji TV [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/108/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="6260" tvg-logo="http://epg.one/img/6260.png" tvg-rec="0",Tviksel Детское кино [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/18073/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="6261" tvg-logo="http://epg.one/img/6261.png" tvg-rec="0",Tviksel Детское кино International [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/18074/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="8823" tvg-logo="http://epg.one/img/8823.png" tvg-rec="0",VeleS Kids HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/31646/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="11596" tvg-logo="http://epg.one/img/11596.png" tvg-rec="0",Venera.TV 101 долматинец HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/30198/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="11593" tvg-logo="http://epg.one/img/11593.png" tvg-rec="0",Venera.TV Аладдин HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/30194/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="11594" tvg-logo="http://epg.one/img/11594.png" tvg-rec="0",Venera.TV Барбоскины HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/30195/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="11592" tvg-logo="http://epg.one/img/11592.png" tvg-rec="0",Venera.TV Бивис и Батт HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/30193/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="11554" tvg-logo="http://epg.one/img/11554.png" tvg-rec="0",Venera.TV Воскресное утро 90х HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/30152/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="11557" tvg-logo="http://epg.one/img/11557.png" tvg-rec="0",Venera.TV Вспыш и чудо HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/30155/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="11556" tvg-logo="http://epg.one/img/11556.png" tvg-rec="0",Venera.TV Вуди Вудпекер HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/30154/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="11586" tvg-logo="http://epg.one/img/11586.png" tvg-rec="0",Venera.TV Гриффины HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/30187/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="11585" tvg-logo="http://epg.one/img/11585.png" tvg-rec="0",Venera.TV Губка Боб HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/30186/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="11581" tvg-logo="http://epg.one/img/11581.png" tvg-rec="0",Venera.TV Даша путешественница HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/30181/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="11599" tvg-logo="http://epg.one/img/11599.png" tvg-rec="0",Venera.TV Детский мир 4K UHD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/30150/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="11588" tvg-logo="http://epg.one/img/11588.png" tvg-rec="0",Venera.TV Енотки. Первые слова HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/30189/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="11587" tvg-logo="http://epg.one/img/11587.png" tvg-rec="0",Venera.TV Еноты HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/30188/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="11584" tvg-logo="http://epg.one/img/11584.png" tvg-rec="0",Venera.TV Корги по имени Моко HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/30184/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="11583" tvg-logo="http://epg.one/img/11583.png" tvg-rec="0",Venera.TV Крепыш и команда HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/30183/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="11582" tvg-logo="http://epg.one/img/11582.png" tvg-rec="0",Venera.TV Леди Баг HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/30182/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="11580" tvg-logo="http://epg.one/img/11580.png" tvg-rec="0",Venera.TV Маша и медведь HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/30180/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="11579" tvg-logo="http://epg.one/img/11579.png" tvg-rec="0",Venera.TV Микки Маус HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/30179/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="11578" tvg-logo="http://epg.one/img/11578.png" tvg-rec="0",Venera.TV Мини HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/30178/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="11577" tvg-logo="http://epg.one/img/11577.png" tvg-rec="0",Venera.TV Мишки Гамми HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/30177/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="11563" tvg-logo="http://epg.one/img/11563.png" tvg-rec="0",Venera.TV Ну погоди HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/30161/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="11575" tvg-logo="http://epg.one/img/11575.png" tvg-rec="0",Venera.TV Охотники за привидениями HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/30175/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="11576" tvg-logo="http://epg.one/img/11576.png" tvg-rec="0",Venera.TV Очень странные делишки HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/30176/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="11574" tvg-logo="http://epg.one/img/11574.png" tvg-rec="0",Venera.Tv Панда и антилопа HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/30174/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="11562" tvg-logo="http://epg.one/img/11562.png" tvg-rec="0",Venera.TV Простоквашино HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/30160/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="11573" tvg-logo="http://epg.one/img/11573.png" tvg-rec="0",Venera.TV Пчелка Майя HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/30173/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="11572" tvg-logo="http://epg.one/img/11572.png" tvg-rec="0",Venera.TV Рапунцель HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/30172/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="11571" tvg-logo="http://epg.one/img/11571.png" tvg-rec="0",Venera.TV Рик и Морти HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/30171/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="11570" tvg-logo="http://epg.one/img/11570.png" tvg-rec="0",Venera.Tv Розовая пантера HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/30170/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="11560" tvg-logo="http://epg.one/img/11560.png" tvg-rec="0",Venera.TV Свинка Пеппа HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/30158/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="11569" tvg-logo="http://epg.one/img/11569.png" tvg-rec="0",Venera.TV Симпсоны HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/30169/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="11568" tvg-logo="http://epg.one/img/11568.png" tvg-rec="0",Venera.TV Смешарики HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/30168/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="11566" tvg-logo="http://epg.one/img/11566.png" tvg-rec="0",Venera.TV Смурфики HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/30166/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="11565" tvg-logo="http://epg.one/img/11565.png" tvg-rec="0",Venera.TV Суперкрошки HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/30165/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="11564" tvg-logo="http://epg.one/img/11564.png" tvg-rec="0",Venera.TV Тимон и Пумба HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/30164/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="11601" tvg-logo="http://epg.one/img/11601.png" tvg-rec="0",Venera.TV Том и Джерри 4K UHD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/30162/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="11559" tvg-logo="http://epg.one/img/11559.png" tvg-rec="0",Venera.TV Три кота HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/30157/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="11558" tvg-logo="http://epg.one/img/11558.png" tvg-rec="0",Venera.TV Утиные истории HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/30156/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="11555" tvg-logo="http://epg.one/img/11555.png" tvg-rec="0",Venera.TV Фиксики HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/30153/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="11590" tvg-logo="http://epg.one/img/11590.png" tvg-rec="0",Venera.TV Чип и Деил HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/30191/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="11591" tvg-logo="http://epg.one/img/11591.png" tvg-rec="0",Venera.TV Чудеса на виражах HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/30192/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="11567" tvg-logo="http://epg.one/img/11567.png" tvg-rec="0",Venera.TV Щенячий патруль HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/30167/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="4592" tvg-logo="http://epg.one/img/4592.png" tvg-rec="7",VF Anime HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/10001/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="4593" tvg-logo="http://epg.one/img/4593.png" tvg-rec="7",VF Cartoon HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/10002/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="7593" tvg-logo="http://epg.one/img/7593.png" tvg-rec="0",VF Disney Cartoon HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/15027/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="4790" tvg-logo="http://epg.one/img/4790.png" tvg-rec="0",VF VHS Cartoon HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/11118/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="4795" tvg-logo="http://epg.one/img/4795.png" tvg-rec="0",VF Малыш HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/11123/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="5995" tvg-logo="http://epg.one/img/5995.png" tvg-rec="0",VF Мультуб HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/15520/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="4668" tvg-logo="http://epg.one/img/4668.png" tvg-rec="7",VF Мультфильмы СССР HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/10086/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="5996" tvg-logo="http://epg.one/img/5996.png" tvg-rec="0",VF Новогодние мультфильмы HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/15523/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="6162" tvg-logo="http://epg.one/img/6162.png" tvg-rec="0",VF Скуби-Ду HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/17007/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="7594" tvg-logo="http://epg.one/img/7594.png" tvg-rec="0",VF Союзмультфильм HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/14238/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="7885" tvg-logo="http://epg.one/img/7885.png" tvg-rec="0",Yosso TV Disney HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/20164/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="5386" tvg-logo="http://epg.one/img/5386.png" tvg-rec="0",Yosso TV Kids HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/14173/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="7154" tvg-logo="http://epg.one/img/7154.png" tvg-rec="0",Yosso TV Наше Детское HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/19433/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="5387" tvg-logo="http://epg.one/img/5387.png" tvg-rec="0",Yosso TV Союзмульт HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/14178/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="8787" tvg-logo="http://epg.one/img/8787.png" tvg-rec="0",Z!Family [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/31701/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="5900" tvg-logo="http://epg.one/img/5900.png" tvg-rec="0",Z!Smile [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/15142/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-logo="https://iptvx.one/picons/bobior.png" tvg-id="bobior",Бобер [V]
+http://188.225.31.197/bpk-tv/000001478/tve/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="2027" tvg-logo="http://epg.one/img/2027.png" tvg-rec="0",В гостях у сказки HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/20005/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-logo="https://vits.tv/images/tvstation/russia/vse-tv.png",Всё ТВ HD [V]
+https://s72169.cdn.ngenix.net/hls/CH_VSETVHD/variant.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="detsky" tvg-logo="https://iptvx.one/picons/unikum.png",Детский [V]
+http://188.225.31.197/bpk-tv/000000048/tve/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="66" tvg-logo="http://epg.one/img/66.png" tvg-rec="3",Детский HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/9191/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="detsky-mir" tvg-logo="https://iptvx.one/picons/detsky-mir.png",Детский мир HD [V]
+http://188.225.31.197/bpk-tv/000000049/tve/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="923" tvg-logo="http://epg.one/img/923.png" tvg-rec="3",Детский мир HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/9192/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="2438" tvg-logo="http://epg.one/img/2438.png" tvg-rec="3",Капитан Фантастика HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/2098/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="karusel" tvg-logo="https://iptvx.one/picons/karusel.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Карусель [V]
+http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="740" tvg-logo="http://epg.one/img/740.png" tvg-rec="0",Карусель HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/20012/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-logo="https://iptvx.one/picons/karusel.png" tvg-id="karusel-int",Карусель International [V]
+https://cdn4.skygo.mn/live/disk1/Karusel/HLSv3-FTA/Karusel.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="9024" tvg-logo="http://epg.one/img/9024.png" tvg-rec="0",КиноМульт [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/20009/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="lapki-live" tvg-logo="https://iptvx.one/picons/lapki-live.png",Лапки Live [V]
+http://188.225.31.197/bpk-tv/000008551/tve/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="9093" tvg-logo="http://epg.one/img/9093.png" tvg-rec="7",Лапки Live HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/2028/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="liova" tvg-logo="https://iptvx.one/picons/liova.png",Лёва HD [V]
+http://188.225.31.197/bpk-tv/000008003/tve/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="7990" tvg-logo="http://epg.one/img/7990.png" tvg-rec="0",Лёва HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/15098/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="mama" tvg-logo="https://iptvx.one/picons/mama.png" tvg-rec="7",Мама [V]
+http://178.163.38.73:34040/udp/234.0.0.101:2000
+#EXTINF:0 group-title="Детские" tvg-id="618" tvg-logo="http://epg.one/img/618.png" tvg-rec="7",Мама [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/704/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-logo="https://www.msk-ix.ru/images/8724380.jpg",Мамонтенок
+http://sirius.greenhosting.ru/MamontRu/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="mult" tvg-logo="https://iptvx.one/picons/mult.png",Мульт HD [V]
+http://185.46.16.239:8000/Mir_24
+#EXTINF:0 group-title="Детские" tvg-id="1332" tvg-logo="http://epg.one/img/1332.png" tvg-rec="3",Мульт HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/9037/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="multimania" tvg-logo="https://iptvx.one/picons/multimania.png",Мультиландия HD [V]
+http://188.225.31.197/bpk-tv/000000203/tve/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="2757" tvg-logo="http://epg.one/img/2757.png" tvg-rec="0",Мультиландия HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/31910/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="284" tvg-logo="http://epg.one/img/284.png" tvg-rec="7",Мультимузыка [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/749/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-logo="https://iptvx.one/picons/multimania-lv.png" tvg-id="multimania-lv",Мультимания [V]
+http://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Детские" tvg-logo="https://i.postimg.cc/Rh516HVw/1.png",МультСказки [IPTVPLAY] HD [V]
+http://5.188.158.65:4040/IPTVPLAYMultSkazki.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:0 group-title="Детские" tvg-id="o_" tvg-logo="https://iptvx.one/picons/o_.png",О! [V]
+http://188.225.31.197/bpk-tv/000002928/tve/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="1757" tvg-logo="http://epg.one/img/1757.png" tvg-rec="7",О! [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/727/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-logo="https://crimeastar.net/wp-content/uploads/2021/07/pingvin-1.png",Пингвин [V]
+http://sirius.greenhosting.ru/PingvinRu/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="2287" tvg-logo="http://epg.one/img/2287.png" tvg-rec="7",Радость моя [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/853/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="ryzhy" tvg-logo="https://iptvx.one/picons/ryzhy.png",Рыжий [V]
+http://31.148.48.15:80/Rizhiy/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="2437" tvg-logo="http://epg.one/img/2437.png" tvg-rec="3",Рыжий [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/2052/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="1112" tvg-logo="http://epg.one/img/1112.png" tvg-rec="0",Сказки Зайки [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/14150/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="smaylik-tv" tvg-logo="https://iptvx.one/picons/smaylik-tv.png",Смайл ТВ [V]
+https://5f05e059699ae.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="2442" tvg-logo="http://epg.one/img/2442.png" tvg-rec="3",Смайл ТВ HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/2157/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="solnce" tvg-logo="https://iptvx.one/picons/solnce.png",Солнце [V]
+https://tv.mediacdn.ru/live/solntse/playlist_3000k.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="7669" tvg-logo="http://epg.one/img/7669.png" tvg-rec="3",Солнце [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/872/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="2481" tvg-logo="http://epg.one/img/2481.png" tvg-rec="7",СТС Kids HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/2001/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="super" tvg-logo="https://iptvx.one/picons/subbota.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Суббота! [V]
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="2288" tvg-logo="http://epg.one/img/2288.png" tvg-rec="0",Суббота! HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/15118/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="malysh" tvg-logo="https://iptvx.one/picons/malysh.png",СуперГерои [V]
+http://109.94.1.3:8080/132/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="2239" tvg-logo="http://epg.one/img/2239.png" tvg-rec="0",СуперГерои HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/15099/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="7596" tvg-logo="http://epg.one/img/7596.png" tvg-rec="0",ТипТоп HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/14007/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="6360" tvg-logo="http://epg.one/img/6360.png" tvg-rec="0",Триколор СДМ [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/18133/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="6363" tvg-logo="http://epg.one/img/6363.png" tvg-rec="0",Триколор Смешарики
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/18136/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="6362" tvg-logo="http://epg.one/img/6362.png" tvg-rec="0",Триколор Советские мультфильмы
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/18135/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="6359" tvg-logo="http://epg.one/img/6359.png" tvg-rec="0",Триколор Три богатыря
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/18132/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="7597" tvg-logo="http://epg.one/img/7597.png" tvg-rec="0",Чижик HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/14034/index.m3u8
+#EXTINF:0 group-title="Детские" tvg-logo="https://cdn.bestcakedesign.com/wp-content/uploads/chip-and-dale.png",Чип и Дейл
+http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
+
