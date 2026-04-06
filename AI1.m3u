@@ -2785,184 +2785,172 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/14034/ind
 #EXTINF:0 group-title="Детские" tvg-logo="https://cdn.bestcakedesign.com/wp-content/uploads/chip-and-dale.png",Чип и Дейл
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 
-#EXTGRP:Спорт
-#EXTINF:-1 group-title="Спорт" tvg-id="6852" tvg-logo="http://epg.one/img/6852.png" tvg-rec="0",BOX Be On Edge HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Спорт" tvg-id="6852" tvg-logo="http://epg.one/img/6852.png" tvg-rec="0",BOX Be On Edge HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/19424/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-id="6850" tvg-logo="http://epg.one/img/6850.png" tvg-rec="0",BOX Be On Edge Live 1 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Спорт" tvg-id="6850" tvg-logo="http://epg.one/img/6850.png" tvg-rec="0",BOX Be On Edge Live 1 HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/19422/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-id="6851" tvg-logo="http://epg.one/img/6851.png" tvg-rec="0",BOX Be On Edge Live 2 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Спорт" tvg-id="6851" tvg-logo="http://epg.one/img/6851.png" tvg-rec="0",BOX Be On Edge Live 2 HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/19423/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-id="8831" tvg-logo="http://epg.one/img/8831.png" tvg-rec="0",BOX SportCast HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Спорт" tvg-id="8831" tvg-logo="http://epg.one/img/8831.png" tvg-rec="0",BOX SportCast HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/31650/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-id="7890" tvg-logo="http://epg.one/img/7890.png" tvg-rec="0",BOX SportCast Live 1 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Спорт" tvg-id="7890" tvg-logo="http://epg.one/img/7890.png" tvg-rec="0",BOX SportCast Live 1 HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/20166/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-id="7891" tvg-logo="http://epg.one/img/7891.png" tvg-rec="0",BOX SportCast Live 2 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Спорт" tvg-id="7891" tvg-logo="http://epg.one/img/7891.png" tvg-rec="0",BOX SportCast Live 2 HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/20167/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-id="7892" tvg-logo="http://epg.one/img/7892.png" tvg-rec="0",BOX SportCast Live 3 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Спорт" tvg-id="7892" tvg-logo="http://epg.one/img/7892.png" tvg-rec="0",BOX SportCast Live 3 HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/20168/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-id="7893" tvg-logo="http://epg.one/img/7893.png" tvg-rec="0",BOX SportCast Live 4 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Спорт" tvg-id="7893" tvg-logo="http://epg.one/img/7893.png" tvg-rec="0",BOX SportCast Live 4 HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/20169/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-id="7894" tvg-logo="http://epg.one/img/7894.png" tvg-rec="0",BOX SportCast Live 5 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Спорт" tvg-id="7894" tvg-logo="http://epg.one/img/7894.png" tvg-rec="0",BOX SportCast Live 5 HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/20170/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-id="8829" tvg-logo="http://epg.one/img/8829.png" tvg-rec="0",BOX SportCast Live 6 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Спорт" tvg-id="8829" tvg-logo="http://epg.one/img/8829.png" tvg-rec="0",BOX SportCast Live 6 HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/31648/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-id="8830" tvg-logo="http://epg.one/img/8830.png" tvg-rec="0",BOX SportCast Live 7 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Спорт" tvg-id="8830" tvg-logo="http://epg.one/img/8830.png" tvg-rec="0",BOX SportCast Live 7 HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/31649/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-id="9298" tvg-logo="http://epg.one/img/9298.png" tvg-rec="0",BOX SR Sport 4K HDR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Спорт" tvg-id="9298" tvg-logo="http://epg.one/img/9298.png" tvg-rec="0",BOX SR Sport 4K UHD HDR [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/31455/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-id="9305" tvg-logo="http://epg.one/img/9305.png" tvg-rec="0",BOX SR Sport 1 Live 4K HDR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Спорт" tvg-id="9305" tvg-logo="http://epg.one/img/9305.png" tvg-rec="0",BOX SR Sport 1 Live 4K UHD HDR [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/31550/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-id="9306" tvg-logo="http://epg.one/img/9306.png" tvg-rec="0",BOX SR Sport 2 Live 4K HDR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Спорт" tvg-id="9306" tvg-logo="http://epg.one/img/9306.png" tvg-rec="0",BOX SR Sport 2 Live 4K UHD HDR [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/31551/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-id="8753" tvg-logo="http://epg.one/img/8753.png" tvg-rec="0",CineMan Фитнес
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Спорт" tvg-id="8753" tvg-logo="http://epg.one/img/8753.png" tvg-rec="0",CineMan Фитнес HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/31629/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-id="2052" tvg-logo="http://epg.one/img/2052.png" tvg-rec="0",Eurosport 1 UHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Спорт" tvg-id="2052" tvg-logo="http://epg.one/img/2052.png" tvg-rec="0",Eurosport 1 UHD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/19432/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-id="4313" tvg-logo="http://epg.one/img/4313.png" tvg-rec="0",Eurosport 2 UHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Спорт" tvg-id="eurosport1" tvg-logo="https://iptvx.one/picons/eurosport1.png",Eurosport 1 HD [V]
+http://188.225.31.197/bpk-tv/000002478/tve/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="2052" tvg-logo="http://epg.one/img/2052.png" tvg-rec="3",Eurosport 1 FHD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/9026/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="4313" tvg-logo="http://epg.one/img/4313.png" tvg-rec="0",Eurosport 2 UHD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/19431/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-id="2053" tvg-logo="http://epg.one/img/2053.png" tvg-rec="0",Extreme Sports HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Спорт" tvg-id="eurosport2" tvg-logo="https://iptvx.one/picons/eurosport2.png",Eurosport 2 HD [V]
+http://188.225.31.197/bpk-tv/000002479/tve/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="4313" tvg-logo="http://epg.one/img/4313.png" tvg-rec="7",Eurosport 2 HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/234/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="2053" tvg-logo="http://epg.one/img/2053.png" tvg-rec="0",Extreme Sports HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/20028/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-id="2326" tvg-logo="http://epg.one/img/2326.png" tvg-rec="7",MMA-TV.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Спорт" tvg-id="m1global" tvg-logo="https://iptvx.one/picons/m1global.png",MMA-TV.com [V]
+http://31.148.48.15:80/M1_Global/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="2326" tvg-logo="http://epg.one/img/2326.png" tvg-rec="7",MMA-TV.com [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/843/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-id="7531" tvg-logo="http://epg.one/img/7531.png" tvg-rec="7",Fint Ga 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Спорт" tvg-id="7531" tvg-logo="http://epg.one/img/7531.png" tvg-rec="7",Fint Ga 1 HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/20091/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-id="7532" tvg-logo="http://epg.one/img/7532.png" tvg-rec="7",Fint Ga 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Спорт" tvg-id="7532" tvg-logo="http://epg.one/img/7532.png" tvg-rec="7",Fint Ga 2 HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/20092/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-id="7533" tvg-logo="http://epg.one/img/7533.png" tvg-rec="0",Fint Ga 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Спорт" tvg-id="7533" tvg-logo="http://epg.one/img/7533.png" tvg-rec="0",Fint Ga 3 HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/20093/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-id="8840" tvg-logo="http://epg.one/img/8840.png" tvg-rec="0",Fint Ga 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Спорт" tvg-id="8840" tvg-logo="http://epg.one/img/8840.png" tvg-rec="0",Fint Ga 4 HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/31682/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-id="2048" tvg-logo="http://epg.one/img/2048.png" tvg-rec="7",KHL HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Спорт" tvg-id="2048" tvg-logo="http://epg.one/img/2048.png" tvg-rec="7",KHL HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/215/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-id="1038" tvg-logo="http://epg.one/img/1038.png" tvg-rec="3",KHL Prime FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Спорт" tvg-id="1038" tvg-logo="http://epg.one/img/1038.png" tvg-rec="3",KHL Prime FHD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/2403/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-id="7235" tvg-logo="http://epg.one/img/7235.png" tvg-rec="0",Q Arena HD KZ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Спорт" tvg-id="7235" tvg-logo="http://epg.one/img/7235.png" tvg-rec="0",Q Arena HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/20061/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-id="7236" tvg-logo="http://epg.one/img/7236.png" tvg-rec="0",Q League HD KZ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Спорт" tvg-id="7236" tvg-logo="http://epg.one/img/7236.png" tvg-rec="0",Q League HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/20062/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-id="5891" tvg-logo="http://epg.one/img/5891.png" tvg-rec="0",Q Sport.KG HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Спорт" tvg-id="5891" tvg-logo="http://epg.one/img/5891.png" tvg-rec="0",Q Sport HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/15238/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-id="7509" tvg-logo="http://epg.one/img/7509.png" tvg-rec="0",QazSport HD KZ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Спорт" tvg-id="7509" tvg-logo="http://epg.one/img/7509.png" tvg-rec="0",QazSport HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/14032/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-id="6039" tvg-logo="http://epg.one/img/6039.png" tvg-rec="0",Red Bull TV HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Спорт" tvg-id="6039" tvg-logo="http://ru.epg.one/img2/6039.png",Red Bull [V]
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="6039" tvg-logo="http://epg.one/img/6039.png" tvg-rec="0",Red Bull [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/16040/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-logo="http://epg.one/img/7517.png" tvg-id="setanta-sports",Setanta Sports 1 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Спорт" tvg-id="setanta-sports" tvg-logo="https://iptvx.one/picons/setanta-sports.png",Setanta Sports 1 HD [V]
 http://188.225.31.197/bpk-tv/000004498/tve/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-logo="http://epg.one/img/2363.png" tvg-id="setanta-sports-plus",Setanta Sports 2 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Спорт" tvg-id="7517" tvg-logo="http://epg.one/img/7517.png" tvg-rec="3",Setanta Sports 1 HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/271/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="setanta-sports-plus" tvg-logo="https://iptvx.one/picons/setanta-sports-plus.png",Setanta Sports 2 HD [V]
 http://188.225.31.197/bpk-tv/000004499/tve/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-id="8841" tvg-logo="http://epg.one/img/8841.png" tvg-rec="0",StrahTV MMA TIME HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Спорт" tvg-id="2363" tvg-logo="http://epg.one/img/2363.png" tvg-rec="3",Setanta Sports 2 HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/270/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="8841" tvg-logo="http://epg.one/img/8841.png" tvg-rec="0",StrahTV MMA TIME HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/31710/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-id="4734" tvg-logo="http://epg.one/img/4734.png" tvg-rec="7",StrahTV WWE Russian
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Спорт" tvg-id="4734" tvg-logo="http://epg.one/img/4734.png" tvg-rec="7",StrahTV WWE Russian [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/11056/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/9b/01/95/9b0195b3-3c4a-48b4-7aee-41978e9a613d/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x630wa.png",Tennis TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Спорт" tvg-logo="https://avatars.mds.yandex.net/i?id=eca508b9c2b47c6d347771746535e56e_sr-8183905-images-thumbs&n=13",Tennis TV [V]
 http://49.0.64.96:8007/TENNIS
-#EXTINF:-1 group-title="Спорт" tvg-logo="http://epg.one/img/7507.png" tvg-id="trace-sport-stars-ru",Trace Sport Stars HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Спорт" tvg-id="trace-sport-stars-ru" tvg-logo="https://iptvx.one/picons/trace-sport-stars-ru.png",Trace Sport Stars HD [V]
 http://188.225.31.197/bpk-tv/000001122/tve/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-logo="http://epg.one/img/2055.png" tvg-id="viasat-sport",Viju+ Sport HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Спорт" tvg-id="7507" tvg-logo="http://epg.one/img/7507.png" tvg-rec="0",Trace Sport Stars HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/14030/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="viasat-sport" tvg-logo="https://iptvx.one/picons/viasat-sport.png",Viju+ Sport HD [V]
 http://188.225.31.197/bpk-tv/000000135/tve/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-id="2285" tvg-logo="http://epg.one/img/2285.png" tvg-rec="0",Бокс ТВ HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/19245/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://iptvx.one/picons/mamonttv.png" tvg-id="mamonttv",Мамонт ТВ HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Спорт" tvg-id="2055" tvg-logo="http://epg.one/img/2055.png" tvg-rec="7",Viju+ Sport HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/2007/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="5115" tvg-logo="http://epg.one/img/5115.png" tvg-rec="0",TOP BUDO HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/13003/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="2285" tvg-logo="http://epg.one/img/2285.png" tvg-rec="7",Бокс ТВ [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/870/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-logo="https://iptvx.one/picons/mamonttv.png" tvg-id="mamonttv",Мамонт ТВ HD [V]
 http://live-saha.cdnvideo.ru/saha2/mamont_live.smil/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-id="2054" tvg-logo="http://epg.one/img/2054.png" tvg-rec="0",Матч! Боец HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Спорт" tvg-id="2003" tvg-logo="http://epg.one/img/2003.png" tvg-rec="7",Матч! Арена HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/207/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="match-boets" tvg-logo="https://iptvx.one/picons/match-boec.png",Матч! Боец [V]
+http://87.120.142.11:18000/Match!
+#EXTINF:0 group-title="Спорт" tvg-id="2054" tvg-logo="http://epg.one/img/2054.png" tvg-rec="0",Матч! Боец HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/19221/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-id="2050" tvg-logo="http://epg.one/img/2050.png" tvg-rec="3",Матч! Игра FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Спорт" tvg-id="match-igra" tvg-logo="https://iptvx.one/picons/match-igra.png",Матч! Игра [V]
+http://87.120.142.11:18000/Match!Igra
+#EXTINF:0 group-title="Спорт" tvg-id="2050" tvg-logo="http://epg.one/img/2050.png" tvg-rec="3",Матч! Игра FHD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/2406/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-id="2043" tvg-logo="http://epg.one/img/2043.png" tvg-rec="7",Матч! Планета
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Спорт" tvg-id="2043" tvg-logo="http://epg.one/img/2043.png" tvg-rec="7",Матч! Планета [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/123/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-id="2250" tvg-logo="http://epg.one/img/2250.png" tvg-rec="3",Матч! Премьер FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Спорт" tvg-id="2250" tvg-logo="http://epg.one/img/2250.png" tvg-rec="3",Матч! Премьер FHD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/2414/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-id="2042" tvg-logo="http://epg.one/img/2042.png" tvg-rec="0",Матч! Страна HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Спорт" tvg-id="match-nash-sport" tvg-logo="https://iptvx.one/picons/match-strana.png",Матч! Страна [V]
+http://31.148.48.15/Match_Strana/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="2042" tvg-logo="http://epg.one/img/2042.png" tvg-rec="0",Матч! Страна HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/19219/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-logo="http://epg.one/img/2051.png" tvg-id="match-tv",Матч! ТВ HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Спорт" tvg-id="match-tv" tvg-logo="https://iptvx.one/picons/match-tv.png",Матч! ТВ HD [V]
 https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-id="2044" tvg-logo="http://epg.one/img/2044.png" tvg-rec="3",Матч! Футбол 1 FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Спорт" tvg-id="2051" tvg-logo="http://epg.one/img/2051.png" tvg-rec="3",Матч! ТВ FHD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/2413/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="2044" tvg-logo="http://epg.one/img/2044.png" tvg-rec="3",Матч! Футбол 1 FHD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/2407/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-id="1042" tvg-logo="http://epg.one/img/1042.png" tvg-rec="3",Матч! Футбол 2 FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Спорт" tvg-id="1042" tvg-logo="http://epg.one/img/1042.png" tvg-rec="3",Матч! Футбол 2 FHD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/2420/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-id="2005" tvg-logo="http://epg.one/img/2005.png" tvg-rec="3",Матч! Футбол 3 FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Спорт" tvg-id="2005" tvg-logo="http://epg.one/img/2005.png" tvg-rec="3",Матч! Футбол 3 FHD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/2408/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-id="4629" tvg-logo="http://epg.one/img/4629.png" tvg-rec="0",Мир Баскетбола HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Спорт" tvg-id="4629" tvg-logo="http://epg.one/img/4629.png" tvg-rec="0",Мир Баскетбола HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/20004/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-id="4679" tvg-logo="http://epg.one/img/4679.png" tvg-rec="7",Мяч HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Спорт" tvg-id="4679" tvg-logo="http://epg.one/img/4679.png" tvg-rec="7",Мяч HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/10058/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-id="9324" tvg-logo="http://epg.one/img/9324.png" tvg-rec="0",Окко Прайм Спорт HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Спорт" tvg-id="9324" tvg-logo="http://epg.one/img/9324.png" tvg-rec="0",Окко Прайм Спорт HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/20135/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-id="7889" tvg-logo="http://epg.one/img/7889.png" tvg-rec="0",Окко Спорт HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Спорт" tvg-id="7889" tvg-logo="http://epg.one/img/7889.png" tvg-rec="0",Окко Спорт HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/20138/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-id="9325" tvg-logo="http://epg.one/img/9325.png" tvg-rec="0",Окко Футбол UHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Спорт" tvg-id="9325" tvg-logo="http://epg.one/img/9325.png" tvg-rec="0",Окко Футбол 4K UHD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/19430/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-id="2530" tvg-logo="http://epg.one/img/2530.png" tvg-rec="3",Старт FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Спорт" tvg-id="9325" tvg-logo="http://epg.one/img/9325.png" tvg-rec="3",Окко Футбол HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/6554/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="sila" tvg-logo="https://iptvx.one/picons/sila.png",Сила HD [V]
+http://178.163.38.73:34040/udp/234.0.0.6:2000
+#EXTINF:0 group-title="Спорт" tvg-id="start" tvg-logo="https://iptvx.one/picons/start.png",Старт [V]
+https://bl.webcaster.pro/media/playlist/api_free_fd14ed34164a52d1090e4cb9db93683f/4_79276517/1080p/d33bbf3e6ac7c41524eae5d1c3d9258d/4873167902.m3u8?live=15&ref=https://tvstart.ru/channels/tv-start/
+#EXTINF:0 group-title="Спорт" tvg-id="2530" tvg-logo="http://epg.one/img/2530.png" tvg-rec="3",Старт FHD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/2154/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-id="9112" tvg-logo="http://epg.one/img/9112.png" tvg-rec="0",Старт Триумф HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Спорт" tvg-id="start-basket" tvg-logo="https://iptvx.one/picons/start-basket.png",Старт Баскет [V]
+https://bl.webcaster.pro/media/playlist/free_621d169e5c631c638136df3cb136c5c9/33_68881676/1080p/b32eaae5fbf1d2b8211543566a1d9a78/4914392769.m3u8?live=15&ref=https://tvstart.ru/channels/start-basket-test/
+#EXTINF:0 group-title="Спорт" tvg-id="start-triumf" tvg-logo="https://iptvx.one/picons/start-triumf.png",Старт Триумф HD
+http://178.163.38.73:34040/udp/234.0.0.14:2000
+#EXTINF:0 group-title="Спорт" tvg-id="9112" tvg-logo="http://epg.one/img/9112.png" tvg-rec="0",Старт Триумф HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/16034/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-id="4678" tvg-logo="http://epg.one/img/4678.png" tvg-rec="7",ТВ Спорт HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Спорт" tvg-id="sportivny" tvg-logo="https://iptvx.one/picons/sportivny.png",ТВ Спорт HD [V]
+http://live-3.otcnet.ru/sportivny/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="4678" tvg-logo="http://epg.one/img/4678.png" tvg-rec="7",ТВ Спорт HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/10057/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-id="2480" tvg-logo="http://epg.one/img/2480.png" tvg-rec="7",Удар FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Спорт" tvg-id="ufc" tvg-logo="https://iptvx.one/picons/ufc.png",Удар HD [V]
+http://188.225.31.197/bpk-tv/000007802/tve/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="2480" tvg-logo="http://epg.one/img/2480.png" tvg-rec="7",Удар FHD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/2000/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-id="2782" tvg-logo="http://epg.one/img/2782.png" tvg-rec="0",Футбол HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+#EXTINF:0 group-title="Спорт" tvg-id="football-ru" tvg-logo="https://iptvx.one/picons/football-ru.png",Футбол [V]
+http://178.163.38.73:34040/udp/234.0.0.197:2000
+#EXTINF:0 group-title="Спорт" tvg-id="2782" tvg-logo="http://epg.one/img/2782.png" tvg-rec="0",Футбол HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/19244/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-id="4605" tvg-logo="http://epg.one/img/4605.png" tvg-rec="0",Хоккей ТВ HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/10039/index.m3u8ъ
+#EXTINF:0 group-title="Спорт" tvg-id="4605" tvg-logo="http://epg.one/img/4605.png" tvg-rec="0",Хоккей ТВ HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/10039/index.m3u8
 
 #EXTGRP:Разное
 #EXTINF:-1 group-title="Разное" tvg-logo="https://iptvx.one/picons/4kanal-piatnica.png" tvg-id="4kanal-piatnica",4 канал (Екатеринбург)
