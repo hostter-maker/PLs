@@ -2420,36 +2420,6 @@ http://185.46.16.239:8000/Shanson
 #EXTINF:0 group-title="Музыка 2" tvg-id="2278" tvg-logo="http://epg.one/img/2278.png" tvg-rec="7",Шансон ТВ [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/859/index.m3u8
 
-#EXTGRP:VF Музыка
-#EXTINF:0 group-title="VF Музыка",VF Michael Jackson
-http://tv.woobl.ru:9090/channel/n68a02a6a/index.m3u8?q=96d403e6e052d3144c470e98ad45042b
-#EXTINF:0 group-title="VF Музыка",VF Король и Шут
-http://tv.woobl.ru:9090/channel/n4439966a/index.m3u8?q=96d403e6e052d3144c470e98ad45042b
-#EXTINF:0 group-title="VF Музыка",VF Легенды Ретро ФМ
-http://tv.woobl.ru:9090/channel/n64eef067/index.m3u8?q=96d403e6e052d3144c470e98ad45042b
-#EXTINF:0 group-title="VF Музыка",VF Modern Talking
-http://tv.woobl.ru:9090/channel/n309c3147/index.m3u8?q=96d403e6e052d3144c470e98ad45042b
-#EXTINF:0 group-title="VF Музыка",VF Britney Spears
-http://tv.woobl.ru:9090/channel/58c7ef7/index.m3u8?q=96d403e6e052d3144c470e98ad45042b
-#EXTINF:0 group-title="VF Музыка",VF Музыка
-http://tv.woobl.ru:9090/channel/61bc9c55/index.m3u8?q=96d403e6e052d3144c470e98ad45042b
-#EXTINF:0 group-title="VF Музыка",VF Music
-http://tv.woobl.ru:9090/channel/n1b87957f/index.m3u8?q=96d403e6e052d3144c470e98ad45042b
-#EXTINF:0 group-title="VF Музыка",VF Rock
-http://tv.woobl.ru:9090/channel/17e50789/index.m3u8?q=96d403e6e052d3144c470e98ad45042b
-#EXTINF:0 group-title="VF Музыка",VF Шансон
-http://tv.woobl.ru:9090/channel/752d9a6f/index.m3u8?q=96d403e6e052d3144c470e98ad45042b
-#EXTINF:0 group-title="VF Музыка",VF Музсоюз
-http://tv.woobl.ru:9090/channel/n2a2d868e/index.m3u8?q=96d403e6e052d3144c470e98ad45042b
-#EXTINF:0 group-title="VF Музыка",VF Metal
-http://tv.woobl.ru:9090/channel/n1b8ed89d/index.m3u8?q=96d403e6e052d3144c470e98ad45042b
-#EXTINF:0 group-title="VF Музыка",VF Rap
-http://tv.woobl.ru:9090/channel/n5a116483/index.m3u8?q=96d403e6e052d3144c470e98ad45042b
-#EXTINF:0 group-title="VF Музыка",VF Хит-парад
-http://tv.woobl.ru:9090/channel/n44c8e20f/index.m3u8?q=96d403e6e052d3144c470e98ad45042b
-#EXTINF:0 group-title="VF Музыка",VF Русский рок
-http://tv.woobl.ru:9090/channel/718b3db0/index.m3u8?q=96d403e6e052d3144c470e98ad45042b
-
 #EXTINF:0 group-title="Детские" tvg-id="2na2" tvg-logo="https://iptvx.one/picons/2na2.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",2x2 [V]
 http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
 #EXTINF:0 group-title="Детские" tvg-id="323" tvg-logo="http://epg.one/img/323.png" tvg-rec="0",2x2 HD [E]
