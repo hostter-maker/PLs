@@ -1,5 +1,4 @@
 #EXTM3U deinterlace=1 m3uautoload=1 url-tvg="https://iptvx.one/EPG; http://epg.one/epg.xml.gz" refresh="86400" tvg-shift=0 cache=500
-https://homtv.ru/hom.m3u
 
 #EXTINF:-1 group-title="🔅 Основные" tvg-name="Первый канал" tvg-id="pervy" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" timeshift="3",Первый канал
 http://tv.woobl.ru:9090/channel/64e387a4/index.m3u8?q=96d403e6e052d3144c470e98ad45042b
