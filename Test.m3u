@@ -1,154 +1,272 @@
 #EXTM3U deinterlace=1 m3uautoload=1 url-tvg="https://iptvx.one/EPG; http://epg.one/epg.xml.gz" refresh="86400" tvg-shift=0 cache=500
 
-#EXTINF:-1,ES 4k- LA 1
-http://digitallhub.xyz:80/4cw8hh8tzq/qjx96ibmlz/965558
-#EXTINF:-1,ES 4k- LA 2
-http://digitallhub.xyz:80/4cw8hh8tzq/qjx96ibmlz/965559
-#EXTINF:-1,ES 4k- Antena 3
-http://digitallhub.xyz:80/4cw8hh8tzq/qjx96ibmlz/965560
-#EXTINF:-1,ES 4k- Cuatro
-http://digitallhub.xyz:80/4cw8hh8tzq/qjx96ibmlz/965561
-#EXTINF:-1,ES 4k- Telecinco
-http://digitallhub.xyz:80/4cw8hh8tzq/qjx96ibmlz/965562
-#EXTINF:-1,ES 4k- LA Sexta
-http://digitallhub.xyz:80/4cw8hh8tzq/qjx96ibmlz/965563
-#EXTINF:-1,ES 4k- 24 Horas
-http://digitallhub.xyz:80/4cw8hh8tzq/qjx96ibmlz/965564
-#EXTINF:-1,ES 4k- A3SERIES
-http://digitallhub.xyz:80/4cw8hh8tzq/qjx96ibmlz/965597
-#EXTINF:-1,ES 4k- M A3SERIES
-http://digitallhub.xyz:80/4cw8hh8tzq/qjx96ibmlz/965596
-#EXTINF:-1,ES 4k- Energy
-http://digitallhub.xyz:80/4cw8hh8tzq/qjx96ibmlz/965568
-#EXTINF:-1,ES 4k- FDF
-http://digitallhub.xyz:80/4cw8hh8tzq/qjx96ibmlz/965566
-#EXTINF:-1,ES 4k- Neox
-http://digitallhub.xyz:80/4cw8hh8tzq/qjx96ibmlz/965570
-#EXTINF:-1,ES 4k- Nova
-http://digitallhub.xyz:80/4cw8hh8tzq/qjx96ibmlz/965569
-#EXTINF:-1,ES 4k- Canal Sur A
-http://digitallhub.xyz:80/4cw8hh8tzq/qjx96ibmlz/965571
-#EXTINF:-1,ES 4k- Clan Tve
-http://digitallhub.xyz:80/4cw8hh8tzq/qjx96ibmlz/965565
-#EXTINF:-1,ES 4k- Boing
-http://digitallhub.xyz:80/4cw8hh8tzq/qjx96ibmlz/965636
-#EXTINF:-1,ES 4k- Nickelodeon
-http://digitallhub.xyz:80/4cw8hh8tzq/qjx96ibmlz/965632
-#EXTINF:-1,ES 4k- Nick Junior
-http://digitallhub.xyz:80/4cw8hh8tzq/qjx96ibmlz/965633
-#EXTINF:-1,ES 4k- Baby TV
-http://digitallhub.xyz:80/4cw8hh8tzq/qjx96ibmlz/965637
-#EXTINF:-1,ES 4k- Squirrel
-http://digitallhub.xyz:80/4cw8hh8tzq/qjx96ibmlz/965635
-#EXTINF:-1,ES 4k- Disney Junior
-http://digitallhub.xyz:80/4cw8hh8tzq/qjx96ibmlz/965634
-#EXTINF:-1,ES 4k- M Movistar+
-http://digitallhub.xyz:80/4cw8hh8tzq/qjx96ibmlz/965576
-#EXTINF:-1,ES 4k- M Originales
-http://digitallhub.xyz:80/4cw8hh8tzq/qjx96ibmlz/965577
-#EXTINF:-1,ES 4k- M La Resistencia
-http://digitallhub.xyz:80/4cw8hh8tzq/qjx96ibmlz/965578
-#EXTINF:-1,ES 4k- M Estrenos
-http://digitallhub.xyz:80/4cw8hh8tzq/qjx96ibmlz/965579
-#EXTINF:-1,ES 4k- M Accion
-http://digitallhub.xyz:80/4cw8hh8tzq/qjx96ibmlz/965581
-#EXTINF:-1,ES 4k- M Cine Español
-http://digitallhub.xyz:80/4cw8hh8tzq/qjx96ibmlz/965586
-#EXTINF:-1,ES 4k- M Clasicos
-http://digitallhub.xyz:80/4cw8hh8tzq/qjx96ibmlz/965587
-#EXTINF:-1,ES 4k- M Comedia
-http://digitallhub.xyz:80/4cw8hh8tzq/qjx96ibmlz/965584
-#EXTINF:-1,ES 4k- M Drama
-http://digitallhub.xyz:80/4cw8hh8tzq/qjx96ibmlz/965585
-#EXTINF:-1,ES 4k- M INDIE
-http://digitallhub.xyz:80/4cw8hh8tzq/qjx96ibmlz/965583
-#EXTINF:-1,ES 4k- M BOM CINE
-http://digitallhub.xyz:80/4cw8hh8tzq/qjx96ibmlz/965598
-#EXTINF:-1,ES 4k- M DARK
-http://digitallhub.xyz:80/4cw8hh8tzq/qjx96ibmlz/965599
-#EXTINF:-1,ES 4k- M Suspense
-http://digitallhub.xyz:80/4cw8hh8tzq/qjx96ibmlz/965582
-#EXTINF:-1,ES 4k- AXN Movies
-http://digitallhub.xyz:80/4cw8hh8tzq/qjx96ibmlz/965588
-#EXTINF:-1,ES 4k- M Series
-http://digitallhub.xyz:80/4cw8hh8tzq/qjx96ibmlz/965589
-#EXTINF:-1,ES 4k- AMC
-http://digitallhub.xyz:80/4cw8hh8tzq/qjx96ibmlz/965591
-#EXTINF:-1,ES 4k- AXN
-http://digitallhub.xyz:80/4cw8hh8tzq/qjx96ibmlz/965590
-#EXTINF:-1,ES 4k- STAR CHANNEL
-http://digitallhub.xyz:80/4cw8hh8tzq/qjx96ibmlz/965592
-#EXTINF:-1,ES 4k- SyFy
-http://digitallhub.xyz:80/4cw8hh8tzq/qjx96ibmlz/965594
-#EXTINF:-1,ES 4k- Calle 13
-http://digitallhub.xyz:80/4cw8hh8tzq/qjx96ibmlz/965595
-#EXTINF:-1,ES 4k- Cosmo
-http://digitallhub.xyz:80/4cw8hh8tzq/qjx96ibmlz/965593
-#EXTINF:-1,ES 4k- AMC BREAK
-http://digitallhub.xyz:80/4cw8hh8tzq/qjx96ibmlz/965631
-#EXTINF:-1,ES 4k- AMC CRIME
-http://digitallhub.xyz:80/4cw8hh8tzq/qjx96ibmlz/965624
-#EXTINF:-1,ES 4k- Canal Cocina
-http://digitallhub.xyz:80/4cw8hh8tzq/qjx96ibmlz/965620
-#EXTINF:-1,ES 4k- AMC Living
-http://digitallhub.xyz:80/4cw8hh8tzq/qjx96ibmlz/965617
-#EXTINF:-1,ES 4k- Canal Odisea
-http://digitallhub.xyz:80/4cw8hh8tzq/qjx96ibmlz/965630
-#EXTINF:-1,ES 4k- M DOCUMENTALES
-http://digitallhub.xyz:80/4cw8hh8tzq/qjx96ibmlz/965608
-#EXTINF:-1,ES 4k- NAT GEO
-http://digitallhub.xyz:80/4cw8hh8tzq/qjx96ibmlz/965614
-#EXTINF:-1,ES 4k- Nat Geo Wild
-http://digitallhub.xyz:80/4cw8hh8tzq/qjx96ibmlz/965613
-#EXTINF:-1,ES 4k- CAZAVISION
-http://digitallhub.xyz:80/4cw8hh8tzq/qjx96ibmlz/965612
-#EXTINF:-1,ES 4k- Caza y Pesca
-http://digitallhub.xyz:80/4cw8hh8tzq/qjx96ibmlz/965618
-#EXTINF:-1,ES 4k- Iberalia TV
-http://digitallhub.xyz:80/4cw8hh8tzq/qjx96ibmlz/965619
-#EXTINF:-1,ES 4k- IBERALIA 100% CAZA
-http://digitallhub.xyz:80/4cw8hh8tzq/qjx96ibmlz/965609
-#EXTINF:-1,ES 4k- IBERALIA 100% PESCA
-http://digitallhub.xyz:80/4cw8hh8tzq/qjx96ibmlz/965610
-#EXTINF:-1,ES 4k- MEGA
-http://digitallhub.xyz:80/4cw8hh8tzq/qjx96ibmlz/965629
-#EXTINF:-1,ES 4k- Mezzo
-http://digitallhub.xyz:80/4cw8hh8tzq/qjx96ibmlz/965573
-#EXTINF:-1,ES 4k- Aragon TV
-http://digitallhub.xyz:80/4cw8hh8tzq/qjx96ibmlz/965572
-#EXTINF:-1,ES 4k- BE MAD
-http://digitallhub.xyz:80/4cw8hh8tzq/qjx96ibmlz/965627
-#EXTINF:-1,ES 4k- Gametoon
-http://digitallhub.xyz:80/4cw8hh8tzq/qjx96ibmlz/965628
-#EXTINF:-1,ES 4k- Comedy Central
-http://digitallhub.xyz:80/4cw8hh8tzq/qjx96ibmlz/965606
-#EXTINF:-1,ES 4k- Discovery
-http://digitallhub.xyz:80/4cw8hh8tzq/qjx96ibmlz/965623
-#EXTINF:-1,ES 4k- Divinty
-http://digitallhub.xyz:80/4cw8hh8tzq/qjx96ibmlz/965567
-#EXTINF:-1,ES 4k- DKiss
-http://digitallhub.xyz:80/4cw8hh8tzq/qjx96ibmlz/965626
-#EXTINF:-1,ES 4k- DMAX
-http://digitallhub.xyz:80/4cw8hh8tzq/qjx96ibmlz/965622
-#EXTINF:-1,ES 4k- VinTV
-http://digitallhub.xyz:80/4cw8hh8tzq/qjx96ibmlz/965616
-#EXTINF:-1,ES 4k- AMC
-http://digitallhub.xyz:80/4cw8hh8tzq/qjx96ibmlz/965575
-#EXTINF:-1,ES 4k- Historia
-http://digitallhub.xyz:80/4cw8hh8tzq/qjx96ibmlz/965621
-#EXTINF:-1,ES 4k- Hollywood
-http://digitallhub.xyz:80/4cw8hh8tzq/qjx96ibmlz/965605
-#EXTINF:-1,ES 4k- HORSE TV
-http://digitallhub.xyz:80/4cw8hh8tzq/qjx96ibmlz/965615
-#EXTINF:-1,ES 4k- MTV
-http://digitallhub.xyz:80/4cw8hh8tzq/qjx96ibmlz/965574
-#EXTINF:-1,ES 4k- M WB tv
-http://digitallhub.xyz:80/4cw8hh8tzq/qjx96ibmlz/965603
-#EXTINF:-1,ES 4k- Squirrel 2
-http://digitallhub.xyz:80/4cw8hh8tzq/qjx96ibmlz/965604
-#EXTINF:-1,ES 4k- SOMOS
-http://digitallhub.xyz:80/4cw8hh8tzq/qjx96ibmlz/965607
-#EXTINF:-1,ES 4k- TCM
-http://digitallhub.xyz:80/4cw8hh8tzq/qjx96ibmlz/965602
-#EXTINF:-1,ES 4k- XTRM
-http://digitallhub.xyz:80/4cw8hh8tzq/qjx96ibmlz/965600
+#EXTINF:-1,FR 4K- TF1 UHD
+http://delta.cloudf-nettv.xyz:80/sx4tfo5nzm/dee1gy338q/964913
+#EXTINF:-1,FR 4K- TF1
+http://delta.cloudf-nettv.xyz:80/sx4tfo5nzm/dee1gy338q/964912
+#EXTINF:-1,FR 4K- TF1 SERIES FILMS
+http://delta.cloudf-nettv.xyz:80/sx4tfo5nzm/dee1gy338q/964893
+#EXTINF:-1,FR 4K- FRANCE 2
+http://delta.cloudf-nettv.xyz:80/sx4tfo5nzm/dee1gy338q/964910
+#EXTINF:-1,FR 4K- FRANCE 3
+http://delta.cloudf-nettv.xyz:80/sx4tfo5nzm/dee1gy338q/964909
+#EXTINF:-1,FR 4K- FRANCE 4
+http://delta.cloudf-nettv.xyz:80/sx4tfo5nzm/dee1gy338q/964908
+#EXTINF:-1,FR 4K- FRANCE 5
+http://delta.cloudf-nettv.xyz:80/sx4tfo5nzm/dee1gy338q/964907
+#EXTINF:-1,FR 4K- M6
+http://delta.cloudf-nettv.xyz:80/sx4tfo5nzm/dee1gy338q/964905
+#EXTINF:-1,FR 4K- CANAL+ UHD
+http://delta.cloudf-nettv.xyz:80/sx4tfo5nzm/dee1gy338q/964914
+#EXTINF:-1,FR 4K- CANAL+
+http://delta.cloudf-nettv.xyz:80/sx4tfo5nzm/dee1gy338q/964829
+#EXTINF:-1,FR 4K- CANAL+ CINEMA
+http://delta.cloudf-nettv.xyz:80/sx4tfo5nzm/dee1gy338q/964827
+#EXTINF:-1,FR 4K- CANAL+ GRAND ECRAN
+http://delta.cloudf-nettv.xyz:80/sx4tfo5nzm/dee1gy338q/964826
+#EXTINF:-1,FR 4K- CANAL+ KIDS
+http://delta.cloudf-nettv.xyz:80/sx4tfo5nzm/dee1gy338q/964824
+#EXTINF:-1,FR 4K- CANAL+ SERIES
+http://delta.cloudf-nettv.xyz:80/sx4tfo5nzm/dee1gy338q/964828
+#EXTINF:-1,FR 4K- CANAL+ SPORT
+http://delta.cloudf-nettv.xyz:80/sx4tfo5nzm/dee1gy338q/964823
+#EXTINF:-1,FR 4K- CINE+ CLASSIC
+http://delta.cloudf-nettv.xyz:80/sx4tfo5nzm/dee1gy338q/964853
+#EXTINF:-1,FR 4K- CINE+ CLUB
+http://delta.cloudf-nettv.xyz:80/sx4tfo5nzm/dee1gy338q/964854
+#EXTINF:-1,FR 4K- CINE+ EMOTION
+http://delta.cloudf-nettv.xyz:80/sx4tfo5nzm/dee1gy338q/964856
+#EXTINF:-1,FR 4K- CINE+ FAMIZ
+http://delta.cloudf-nettv.xyz:80/sx4tfo5nzm/dee1gy338q/964855
+#EXTINF:-1,FR 4K- CINE+ FRISSON
+http://delta.cloudf-nettv.xyz:80/sx4tfo5nzm/dee1gy338q/964857
+#EXTINF:-1,FR 4K- CINE+ PREMIER
+http://delta.cloudf-nettv.xyz:80/sx4tfo5nzm/dee1gy338q/964858
+#EXTINF:-1,FR 4K- COMEDIE+
+http://delta.cloudf-nettv.xyz:80/sx4tfo5nzm/dee1gy338q/964862
+#EXTINF:-1,FR 4K- RTL9
+http://delta.cloudf-nettv.xyz:80/sx4tfo5nzm/dee1gy338q/964871
+#EXTINF:-1,FR 4K- W9
+http://delta.cloudf-nettv.xyz:80/sx4tfo5nzm/dee1gy338q/964902
+#EXTINF:-1,FR 4K- I24 NEWS
+http://delta.cloudf-nettv.xyz:80/sx4tfo5nzm/dee1gy338q/964878
+#EXTINF:-1,FR 4K- KTO
+http://delta.cloudf-nettv.xyz:80/sx4tfo5nzm/dee1gy338q/964835
+#EXTINF:-1,FR 4K- LCI
+http://delta.cloudf-nettv.xyz:80/sx4tfo5nzm/dee1gy338q/964888
+#EXTINF:-1,FR 4K- LCP
+http://delta.cloudf-nettv.xyz:80/sx4tfo5nzm/dee1gy338q/964886
+#EXTINF:-1,FR 4K- AB1
+http://delta.cloudf-nettv.xyz:80/sx4tfo5nzm/dee1gy338q/964868
+#EXTINF:-1,FR 4K- BFM TV
+http://delta.cloudf-nettv.xyz:80/sx4tfo5nzm/dee1gy338q/964897
+#EXTINF:-1,FR 4K- C8
+http://delta.cloudf-nettv.xyz:80/sx4tfo5nzm/dee1gy338q/964903
+#EXTINF:-1,FR 4K- ARTE
+http://delta.cloudf-nettv.xyz:80/sx4tfo5nzm/dee1gy338q/964904
+#EXTINF:-1,FR 4K- 6TER
+http://delta.cloudf-nettv.xyz:80/sx4tfo5nzm/dee1gy338q/964863
+#EXTINF:-1,FR 4K- CNEWS
+http://delta.cloudf-nettv.xyz:80/sx4tfo5nzm/dee1gy338q/964896
+#EXTINF:-1,FR 4K- CSTAR
+http://delta.cloudf-nettv.xyz:80/sx4tfo5nzm/dee1gy338q/964895
+#EXTINF:-1,FR 4K- USHUAIA TV
+http://delta.cloudf-nettv.xyz:80/sx4tfo5nzm/dee1gy338q/964832
+#EXTINF:-1,FR 4K- TV5 MONDE
+http://delta.cloudf-nettv.xyz:80/sx4tfo5nzm/dee1gy338q/964880
+#EXTINF:-1,FR 4K- TEVA
+http://delta.cloudf-nettv.xyz:80/sx4tfo5nzm/dee1gy338q/964869
+#EXTINF:-1,FR 4K- TFX
+http://delta.cloudf-nettv.xyz:80/sx4tfo5nzm/dee1gy338q/964899
+#EXTINF:-1,FR 4K- TMC+1
+http://delta.cloudf-nettv.xyz:80/sx4tfo5nzm/dee1gy338q/964900
+#EXTINF:-1,FR 4K- TMC
+http://delta.cloudf-nettv.xyz:80/sx4tfo5nzm/dee1gy338q/964901
+#EXTINF:-1,FR 4K- CHASSE ET PECHE
+http://delta.cloudf-nettv.xyz:80/sx4tfo5nzm/dee1gy338q/964834
+#EXTINF:-1,FR 4K- CHERIE 25
+http://delta.cloudf-nettv.xyz:80/sx4tfo5nzm/dee1gy338q/964889
+#EXTINF:-1,FR 4K- ACTION
+http://delta.cloudf-nettv.xyz:80/sx4tfo5nzm/dee1gy338q/964867
+#EXTINF:-1,FR 4K- AUTOMOTO
+http://delta.cloudf-nettv.xyz:80/sx4tfo5nzm/dee1gy338q/964839
+#EXTINF:-1,FR 4K- DISNEY CHANNEL
+http://delta.cloudf-nettv.xyz:80/sx4tfo5nzm/dee1gy338q/964846
+#EXTINF:-1,FR 4K- EQUIDIA
+http://delta.cloudf-nettv.xyz:80/sx4tfo5nzm/dee1gy338q/964841
+#EXTINF:-1,FR 4K- EURONEWS
+http://delta.cloudf-nettv.xyz:80/sx4tfo5nzm/dee1gy338q/964879
+#EXTINF:-1,FR 4K- EUROSPORT 1
+http://delta.cloudf-nettv.xyz:80/sx4tfo5nzm/dee1gy338q/964822
+#EXTINF:-1,FR 4K- FRANCE 24
+http://delta.cloudf-nettv.xyz:80/sx4tfo5nzm/dee1gy338q/964906
+#EXTINF:-1,FR 4K- GOLF+
+http://delta.cloudf-nettv.xyz:80/sx4tfo5nzm/dee1gy338q/964818
+#EXTINF:-1,FR 4K- GOLF CHANNEL
+http://delta.cloudf-nettv.xyz:80/sx4tfo5nzm/dee1gy338q/964840
+#EXTINF:-1,FR 4K- GULLI
+http://delta.cloudf-nettv.xyz:80/sx4tfo5nzm/dee1gy338q/964894
+#EXTINF:-1,FR 4K- L EQUIPE
+http://delta.cloudf-nettv.xyz:80/sx4tfo5nzm/dee1gy338q/964892
+#EXTINF:-1,FR 4K- MEZZO
+http://delta.cloudf-nettv.xyz:80/sx4tfo5nzm/dee1gy338q/964831
+#EXTINF:-1,FR 4K- MEZZO LIVE
+http://delta.cloudf-nettv.xyz:80/sx4tfo5nzm/dee1gy338q/964830
+#EXTINF:-1,FR 4K- NICKELODEON
+http://delta.cloudf-nettv.xyz:80/sx4tfo5nzm/dee1gy338q/964847
+#EXTINF:-1,FR 4K- NICKELODEON JUNIOR
+http://delta.cloudf-nettv.xyz:80/sx4tfo5nzm/dee1gy338q/964848
+#EXTINF:-1,FR 4K- NICKELODEON TEEN
+http://delta.cloudf-nettv.xyz:80/sx4tfo5nzm/dee1gy338q/964844
+#EXTINF:-1,FR 4K- NRJ12
+http://delta.cloudf-nettv.xyz:80/sx4tfo5nzm/dee1gy338q/964898
+#EXTINF:-1,FR 4K- PARAMOUNT CHANNEL
+http://delta.cloudf-nettv.xyz:80/sx4tfo5nzm/dee1gy338q/964816
+#EXTINF:-1,FR 4K- PARIS PREMIERE
+http://delta.cloudf-nettv.xyz:80/sx4tfo5nzm/dee1gy338q/964870
+#EXTINF:-1,FR 4K- POLAR+
+http://delta.cloudf-nettv.xyz:80/sx4tfo5nzm/dee1gy338q/964845
+#EXTINF:-1,FR 4K- RMC DECOUVERTE
+http://delta.cloudf-nettv.xyz:80/sx4tfo5nzm/dee1gy338q/964890
+#EXTINF:-1,FR 4K- RMC STORY
+http://delta.cloudf-nettv.xyz:80/sx4tfo5nzm/dee1gy338q/964891
+#EXTINF:-1,FR 4K- SCIENCE ET VIE
+http://delta.cloudf-nettv.xyz:80/sx4tfo5nzm/dee1gy338q/964833
+#EXTINF:-1,FR 4K- SERIE CLUB
+http://delta.cloudf-nettv.xyz:80/sx4tfo5nzm/dee1gy338q/964815
+#EXTINF:-1,FR 4K- SPORT EN FRANCE
+http://delta.cloudf-nettv.xyz:80/sx4tfo5nzm/dee1gy338q/964882
+#EXTINF:-1,FR 4K- TCM CINEMA
+http://delta.cloudf-nettv.xyz:80/sx4tfo5nzm/dee1gy338q/964866
+#EXTINF:-1,FR 4K- TOONAMI
+http://delta.cloudf-nettv.xyz:80/sx4tfo5nzm/dee1gy338q/964852
+#EXTINF:-1,FR 4K- TREK
+http://delta.cloudf-nettv.xyz:80/sx4tfo5nzm/dee1gy338q/964842
+#EXTINF:-1,NL 4K-NPO 1
+http://delta.cloudf-nettv.xyz:80/zaki660964buis/6n5hj4rfr7/963399
+#EXTINF:-1,NL 4K-NPO 2
+http://delta.cloudf-nettv.xyz:80/zaki660964buis/6n5hj4rfr7/963400
+#EXTINF:-1,NL 4K-NPO 3
+http://delta.cloudf-nettv.xyz:80/zaki660964buis/6n5hj4rfr7/963401
+#EXTINF:-1,NL 4K-NPO 1 EXTRA
+http://delta.cloudf-nettv.xyz:80/zaki660964buis/6n5hj4rfr7/963427
+#EXTINF:-1,NL 4K-NPO 2 EXTRA
+http://delta.cloudf-nettv.xyz:80/zaki660964buis/6n5hj4rfr7/963428
+#EXTINF:-1,NL 4K-NPO POLITIEK / NPO NIEUWS
+http://delta.cloudf-nettv.xyz:80/zaki660964buis/6n5hj4rfr7/963443
+#EXTINF:-1,NL 4K-RTL 4
+http://delta.cloudf-nettv.xyz:80/zaki660964buis/6n5hj4rfr7/963402
+#EXTINF:-1,NL 4K-RTL 5
+http://delta.cloudf-nettv.xyz:80/zaki660964buis/6n5hj4rfr7/963403
+#EXTINF:-1,NL 4K-SBS 6
+http://delta.cloudf-nettv.xyz:80/zaki660964buis/6n5hj4rfr7/963404
+#EXTINF:-1,NL 4K-RTL 7
+http://delta.cloudf-nettv.xyz:80/zaki660964buis/6n5hj4rfr7/963405
+#EXTINF:-1,NL 4K-RTL 8
+http://delta.cloudf-nettv.xyz:80/zaki660964buis/6n5hj4rfr7/963406
+#EXTINF:-1,NL 4K- VIAPLAY TV
+http://delta.cloudf-nettv.xyz:80/zaki660964buis/6n5hj4rfr7/963407
+#EXTINF:-1,NL 4K-RTL CRIME
+http://delta.cloudf-nettv.xyz:80/zaki660964buis/6n5hj4rfr7/963413
+#EXTINF:-1,NL 4K-RTL LOUNGE
+http://delta.cloudf-nettv.xyz:80/zaki660964buis/6n5hj4rfr7/963433
+#EXTINF:-1,NL 4K-RTL Z
+http://delta.cloudf-nettv.xyz:80/zaki660964buis/6n5hj4rfr7/963412
+#EXTINF:-1,NL 4K-NET 5
+http://delta.cloudf-nettv.xyz:80/zaki660964buis/6n5hj4rfr7/963408
+#EXTINF:-1,NL 4K-RTL TELEKIDS
+http://delta.cloudf-nettv.xyz:80/zaki660964buis/6n5hj4rfr7/963430
+#EXTINF:-1,NL 4K-VERONICA/DISNEY/XD
+http://delta.cloudf-nettv.xyz:80/zaki660964buis/6n5hj4rfr7/963409
+#EXTINF:-1,NL 4K-CARTOON NETWORK
+http://delta.cloudf-nettv.xyz:80/zaki660964buis/6n5hj4rfr7/963415
+#EXTINF:-1,NL 4K-NICKELODEON
+http://delta.cloudf-nettv.xyz:80/zaki660964buis/6n5hj4rfr7/963439
+#EXTINF:-1,NL 4K-FOX
+http://delta.cloudf-nettv.xyz:80/zaki660964buis/6n5hj4rfr7/963438
+#EXTINF:-1,NL 4K-FILM 1 ACTION
+http://delta.cloudf-nettv.xyz:80/zaki660964buis/6n5hj4rfr7/963423
+#EXTINF:-1,NL 4K-FILM 1 DRAMA
+http://delta.cloudf-nettv.xyz:80/zaki660964buis/6n5hj4rfr7/963424
+#EXTINF:-1,NL 4K-FILM 1 FAMILY
+http://delta.cloudf-nettv.xyz:80/zaki660964buis/6n5hj4rfr7/963425
+#EXTINF:-1,NL 4K-FILM 1 PREMIERE
+http://delta.cloudf-nettv.xyz:80/zaki660964buis/6n5hj4rfr7/963426
+#EXTINF:-1,NL 4K-100% NL
+http://delta.cloudf-nettv.xyz:80/zaki660964buis/6n5hj4rfr7/963449
+#EXTINF:-1,NL 4K-MTV
+http://delta.cloudf-nettv.xyz:80/zaki660964buis/6n5hj4rfr7/963431
+#EXTINF:-1,NL 4K-MTV
+http://delta.cloudf-nettv.xyz:80/zaki660964buis/6n5hj4rfr7/963448
+#EXTINF:-1,NL 4K- HGTV FHD
+http://delta.cloudf-nettv.xyz:80/zaki660964buis/6n5hj4rfr7/963445
+#EXTINF:-1,NL 4K-BBC FIRST
+http://delta.cloudf-nettv.xyz:80/zaki660964buis/6n5hj4rfr7/963414
+#EXTINF:-1,NL 4K-CRIME + INVESTIGATION
+http://delta.cloudf-nettv.xyz:80/zaki660964buis/6n5hj4rfr7/963441
+#EXTINF:-1,NL 4K-24 KITCHEN
+http://delta.cloudf-nettv.xyz:80/zaki660964buis/6n5hj4rfr7/963442
+#EXTINF:-1,NL 4K-ANIMAL PLANET
+http://delta.cloudf-nettv.xyz:80/zaki660964buis/6n5hj4rfr7/963422
+#EXTINF:-1,NL 4K-COMEDY CENTRAL
+http://delta.cloudf-nettv.xyz:80/zaki660964buis/6n5hj4rfr7/963437
+#EXTINF:-1,NL 4K-DISCOVERY CHANNEL
+http://delta.cloudf-nettv.xyz:80/zaki660964buis/6n5hj4rfr7/963416
+#EXTINF:-1,NL 4K-DISCOVERY ID
+http://delta.cloudf-nettv.xyz:80/zaki660964buis/6n5hj4rfr7/963418
+#EXTINF:-1,NL 4K-DISCOVERY SCIENCE
+http://delta.cloudf-nettv.xyz:80/zaki660964buis/6n5hj4rfr7/963417
+#EXTINF:-1,NL 4K-DISNEY CHANNEL
+http://delta.cloudf-nettv.xyz:80/zaki660964buis/6n5hj4rfr7/963429
+#EXTINF:-1,NL 4K-E! ENTERTAINMENT
+http://delta.cloudf-nettv.xyz:80/zaki660964buis/6n5hj4rfr7/963435
+#EXTINF:-1,NL 4K-HISTORY
+http://delta.cloudf-nettv.xyz:80/zaki660964buis/6n5hj4rfr7/963419
+#EXTINF:-1,NL 4K-INPLUS
+http://delta.cloudf-nettv.xyz:80/zaki660964buis/6n5hj4rfr7/963444
+#EXTINF:-1,NL 4K-LOVE NATURE
+http://delta.cloudf-nettv.xyz:80/zaki660964buis/6n5hj4rfr7/963436
+#EXTINF:-1,NL 4K-NAT GEO CHANNEL
+http://delta.cloudf-nettv.xyz:80/zaki660964buis/6n5hj4rfr7/963421
+#EXTINF:-1,NL 4K-NAT GEO WILD
+http://delta.cloudf-nettv.xyz:80/zaki660964buis/6n5hj4rfr7/963420
+#EXTINF:-1,NL 4K-PARAMOUNT
+http://delta.cloudf-nettv.xyz:80/zaki660964buis/6n5hj4rfr7/963410
+#EXTINF:-1,NL 4K-SHORTS TV
+http://delta.cloudf-nettv.xyz:80/zaki660964buis/6n5hj4rfr7/963432
+#EXTINF:-1,NL 4K-TLC
+http://delta.cloudf-nettv.xyz:80/zaki660964buis/6n5hj4rfr7/963411
+#EXTINF:-1,NL 4K-TV ORANJE
+http://delta.cloudf-nettv.xyz:80/zaki660964buis/6n5hj4rfr7/963440
+#EXTINF:-1,NL 4K- PARAMOUNT NETWORK FHD
+http://delta.cloudf-nettv.xyz:80/zaki660964buis/6n5hj4rfr7/963447
+#EXTINF:-1,NL 4K-XITE
+http://delta.cloudf-nettv.xyz:80/zaki660964buis/6n5hj4rfr7/963434
+#EXTINF:-1 tvg-id="TRT1 HD.tr" tvg-name="(TR) TRT 1 4K+" group-title="TR - Turkiye",(TR) TRT 1 4K+
+http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/14759
+#EXTINF:-1 tvg-id="ATV HD.tr" tvg-name="(TR) ATV 4K+" group-title="TR - Turkiye",(TR) ATV 4K+
+http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/14748
+#EXTINF:-1 tvg-id="KANAL D HD.tr" tvg-name="(TR) Kanal D 4K+" group-title="TR - Turkiye",(TR) Kanal D 4K+
+http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/14749
+#EXTINF:-1 tvg-id="SHOW TV HD.tr" tvg-name="(TR) Show TV 4K+" group-title="TR - Turkiye",(TR) Show TV 4K+
+http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/14756
+#EXTINF:-1 tvg-id="STAR TV HD.tr" tvg-name="(TR) Star TV 4K+" group-title="TR - Turkiye",(TR) Star TV 4K+
+http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/14753
+#EXTINF:-1 tvg-id="TV8 HD.tr" tvg-name="(TR) TV 8 4K+" group-title="TR - Turkiye",(TR) TV 8 4K+
+http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/14755
+#EXTINF:-1 tvg-id="TV8,5 HD.tr" tvg-name="(TR) TV 8.5 4K+" group-title="TR - Turkiye",(TR) TV 8.5 4K+
+http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/20691
+#EXTINF:-1 tvg-id="NOW.tr" tvg-name="(TR) Now TV 4K+" group-title="TR - Turkiye",(TR) Now TV 4K+
+http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/97321
+#EXTINF:-1 tvg-id="KANAL 7 HD.tr" tvg-name="(TR) Kanal 7 4K+" group-title="TR - Turkiye",(TR) Kanal 7 4K+
+http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/14757
+#EXTINF:-1 tvg-id="BEYAZ TV HD.tr" tvg-name="(TR) Beyaz TV 4K+" group-title="TR - Turkiye",(TR) Beyaz TV 4K+
+http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/105817
+#EXTINF:-1 tvg-id="TEVE2 HD" tvg-name="(TR) Teve 2 4K+" group-title="TR - Turkiye",(TR) Teve 2 4K+
+http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/14760
+#EXTINF:-1 tvg-id="TRT 2 HD" tvg-name="(TR) TRT 2 4K+" group-title="TR - Turkiye",(TR) TRT 2 4K+
+http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/46641
+#EXTINF:-1 tvg-id="A2 HD.tr" tvg-name="(TR) A2 4K+" group-title="TR - Turkiye",(TR) A2 4K+
+http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/15661
+#EXTINF:-1 tvg-id="" tvg-name="(TR) TYT TURK 4K+" group-title="TR - Turkiye",(TR) TYT TURK 4K+
+http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/220422
