@@ -1,484 +1,263 @@
 #EXTM3U deinterlace=1 m3uautoload=1 url-tvg="https://iptvx.one/EPG; http://epg.one/epg.xml.gz" refresh="86400" tvg-shift=0 cache=500
 
-#EXTINF:-1,NL 4K-XITE
-http://delta.cloudf-nettv.xyz:80/zaki660964buis/6n5hj4rfr7/963434
-#EXTINF:-1,FR 4K- CSTAR
-#EXTINF:-1 tvg-id="" tvg-name="(RU) Rossiya 1 4K+" group-title="RU - Rossiya",(RU) Rossiya 1 4K+
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/65288
-#EXTINF:-1 tvg-id="" tvg-name="(RU) Rossiya 24 4K+" group-title="RU - Rossiya",(RU) Rossiya 24 4K+
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/65289
-#EXTINF:-1 tvg-id="" tvg-name="(RU) RTR Planeta" group-title="RU - Rossiya",(RU) RTR Planeta
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/78641
-#EXTINF:-1 tvg-id="" tvg-name="(RU) Perviy Kanal 4K+" group-title="RU - Rossiya",(RU) Perviy Kanal 4K+
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/23911
-#EXTINF:-1 tvg-id="" tvg-name="(RU) Pervyy Kanal" group-title="RU - Rossiya",(RU) Pervyy Kanal
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/65276
-#EXTINF:-1 tvg-id="" tvg-name="(RU) Pyatyy Kanal" group-title="RU - Rossiya",(RU) Pyatyy Kanal
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/65278
-#EXTINF:-1 tvg-id="" tvg-name="(RU) Euronews" group-title="RU - Rossiya",(RU) Euronews
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/65307
-#EXTINF:-1 tvg-id="" tvg-name="(RU) Zvezda" group-title="RU - Rossiya",(RU) Zvezda
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/65396
-#EXTINF:-1 tvg-id="" tvg-name="(RU) Zvezda" group-title="RU - Rossiya",(RU) Zvezda
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/65382
-#EXTINF:-1 tvg-id="" tvg-name="(RU) TVC 4K+" group-title="RU - Rossiya",(RU) TVC 4K+
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/65374
-#EXTINF:-1 tvg-id="" tvg-name="(RU) TVC" group-title="RU - Rossiya",(RU) TVC
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/65293
-#EXTINF:-1 tvg-id="" tvg-name="(RU) Fox 4K+" group-title="RU - Rossiya",(RU) Fox 4K+
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/65312
-#EXTINF:-1 tvg-id="" tvg-name="(RU) Fox Life 4K+" group-title="RU - Rossiya",(RU) Fox Life 4K+
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/11703
-#EXTINF:-1 tvg-id="" tvg-name="(RU) First Channel" group-title="RU - Rossiya",(RU) First Channel
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/65313
-#EXTINF:-1 tvg-id="" tvg-name="(RU) NTV 4K+" group-title="RU - Rossiya",(RU) NTV 4K+
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/11644
-#EXTINF:-1 tvg-id="" tvg-name="(RU) NTV Mir 4K+" group-title="RU - Rossiya",(RU) NTV Mir 4K+
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/63350
-#EXTINF:-1 tvg-id="" tvg-name="(RU) RBK TV" group-title="RU - Rossiya",(RU) RBK TV
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/65279
-#EXTINF:-1 tvg-id="" tvg-name="(RU) REN TV" group-title="RU - Rossiya",(RU) REN TV
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/65280
-#EXTINF:-1 tvg-id="" tvg-name="(RU) Rodnoe Kino" group-title="RU - Rossiya",(RU) Rodnoe Kino
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/65351
-#EXTINF:-1 tvg-id="" tvg-name="(RU) RTR Planeta 4K+" group-title="RU - Rossiya",(RU) RTR Planeta 4K+
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/63340
-#EXTINF:-1 tvg-id="" tvg-name="(RU) Russiya Kultura" group-title="RU - Rossiya",(RU) Russiya Kultura
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/65283
-#EXTINF:-1 tvg-id="" tvg-name="(RU) TV3" group-title="RU - Rossiya",(RU) TV3
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/65292
-#EXTINF:-1 tvg-id="" tvg-name="(RU) TV3" group-title="RU - Rossiya",(RU) TV3
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/65373
-#EXTINF:-1 tvg-id="" tvg-name="(RU) Istorija" group-title="RU - Rossiya",(RU) Istorija
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/65399
-#EXTINF:-1 tvg-id="" tvg-name="(RU) Kto Estʹ Kto" group-title="RU - Rossiya",(RU) Kto Estʹ Kto
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/65407
-#EXTINF:-1 tvg-id="" tvg-name="(RU) Moskva 24" group-title="RU - Rossiya",(RU) Moskva 24
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/65426
-#EXTINF:-1 tvg-id="" tvg-name="(RU) 8 Kanal International HD+" group-title="RU - Rossiya",(RU) 8 Kanal International HD+
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/63342
-#EXTINF:-1 tvg-id="" tvg-name="(RU) Amedia Hits 4K+" group-title="RU - Rossiya",(RU) Amedia Hits 4K+
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/65299
-#EXTINF:-1 tvg-id="" tvg-name="(RU) СТС" group-title="RU - Rossiya",(RU) СТС
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/11665
-#EXTINF:-1 tvg-id="" tvg-name="(RU) Discovery ID 4K+" group-title="RU - Rossiya",(RU) Discovery ID 4K+
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/65304
-#EXTINF:-1 tvg-id="" tvg-name="(RU) Discovery Science 4K+" group-title="RU - Rossiya",(RU) Discovery Science 4K+
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/65301
-#EXTINF:-1 tvg-id="" tvg-name="(RU) Discovery ID XTRA 4K+" group-title="RU - Rossiya",(RU) Discovery ID XTRA 4K+
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/65300
-#EXTINF:-1 tvg-id="" tvg-name="(RU) EDA 4K+" group-title="RU - Rossiya",(RU) EDA 4K+
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/65394
-#EXTINF:-1 tvg-id="" tvg-name="(RU) Egoist TV" group-title="RU - Rossiya",(RU) Egoist TV
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/65448
-#EXTINF:-1 tvg-id="" tvg-name="(RU) Fashion TV 4K+" group-title="RU - Rossiya",(RU) Fashion TV 4K+
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/65310
-#EXTINF:-1 tvg-id="" tvg-name="(RU) Food Network" group-title="RU - Rossiya",(RU) Food Network
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/11739
-#EXTINF:-1 tvg-id="" tvg-name="(RU) ID Fashion 4K+" group-title="RU - Rossiya",(RU) ID Fashion 4K+
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/65317
-#EXTINF:-1 tvg-id="" tvg-name="(RU) Kuhnya TV" group-title="RU - Rossiya",(RU) Kuhnya TV
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/65408
-#EXTINF:-1 tvg-id="" tvg-name="(RU) Mama" group-title="RU - Rossiya",(RU) Mama
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/65411
-#EXTINF:-1 tvg-id="" tvg-name="(RU) Mezzo" group-title="RU - Rossiya",(RU) Mezzo
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/65334
-#EXTINF:-1 tvg-id="" tvg-name="(RU) MIR 24" group-title="RU - Rossiya",(RU) MIR 24
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/65422
-#EXTINF:-1 tvg-id="" tvg-name="(RU) Nostalgia" group-title="RU - Rossiya",(RU) Nostalgia
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/65269
-#EXTINF:-1 tvg-id="" tvg-name="(RU) REN" group-title="RU - Rossiya",(RU) REN
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/23696
-#EXTINF:-1 tvg-id="" tvg-name="(RU) RT Arabia" group-title="RU - Rossiya",(RU) RT Arabia
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/8367
-#EXTINF:-1 tvg-id="" tvg-name="(RU) RU TV 4K+" group-title="RU - Rossiya",(RU) RU TV 4K+
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/65349
-#EXTINF:-1 tvg-id="" tvg-name="(RU) STB 4K+" group-title="RU - Rossiya",(RU) STB 4K+
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/65357
-#EXTINF:-1 tvg-id="" tvg-name="(RU) Sovershenno Sekretno" group-title="RU - Rossiya",(RU) Sovershenno Sekretno
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/65291
-#EXTINF:-1 tvg-id="" tvg-name="(RU) Sankt Peterburg" group-title="RU - Rossiya",(RU) Sankt Peterburg
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/65290
-#EXTINF:-1 tvg-id="" tvg-name="(RU) Telekafe" group-title="RU - Rossiya",(RU) Telekafe
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/65294
-#EXTINF:-1 tvg-id="" tvg-name="(RU) TNT International Europe" group-title="RU - Rossiya",(RU) TNT International Europe
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/63362
-#EXTINF:-1 tvg-id="" tvg-name="(RU) World Fashion 4K+" group-title="RU - Rossiya",(RU) World Fashion 4K+
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/65380
-#EXTINF:-1 tvg-id="" tvg-name="(RU) Zee TV" group-title="RU - Rossiya",(RU) Zee TV
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/65381
-#EXTINF:-1 tvg-id="" tvg-name="(RU) ANI" group-title="RU - Rossiya",(RU) ANI
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/65019
-#EXTINF:-1 tvg-id="" tvg-name="(RU) Cartoon Network" group-title="RU - Rossiya",(RU) Cartoon Network
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/11589
-#EXTINF:-1 tvg-id="" tvg-name="(RU) Detsky" group-title="RU - Rossiya",(RU) Detsky
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/65388
-#EXTINF:-1 tvg-id="" tvg-name="(RU) Disney Channel" group-title="RU - Rossiya",(RU) Disney Channel
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/65302
-#EXTINF:-1 tvg-id="" tvg-name="(RU) Doždʹ" group-title="RU - Rossiya",(RU) Doždʹ
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/65389
-#EXTINF:-1 tvg-id="" tvg-name="(RU) Gulli" group-title="RU - Rossiya",(RU) Gulli
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/65314
-#EXTINF:-1 tvg-id="" tvg-name="(RU) Karusel" group-title="RU - Rossiya",(RU) Karusel
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/65401
-#EXTINF:-1 tvg-id="" tvg-name="(RU) Mult" group-title="RU - Rossiya",(RU) Mult
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/65431
-#EXTINF:-1 tvg-id="" tvg-name="(RU) Nick Jr." group-title="RU - Rossiya",(RU) Nick Jr.
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/65338
-#EXTINF:-1 tvg-id="" tvg-name="(RU) Nickelodeon 4K+" group-title="RU - Rossiya",(RU) Nickelodeon 4K+
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/65343
-#EXTINF:-1 tvg-id="" tvg-name="(RU) Tiji" group-title="RU - Rossiya",(RU) Tiji
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/65377
-#EXTINF:-1 tvg-id="" tvg-name="(RU) Boks TV" group-title="RU - Rossiya",(RU) Boks TV
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/65386
-#EXTINF:-1 tvg-id="" tvg-name="(RU) Dange TV" group-title="RU - Rossiya",(RU) Dange TV
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/65024
-#EXTINF:-1 tvg-id="" tvg-name="(RU) MTV  4K+" group-title="RU - Rossiya",(RU) MTV  4K+
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/65327
-#EXTINF:-1 tvg-id="" tvg-name="(RU) MTV Live 4K+" group-title="RU - Rossiya",(RU) MTV Live 4K+
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/65326
-#EXTINF:-1 tvg-id="" tvg-name="(RU) Musicbox UA 4K+" group-title="RU - Rossiya",(RU) Musicbox UA 4K+
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/65328
-#EXTINF:-1 tvg-id="" tvg-name="(RU) Muz TV" group-title="RU - Rossiya",(RU) Muz TV
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/65429
-#EXTINF:-1 tvg-id="" tvg-name="(RU) Muzika Pervogo" group-title="RU - Rossiya",(RU) Muzika Pervogo
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/65430
-#EXTINF:-1 tvg-id="" tvg-name="(RU) ONE 4K+" group-title="RU - Rossiya",(RU) ONE 4K+
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/65346
-#EXTINF:-1 tvg-id="" tvg-name="(RU) Russian Musicbox 4K+" group-title="RU - Rossiya",(RU) Russian Musicbox 4K+
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/65350
-#EXTINF:-1 tvg-id="" tvg-name="(RU) Shanson TV" group-title="RU - Rossiya",(RU) Shanson TV
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/65298
-#EXTINF:-1 tvg-id="" tvg-name="(RU) 24 Doc 4K+" group-title="RU - Rossiya",(RU) 24 Doc 4K+
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/65015
-#EXTINF:-1 tvg-id="" tvg-name="(RU) 24 Tehno" group-title="RU - Rossiya",(RU) 24 Tehno
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/65016
-#EXTINF:-1 tvg-id="" tvg-name="(RU) 2X2" group-title="RU - Rossiya",(RU) 2X2
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/65017
-#EXTINF:-1 tvg-id="" tvg-name="(RU) AMC" group-title="RU - Rossiya",(RU) AMC
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/65018
-#EXTINF:-1 tvg-id="" tvg-name="(RU) Amedia 1" group-title="RU - Rossiya",(RU) Amedia 1
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/11700
-#EXTINF:-1 tvg-id="" tvg-name="(RU) Amedia 2" group-title="RU - Rossiya",(RU) Amedia 2
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/11701
-#EXTINF:-1 tvg-id="" tvg-name="(RU) Amedia Home of HBO" group-title="RU - Rossiya",(RU) Amedia Home of HBO
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/11711
-#EXTINF:-1 tvg-id="" tvg-name="(RU) Bollywood 4K+" group-title="RU - Rossiya",(RU) Bollywood 4K+
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/65021
-#EXTINF:-1 tvg-id="" tvg-name="(RU) CHE" group-title="RU - Rossiya",(RU) CHE
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/65297
-#EXTINF:-1 tvg-id="" tvg-name="(RU) Dom Kino" group-title="RU - Rossiya",(RU) Dom Kino
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/23909
-#EXTINF:-1 tvg-id="" tvg-name="(RU) Dom Kino Home Cinema" group-title="RU - Rossiya",(RU) Dom Kino Home Cinema
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/65392
-#EXTINF:-1 tvg-id="" tvg-name="(RU) Dom Kino Premium 4K+" group-title="RU - Rossiya",(RU) Dom Kino Premium 4K+
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/65390
-#EXTINF:-1 tvg-id="" tvg-name="(RU) Domashniy" group-title="RU - Rossiya",(RU) Domashniy
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/40753
-#EXTINF:-1 tvg-id="" tvg-name="(RU) Domashny" group-title="RU - Rossiya",(RU) Domashny
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/65391
-#EXTINF:-1 tvg-id="" tvg-name="(RU) English Club 4K+" group-title="RU - Rossiya",(RU) English Club 4K+
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/65309
-#EXTINF:-1 tvg-id="" tvg-name="(RU) Eureka 4K+" group-title="RU - Rossiya",(RU) Eureka 4K+
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/65306
-#EXTINF:-1 tvg-id="" tvg-name="(RU) Europa Plus" group-title="RU - Rossiya",(RU) Europa Plus
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/65308
-#EXTINF:-1 tvg-id="" tvg-name="(RU) Evrokino" group-title="RU - Rossiya",(RU) Evrokino
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/65393
-#EXTINF:-1 tvg-id="" tvg-name="(RU) Kino Svidanie" group-title="RU - Rossiya",(RU) Kino Svidanie
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/65320
-#EXTINF:-1 tvg-id="" tvg-name="(RU) Kinocvidanie" group-title="RU - Rossiya",(RU) Kinocvidanie
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/65402
-#EXTINF:-1 tvg-id="" tvg-name="(RU) Kinohit" group-title="RU - Rossiya",(RU) Kinohit
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/47525
-#EXTINF:-1 tvg-id="" tvg-name="(RU) Kinokomedia" group-title="RU - Rossiya",(RU) Kinokomedia
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/65403
-#EXTINF:-1 tvg-id="" tvg-name="(RU) Kinomiks" group-title="RU - Rossiya",(RU) Kinomiks
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/65404
-#EXTINF:-1 tvg-id="" tvg-name="(RU) Kinomiks" group-title="RU - Rossiya",(RU) Kinomiks
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/65321
-#EXTINF:-1 tvg-id="" tvg-name="(RU) Kinopokaz 1 4K+" group-title="RU - Rossiya",(RU) Kinopokaz 1 4K+
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/65322
-#EXTINF:-1 tvg-id="" tvg-name="(RU) Kinopokaz 2" group-title="RU - Rossiya",(RU) Kinopokaz 2
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/65323
-#EXTINF:-1 tvg-id="" tvg-name="(RU) Kinosemia" group-title="RU - Rossiya",(RU) Kinosemia
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/65405
-#EXTINF:-1 tvg-id="" tvg-name="(RU) Kinosemja" group-title="RU - Rossiya",(RU) Kinosemja
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/65324
-#EXTINF:-1 tvg-id="" tvg-name="(RU) Kinoserija" group-title="RU - Rossiya",(RU) Kinoserija
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/11757
-#EXTINF:-1 tvg-id="" tvg-name="(RU) Komediynoe HD+" group-title="RU - Rossiya",(RU) Komediynoe HD+
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/23916
-#EXTINF:-1 tvg-id="" tvg-name="(RU) MIR 4K+" group-title="RU - Rossiya",(RU) MIR 4K+
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/65423
-#EXTINF:-1 tvg-id="" tvg-name="(RU) MIR Seriala" group-title="RU - Rossiya",(RU) MIR Seriala
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/65425
-#EXTINF:-1 tvg-id="" tvg-name="(RU) MIR World" group-title="RU - Rossiya",(RU) MIR World
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/65433
-#EXTINF:-1 tvg-id="" tvg-name="(RU) Moya Planeta" group-title="RU - Rossiya",(RU) Moya Planeta
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/65427
-#EXTINF:-1 tvg-id="" tvg-name="(RU) Kino Premyera 4K+" group-title="RU - Rossiya",(RU) Kino Premyera 4K+
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/65335
-#EXTINF:-1 tvg-id="" tvg-name="(RU) Muzhskoe Kino 4K+" group-title="RU - Rossiya",(RU) Muzhskoe Kino 4K+
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/65337
-#EXTINF:-1 tvg-id="" tvg-name="(RU) Nashe" group-title="RU - Rossiya",(RU) Nashe
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/65267
-#EXTINF:-1 tvg-id="" tvg-name="(RU) Nashe Noveo Kino 4K+" group-title="RU - Rossiya",(RU) Nashe Noveo Kino 4K+
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/65342
-#EXTINF:-1 tvg-id="" tvg-name="(RU) Nashe Novoye Kino" group-title="RU - Rossiya",(RU) Nashe Novoye Kino
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/65268
-#EXTINF:-1 tvg-id="" tvg-name="(RU) Paramount Channel 4K+" group-title="RU - Rossiya",(RU) Paramount Channel 4K+
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/65347
-#EXTINF:-1 tvg-id="" tvg-name="(RU) Paramount Comedy HD+" group-title="RU - Rossiya",(RU) Paramount Comedy HD+
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/11611
-#EXTINF:-1 tvg-id="" tvg-name="(RU) Russkiy Roman" group-title="RU - Rossiya",(RU) Russkiy Roman
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/65286
-#EXTINF:-1 tvg-id="" tvg-name="(RU) Russkiy Bestseller" group-title="RU - Rossiya",(RU) Russkiy Bestseller
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/45383
-#EXTINF:-1 tvg-id="" tvg-name="(RU) Russkiy Detektiv" group-title="RU - Rossiya",(RU) Russkiy Detektiv
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/25351
-#EXTINF:-1 tvg-id="" tvg-name="(RU) Russkiy Ekstrim" group-title="RU - Rossiya",(RU) Russkiy Ekstrim
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/65287
-#EXTINF:-1 tvg-id="" tvg-name="(RU) Russkiy Illusion" group-title="RU - Rossiya",(RU) Russkiy Illusion
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/23914
-#EXTINF:-1 tvg-id="" tvg-name="(RU) Russian Romance" group-title="RU - Rossiya",(RU) Russian Romance
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/23700
-#EXTINF:-1 tvg-id="" tvg-name="(RU) Sony Channel 4K+" group-title="RU - Rossiya",(RU) Sony Channel 4K+
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/65356
-#EXTINF:-1 tvg-id="" tvg-name="(RU) Sony Sci-Fi" group-title="RU - Rossiya",(RU) Sony Sci-Fi
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/65360
-#EXTINF:-1 tvg-id="" tvg-name="(RU) Sony Turbo" group-title="RU - Rossiya",(RU) Sony Turbo
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/65355
-#EXTINF:-1 tvg-id="" tvg-name="(RU) THT" group-title="RU - Rossiya",(RU) THT
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/65361
-#EXTINF:-1 tvg-id="" tvg-name="(RU) TLC 4K+" group-title="RU - Rossiya",(RU) TLC 4K+
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/65362
-#EXTINF:-1 tvg-id="" tvg-name="(RU) TNT" group-title="RU - Rossiya",(RU) TNT
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/65296
-#EXTINF:-1 tvg-id="" tvg-name="(RU) TNT 4" group-title="RU - Rossiya",(RU) TNT 4
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/65295
-#EXTINF:-1 tvg-id="" tvg-name="(RU) TV1000" group-title="RU - Rossiya",(RU) TV1000
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/65372
-#EXTINF:-1 tvg-id="" tvg-name="(RU) TV1000 Action" group-title="RU - Rossiya",(RU) TV1000 Action
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/65368
-#EXTINF:-1 tvg-id="" tvg-name="(RU) TV1000 Comedy" group-title="RU - Rossiya",(RU) TV1000 Comedy
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/65369
-#EXTINF:-1 tvg-id="" tvg-name="(RU) TV1000 Mega Hit" group-title="RU - Rossiya",(RU) TV1000 Mega Hit
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/65370
-#EXTINF:-1 tvg-id="" tvg-name="(RU) TV1000 Premium 4K+" group-title="RU - Rossiya",(RU) TV1000 Premium 4K+
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/65371
-#EXTINF:-1 tvg-id="" tvg-name="(RU) TV1000 Ruskoe Kino" group-title="RU - Rossiya",(RU) TV1000 Ruskoe Kino
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/23701
-#EXTINF:-1 tvg-id="" tvg-name="(RU) TV1000 4K+" group-title="RU - Rossiya",(RU) TV1000 4K+
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/65365
-#EXTINF:-1 tvg-id="" tvg-name="(RU) TV1000 East 4K+" group-title="RU - Rossiya",(RU) TV1000 East 4K+
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/65364
-#EXTINF:-1 tvg-id="" tvg-name="(RU) TV1000 Action East 4K+" group-title="RU - Rossiya",(RU) TV1000 Action East 4K+
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/65363
-#EXTINF:-1 tvg-id="" tvg-name="(RU) TV 3" group-title="RU - Rossiya",(RU) TV 3
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/65366
-#EXTINF:-1 tvg-id="" tvg-name="(RU) 21 TV" group-title="RU - Rossiya",(RU) 21 TV
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/65367
-#EXTINF:-1 tvg-id="" tvg-name="(RU) Vremja" group-title="RU - Rossiya",(RU) Vremja
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/23915
-#EXTINF:-1 tvg-id="" tvg-name="(RU) Domashniye Zhivotnyye" group-title="RU - Rossiya",(RU) Domashniye Zhivotnyye
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/65305
-#EXTINF:-1 tvg-id="" tvg-name="(RU) Eurosport HD+" group-title="RU - Rossiya",(RU) Eurosport HD+
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/11741
-#EXTINF:-1 tvg-id="" tvg-name="(RU) Eurosport 2 HD+" group-title="RU - Rossiya",(RU) Eurosport 2 HD+
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/11597
-#EXTINF:-1 tvg-id="" tvg-name="(RU) Extreme Sports" group-title="RU - Rossiya",(RU) Extreme Sports
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/11743
-#EXTINF:-1 tvg-id="" tvg-name="(RU) Futbol 1 4K+" group-title="RU - Rossiya",(RU) Futbol 1 4K+
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/23705
-#EXTINF:-1 tvg-id="" tvg-name="(RU) KHL TV 4K+" group-title="RU - Rossiya",(RU) KHL TV 4K+
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/65409
-#EXTINF:-1 tvg-id="" tvg-name="(RU) Konniy Mir 4K+" group-title="RU - Rossiya",(RU) Konniy Mir 4K+
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/65406
-#EXTINF:-1 tvg-id="" tvg-name="(RU) Match Arena" group-title="RU - Rossiya",(RU) Match Arena
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/65413
-#EXTINF:-1 tvg-id="" tvg-name="(RU) Match Arena 4K+" group-title="RU - Rossiya",(RU) Match Arena 4K+
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/65329
-#EXTINF:-1 tvg-id="" tvg-name="(RU) Match Boets 4K+" group-title="RU - Rossiya",(RU) Match Boets 4K+
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/65325
-#EXTINF:-1 tvg-id="" tvg-name="(RU) Match Igra" group-title="RU - Rossiya",(RU) Match Igra
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/65415
-#EXTINF:-1 tvg-id="" tvg-name="(RU) Match Igra 4K+" group-title="RU - Rossiya",(RU) Match Igra 4K+
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/65330
-#EXTINF:-1 tvg-id="" tvg-name="(RU) Match Nash Sport" group-title="RU - Rossiya",(RU) Match Nash Sport
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/65331
-#EXTINF:-1 tvg-id="" tvg-name="(RU) Match Planeta 4K+" group-title="RU - Rossiya",(RU) Match Planeta 4K+
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/65332
-#EXTINF:-1 tvg-id="" tvg-name="(RU) Match Premier" group-title="RU - Rossiya",(RU) Match Premier
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/30423
-#EXTINF:-1 tvg-id="" tvg-name="(RU) Match Sports" group-title="RU - Rossiya",(RU) Match Sports
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/30422
-#EXTINF:-1 tvg-id="" tvg-name="(RU) Match TV 4K+" group-title="RU - Rossiya",(RU) Match TV 4K+
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/30421
-#EXTINF:-1 tvg-id="" tvg-name="(RU) Match! Futbol 1 4K+" group-title="RU - Rossiya",(RU) Match! Futbol 1 4K+
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/65419
-#EXTINF:-1 tvg-id="" tvg-name="(RU) Match! Futbol 2 4K+" group-title="RU - Rossiya",(RU) Match! Futbol 2 4K+
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/65420
-#EXTINF:-1 tvg-id="" tvg-name="(RU) Match! Futbol 3 4K+" group-title="RU - Rossiya",(RU) Match! Futbol 3 4K+
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/65421
-#EXTINF:-1 tvg-id="" tvg-name="(RU) Match! Nash Sport" group-title="RU - Rossiya",(RU) Match! Nash Sport
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/65416
-#EXTINF:-1 tvg-id="" tvg-name="(RU) Nash Futbol" group-title="RU - Rossiya",(RU) Nash Futbol
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/65266
-#EXTINF:-1 tvg-id="" tvg-name="(RU) Nash Futbol 4K+" group-title="RU - Rossiya",(RU) Nash Futbol 4K+
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/65265
-#EXTINF:-1 tvg-id="" tvg-name="(RU) NTV Football 1 4K+" group-title="RU - Rossiya",(RU) NTV Football 1 4K+
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/65339
-#EXTINF:-1 tvg-id="" tvg-name="(RU) NTV Football 2 4K+" group-title="RU - Rossiya",(RU) NTV Football 2 4K+
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/65340
-#EXTINF:-1 tvg-id="" tvg-name="(RU) NTV Football 3 4K+" group-title="RU - Rossiya",(RU) NTV Football 3 4K+
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/65341
-#EXTINF:-1 tvg-id="" tvg-name="(RU) Setanta Eurasia 4K+" group-title="RU - Rossiya",(RU) Setanta Eurasia 4K+
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/65353
-#EXTINF:-1 tvg-id="" tvg-name="(RU) Setanta Sport 4K+" group-title="RU - Rossiya",(RU) Setanta Sport 4K+
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/65354
-#EXTINF:-1 tvg-id="" tvg-name="(RU) Viasat Nature" group-title="RU - Rossiya",(RU) Viasat Nature
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/11622
-#EXTINF:-1 tvg-id="" tvg-name="(RU) Viasat Sport" group-title="RU - Rossiya",(RU) Viasat Sport
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/11750
-#EXTINF:-1 tvg-id="" tvg-name="(RU) 365 Dnei TV" group-title="RU - Rossiya",(RU) 365 Dnei TV
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/23699
-#EXTINF:-1 tvg-id="" tvg-name="(RU) Animal Planet HD+" group-title="RU - Rossiya",(RU) Animal Planet HD+
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/11729
-#EXTINF:-1 tvg-id="" tvg-name="(RU) Avto 24 4K+" group-title="RU - Rossiya",(RU) Avto 24 4K+
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/65383
-#EXTINF:-1 tvg-id="" tvg-name="(RU) Auto Plus" group-title="RU - Rossiya",(RU) Auto Plus
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/65384
-#EXTINF:-1 tvg-id="" tvg-name="(RU) Bober" group-title="RU - Rossiya",(RU) Bober
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/65385
-#EXTINF:-1 tvg-id="" tvg-name="(RU) CBS Reality" group-title="RU - Rossiya",(RU) CBS Reality
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/65022
-#EXTINF:-1 tvg-id="" tvg-name="(RU) Da Vinci Learning" group-title="RU - Rossiya",(RU) Da Vinci Learning
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/65023
-#EXTINF:-1 tvg-id="" tvg-name="(RU) Discovery Channel 4K+" group-title="RU - Rossiya",(RU) Discovery Channel 4K+
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/11730
-#EXTINF:-1 tvg-id="" tvg-name="(RU) Fine Living 4K+" group-title="RU - Rossiya",(RU) Fine Living 4K+
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/65311
-#EXTINF:-1 tvg-id="" tvg-name="(RU) HD Life 4K+" group-title="RU - Rossiya",(RU) HD Life 4K+
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/65315
-#EXTINF:-1 tvg-id="" tvg-name="(RU) History" group-title="RU - Rossiya",(RU) History
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/11727
-#EXTINF:-1 tvg-id="" tvg-name="(RU) ID Extra 4K+" group-title="RU - Rossiya",(RU) ID Extra 4K+
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/65316
-#EXTINF:-1 tvg-id="" tvg-name="(RU) Nat Geo Wild HD+" group-title="RU - Rossiya",(RU) Nat Geo Wild HD+
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/11731
-#EXTINF:-1 tvg-id="" tvg-name="(RU) National Geographic HD+" group-title="RU - Rossiya",(RU) National Geographic HD+
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/11732
-#EXTINF:-1 tvg-id="" tvg-name="(RU) Nauka 2.0" group-title="RU - Rossiya",(RU) Nauka 2.0
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/65434
-#EXTINF:-1 tvg-id="" tvg-name="(RU) Ocean TV" group-title="RU - Rossiya",(RU) Ocean TV
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/65344
-#EXTINF:-1 tvg-id="" tvg-name="(RU) Okhotnik i Rybalov" group-title="RU - Rossiya",(RU) Okhotnik i Rybalov
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/65274
-#EXTINF:-1 tvg-id="" tvg-name="(RU) Oruzhiye" group-title="RU - Rossiya",(RU) Oruzhiye
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/65271
-#EXTINF:-1 tvg-id="" tvg-name="(RU) Outdoor Channel" group-title="RU - Rossiya",(RU) Outdoor Channel
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/65345
-#EXTINF:-1 tvg-id="" tvg-name="(RU) Pyatnisa" group-title="RU - Rossiya",(RU) Pyatnisa
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/65277
-#EXTINF:-1 tvg-id="" tvg-name="(RU) RTVi" group-title="RU - Rossiya",(RU) RTVi
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/65348
-#EXTINF:-1 tvg-id="" tvg-name="(RU) Travel Channel" group-title="RU - Rossiya",(RU) Travel Channel
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/11725
-#EXTINF:-1 tvg-id="" tvg-name="(RU) Viasat Explorer" group-title="RU - Rossiya",(RU) Viasat Explorer
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/11620
-#EXTINF:-1 tvg-id="" tvg-name="(RU) Viasat History 4K+" group-title="RU - Rossiya",(RU) Viasat History 4K+
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/65379
-#EXTINF:-1 tvg-id="" tvg-name="(RU) Yu TV" group-title="RU - Rossiya",(RU) Yu TV
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/65264
-#EXTINF:-1 tvg-id="" tvg-name="(RU) Zoopark" group-title="RU - Rossiya",(RU) Zoopark
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/65397
+OOO "BSCOM", Россия, Красноярск
 
-#EXTINF:-1 tvg-id="" tvg-name="(UA) 1+1" group-title="UA - Ukraine",(UA) 1+1
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/46660
-#EXTINF:-1 tvg-id="" tvg-name="(UA) 2+2" group-title="UA - Ukraine",(UA) 2+2
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/46661
-#EXTINF:-1 tvg-id="" tvg-name="(UA) ICTV" group-title="UA - Ukraine",(UA) ICTV
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/46662
-#EXTINF:-1 tvg-id="" tvg-name="(UA) Inter" group-title="UA - Ukraine",(UA) Inter
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/46663
-#EXTINF:-1 tvg-id="" tvg-name="(UA) K1 HD+" group-title="UA - Ukraine",(UA) K1 HD+
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/66169
-#EXTINF:-1 tvg-id="" tvg-name="(UA) 1+1 (Backup)" group-title="UA - Ukraine",(UA) 1+1 (Backup)
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/112679
-#EXTINF:-1 tvg-id="" tvg-name="(UA) 1+1 International" group-title="UA - Ukraine",(UA) 1+1 International
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/112680
-#EXTINF:-1 tvg-id="" tvg-name="(UA) Inter plus" group-title="UA - Ukraine",(UA) Inter plus
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/112681
-#EXTINF:-1 tvg-id="" tvg-name="(UA) Enter Film" group-title="UA - Ukraine",(UA) Enter Film
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/112682
-#EXTINF:-1 tvg-id="" tvg-name="(UA) PIXEL" group-title="UA - Ukraine",(UA) PIXEL
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/112683
-#EXTINF:-1 tvg-id="" tvg-name="(UA) ZOOM" group-title="UA - Ukraine",(UA) ZOOM
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/112684
-#EXTINF:-1 tvg-id="" tvg-name="(UA) K2" group-title="UA - Ukraine",(UA) K2
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/112685
-#EXTINF:-1 tvg-id="" tvg-name="(UA) K1" group-title="UA - Ukraine",(UA) K1
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/112686
-#EXTINF:-1 tvg-id="" tvg-name="(UA) MEGA" group-title="UA - Ukraine",(UA) MEGA
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/112687
-#EXTINF:-1 tvg-id="" tvg-name="(UA) Horizont" group-title="UA - Ukraine",(UA) Horizont
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/112688
-#EXTINF:-1 tvg-id="" tvg-name="(UA) NTN" group-title="UA - Ukraine",(UA) NTN
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/112689
-#EXTINF:-1 tvg-id="" tvg-name="(UA) LALE" group-title="UA - Ukraine",(UA) LALE
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/112691
-#EXTINF:-1 tvg-id="" tvg-name="(UA) ATR" group-title="UA - Ukraine",(UA) ATR
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/112692
-#EXTINF:-1 tvg-id="" tvg-name="(UA) Vintage TV (Ukraine)" group-title="UA - Ukraine",(UA) Vintage TV (Ukraine)
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/112693
-#EXTINF:-1 tvg-id="" tvg-name="(UA) Sonce" group-title="UA - Ukraine",(UA) Sonce
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/112695
-#EXTINF:-1 tvg-id="" tvg-name="(UA) News Network" group-title="UA - Ukraine",(UA) News Network
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/112696
-#EXTINF:-1 tvg-id="" tvg-name="(UA) Indigo" group-title="UA - Ukraine",(UA) Indigo
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/112697
-#EXTINF:-1 tvg-id="" tvg-name="(UA) NLO TV" group-title="UA - Ukraine",(UA) NLO TV
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/112698
-#EXTINF:-1 tvg-id="" tvg-name="(UA) TRK Ukraina" group-title="UA - Ukraine",(UA) TRK Ukraina
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/112699
-#EXTINF:-1 tvg-id="" tvg-name="(UA) OTV" group-title="UA - Ukraine",(UA) OTV
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/112700
-#EXTINF:-1 tvg-id="" tvg-name="(UA) Unian TV" group-title="UA - Ukraine",(UA) Unian TV
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/112701
-#EXTINF:-1 tvg-id="" tvg-name="(UA) Bigudi" group-title="UA - Ukraine",(UA) Bigudi
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/112702
-#EXTINF:-1 tvg-id="" tvg-name="(UA) Plus Plus" group-title="UA - Ukraine",(UA) Plus Plus
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/112703
-#EXTINF:-1 tvg-id="" tvg-name="(UA) TET" group-title="UA - Ukraine",(UA) TET
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/112705
-#EXTINF:-1 tvg-id="" tvg-name="(UA) Tysa 1" group-title="UA - Ukraine",(UA) Tysa 1
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/112706
-#EXTINF:-1 tvg-id="" tvg-name="(UA) Pervy-delovoy" group-title="UA - Ukraine",(UA) Pervy-delovoy
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/112707
-#EXTINF:-1 tvg-id="" tvg-name="(UA) UA Krym" group-title="UA - Ukraine",(UA) UA Krym
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/112708
-#EXTINF:-1 tvg-id="" tvg-name="(UA) QTV" group-title="UA - Ukraine",(UA) QTV
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/112709
-#EXTINF:-1 tvg-id="" tvg-name="(UA) Tonis" group-title="UA - Ukraine",(UA) Tonis
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/112710
-#EXTINF:-1 tvg-id="" tvg-name="(UA) NEWS 24" group-title="UA - Ukraine",(UA) NEWS 24
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/112711
-#EXTINF:-1 tvg-id="" tvg-name="(UA) M2" group-title="UA - Ukraine",(UA) M2
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/112712
-#EXTINF:-1 tvg-id="" tvg-name="(UA) ICTV" group-title="UA - Ukraine",(UA) ICTV
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/112713
-#EXTINF:-1 tvg-id="" tvg-name="(UA) NOVY CHANNEL" group-title="UA - Ukraine",(UA) NOVY CHANNEL
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/112714
-#EXTINF:-1 tvg-id="" tvg-name="(UA) MILADY TELEVISION" group-title="UA - Ukraine",(UA) MILADY TELEVISION
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/112715
-#EXTINF:-1 tvg-id="" tvg-name="(UA) M1" group-title="UA - Ukraine",(UA) M1
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/112716
-#EXTINF:-1 tvg-id="" tvg-name="(UA) KIEV STB" group-title="UA - Ukraine",(UA) KIEV STB
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/112717
-#EXTINF:-1 tvg-id="" tvg-name="(UA) Nickelodeon Ukraine" group-title="UA - Ukraine",(UA) Nickelodeon Ukraine
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/112718
-#EXTINF:-1 tvg-id="" tvg-name="(UA) UA TV" group-title="UA - Ukraine",(UA) UA TV
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/112719
-#EXTINF:-1 tvg-id="" tvg-name="(UA) 5 Kanal" group-title="UA - Ukraine",(UA) 5 Kanal
-http://dz01.nxtbox.de:80/onurYagci/q2nz3S5/46664
+#EXTM3U
+#EXTINF:-1,Звезда +7
+http://188.191.187.193:81/udp/239.192.10.1:1234
+#EXTINF:-1,НТВ
+http://188.191.187.193:81/udp/239.192.10.2:1234
+#EXTINF:-1,RU TV
+http://188.191.187.193:81/udp/239.192.10.4:1234
+#EXTINF:-1,Мир
+http://188.191.187.193:81/udp/239.192.10.7:1234
+#EXTINF:-1,РБК HD
+http://188.191.187.193:81/udp/239.192.10.9:1234
+#EXTINF:-1,ТВ3
+http://188.191.187.193:81/udp/239.192.10.10:1234
+#EXTINF:-1,Карусель
+http://188.191.187.193:81/udp/239.192.10.11:1234
+#EXTINF:-1,BRIDGE ФРЭШ
+http://188.191.187.193:81/udp/239.192.10.12:1234
+#EXTINF:-1,Оружие
+http://188.191.187.193:81/udp/239.192.10.16:1234
+#EXTINF:-1,Рен ТВ
+http://188.191.187.193:81/udp/239.192.10.20:1234
+#EXTINF:-1,СТС
+http://188.191.187.193:81/udp/239.192.10.21:1234
+#EXTINF:-1,Первый Канал
+http://188.191.187.193:81/udp/239.192.10.23:1234
+#EXTINF:-1,ОТР
+http://188.191.187.193:81/udp/239.192.10.24:1234
+#EXTINF:-1,Суббота! +7
+http://188.191.187.193:81/udp/239.192.10.32:1234
+#EXTINF:-1,BRIDGE Classic
+http://188.191.187.193:81/udp/239.192.10.36:1234
+#EXTINF:-1,Красная Линия
+http://188.191.187.193:81/udp/239.192.10.39:1234
+#EXTINF:-1,Драйв
+http://188.191.187.193:81/udp/239.192.10.40:1234
+#EXTINF:-1,Матч Страна
+http://188.191.187.193:81/udp/239.192.10.42:1234
+#EXTINF:-1,Вопросы Ответы
+http://188.191.187.193:81/udp/239.192.10.43:1234
+#EXTINF:-1,Ностальгия
+http://188.191.187.193:81/udp/239.192.10.53:1234
+#EXTINF:-1,Сапфир HD
+http://188.191.187.193:81/udp/239.192.10.56:1234
+#EXTINF:-1,Комедия
+http://188.191.187.193:81/udp/239.192.10.60:1234
+#EXTINF:-1,Океан
+http://188.191.187.193:81/udp/239.192.10.61:1234
+#EXTINF:-1,Любимое Кино
+http://188.191.187.193:81/udp/239.192.10.64:1234
+#EXTINF:-1,DOCUBOX
+http://188.191.187.193:81/udp/239.192.10.65:1234
+#EXTINF:-1,Феникс+Кино
+http://188.191.187.193:81/udp/239.192.10.66:1234
+#EXTINF:-1,Дикий
+http://188.191.187.193:81/udp/239.192.10.67:1234
+#EXTINF:-1,Plan_B
+http://188.191.187.193:81/udp/239.192.10.70:1234
+#EXTINF:-1,Мосфильм (Золотая Коллекция)
+http://188.191.187.193:81/udp/239.192.10.69:1234
+#EXTINF:-1,BABY TIME
+http://188.191.187.193:81/udp/239.192.10.72:1234
+#EXTINF:-1,Русский Роман
+http://188.191.187.193:81/udp/239.192.10.80:1234
+#EXTINF:-1,Россия 24
+http://188.191.187.193:81/udp/239.192.10.81:1234
+#EXTINF:-1,МАТЧ!
+http://188.191.187.193:81/udp/239.192.10.82:1234
+#EXTINF:-1,Пятый Канал
+http://188.191.187.193:81/udp/239.192.10.83:1234
+#EXTINF:-1,Россия 1
+http://188.191.187.193:81/udp/239.192.10.85:1234
+#EXTINF:-1,Россия К
+http://188.191.187.193:81/udp/239.192.10.84:1234
+#EXTINF:-1,Три Ангела
+http://188.191.187.193:81/udp/239.192.10.86:1234
+#EXTINF:-1,Timeless Dizi Channel
+http://188.191.187.193:81/udp/239.192.10.87:1234
+#EXTINF:-1,Беларусь 24
+http://188.191.187.193:81/udp/239.192.10.89:1234
+#EXTINF:-1,FTV HD
+http://188.191.187.193:81/udp/239.192.10.94:1234
+#EXTINF:-1,LEOMAX24
+http://188.191.187.193:81/udp/239.192.10.101:1234
+#EXTINF:-1,RTG TV
+http://188.191.187.193:81/udp/239.192.10.112:1234
+#EXTINF:-1,Матч Боец
+http://188.191.187.193:81/udp/239.192.10.116:1234
+#EXTINF:-1,Terra HD
+http://188.191.187.193:81/udp/239.192.10.121:1234
+#EXTINF:-1,ТНТ4 +7
+http://188.191.187.193:81/udp/239.192.10.122:1234
+#EXTINF:-1,Че! +7
+http://188.191.187.193:81/udp/239.192.10.133:1234
+#EXTINF:-1,Телеканал Футбол
+http://188.191.187.193:81/udp/239.192.10.134:1234
+#EXTINF:-1,CTC LOVE +4
+http://188.191.187.193:81/udp/239.192.10.140:1234
+#EXTINF:-1,Шансон ТВ
+http://188.191.187.193:81/udp/239.192.10.141:1234
+#EXTINF:-1,Домашний
+http://188.191.187.193:81/udp/239.192.10.142:1234
+#EXTINF:-1,Bridge Русский Хит
+http://188.191.187.193:81/udp/239.192.10.150:1234
+#EXTINF:-1,Солнце +7
+http://188.191.187.193:81/udp/239.192.10.154:1234
+#EXTINF:-1,Губерния
+http://188.191.187.193:81/udp/239.192.10.165:1234
+#EXTINF:-1,Mama
+http://188.191.187.193:81/udp/239.192.10.166:1234
+#EXTINF:-1,BRIDGE Шлягер
+http://188.191.187.193:81/udp/239.192.10.167:1234
+#EXTINF:-1,Bridge TV HITS
+http://188.191.187.193:81/udp/239.192.10.27:1234
+#EXTINF:-1,Охота и Рыбалка
+http://188.191.187.193:81/udp/239.192.10.41:1234
+#EXTINF:-1,Живи!
+http://188.191.187.193:81/udp/239.192.10.25:1234
+#EXTINF:-1,Радио
+http://188.191.187.193:81/udp/239.192.10.28:1234
+#EXTINF:-1,Сарафан
+http://188.191.187.193:81/udp/239.192.10.30:1234
+#EXTINF:-1,Ретро
+http://188.191.187.193:81/udp/239.192.10.44:1234
+#EXTINF:-1,Анекдот ТВ
+http://188.191.187.193:81/udp/239.192.10.54:1234
+#EXTINF:-1,Extreme Sport
+http://188.191.187.193:81/udp/239.192.10.57:1234
+#EXTINF:-1,E-TV
+http://188.191.187.193:81/udp/239.192.10.59:1234
+#EXTINF:-1,Дорама
+http://188.191.187.193:81/udp/239.192.10.92:1234
+#EXTINF:-1,Travel+Adventure HD
+http://188.191.187.193:81/udp/239.192.10.107:1234
+#EXTINF:-1,Матч! Игра
+http://188.191.187.193:81/udp/239.192.10.117:1234
+#EXTINF:-1,Наша Тема
+http://188.191.187.193:81/udp/239.192.10.124:1234
+#EXTINF:-1,Shop & Show
+http://188.191.187.193:81/udp/239.192.10.130:1234
+#EXTINF:-1,Индия
+http://188.191.187.193:81/udp/239.192.10.131:1234
+#EXTINF:-1,Bridge TV
+http://188.191.187.193:81/udp/239.192.10.132:1234
+#EXTINF:-1,Спас
+http://188.191.187.193:81/udp/239.192.10.6:1234
+#EXTINF:-1,Первый канал (+4) HD
+http://188.191.187.193:81/udp/239.192.10.5:1234
+#EXTINF:-1,МИР 24 HD
+http://188.191.187.193:81/udp/239.192.10.8:1234
+#EXTINF:-1,Пятница!
+http://188.191.187.193:81/udp/239.192.10.14:1234
+#EXTINF:-1,Радио
+http://188.191.187.193:81/udp/239.192.10.17:1234
+#EXTINF:-1,Театр
+http://188.191.187.193:81/udp/239.192.10.18:1234
+#EXTINF:-1,Еврокино
+http://188.191.187.193:81/udp/239.192.10.19:1234
+#EXTINF:-1,8 Канал
+http://188.191.187.193:81/udp/239.192.10.22:1234
+#EXTINF:-1,Cinema
+http://188.191.187.193:81/udp/239.192.10.26:1234
+#EXTINF:-1,Радио
+http://188.191.187.193:81/udp/239.192.10.29:1234
+#EXTINF:-1,Kinosat
+http://188.191.187.193:81/udp/239.192.10.33:1234
+#EXTINF:-1,JWL
+http://188.191.187.193:81/udp/239.192.10.35:1234
+#EXTINF:-1,Психология
+http://188.191.187.193:81/udp/239.192.10.48:1234
+#EXTINF:-1,ТНТ
+http://188.191.187.193:81/udp/239.192.10.3:1234
+#EXTINF:-1,Старт ТВ viр-tv.org.uа
+http://188.191.187.193:81/udp/239.192.10.38:1234
+#EXTINF:-1,Здоровое ТВ
+http://188.191.187.193:81/udp/239.192.10.45:1234
+#EXTINF:-1,Усадьба
+http://188.191.187.193:81/udp/239.192.10.46:1234
+#EXTINF:-1,Домашние Животные
+http://188.191.187.193:81/udp/239.192.10.47:1234
+#EXTINF:-1,Galaxy
+http://188.191.187.193:81/udp/239.192.10.58:1234
+#EXTINF:-1,Муз ТВ
+http://188.191.187.193:81/udp/239.192.10.13:1234
+#EXTINF:-1,КХЛ
+http://188.191.187.193:81/udp/239.192.10.52:1234
+#EXTINF:-1,Домашний Магазин
+http://188.191.187.193:81/udp/239.192.10.37:1234
+#EXTINF:-1,360 Новости
+http://188.191.187.193:81/udp/239.192.10.50:1234
+#EXTINF:-1,ЛДПР ТВ
+http://188.191.187.193:81/udp/239.192.10.88:1234
+#EXTINF:-1,MUSIC BOX RU
+http://188.191.187.193:81/udp/239.192.10.91:1234
+#EXTINF:-1,Mир 24 HD
+http://188.191.187.193:81/udp/239.192.10.99:1234
+#EXTINF:-1,КИНОСЕМЬЯ
+http://188.191.187.193:81/udp/239.192.10.110:1234
+#EXTINF:-1,Камера HD
+http://188.191.187.193:81/udp/239.192.10.135:1234
+#EXTINF:-1,Ю-ТВ  +7
+http://188.191.187.193:81/udp/239.192.10.145:1234
+#EXTINF:-1,RTG HD
+http://188.191.187.193:81/udp/239.192.10.149:1234
+#EXTINF:-1,Techno 24
+http://188.191.187.193:81/udp/239.192.10.160:1234
+#EXTINF:-1,НСТ
+http://188.191.187.193:81/udp/239.192.10.161:1234
+#EXTINF:-1,.Sci-Fi
+http://188.191.187.193:81/udp/239.192.10.169:1234
+#EXTINF:-1,2X2 +7
+http://188.191.187.193:81/udp/239.192.10.15:1234
+#EXTINF:-1,Конный Мир
+http://188.191.187.193:81/udp/239.192.10.62:1234
+#EXTINF:-1,ТБН
+http://188.191.187.193:81/udp/239.192.10.63:1234
+#EXTINF:-1,Уникум
+http://188.191.187.193:81/udp/239.192.10.71:1234
+#EXTINF:-1,.Red
+http://188.191.187.193:81/udp/239.192.10.75:1234
+#EXTINF:-1,АВТО24
+http://188.191.187.193:81/udp/239.192.10.102:1234
+#EXTINF:-1,Телеканал 360
+http://188.191.187.193:81/udp/239.192.10.103:1234
+#EXTINF:-1,Наука 2.0
+http://188.191.187.193:81/udp/239.192.10.104:1234
+#EXTINF:-1,КИНОКОМЕДИЯ
+http://188.191.187.193:81/udp/239.192.10.108:1234
+#EXTINF:-1,Кухня ТВ
+http://188.191.187.193:81/udp/239.192.10.109:1234
+#EXTINF:-1,Камера HD
+http://188.191.187.193:81/udp/239.192.10.136:1234
+#EXTINF:-1,Камера HD
+http://188.191.187.193:81/udp/239.192.10.137:1234
+#EXTINF:-1,ТВЦ
+http://188.191.187.193:81/udp/239.192.10.143:1234
+#EXTINF:-1,Мужской (+5)
+http://188.191.187.193:81/udp/239.192.10.147:1234
+#EXTINF:-1,Загородная жизнь
+http://188.191.187.193:81/udp/239.192.10.148:1234
+#EXTINF:-1,ТНТ Мusic
+http://188.191.187.193:81/udp/239.192.10.151:1234
+#EXTINF:-1,Доктор
+http://188.191.187.193:81/udp/239.192.10.153:1234
+#EXTINF:-1,Центральное ТВ
+http://188.191.187.193:81/udp/239.192.10.155:1234
+#EXTINF:-1,Матч Арена
+http://188.191.187.193:81/udp/239.192.10.115:1234
+#EXTINF:-1,Мультиландия
+http://188.191.187.193:81/udp/239.192.10.100:1234
+#EXTINF:-1,Кино Мульт
+http://188.191.187.193:81/udp/239.192.10.68:1234
+#EXTINF:-1,BRIDGE ROCK
+http://188.191.187.193:81/udp/239.192.10.113:1234
+#EXTINF:-1,Кино 24
+http://188.191.187.193:81/udp/239.192.10.105:1234
+#EXTINF:-1,Мир Сериала
+http://188.191.187.193:81/udp/239.192.10.106:1234
+#EXTINF:-1,НВВ
+http://188.191.187.193:81/udp/239.192.10.49:1234
