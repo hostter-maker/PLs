@@ -1,1 +1,709 @@
 #EXTM3U deinterlace=1 m3uautoload=1 url-tvg="https://iptvx.one/EPG; http://epg.one/epg.xml.gz" refresh="86400" tvg-shift=0 cache=500
+#EXTINF:-1,Rus: #KtoKuda
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382454.ts
+#EXTINF:-1,Rus: .black
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382455.ts
+#EXTINF:-1,Rus: .red HD
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382456.ts
+#EXTINF:-1,Rus: .sci-fi
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382457.ts
+#EXTINF:-1,Rus: 1HD
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382458.ts
+#EXTINF:-1,Rus: 360 HD
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382459.ts
+#EXTINF:-1,Rus: 365 Dnei TV HD
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382460.ts
+#EXTINF:-1,Rus: 8 Kanal
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382461.ts
+#EXTINF:-1,Rus: Anekdot TV
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382462.ts
+#EXTINF:-1,Rus: Arsenal HD
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382463.ts
+#EXTINF:-1,Rus: Avto Plius HD
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382464.ts
+#EXTINF:-1,Rus: Belarus’ 24
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382465.ts
+#EXTINF:-1,Rus: BelRos
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382466.ts
+#EXTINF:-1,Rus: Big Planet HD
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382467.ts
+#EXTINF:-1,Rus: Bilain Info
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382468.ts
+#EXTINF:-1,Rus: Bobior
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382469.ts
+#EXTINF:-1,Rus: Bol’shaia Aziia HD
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382470.ts
+#EXTINF:-1,Rus: Bridge Classic
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382471.ts
+#EXTINF:-1,Rus: Bridge Hits
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382472.ts
+#EXTINF:-1,Rus: CCTV-4
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382473.ts
+#EXTINF:-1,Rus: CGTN
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382474.ts
+#EXTINF:-1,Rus: Classic Music HD
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382475.ts
+#EXTINF:-1,Rus: Curiosity Stream HD
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382476.ts
+#EXTINF:-1,Rus: Dialogi o Rybalke HD
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382477.ts
+#EXTINF:-1,Rus: Domashnie Zhivotnye
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382478.ts
+#EXTINF:-1,Rus: Domashnii HD (OTT)
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382479.ts
+#EXTINF:-1,Rus: Dorama
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382480.ts
+#EXTINF:-1,Rus: Draiv
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382481.ts
+#EXTINF:-1,Rus: ducktv HD
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382482.ts
+#EXTINF:-1,Rus: FAN HD
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382483.ts
+#EXTINF:-1,Rus: Fashion&Lifestyle HD
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382484.ts
+#EXTINF:-1,Rus: Fast&FunBox HD
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382485.ts
+#EXTINF:-1,Rus: FightBox
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382486.ts
+#EXTINF:-1,Rus: FightBox HD
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382487.ts
+#EXTINF:-1,Rus: Glazami Turista HD
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382488.ts
+#EXTINF:-1,Rus: HDL
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382489.ts
+#EXTINF:-1,Rus: Hollywood HD
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382490.ts
+#EXTINF:-1,Rus: HSR 24
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382491.ts
+#EXTINF:-1,Rus: Indiia TV
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382492.ts
+#EXTINF:-1,Rus: Istoriia
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382493.ts
+#EXTINF:-1,Rus: Iu
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382494.ts
+#EXTINF:-1,Rus: Iuvelirochka
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382495.ts
+#EXTINF:-1,Rus: Izvestiia HD
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382496.ts
+#EXTINF:-1,Rus: Kaleidoskop TV
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382497.ts
+#EXTINF:-1,Rus: KHL Prime
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382498.ts
+#EXTINF:-1,Rus: KHL Prime HD
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382499.ts
+#EXTINF:-1,Rus: KINEKO HD
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382500.ts
+#EXTINF:-1,Rus: Kinoprem’era HD
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382501.ts
+#EXTINF:-1,Rus: Kinouzhas HD
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382502.ts
+#EXTINF:-1,Rus: Kitai TV HD
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382503.ts
+#EXTINF:-1,Rus: Kliuch HD
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382504.ts
+#EXTINF:-1,Rus: Komediia
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382505.ts
+#EXTINF:-1,Rus: Krasnaia Liniia
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382506.ts
+#EXTINF:-1,Rus: Leomax24
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382507.ts
+#EXTINF:-1,Rus: Liova HD
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382508.ts
+#EXTINF:-1,Rus: Magnat
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382509.ts
+#EXTINF:-1,Rus: MATCh! Arena HD
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382510.ts
+#EXTINF:-1,Rus: MATCh! Boets
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382511.ts
+#EXTINF:-1,Rus: Match! Boyets
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382512.ts
+#EXTINF:-1,Rus: MATCh! Prem’er HD
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382513.ts
+#EXTINF:-1,Rus: MCM Top
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382514.ts
+#EXTINF:-1,Rus: Mezzo
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382515.ts
+#EXTINF:-1,Rus: Mir Basketbola
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382516.ts
+#EXTINF:-1,Rus: Mir Basketbola HD
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382517.ts
+#EXTINF:-1,Rus: Mir HD
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382518.ts
+#EXTINF:-1,Rus: MMA-TV.COM
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382519.ts
+#EXTINF:-1,Rus: Moia Planeta
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382520.ts
+#EXTINF:-1,Rus: Moia Stikhiia
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382521.ts
+#EXTINF:-1,Rus: Mosfil’m HD
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382522.ts
+#EXTINF:-1,Rus: Mul’t HD
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382523.ts
+#EXTINF:-1,Rus: MusicBox Gold
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382524.ts
+#EXTINF:-1,Rus: Muzhskoi
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382525.ts
+#EXTINF:-1,Rus: NST
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382526.ts
+#EXTINF:-1,Rus: NTV HD (OTT)
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382527.ts
+#EXTINF:-1,Rus: NTV Khit
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382528.ts
+#EXTINF:-1,Rus: NTV Serial
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382529.ts
+#EXTINF:-1,Rus: NTV Stil’
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382530.ts
+#EXTINF:-1,Rus: O!
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382531.ts
+#EXTINF:-1,Rus: OTR
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382532.ts
+#EXTINF:-1,Rus: Pervyi Kosmicheskii HD
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382533.ts
+#EXTINF:-1,Rus: SHANT Kids HD
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382534.ts
+#EXTINF:-1,Rus: SHANT Music HD
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382535.ts
+#EXTINF:-1,Rus: SHANT Premium HD
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382536.ts
+#EXTINF:-1,Rus: SHANT Serial HD
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382537.ts
+#EXTINF:-1,Rus: Shopping Live
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382538.ts
+#EXTINF:-1,Rus: Sochi Live HD
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382539.ts
+#EXTINF:-1,Rus: Solntse
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382540.ts
+#EXTINF:-1,Rus: Spas
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382541.ts
+#EXTINF:-1,Rus: START Air HD
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382542.ts
+#EXTINF:-1,Rus: START World HD
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382543.ts
+#EXTINF:-1,Rus: STS HD (OTT)
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382544.ts
+#EXTINF:-1,Rus: STS Kids HD
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382545.ts
+#EXTINF:-1,Rus: STS Love
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382546.ts
+#EXTINF:-1,Rus: Subbota! HD
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382547.ts
+#EXTINF:-1,Rus: SuperGeroi
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382548.ts
+#EXTINF:-1,Rus: T24
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382549.ts
+#EXTINF:-1,Rus: Tainy Galaktiki
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382550.ts
+#EXTINF:-1,Rus: Tantsui! HD
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382551.ts
+#EXTINF:-1,Rus: Tantsuy!
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382552.ts
+#EXTINF:-1,Rus: Teatr HD
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382553.ts
+#EXTINF:-1,Rus: TERRA HD
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382554.ts
+#EXTINF:-1,Rus: TiJi
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382555.ts
+#EXTINF:-1,Rus: Timeless Dizi Channel HD
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382556.ts
+#EXTINF:-1,Rus: Tip-Top HD
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382557.ts
+#EXTINF:-1,Rus: TNT Music
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382558.ts
+#EXTINF:-1,Rus: TNV Tatarstan
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382559.ts
+#EXTINF:-1,Rus: Tochka Otryva
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382560.ts
+#EXTINF:-1,Rus: Trace Sport Stars
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382561.ts
+#EXTINF:-1,Rus: Trace Sport Stars HD
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382562.ts
+#EXTINF:-1,Rus: Trash HD
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382563.ts
+#EXTINF:-1,Rus: TV Start Russia
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382564.ts
+#EXTINF:-1,Rus: TVTs HD
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382565.ts
+#EXTINF:-1,Rus: Udar HD
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382566.ts
+#EXTINF:-1,Rus: Unikum
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382567.ts
+#EXTINF:-1,Rus: V Gostiakh u Skazki
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382568.ts
+#EXTINF:-1,Rus: Vesti FM
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382569.ts
+#EXTINF:-1,Rus: VHS-KA HD
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382570.ts
+#EXTINF:-1,Rus: viju Explore HD
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382571.ts
+#EXTINF:-1,Rus: viju History HD
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382572.ts
+#EXTINF:-1,Rus: viju Nature HD
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382573.ts
+#EXTINF:-1,Rus: viju TV1000 HD
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382574.ts
+#EXTINF:-1,Rus: viju TV1000 Russkoe HD
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382575.ts
+#EXTINF:-1,Rus: viju+ Comedy HD
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382576.ts
+#EXTINF:-1,Rus: viju+ Megahit HD
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382577.ts
+#EXTINF:-1,Rus: viju+ Planet HD
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382578.ts
+#EXTINF:-1,Rus: viju+ Premiere HD
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382579.ts
+#EXTINF:-1,Rus: viju+ Serial HD
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382580.ts
+#EXTINF:-1,Rus: viju+ Sport
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382581.ts
+#EXTINF:-1,Rus: viju+ Sport HD
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382582.ts
+#EXTINF:-1,Rus: Voprosy i Otvety
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382583.ts
+#EXTINF:-1,Rus: Vostok TV
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382584.ts
+#EXTINF:-1,Rus: Women’s Magazine HD
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382585.ts
+#EXTINF:-1,Rus: World Fashion HD
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382586.ts
+#EXTINF:-1,RUS: Mir 24
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382587.ts
+#EXTINF:-1,RUS: Amedia 1 HD
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382588.ts
+#EXTINF:-1,RUS: Amedia 2 HD
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382589.ts
+#EXTINF:-1,RUS: Amedia Premium HD
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382590.ts
+#EXTINF:-1,RUS: Amedia Home Of HBO 1 HD
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382591.ts
+#EXTINF:-1,RUS: REN TV
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382592.ts
+#EXTINF:-1,RUS: CTC Love
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382593.ts
+#EXTINF:-1,RUS: 1 HD
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382594.ts
+#EXTINF:-1,RUS: Rossiya 1 HD
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382595.ts
+#EXTINF:-1,RUS: Europa Plus HD
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382596.ts
+#EXTINF:-1,RUS: KVN TV
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382597.ts
+#EXTINF:-1,RUS: La minor
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382598.ts
+#EXTINF:-1,RUS: NTV HD
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382599.ts
+#EXTINF:-1,RUS: Match! Planeta
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382600.ts
+#EXTINF:-1,RUS: RT HD
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382601.ts
+#EXTINF:-1,RUS: Strashnoe
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382602.ts
+#EXTINF:-1,RUS: TNT
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382603.ts
+#EXTINF:-1,RUS: Kinomiks
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382604.ts
+#EXTINF:-1,RUS: DANGE
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382605.ts
+#EXTINF:-1,RUS: TNT +7
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382606.ts
+#EXTINF:-1,RUS: TV 3
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382607.ts
+#EXTINF:-1,RUS: Zee TV
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382608.ts
+#EXTINF:-1,RUS: Box TV
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382609.ts
+#EXTINF:-1,RUS: DETSKIJ
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382610.ts
+#EXTINF:-1,RUS: Detskiy HD
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382611.ts
+#EXTINF:-1,RUS: DETSKIY MIR
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382612.ts
+#EXTINF:-1,RUS: Evrokino
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382613.ts
+#EXTINF:-1,RUS: A HOME OF HBO 2 HD
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382614.ts
+#EXTINF:-1,RUS: KHL HD
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382615.ts
+#EXTINF:-1,RUS: Kino TV
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382616.ts
+#EXTINF:-1,RUS: Kino Hit HD
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382617.ts
+#EXTINF:-1,RUS: Movie Premieres
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382618.ts
+#EXTINF:-1,RUS: Kino Komedija TV
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382619.ts
+#EXTINF:-1,RUS: Kino Svidanie HD
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382620.ts
+#EXTINF:-1,RUS: Kinopokaz 2 HD
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382621.ts
+#EXTINF:-1,RUS: Mulytimaniya
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382622.ts
+#EXTINF:-1,RUS: MUZ
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382623.ts
+#EXTINF:-1,RUS: MUZIKA PERVOGO
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382624.ts
+#EXTINF:-1,RUS: Nashe Krutoe
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382625.ts
+#EXTINF:-1,RUS: Nashe Liubimoje Kino
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382626.ts
+#EXTINF:-1,RUS: Nashe Novoe Kino HD
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382627.ts
+#EXTINF:-1,RUS: Rossiya 24
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382628.ts
+#EXTINF:-1,RUS: Domashniy
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382629.ts
+#EXTINF:-1,RUS: DOM KINO
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382630.ts
+#EXTINF:-1,RUS: Dom Kino Premium HD
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382631.ts
+#EXTINF:-1,RUS: Russkiy Extrim HD
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382632.ts
+#EXTINF:-1,RUS: TV1000 Action HD
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382633.ts
+#EXTINF:-1,RUS: TV 1000 HD
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382634.ts
+#EXTINF:-1,RUS: TV1000 Comedy HD
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382635.ts
+#EXTINF:-1,RUS: TV1000 Premium HD
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382636.ts
+#EXTINF:-1,RUS: TV1000 Ruskoe Kino
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382637.ts
+#EXTINF:-1,RUS: TV1000 Russkoje Kino
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382638.ts
+#EXTINF:-1,RUS: Channel One
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382639.ts
+#EXTINF:-1,RUS: Fox HD
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382640.ts
+#EXTINF:-1,RUS: Fox Life HD
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382641.ts
+#EXTINF:-1,RUS: TLC
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382642.ts
+#EXTINF:-1,RUS: Paramount Comedy HD
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382643.ts
+#EXTINF:-1,RUS: Nickelodeon HD
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382644.ts
+#EXTINF:-1,RUS: Disney Channel HD
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382645.ts
+#EXTINF:-1,RUS: JimJam
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382646.ts
+#EXTINF:-1,RUS: THT HD
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382647.ts
+#EXTINF:-1,RUS: Russian MusicBox
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382648.ts
+#EXTINF:-1,RUS: MTV Live HD
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382649.ts
+#EXTINF:-1,RUS: Kinoserija
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382650.ts
+#EXTINF:-1,RUS: History HD
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382651.ts
+#EXTINF:-1,RUS: Viasat History HD
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382652.ts
+#EXTINF:-1,RUS: Viasat Explorer HD
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382653.ts
+#EXTINF:-1,RUS: Viasat Nature HD
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382654.ts
+#EXTINF:-1,RUS: Nat Geo HD
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382655.ts
+#EXTINF:-1,RUS: Nat Geo Wild HD
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382656.ts
+#EXTINF:-1,RUS: Animal Planet HD
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382657.ts
+#EXTINF:-1,RUS: Discovery Channel HD
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382658.ts
+#EXTINF:-1,RUS: Discovery Science HD
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382659.ts
+#EXTINF:-1,RUS: Discovery DTX HD
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382660.ts
+#EXTINF:-1,RUS: Travel Channel HD
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382661.ts
+#EXTINF:-1,RUS: Travel+Adventure HD
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382662.ts
+#EXTINF:-1,RUS: Fine Livinig HD
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382663.ts
+#EXTINF:-1,RUS: Food Network HD
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382664.ts
+#EXTINF:-1,RUS: RTG HD
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382665.ts
+#EXTINF:-1,RUS: illusion+
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382666.ts
+#EXTINF:-1,RUS: KTO EST KTO
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382667.ts
+#EXTINF:-1,RUS: Fashion TV
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382668.ts
+#EXTINF:-1,RUS: World Fashion
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382669.ts
+#EXTINF:-1,RUS: EuroSport 1 HD
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382670.ts
+#EXTINF:-1,RUS: EuroSport 2 HD
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382671.ts
+#EXTINF:-1,RUS: Match Football 1
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382672.ts
+#EXTINF:-1,RUS: Match Football 2 HD
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382673.ts
+#EXTINF:-1,RUS: Match Football 3 HD
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382674.ts
+#EXTINF:-1,RUS: Match! Futbol  2 HD
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382675.ts
+#EXTINF:-1,RUS: Match! Futbol 1 HD
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382676.ts
+#EXTINF:-1,RUS: Match! Futbol 3 HD
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382677.ts
+#EXTINF:-1,RUS: Match Arena HD
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382678.ts
+#EXTINF:-1,RUS: Match Premiere HD
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382679.ts
+#EXTINF:-1,RUS: Match Nash Sport
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382680.ts
+#EXTINF:-1,RUS: Match! Igra HD
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382681.ts
+#EXTINF:-1,RUS: MATCH_HD
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382682.ts
+#EXTINF:-1,RUS: MATCH BOEC
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382683.ts
+#EXTINF:-1,RUS: Match Strana
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382684.ts
+#EXTINF:-1,RUS: TVCI
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382685.ts
+#EXTINF:-1,RUS: RBK HD
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382686.ts
+#EXTINF:-1,RUS: Zvezda
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382687.ts
+#EXTINF:-1,RUS: Vremya
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382688.ts
+#EXTINF:-1,RUS: Boks TV
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382689.ts
+#EXTINF:-1,RUS: SARAFAN
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382690.ts
+#EXTINF:-1,RUS: SOVERSHENNO SEKRETNO
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382691.ts
+#EXTINF:-1,RUS: Ohota i Rybalka
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382692.ts
+#EXTINF:-1,RUS: Dikaya Okhota
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382693.ts
+#EXTINF:-1,RUS: Dikaya Rybalka
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382694.ts
+#EXTINF:-1,RUS: NOSTALGIJA
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382695.ts
+#EXTINF:-1,RUS: Nauka 2 0
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382696.ts
+#EXTINF:-1,RUS: NTV Football 3
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382697.ts
+#EXTINF:-1,RUS: MTV РОССИЯ
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382698.ts
+#EXTINF:-1,RUS: 2x2
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382699.ts
+#EXTINF:-1,RUS: 365 dnei
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382700.ts
+#EXTINF:-1,RUS: Setanta Sport HD
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382701.ts
+#EXTINF:-1,RUS: A1 TV
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382702.ts
+#EXTINF:-1,RUS: A2 TV
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382703.ts
+#EXTINF:-1,RUS: Ani
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382704.ts
+#EXTINF:-1,RUS: Bridge TV Russkiy Hit
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382705.ts
+#EXTINF:-1,RUS: Bridge TV
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382706.ts
+#EXTINF:-1,RUS: Che
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382707.ts
+#EXTINF:-1,RUS: Mama
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382708.ts
+#EXTINF:-1,RUS: STS
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382709.ts
+#EXTINF:-1,RUS: Da Vinci Learning
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382710.ts
+#EXTINF:-1,RUS: 5 Kanal HD
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382711.ts
+#EXTINF:-1,RUS: Zhivaya Planeta
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382712.ts
+#EXTINF:-1,RUS: Animal Family HD
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382713.ts
+#EXTINF:-1,RUS: Russkij Illuzion HD
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382714.ts
+#EXTINF:-1,RUS: Boomerang TV
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382715.ts
+#EXTINF:-1,RUS: Start TV
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382716.ts
+#EXTINF:-1,RUS: Konniy Mir HD
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382717.ts
+#EXTINF:-1,RUS:  Perviy kanal  HD
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382718.ts
+#EXTINF:-1,RUS: Life HD
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382719.ts
+#EXTINF:-1,RUS: AMC
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382720.ts
+#EXTINF:-1,RUS: Mezzo live HD
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382721.ts
+#EXTINF:-1,RUS: MEGAHIT HD
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382722.ts
+#EXTINF:-1,RUS: Pyatnitsa!!
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382723.ts
+#EXTINF:-1,RUS: Muzhskoe Kino HD
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382724.ts
+#EXTINF:-1,RUS: Auto 24
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382725.ts
+#EXTINF:-1,RUS: Rodnoe Kino HD
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382726.ts
+#EXTINF:-1,RUS: Nick Jr. HD
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382727.ts
+#EXTINF:-1,RUS: ABTO 24
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382728.ts
+#EXTINF:-1,RUS: 8 Kanal HD
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382729.ts
+#EXTINF:-1,RUS: OutDoor Channel HD
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382730.ts
+#EXTINF:-1,RUS: Bollywood HD
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382731.ts
+#EXTINF:-1,RUS: EuroNews HD
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382732.ts
+#EXTINF:-1,RUS: Planeta RTR HD
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382733.ts
+#EXTINF:-1,RUS: AMEDIA HIT HD
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382734.ts
+#EXTINF:-1,RUS: Cartoon Network HD
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382735.ts
+#EXTINF:-1,RUS: RTVi
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382736.ts
+#EXTINF:-1,RUS: Shanson TV
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382737.ts
+#EXTINF:-1,RUS: Sony Sci Fi
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382738.ts
+#EXTINF:-1,RUS: Sony Turbo
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382739.ts
+#EXTINF:-1,RUS: STB
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382740.ts
+#EXTINF:-1,RUS: Htb HD
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382741.ts
+#EXTINF:-1,RUS: Bober TV
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382742.ts
+#EXTINF:-1,RUS: Auto Plus
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382743.ts
+#EXTINF:-1,RUS: TV-XXI
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382744.ts
+#EXTINF:-1,RUS: UTV
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382745.ts
+#EXTINF:-1,RUS: 24 Techno
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382746.ts
+#EXTINF:-1,RUS: Viasat Sport
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382747.ts
+#EXTINF:-1,RUS: CINEMA
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382748.ts
+#EXTINF:-1,RUS: Doctor HD
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382749.ts
+#EXTINF:-1,RUS: DOCUBOX HD
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382750.ts
+#EXTINF:-1,RUS: Kinomix
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382751.ts
+#EXTINF:-1,RUS: KOMEDIJA TV
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382752.ts
+#EXTINF:-1,RUS: M1 GLOBAL
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382753.ts
+#EXTINF:-1,RUS: MOSKVA 24
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382754.ts
+#EXTINF:-1,RUS: Russkij Roman
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382755.ts
+#EXTINF:-1,RUS: Nash Kinoroman
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382756.ts
+#EXTINF:-1,RUS: RT Doc
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382757.ts
+#EXTINF:-1,RUS: Russia K
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382758.ts
+#EXTINF:-1,RUS: VIASAT TV1000 RUSSKOE KINO
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382759.ts
+#EXTINF:-1,RUS: VIP COMEDY HD
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382760.ts
+#EXTINF:-1,RUS: VIP Premiere
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382761.ts
+#EXTINF:-1,RUS: VIP Serial
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382762.ts
+#EXTINF:-1,RUS: Extreme Sports HD
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382763.ts
+#EXTINF:-1,RUS: KINOSVIDANIE
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382764.ts
+#EXTINF:-1,RUS: Kuchnia TV
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382765.ts
+#EXTINF:-1,RUS: Kuhnya TV
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382766.ts
+#EXTINF:-1,RUS: Lubimoe Kino
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382767.ts
+#EXTINF:-1,RUS: Luxuri World
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382768.ts
+#EXTINF:-1,RUS: MIR
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382769.ts
+#EXTINF:-1,RUS: MIR SERIALA
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382770.ts
+#EXTINF:-1,RUS: MULT
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382771.ts
+#EXTINF:-1,RUS: MULT I MUZIKA
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382772.ts
+#EXTINF:-1,RUS: MyZen TV HD
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382773.ts
+#EXTINF:-1,RUS: NST TV
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382774.ts
+#EXTINF:-1,RUS: Ohotnik i Rybolov HD
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382775.ts
+#EXTINF:-1,RUS: ORUZHIE
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382776.ts
+#EXTINF:-1,RUS: Ostrosyuzhetnoye Kino HD
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382777.ts
+#EXTINF:-1,RUS: PEH TB
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382778.ts
+#EXTINF:-1,RUS: Perviy Kanal Europe
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382779.ts
+#EXTINF:-1,RUS: Право Pravo
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382780.ts
+#EXTINF:-1,RUS: Priklyucheniya HD
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382781.ts
+#EXTINF:-1,RUS: Psikhologiya 21
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382782.ts
+#EXTINF:-1,RUS: RU TV
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382783.ts
+#EXTINF:-1,RUS: Russkiy Bestseller
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382784.ts
+#EXTINF:-1,RUS: SET HD
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382785.ts
+#EXTINF:-1,RUS: Shokiruyuschee
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382786.ts
+#EXTINF:-1,RUS: SONY CHANNEL
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382787.ts
+#EXTINF:-1,RUS: STS BALTIC
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382788.ts
+#EXTINF:-1,RUS: STYLE
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382789.ts
+#EXTINF:-1,RUS: Telekafe
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382790.ts
+#EXTINF:-1,RUS: TELEKANAL FUTBOL
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382791.ts
+#EXTINF:-1,RUS: USADBA TV
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382792.ts
+#EXTINF:-1,RUS: Zagorodnaya Zhizn
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382793.ts
+#EXTINF:-1,RUS: OCEAN
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382794.ts
+#EXTINF:-1,RUS: E TV
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382795.ts
+#EXTINF:-1,RUS: Eda HD
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382796.ts
+#EXTINF:-1,RUS: Feniks + Kino
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382797.ts
+#EXTINF:-1,RUS: Glazella
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382798.ts
+#EXTINF:-1,RUS: GOSTIAH U SKAZKI
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382799.ts
+#EXTINF:-1,RUS: GULLI
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382800.ts
+#EXTINF:-1,RUS: HIT HD
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382801.ts
+#EXTINF:-1,RUS: iConcerts
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382802.ts
+#EXTINF:-1,RUS: Kinosem ja
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382803.ts
+#EXTINF:-1,RUS: Indijskoe Kino
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382804.ts
+#EXTINF:-1,RUS: Karusel
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382805.ts
+#EXTINF:-1,RUS: NTV Football 2
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382806.ts
+#EXTINF:-1,RUS: ZAGORODNOJA JIZN
+http://e7f0w.m96mr.fun:80/live/adel1974/01226294544/382807.ts
