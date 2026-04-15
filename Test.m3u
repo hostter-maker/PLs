@@ -1,158 +1,270 @@
 #EXTM3U deinterlace=1 m3uautoload=1 url-tvg="https://iptvx.one/EPG; http://epg.one/epg.xml.gz" refresh="86400" tvg-shift=0 cache=500
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bcw0s4V.png" tvg-id="7f335be0551445f92a4ea2ead4756a6a",Аист ТВ (1080p)
-http://74.208.77.214:9981/stream/channelid/1616589695?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CTFVEAb.png" tvg-id="5e3027f15a25216d437641628a8defda",Арис 24 (720p) [Not 24/7]
-http://74.208.77.214:9981/stream/channelid/1898393694?profile=pass
-#EXTINF:-1 tvg-logo="https://cdn.teleon.tv/logo/balta-tv-ua.png" tvg-id="e406e7e334b3aca78e3542af1d65d634",Балта ТВ (768p)
-http://74.208.77.214:9981/stream/channelid/1676084964?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tUF33HD.png" tvg-id="f045612f0a1962c5e078308e985da546",БелРос (576p)
-http://74.208.77.214:9981/stream/channelid/794904048?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EEirvyx.png" tvg-id="a67579e410a3d0426bf9fa1267be978b",Белгород 24 (1080p)
-http://74.208.77.214:9981/stream/channelid/1685681574?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZBHqSZj.png" tvg-id="7559f9b33cb2d8fddd9a3732e7785579",Вести ФМ
-http://74.208.77.214:9981/stream/channelid/871979381?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zKH1b5k.png" tvg-id="2e82422b08632d83a62ba662b9fe5ce9",Ветта 24 (Пермь) (576p) [Not 24/7]
-http://74.208.77.214:9981/stream/channelid/725778990?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KI1qZNc.png" tvg-id="0930389505bc5b59895b8e4a80c386e8",Вместе РФ
-http://74.208.77.214:9981/stream/channelid/356003849?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gFMnaU5.png" tvg-id="8fa248f0c091bfe1815f7294c2b914ef",Волгоград 24 (1080p)
-http://74.208.77.214:9981/stream/channelid/1883808399?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IlL57Rm.png" tvg-id="e5a3d9030e6d845aa1f384c3ba83149c",Губерния (Самара) (576p)
-http://74.208.77.214:9981/stream/channelid/64594917?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dJqFRhQ.png" tvg-id="75d581eb1fe0744cc9919e61ef05dc57",Детское кино International [Not 24/7]
-http://74.208.77.214:9981/stream/channelid/1803670901?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4JUHIVS.png" tvg-id="4c929a0cf1d1b071982c18d7e9d7f503",Евразия (Орск) (720p)
-http://74.208.77.214:9981/stream/channelid/211456588?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/onNv1tM.png" tvg-id="f87edf7be1cd501cd9fb5863c4681c45",Живая Планета (576p)
-http://74.208.77.214:9981/stream/channelid/2078244600?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pVPTl8J.png" tvg-id="001cb813b37c15472b97467b8933b673",За!ТВ
-http://74.208.77.214:9981/stream/channelid/330832896?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NNmjD9Z.png" tvg-id="d64e8fec9005774cc9410acf35e6b87e",Звезда Плюс (1080p)
-http://74.208.77.214:9981/stream/channelid/1821331158?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/p7WzqGS.png" tvg-id="ef8899ff3ad162283ae071f98ee08d3c",Зоо ТВ (576p)
-http://74.208.77.214:9981/stream/channelid/2140768495?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xDVcDOc.png" tvg-id="2a51701e80633300dca52b63d076d0b9",Индия (576p)
-http://74.208.77.214:9981/stream/channelid/510677290?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rtuChZR.png" tvg-id="3b7060241610fa1ef2646479c1d5df23",КРИК-ТВ (Екатеринбург) (1080p)
-http://74.208.77.214:9981/stream/channelid/610299963?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zsCPLs4.png" tvg-id="0a684b3b5706da37acce856c252209d4",Кино 1 International [Not 24/7]
-http://74.208.77.214:9981/stream/channelid/994797578?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nNjMyAq.png" tvg-id="e5ff1d82e375796a2acc2ccd6239a4e7",Кинопоказ (576p)
-http://74.208.77.214:9981/stream/channelid/35520485?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TgZ8Uv1.png" tvg-id="1e96a6979847a4179835d0e74b59e7ef",Красная линия (480p)
-http://74.208.77.214:9981/stream/channelid/396793374?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PmD17UQ.png" tvg-id="866b49b9abc6320a249f1404613a5c92",Кто есть Кто (576p)
-http://74.208.77.214:9981/stream/channelid/961112966?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jdy4SoG.png" tvg-id="ef904a49d07d7d38360c7184d7b3d942",Ланет.TV (486p)
-http://74.208.77.214:9981/stream/channelid/1229623535?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DogOkA4.png" tvg-id="6399b2c51ac0e49720053ba2dd81b8d9",МАТЧ! Боец (576p)
-http://74.208.77.214:9981/stream/channelid/1169332579?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pdCAUrP.png" tvg-id="5e809d3aefd5247c47b30b24d1c32ea0",МТВ (Волгоград) (720p) [Not 24/7]
-http://74.208.77.214:9981/stream/channelid/983400542?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Pg7K7eV.png" tvg-id="101bec1ba574ad9740071ba49ce04081",Матур ТВ (1080p)
-http://74.208.77.214:9981/stream/channelid/468458256?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AqWaJT8.png" tvg-id="28d2579a504d547ef208a732748c05c1",Мир (1080p) [Not 24/7]
-http://74.208.77.214:9981/stream/channelid/441963048?profile=pass
-#EXTINF:-1 tvg-logo="https://mirbelogorya.ru/images/logo/Logo_Mir_Belogorya_purple_gradient.png" tvg-id="4690d5393477554541ace92e051058f3",Мир Белагорья (720p) [Geo-blocked]
-http://74.208.77.214:9981/stream/channelid/970297414?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uzj7wVp.png" tvg-id="b68f8f4827bb89e0c8c0835f079c6b45",Мир Сериала (576p)
-http://74.208.77.214:9981/stream/channelid/1217367990?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gXbUMVy.png" tvg-id="48c3b76e7afe6f4926fa23c3f82a7318",Москва 24
-http://74.208.77.214:9981/stream/channelid/1857536840?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Puk1Bhx.png" tvg-id="b4da05bb8ed041837de72c2b426ac7d5",Муз союз (576p)
-http://74.208.77.214:9981/stream/channelid/990239412?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DIKe5vA.png" tvg-id="e52bba6a1d28efd92751d28c1d4c759d",Музыка 1 International [Not 24/7]
-http://74.208.77.214:9981/stream/channelid/1790585829?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2SG0Swa.png" tvg-id="2dd4cd6268d7d8095c5deb2c8d796bdb",Музыка Кино International [Not 24/7]
-http://74.208.77.214:9981/stream/channelid/1657656365?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LwXNUhf.png" tvg-id="e41cdc8ee777e6739fc42a3dae07f405",НВК Саха (1080p) [Not 24/7]
-http://74.208.77.214:9981/stream/channelid/249306340?profile=pass
-#EXTINF:-1 tvg-logo="https://www.ntktv.ua/bitrix/templates/ntk_copy/images/logo.png" tvg-id="465075603806e160abb160ccfaccd02e",НТК ТВ (1080p) [Not 24/7]
-http://74.208.77.214:9981/stream/channelid/1618300998?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/skkDR7q.png" tvg-id="c7d48f27a2c084702b5ffbde4b3dcd18",НТС (Севастополь) (1080p) [Not 24/7]
-http://74.208.77.214:9981/stream/channelid/663737543?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mUx2P29.png" tvg-id="973a61252786427097214f7ff42b41eb",Надия/Новый канал (576p) [Not 24/7]
-http://74.208.77.214:9981/stream/channelid/627128983?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dccsFAu.png" tvg-id="3e457be20c3fafddb3159148f6df6b73",Ника ТВ (576p) [Not 24/7]
-http://74.208.77.214:9981/stream/channelid/1652245822?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mmKWrWs.png" tvg-id="5eaf35c3c3d9dbb7f9c95d11ea6e9e98",Новое телевидение (576p) [Not 24/7]
-http://74.208.77.214:9981/stream/channelid/1127591774?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iuRSScH.png" tvg-id="e4d0635d29d1387601e64915bfd677e1",Новый Русский (720p)
-http://74.208.77.214:9981/stream/channelid/1566822628?profile=pass
-#EXTINF:-1 tvg-logo="https://www.osnmedia.ru/wp-content/uploads/2024/11/osn-logo-header.png" tvg-id="c938fbf5728111c2d59d1b272f53c7aa",ОСН
-http://74.208.77.214:9981/stream/channelid/1979398345?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2zd8trG.png" tvg-id="71b19e49fdcff48f83c10f90a28f4bbe",ОТВ Приморье
-http://74.208.77.214:9981/stream/channelid/1235136881?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7orZOJA.png" tvg-id="1b6ac46447fe98546b0f0c453beadf70",Открытый мир. Здоровье (576p)
-http://74.208.77.214:9981/stream/channelid/1690593819?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ti4OMBv.png" tvg-id="c686a5a5c9b367d9f9e9c67a7b5f0c9b",Первый Республиканский
-http://74.208.77.214:9981/stream/channelid/631604934?profile=pass
-#EXTINF:-1 tvg-logo="https://yarreg.ru/gallery/news/2025/03/293241/3.jpeg" tvg-id="231c23fc5db6635929c511239d39363c",Первый Ярославский (1080p)
-http://74.208.77.214:9981/stream/channelid/2082675747?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8qdc6aO.png" tvg-id="992e22e466e6987cb3ec8787caf48d43",Первый городской (Одесса) (1080p) [Not 24/7]
-http://74.208.77.214:9981/stream/channelid/1679961753?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uppFhhq.png" tvg-id="52faac76d2148a680f7a41297913bb87",Просвещение (540p) [Geo-blocked]
-http://74.208.77.214:9981/stream/channelid/1991047762?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5xKqV1s.png" tvg-id="01c641389f2701d32ae6a4ef05f6e2e7",Радио Хит (Орск) (720p)
-http://74.208.77.214:9981/stream/channelid/943834625?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lbqM3K2.png" tvg-id="ca5587596beabc96a4cd7b68309a81c1",Радио Шансон (720p) [Not 24/7]
-http://74.208.77.214:9981/stream/channelid/1502041546?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/B5FA62o.png" tvg-id="869ec1b0be83add596c822085496e6d8",Радость моя (576p)
-http://74.208.77.214:9981/stream/channelid/817995398?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/w0ZE9QJ.png" tvg-id="fa8a8ba1c758f8b30fff6be4d8afa418",Русский Бестселлер (576p)
-http://74.208.77.214:9981/stream/channelid/562793210?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FfULLr1.png" tvg-id="7bc8e881699de3c7d05b6a1f1d318971",Салям (Уфа) (576p)
-http://74.208.77.214:9981/stream/channelid/32032891?profile=pass
-#EXTINF:-1 tvg-logo="https://samaragis.ru/wp-includes/images/logo.png" tvg-id="c9cbd28b23d8e971cfa1acaf70c263d2",Самара ГИС (1080p) [Not 24/7]
-http://74.208.77.214:9981/stream/channelid/198364105?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/u4q1rMT.png" tvg-id="93b4f4e605083aaa2784c5e719bba655",Сарафан (576p)
-http://74.208.77.214:9981/stream/channelid/1727313043?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3cP2fmX.png" tvg-id="11c2aa403570fb8bbed4610846f78680",Своё ТВ (Ставрополь) (1080p)
-http://74.208.77.214:9981/stream/channelid/1084932625?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qpe8L27.png" tvg-id="e041d3c0460730a4061ec48bce050d67",Сити Эдем АвтоГид [Not 24/7]
-http://74.208.77.214:9981/stream/channelid/1087586784?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/67CWCtz.png" tvg-id="48e0fcfc7a684e100f28e13697f809f8",Сити Эдем КиноАрт [Not 24/7]
-http://74.208.77.214:9981/stream/channelid/2096947272?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9rKHwBV.png" tvg-id="b655f6f95e531ba0f3f792e7000076ca",Сити Эдем КиноДетектив [Not 24/7]
-http://74.208.77.214:9981/stream/channelid/2046186934?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/itRbMX3.png" tvg-id="af7b49e8bc99b09b95abfddaf6debd36",Сити Эдем КиноДок [Not 24/7]
-http://74.208.77.214:9981/stream/channelid/1749646255?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/29ddffh.png" tvg-id="2705642b609c4e76cb87a2a71a8b4d72",Сити Эдем КиноДрама [Not 24/7]
-http://74.208.77.214:9981/stream/channelid/727975207?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/I64FeIO.png" tvg-id="63c0f4300441c52a894b9a43d51a5ccc",Сити Эдем КиноФантастика [Not 24/7]
-http://74.208.77.214:9981/stream/channelid/821346403?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HCefxaK.png" tvg-id="783b4d9ee459b60426e49c0f67d15ed7",Солнце (576p)
-http://74.208.77.214:9981/stream/channelid/508377976?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iwWxkl6.png" tvg-id="c52a300c65a61673caa2729a4d57f580",Сочи 24 HD (720p)
-http://74.208.77.214:9981/stream/channelid/204483269?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WsPlKJJ.png" tvg-id="2d5a25d78bb6dd454e0a44dfb8f323b7",Страна FM (720p) [Not 24/7]
-http://74.208.77.214:9981/stream/channelid/1462065709?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/y73pRGZ.png" tvg-id="f2533a4356567608e43db588c31b3ed2",Студия Факт
-http://74.208.77.214:9981/stream/channelid/1127896050?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VqtPB7L.png" tvg-id="5209401d898f2bebd055a53b8b846fb1",ТКР (Рязань) (1080p) [Not 24/7]
-http://74.208.77.214:9981/stream/channelid/490735954?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ijA1zDw.png" tvg-id="f7211a12fba41d0431af0051c7c839b1",ТНВ-Планета (Казань) (576p)
-http://74.208.77.214:9981/stream/channelid/303702519?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/T4A6rEI.png" tvg-id="534923096fe4f511399131f07771d17f",ТНТ (+4) (576p)
-http://74.208.77.214:9981/stream/channelid/153307475?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ia3acCB.png" tvg-id="4964e9168001cf81847b89a1a4a4d3e7",Тамыр (Уфа) (576p)
-http://74.208.77.214:9981/stream/channelid/384394313?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YVtutzp.png" tvg-id="1dd41a22db780cfe8c2940cac587957e",Телеканал Краснодар (1080p)
-http://74.208.77.214:9981/stream/channelid/572183581?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eXJm1n3.png" tvg-id="49698ae5f909859de81d1b13ccca7dfa",Телепутешествия (576p)
-http://74.208.77.214:9981/stream/channelid/1703569737?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JQZkxeA.png" tvg-id="0a269d618af474ef81658c1a97dbdb48",Телерадиокомпания 555 (Алушта) (720p)
-http://74.208.77.214:9981/stream/channelid/1637688842?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/l7JZ79P.png" tvg-id="8ce2f3b676777f751732f29519450e14",Толк HD (720p)
-http://74.208.77.214:9981/stream/channelid/921952908?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZOcDGpB.png" tvg-id="bb784669f52a6d2fb3c77723d2ec1a05",Че! (576p)
-http://74.208.77.214:9981/stream/channelid/1766226107?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZOcDGpB.png" tvg-id="d8c5bbf9fc93012e99cb741441e13f0e",Че! (576p)
-http://74.208.77.214:9981/stream/channelid/2042349016?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Fk4sd8t.png" tvg-id="c8cd25780df816a6a12ad6de9aecf308",Шансон ТВ (576p) [Geo-blocked]
-http://74.208.77.214:9981/stream/channelid/2015743432?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0us6l04.png" tvg-id="0704699e6a2648d51f122a14bd2dcf37",Щёлковское ТВ (576p) [Not 24/7]
-http://74.208.77.214:9981/stream/channelid/510198791?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/561FRwI.png" tvg-id="d6362b0d1b3dbb180c3d2d736eb528de",Югра (1080p)
-http://74.208.77.214:9981/stream/channelid/220935894?profile=pass
+#EXTINF:0,CHD-TV RU Rock HD
+http://194.26.229.213/chdtv_ru_rock/index.m3u8
+#EXTINF:0,CHD-TV Rock
+http://194.26.229.213/chdtv_rock/index.m3u8
+#EXTINF:0,СоюзМультфильм
+http://194.26.229.213/souzmultfilm/index.m3u8
+#EXTINF:0,Чип и Дейл
+http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
+#EXTINF:0,TV1000 HD
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=YXqDtJ5PrDSe3tmc8MeOEA&e=1776885041&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+#EXTINF:0,TV1000 Action HD
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_Action_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=cyHkNHyNlKjyMSaDl9s5Iw&e=1776885054&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+#EXTINF:15,Viju TV1000 Romantica HD
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Romantika_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=w2FNAGw5P6Xh1HesXSylPQ&e=1776885025&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+#EXTINF:0,DTR Zona 1
+https://kino-stream.online/hls/DTRZONA1.m3u8
+#EXTINF:0,DTR Zona 2
+https://kino-stream.online/hls/DTRZONA2.m3u8
+#EXTINF:0,ITV Cinema
+https://iptv.itv.uz/hls/live/t/Yv8TO7PtCQ-DJIbxOr9N_g/e/1799038269/4000/index.m3u8
+#EXTINF:0,ITV Music
+https://iptv.itv.uz/hls/live/t/iR8iDnzqJIQrEetuXnP3iA/e/1799038327/4001/index.m3u8
+#EXTINF:0,Матч! Страна
+http://ukr.ukrainske.tv/134/keytvainua/video.m3u8
+#EXTINF:0,1+1 Марафон UA
+http://ukr.ukrainske.tv/399/keytvainua/video.m3u8
+#EXTINF:0,Cirque du Soleil
+https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-67642f277c5e3b38af72dcdb.m3u8
+#EXTINF:0,Загородная жизнь
+http://185.57.68.33/40/index.m3u8
+#EXTINF:0,ДимГрад 24
+http://live-3.otcnet.ru/dimgrad/index.m3u8
+#EXTINF:0,Наша тема
+http://live-3.otcnet.ru/nashatema/index.m3u8
+#EXTINF:0,Первый Псковский
+http://live-3.otcnet.ru/pskov/index.m3u8
+#EXTINF:0,Спортивный
+http://live-3.otcnet.ru/sportivny/index.m3u8
+#EXTINF:0,CGTN Русский
+https://english-livetx.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802_hd.m3u8
+#EXTINF:0,Патриот
+http://185.46.48.18:80/asvtv/mono.m3u8
+#EXTINF:0,Cinema
+http://185.46.48.18:80/cinema/mono.m3u8
+#EXTINF:0,Осетия Иристон
+http://185.46.48.18:80/iriston/mono.m3u8
+#EXTINF:0,Матч ТВ
+http://185.46.48.18:80/match/mono.m3u8
+#EXTINF:0,Шансон ТВ
+http://185.46.48.18:80/shanson/mono.m3u8
+#EXTINF:0,Київ HD
+https://api-tv.ipnet.ua/api/v1/manifest/1293296300.m3u8
+#EXTINF:0,5 Канал HD
+https://api-tv.ipnet.ua/api/v1/manifest/2118742539.m3u8
+#EXTINF:0,Еспресо HD
+https://api-tv.ipnet.ua/api/v1/manifest/2118742594.m3u8
+#EXTINF:0,Deutsche Welle
+https://api-tv.ipnet.ua/api/v1/manifest/2118742360.m3u8
+#EXTINF:0,France 24
+https://api-tv.ipnet.ua/api/v1/manifest/1311962630.m3u8
+#EXTINF:0,Рада
+https://api-tv.ipnet.ua/api/v1/manifest/1312714970.m3u8
+#EXTINF:0,UA: ПЕРШИЙ HD
+https://api-tv.ipnet.ua/api/v1/manifest/2118742505.m3u8
+#EXTINF:0,МИ - УКРАЇНА HD
+https://api-tv.ipnet.ua/api/v1/manifest/2118742680.m3u8
+#EXTINF:0,Армія ТБ
+https://api-tv.ipnet.ua/api/v1/manifest/2118742632.m3u8
+#EXTINF:0,SunsetOne
+https://str-01.sunset-media.org/SunsetOne/index.m3u8
+#EXTINF:0,Китай ТВ HD
+https://cdn.nexttvnet.ru/hlsl/provide/61394/ChinaTV2/china-tv_1920x1080/index.m3u8
+#EXTINF:0,РОССИЯ 24
+http://77.232.131.211/Rossiya24/index.m3u8
+#EXTINF:0,Travel+Adventure HD
+http://77.232.131.211/TravelAdventureHD/index.m3u8
+#EXTINF:0,о2тв
+http://77.232.131.211/O2TV/index.m3u8
+#EXTINF:0,Карусель
+http://77.232.131.211/Karusel/index.m3u8
+#EXTINF:0,Матч HD
+https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
+#EXTINF:0,Киномикс
+http://93.170.254.17/Kinomiks/index.m3u8
+#EXTINF:0,Пингвин Лоло
+http://sirius.greenhosting.ru/PingvinRu/tracks-v1a1/mono.m3u8
+#EXTINF:0,Мамонтёнок
+http://sirius.greenhosting.ru/MamontRu/tracks-v1a1/mono.m3u8
+#EXTINF:0,Про100 ТВ
+https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
+#EXTINF:0,Детский телеканал Мультимания
+http://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8
+#EXTINF:0,8 канал
+http://cdn-01.bonus-tv.ru:80/8kanal/tracks-v1a1/index.m3u8
+#EXTINF:0,Крик-ТВ
+http://cdn-01.bonus-tv.ru:80/kriktv_edge/index.m3u8
+#EXTINF:0,Просвещение
+http://cdn-01.bonus-tv.ru:80/prosveschenie_edge/index.m3u8
+#EXTINF:0,Arirang Korea
+https://cdn-01.bonus-tv.ru/arirang_edge/playlist.m3u8
+#EXTINF:0,TVM Channel
+http://cdn-01.bonus-tv.ru:80/tvm_edge/tracks-v1a1/index.m3u8
+#EXTINF:0,Калейдоскоп ТВ
+http://cdn-01.bonus-tv.ru:80/Kaleidoskop_edge/index.m3u8
+#EXTINF:0,Вместе-РФ
+http://cdn-01.bonus-tv.ru:80/vmesterf/tracks-v1a1/index.m3u8
+#EXTINF:0,Матч ТВ
+http://tv.tuva.ru/machtv/index.m3u8
+#EXTINF:0,Звезда (+4)
+http://vod.tuva.ru/zvezda/index.m3u8
+#EXTINF:0,Пятница
+http://vod.tuva.ru/friday/index.m3u8
+#EXTINF:0,Русский Роман
+http://vod.tuva.ru/rusroman/index.m3u8
+#EXTINF:0,Kino TV
+http://vod.tuva.ru/kinotv/index.m3u8
+#EXTINF:0,НСТ
+http://vod.tuva.ru/nst/index.m3u8
+#EXTINF:0,Еврокино
+http://vod.tuva.ru/eurokino/index.m3u8
+#EXTINF:0,Тува 24
+http://vod.tuva.ru/tuva24/index.m3u8
+#EXTINF:0,Моя Планета
+http://vod.tuva.ru/myplanet/index.m3u8
+#EXTINF:0,Наука 2.0
+http://vod.tuva.ru/nauka2/index.m3u8
+#EXTINF:0,OVAA TV
+http://vod.tuva.ru/ovaa/index.m3u8
+#EXTINF:0,4 канал (Екатеринбург)
+http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_EKB1/hls/1024x576@2024/playlist.m3u8
+#EXTINF:0,Прима
+http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_Prima/hls/1920x1080@4504/playlist.m3u8
+#EXTINF:-1 ,Россия 24
+https://fs.uplink.kz/rossia_24/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+#EXTINF:-1 ,Россия К
+https://fs.uplink.kz/rossia_k/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+#EXTINF:-1 ,НТВ-Мир
+https://fs.uplink.kz/ntv_mir/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+#EXTINF:-1 ,Рен ТВ international
+https://fs.uplink.kz/ren/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+#EXTINF:-1 ,365 дней
+https://fs.uplink.kz/365_dney/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+#EXTINF:-1 ,Техно 24
+https://fs.uplink.kz/tehno_24/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+#EXTINF:-1 ,Моя планета
+https://fs.uplink.kz/moya_planeta/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+#EXTINF:-1 ,Viasat Explore
+https://fs.uplink.kz/viju_explore/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+#EXTINF:-1 ,Viasat History
+https://fs.uplink.kz/viju_history/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+#EXTINF:-1 ,Viasat Nature
+https://fs.uplink.kz/viju_nature/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+#EXTINF:-1 ,Amedia Premium HD
+https://fs.uplink.kz/amedia_premium_hd/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+#EXTINF:-1 ,Авто 24
+https://fs.uplink.kz/avto24/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+#EXTINF:-1 ,Индия
+https://fs.uplink.kz/india/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+#EXTINF:-1 ,Дом кино
+https://fs.uplink.kz/dom_kino/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+#EXTINF:-1 ,Дом кино премиум
+https://fs.uplink.kz/dom_kino_premium/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+#EXTINF:-1 ,Домашний
+https://fs.uplink.kz/domashniy/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+#EXTINF:-1 ,Еврокино
+https://fs.uplink.kz/eurokino/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+#EXTINF:-1 ,Кинохит
+https://fs.uplink.kz/kinohit/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+#EXTINF:-1 ,Индийское кино
+https://fs.uplink.kz/indiyskoe_kino/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+#EXTINF:-1 ,Кинокомедия
+https://fs.uplink.kz/kinokomedia/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+#EXTINF:-1 ,Киномикс
+https://fs.uplink.kz/kinomix/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+#EXTINF:-1 ,Кинопремьера HD
+https://fs.uplink.kz/kinopremiera_hd/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+#EXTINF:-1 ,Родное кино
+https://fs.uplink.kz/rodnoe_kino/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+#EXTINF:-1 ,Киносемья
+https://fs.uplink.kz/kinosemya/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+#EXTINF:-1 ,Киносерия
+https://fs.uplink.kz/kinoseria/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+#EXTINF:-1 ,Киносвидание
+https://fs.uplink.kz/kinosvidanie/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+#EXTINF:-1 ,Наше новое кино
+https://fs.uplink.kz/nashe_novoe_kino/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+#EXTINF:-1 ,TV1000 Русское кино
+https://fs.uplink.kz/viju_tv1000_russkoe/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+#EXTINF:-1 ,TV1000 Action
+https://fs.uplink.kz/viju_tv1000_action/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+#EXTINF:-1 ,TV1000
+https://fs.uplink.kz/viju_tv1000/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+#EXTINF:-1 ,КТК
+https://fs.uplink.kz/ktk/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+#EXTINF:-1 ,НТК
+https://fs.uplink.kz/ntk/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+#EXTINF:-1 ,Astana TV
+https://fs.uplink.kz/astana/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+#EXTINF:-1 ,Atameken Business
+https://fs.uplink.kz/atameken/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+#EXTINF:-1 ,Balapan
+https://fs.uplink.kz/balapan/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+#EXTINF:-1 ,КВН ТВ
+https://fs.uplink.kz/kvn_tv/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+#EXTINF:-1 ,Мир
+https://fs.uplink.kz/mir/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+#EXTINF:-1 ,Мосфильм. Золотая коллекция
+https://fs.uplink.kz/mosfilm/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+#EXTINF:-1 ,Ностальгия
+https://fs.uplink.kz/nostalgia/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+#EXTINF:-1 ,Новое телевидение
+https://fs.uplink.kz/novoe_tv/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+#EXTINF:-1 ,Оружие
+https://fs.uplink.kz/oruzhie/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+#EXTINF:-1 ,Перец
+https://fs.uplink.kz/perec/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+#EXTINF:-1 ,Победа
+https://fs.uplink.kz/pobeda/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+#EXTINF:-1 ,Поехали!
+https://fs.uplink.kz/poehali/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+#EXTINF:-1 ,Русский иллюзион
+https://fs.uplink.kz/russkiy_illusion/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+#EXTINF:-1 ,СТС
+https://fs.uplink.kz/sts/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+#EXTINF:-1 ,СТС Love
+https://fs.uplink.kz/sts_love/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+#EXTINF:-1 ,Телекафе
+https://fs.uplink.kz/telecafe/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+#EXTINF:-1 ,Точка отрыва
+https://fs.uplink.kz/tochka_otriva/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+#EXTINF:-1 ,TV XXI
+https://fs.uplink.kz/tvxxi/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+#EXTINF:-1 ,Ю
+https://fs.uplink.kz/u/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+#EXTINF:-1 ,Время
+https://fs.uplink.kz/vremya/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+#EXTINF:-1 ,Жара
+https://fs.uplink.kz/zhara/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+#EXTINF:-1 ,Живи
+https://fs.uplink.kz/zhivi/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+#EXTINF:-1 ,Зоопарк
+https://fs.uplink.kz/zoopark/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+#EXTINF:-1 ,Звезда
+https://fs.uplink.kz/zvezda/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+#EXTINF:-1 ,МузТВ
+https://fs.uplink.kz/muz_tv/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+#EXTINF:-1 ,Шансон ТВ
+https://fs.uplink.kz/shanson/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+#EXTINF:-1 ,Европа плюс ТВ
+https://fs.uplink.kz/europa_plus/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+#EXTINF:-1 ,В гостях у сказки
+https://fs.uplink.kz/v_gostyah_u_skazki/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+#EXTINF:-1 ,Da Vinci
+https://fs.uplink.kz/da_vinci/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+#EXTINF:-1 ,Карусель
+https://fs.uplink.kz/karusel/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+#EXTINF:-1 ,О!
+https://fs.uplink.kz/o/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+#EXTINF:-1 ,Бобёр
+https://fs.uplink.kz/bober/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+#EXTINF:-1 ,Мульт
+https://fs.uplink.kz/mult/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+#EXTINF:-1 ,Мультиландия
+https://fs.uplink.kz/multilandia/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+#EXTINF:-1 ,Матч ТВ
+https://fs.uplink.kz/match/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+#EXTINF:-1 ,Матч! Планета
+https://fs.uplink.kz/match_planeta/tracks-v1a1/mono.ts.m3u8?token=onlinetv
