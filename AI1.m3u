@@ -1,17 +1,21 @@
 #EXTM3U deinterlace=1 m3uautoload=1 url-tvg="https://iptvx.one/EPG; http://epg.one/epg.xml.gz" refresh="86400" tvg-shift=0 cache=500
 
-#EXTINF:0 group-title="Вещание" tvg-id="360-podmoskovie" tvg-logo="https://iptvx.one/picons/360-podmoskovie.png",360° HD [V]
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8
 #EXTINF:0 group-title="Вещание" tvg-id="2265" tvg-logo="http://ru.epg.one/img/2265.png" tvg-rec="3",360° HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/2065/index.m3u8
+#EXTINF:0 group-title="Вещание" tvg-id="360-podmoskovie" tvg-logo="https://iptvx.one/picons/360-podmoskovie.png",360° HD [V]
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8
 #EXTINF:0 group-title="Вещание" tvg-id="360-news" tvg-logo="https://iptvx.one/picons/360-news.png",360° Новости HD [V]
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8
 #EXTINF:0 group-title="Вещание" tvg-id="4458" tvg-logo="http://ru.epg.one/img/4458.png" tvg-rec="0",360° Новости HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/18038/index.m3u8
 #EXTINF:0 group-title="Вещание" tvg-id="2268" tvg-logo="http://ru.epg.one/img/2268.png" tvg-rec="3",CGTN Русский HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/9223/index.m3u8
+#EXTINF:0 group-title="Вещание" tvg-id="euronews" tvg-logo="https://iptvx.one/picons/cctv-ru.png",CGTN Русский HD [V]
+http://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
 #EXTINF:0 group-title="Вещание" tvg-id="2266" tvg-logo="http://ru.epg.one/img/2266.png" tvg-rec="7",360° Euronews Россия [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/828/index.m3u8
+#EXTINF:0 group-title="Вещание" tvg-id="euronews" tvg-logo="https://iptvx.one/picons/euronews.png",Euronews Россия [V]
+https://stream8.cinerama.uz/1024/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="Вещание" tvg-id="rtd-ru" tvg-logo="https://iptvx.one/picons/rt-doc.png",RT Doc HD [V]
 http://rt-doc.rttv.com/dvr/rtdru/rtdru1080.m3u8
 #EXTINF:0 group-title="Вещание" tvg-id="2295" tvg-logo="http://ru.epg.one/img/2295.png" tvg-rec="0",RT Doc HD [E]
