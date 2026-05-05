@@ -80,8 +80,8 @@ https://s91030.cdn.ngenix.net/hls/CH_R25_RBKTVHD_VLDK/variant.m3u8
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/2404/index.m3u8
 #EXTINF:0 group-title="Вещание" tvg-id="18" tvg-logo="https://karnei4.github.io/convert/img/8082.png" tvg-rec="0",Рен ТВ 4K UHD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/19404/index.m3u8
-#EXTINF:0 group-title="Вещание" tvg-id="rentv" tvg-logo="https://iptvx.one/picons/rentv.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Рен ТВ [V]
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
+#EXTINF:0 group-title="Вещание" tvg-id="rentv" tvg-logo="https://iptvx.one/picons/rentv.png",Рен ТВ HD [V]
+https://edge02p.mediavitrina.ru/hls-livef6/ren-tv/tracks-v5a1/mono.ts.m3u8?token=v2.qYka0pxIi7G6YlT8mzCUaPqwOGutB7q_TlsNOT8CZdA.ffcdt99jkvNZT2vy6wtnfviTTyw4uaa2LAQ75zdGN4Y.1778601939.db05d0ecc9ff451f1f9be83760b09b22
 #EXTINF:0 group-title="Вещание" tvg-id="18" tvg-logo="http://ru.epg.one/img/18.png" tvg-rec="7",Рен ТВ HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/2024/index.m3u8
 #EXTINF:0 group-title="Вещание" tvg-id="rzhd-tv" tvg-logo="https://iptvx.one/picons/rzhd-tv.png",РЖД ТВ HD [V]
