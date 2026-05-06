@@ -2364,18 +2364,6 @@ https://video.xtrematv.com:3401/live/grupomemoriaslive.m3u8
 https://video.xtrematv.com:3891/live/memoriaspoplatinolive.m3u8
 #EXTINF:0 group-title="Музыка 2" tvg-id="" tvg-logo="https://memorias.tv/wp-content/uploads/2024/11/logo-MEMORIAS-TROPICAL-png--300x168.png",Memorias TV Tropical [V]
 https://video.xtrematv.com:3361/live/memoriastropicallive.m3u8
-#EXTINF:0 group-title="Музыка 2" tvg-id="" tvg-logo="https://cdn1.ozonusercontent.com/s3/marketing-api/banners/nz/KF/c200/nzKFOlyLIY4pobIwoGo7brfo1u23p2JM.png",Music 1 [V]
-https://fl1001.bozztv.com/ushba-t1/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Музыка 2" tvg-id="" tvg-logo="https://cdn1.ozonusercontent.com/s3/marketing-api/banners/nz/KF/c200/nzKFOlyLIY4pobIwoGo7brfo1u23p2JM.png",Music 10 [V]
-https://fl1001.bozztv.com/ushba76/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Музыка 2" tvg-id="" tvg-logo="https://cdn1.ozonusercontent.com/s3/marketing-api/banners/nz/KF/c200/nzKFOlyLIY4pobIwoGo7brfo1u23p2JM.png",Music 11 [V]
-https://fl1001.bozztv.com/ushba96/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Музыка 2" tvg-id="" tvg-logo="https://cdn1.ozonusercontent.com/s3/marketing-api/banners/nz/KF/c200/nzKFOlyLIY4pobIwoGo7brfo1u23p2JM.png",Music 6 [V]
-https://fl1003.bozztv.com/ushba0/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Музыка 2" tvg-id="" tvg-logo="https://cdn1.ozonusercontent.com/s3/marketing-api/banners/nz/KF/c200/nzKFOlyLIY4pobIwoGo7brfo1u23p2JM.png",Music 7 [V]
-https://fl1001.bozztv.com/ushba33/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Музыка 2" tvg-id="" tvg-logo="https://cdn1.ozonusercontent.com/s3/marketing-api/banners/nz/KF/c200/nzKFOlyLIY4pobIwoGo7brfo1u23p2JM.png",Music 8 [V]
-https://fl1001.bozztv.com/ushba63/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="Музыка 2" tvg-id="" tvg-logo="https://i.imgur.com/jLQsU1u.png",Telerayo [V]
 https://s.emisoras.tv:8081/telerayo/index.m3u8
 #EXTINF:0 group-title="Музыка 2" tvg-id="" tvg-logo="https://i.imgur.com/1iOAl2j.png",TMA Caraibes HD [V]
