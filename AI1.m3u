@@ -983,6 +983,8 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PZZHZCVZBL7P7GEXLZNAC9NS
 http://158.101.222.193:88/georgia_play.php?id=black
 #EXTINF:0 group-title="Сериалы" tvg-id="935" tvg-logo="http://epg.one/img/935.png" tvg-rec="0",.black HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/20019/index.m3u8
+#EXTINF:0 group-title="Сериалы" tvg-id="sony-turbo" tvg-logo="https://iptvx.one/picons/sony-turbo.png",.black [V]
+http://fo01-bkm.beetv.kz/bpk-tv/000000520/tve/index.m3u8
 #EXTINF:0 group-title="Сериалы" tvg-id="sony-tv" tvg-logo="https://iptvx.one/picons/sony.png",.red HD [V]
 http://193.25.8.59:8000/set
 #EXTINF:0 group-title="Сериалы" tvg-id="311" tvg-logo="http://epg.one/img/311.png" tvg-rec="3",.red HD [E]
@@ -993,12 +995,12 @@ http://178.163.38.73:34040/udp/234.0.0.13:2000
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/20020/index.m3u8
 #EXTINF:0 group-title="Сериалы" tvg-logo="https://online-hit.ru/wp-content/uploads/2024/02/312-kino.jpg",312 ТВ [V]
 http://176.126.166.43:1935/live/312musik/playlist.m3u8
-#EXTINF:0 group-title="Сериалы" tvg-id="amedia1" tvg-logo="https://iptvx.one/picons/amedia1.png",Amedia 1 [V]
-http://31.148.48.15:80/A1/index.m3u8
+#EXTINF:0 group-title="Сериалы" tvg-id="amedia1" tvg-logo="https://iptvx.one/picons/amedia1.png",Amedia 1 HD [V]
+http://fo01-bkm.beetv.kz/bpk-tv/000000710/tve/index.m3u8
 #EXTINF:0 group-title="Сериалы" tvg-id="1371" tvg-logo="http://epg.one/img/1371.png" tvg-rec="3",Amedia 1 HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/9069/index.m3u8
-#EXTINF:0 group-title="Сериалы" tvg-id="amedia2" tvg-logo="https://iptvx.one/picons/amedia2.png",Amedia 2 [V]
-http://31.148.48.15:80/A2/index.m3u8
+#EXTINF:0 group-title="Сериалы" tvg-id="amedia2" tvg-logo="https://iptvx.one/picons/amedia2.png",Amedia 2 HD [V]
+http://fo01-bkm.beetv.kz/bpk-tv/000000351/tve/index.m3u8
 #EXTINF:0 group-title="Сериалы" tvg-id="2492" tvg-logo="http://epg.one/img/2492.png" tvg-rec="7",Amedia 2 HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/2046/index.m3u8
 #EXTINF:0 group-title="Сериалы" tvg-id="amedia-hit" tvg-logo="https://iptvx.one/picons/amedia-hit.png",Amedia Hit HD [V]
@@ -1007,6 +1009,8 @@ http://178.163.38.73:34040/udp/234.0.0.169:2000
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/9070/index.m3u8
 #EXTINF:0 group-title="Сериалы" tvg-id="1372" tvg-logo="http://epg.one/img/1372.png" tvg-rec="3",Amedia Premium FHD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/9233/index.m3u8
+#EXTINF:0 group-title="Сериалы" tvg-id="amedia-premium" tvg-logo="https://iptvx.one/picons/amedia-premium.png",Amedia Premium HD [V]
+http://fo01-bkm.beetv.kz/bpk-tv/000000709/tve/index.m3u8
 #EXTINF:0 group-title="Сериалы" tvg-id="4767" tvg-logo="http://epg.one/img/4767.png" tvg-rec="7",BCU RuSerial HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/11046/index.m3u8
 #EXTINF:0 group-title="Сериалы" tvg-id="4768" tvg-logo="http://epg.one/img/4768.png" tvg-rec="7",BCU Сваты HD [E]
@@ -1041,8 +1045,12 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PZZHZCVZBL7P7GEXLZNAC9NS
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/1048/index.m3u8
 #EXTINF:0 group-title="Сериалы" tvg-id="1031" tvg-logo="http://epg.one/img/1031.png" tvg-rec="3",FX HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/9018/index.m3u8
+#EXTINF:0 group-title="Сериалы" tvg-id="fox" tvg-logo="https://iptvx.one/picons/fox.png",FX HD [V]
+http://fo01-bkm.beetv.kz/bpk-tv/000004472/tve/index.m3u8
 #EXTINF:0 group-title="Сериалы" tvg-id="615" tvg-logo="http://epg.one/img/615.png" tvg-rec="0",FX Life [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/14003/index.m3u8
+#EXTINF:0 group-title="Сериалы" tvg-id="foxlife" tvg-logo="https://iptvx.one/picons/foxlife.png",FX Life HD [V]
+http://fo01-bkm.beetv.kz/bpk-tv/000004471/tve/index.m3u8
 #EXTINF:0 group-title="Сериалы" tvg-id="6717" tvg-logo="http://epg.one/img/6717.png" tvg-rec="0",Fresh Series HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/19295/index.m3u8
 #EXTINF:0 group-title="Сериалы" tvg-id="9123" tvg-logo="http://epg.one/img/9123.png" tvg-rec="0",KinoLiving [E]
@@ -1093,8 +1101,12 @@ http://178.163.38.73:34040/udp/234.0.0.152:2000
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/6325/index.m3u8
 #EXTINF:0 group-title="Сериалы" tvg-id="6241" tvg-logo="http://epg.one/img/6241.png" tvg-rec="0",START Air HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/18036/index.m3u8
+#EXTINF:0 group-title="Сериалы" tvg-id="start-air" tvg-logo="https://iptvx.one/picons/start-air.png",START Air HD [V]
+http://fo01-bkm.beetv.kz/bpk-tv/000007815/tve/index.m3u8
 #EXTINF:0 group-title="Сериалы" tvg-id="6240" tvg-logo="http://epg.one/img/6240.png" tvg-rec="0",START World [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/19248/index.m3u8
+#EXTINF:0 group-title="Сериалы" tvg-id="start-world" tvg-logo="https://iptvx.one/picons/start-world.png",START World HD [V]
+http://fo01-bkm.beetv.kz/bpk-tv/000007818/tve/index.m3u8
 #EXTINF:0 group-title="Сериалы" tvg-id="4693" tvg-logo="http://epg.one/img/4693.png" tvg-rec="7",StrahTV The X-Files [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/11055/index.m3u8
 #EXTINF:0 group-title="Сериалы" tvg-id="8793" tvg-logo="http://epg.one/img/8793.png" tvg-rec="0",StrahTV Байки из склепа [E]
@@ -1202,13 +1214,13 @@ http://5.188.158.65:4040/IPTVPLAYVEDMAK.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:0 group-title="Сериалы" tvg-logo="https://i.postimg.cc/v8KFj826/1.png",Великая Отечественная [IPTVPLAY] HD [V]
 http://5.188.158.65:4040/IPTVPLAYVOV.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:0 group-title="Сериалы" tvg-id="vremia" tvg-logo="https://iptvx.one/picons/vremia.png",Время [V]
-http://cdn4.skygo.mn/live/disk1/Vremya/HLSv3-FTA/Vremya.m3u8
+http://fo01-bkm.beetv.kz/bpk-tv/000000205/tve/index.m3u8
 #EXTINF:0 group-title="Сериалы" tvg-id="669" tvg-logo="http://epg.one/img/669.png" tvg-rec="3",Время [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/9298/index.m3u8
 #EXTINF:0 group-title="Сериалы" tvg-logo="https://i.postimg.cc/D06WvJWn/1.png",Десятое королевство [IPTVPLAY] HD [V]
 http://5.188.158.65:4040/IPTVPLAY10KOROLEVSTVO.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:0 group-title="Сериалы" tvg-id="domkino" tvg-logo="https://iptvx.one/picons/domkino.png",Дом Кино [V]
-http://178.163.38.73:34040/udp/234.0.0.219:2000
+http://fo01-bkm.beetv.kz/bpk-tv/000000050/tve/index.m3u8
 #EXTINF:0 group-title="Сериалы" tvg-id="834" tvg-logo="http://epg.one/img/834.png" tvg-rec="7",Дом Кино [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/154/index.m3u8
 #EXTINF:0 group-title="Сериалы" tvg-id="domashny" tvg-logo="https://iptvx.one/picons/domashny.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Домашний [V]
@@ -1237,6 +1249,8 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PZZHZCVZBL7P7GEXLZNAC9NS
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/19229/index.m3u8
 #EXTINF:0 group-title="Сериалы" tvg-id="9156" tvg-logo="http://epg.one/img/9156.png" tvg-rec="0",Ключ HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/20041/index.m3u8
+#EXTINF:0 group-title="Сериалы" tvg-id="kluch" tvg-logo="https://iptvx.one/picons/kluch.png",Ключ HD [V]
+http://fo01-bkm.beetv.kz/bpk-tv/000004585/tve/index.m3u8
 #EXTINF:0 group-title="Сериалы" tvg-id="ktk-kz" tvg-logo="https://iptvx.one/picons/ktk-kz.png",КТК [KZ] HD [V]
 https://wz-kt.ktk.kz/ktklive/smil:ktk-live.smil/playlist.m3u8
 #EXTINF:0 group-title="Сериалы" tvg-id="2570" tvg-logo="http://epg.one/img/2570.png" tvg-rec="3",КТК [KZ] [E]
@@ -1246,7 +1260,7 @@ http://178.163.38.73:34040/udp/234.0.0.177:2000
 #EXTINF:0 group-title="Сериалы" tvg-id="9001" tvg-logo="http://epg.one/img/9001.png" tvg-rec="7",Лавстори HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/2034/index.m3u8
 #EXTINF:0 group-title="Сериалы" tvg-id="mir-seriala" tvg-logo="https://iptvx.one/picons/mir-seriala.png",Мир Сериала [V]
-http://31.148.48.15:80/Mir_Seriala/index.m3u8
+http://fo01-bkm.beetv.kz/bpk-tv/000000319/tve/index.m3u8
 #EXTINF:0 group-title="Сериалы" tvg-id="2275" tvg-logo="http://epg.one/img/2275.png" tvg-rec="7",Мир Сериала [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/856/index.m3u8
 #EXTINF:0 group-title="Сериалы" tvg-id="2018" tvg-logo="http://epg.one/img/2018.png" tvg-rec="3",Наше HD [E]
@@ -1255,6 +1269,8 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PZZHZCVZBL7P7GEXLZNAC9NS
 http://178.163.38.73:34040/udp/234.0.0.114:2000
 #EXTINF:0 group-title="Сериалы" tvg-id="2835" tvg-logo="http://epg.one/img/2835.png" tvg-rec="3",Наше Мужское HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/2440/index.m3u8
+#EXTINF:0 group-title="Сериалы" tvg-logo="https://iptvx.one/picons/nowy-igrowoj.png" tvg-id="nowy-igrowoj",Новый Игровой Канал [V]
+http://fo01-bkm.beetv.kz/bpk-tv/000008615/tve/index.m3u8
 #EXTINF:0 group-title="Сериалы" tvg-id="" tvg-logo="https://img.icons8.com/m_outlined/1200/unchecked-checkbox.jpg",Новый Русский HD [V]
 https://live.15plusmg.ru/memfs/f983b507-a170-41a9-85a9-d9afc6cba9c1.m3u8
 #EXTINF:0 group-title="Сериалы" tvg-id="ntv-serial" tvg-logo="https://iptvx.one/picons/ntv-serial.png",НТВ Сериал [V]
@@ -1289,6 +1305,8 @@ http://185.46.48.18:80/asvtv/index.m3u8
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/31928/index.m3u8
 #EXTINF:0 group-title="Сериалы" tvg-id="2447" tvg-logo="http://epg.one/img/2447.png" tvg-rec="7",Победа [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/2003/index.m3u8
+#EXTINF:0 group-title="Сериалы" tvg-id="pobeda" tvg-logo="https://iptvx.one/picons/pobeda.png",Победа [V]
+http://fo01-bkm.beetv.kz/bpk-tv/000004534/tve/index.m3u8
 #EXTINF:0 group-title="Сериалы" tvg-id="12" tvg-logo="http://epg.one/img/12.png" tvg-rec="7",Родное Кино [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/126/index.m3u8
 #EXTINF:0 group-title="Сериалы" tvg-id="2772" tvg-logo="http://epg.one/img/2772.png" tvg-rec="3",Романтичное HD [E]
@@ -1301,8 +1319,8 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PZZHZCVZBL7P7GEXLZNAC9NS
 http://31.148.48.15:80/Russkiy_Detektiv/index.m3u8
 #EXTINF:0 group-title="Сериалы" tvg-id="1570" tvg-logo="http://epg.one/img/1570.png" tvg-rec="7",Русский детектив [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/907/index.m3u8
-#EXTINF:0 group-title="Сериалы" tvg-id="sapfir" tvg-logo="https://iptvx.one/picons/sapfir.png",Сапфир [V]
-http://31.148.48.15/Sapfir/index.m3u8
+#EXTINF:0 group-title="Сериалы" tvg-id="sapfir" tvg-logo="https://iptvx.one/picons/sapfir.png",Сапфир HD [V]
+http://fo01-bkm.beetv.kz/bpk-tv/000008135/tve/index.m3u8
 #EXTINF:0 group-title="Сериалы" tvg-id="7315" tvg-logo="http://epg.one/img/7315.png" tvg-rec="3",Сапфир HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/6389/index.m3u8
 #EXTINF:0 group-title="Сериалы" tvg-logo="https://iptvx.one/picons/cityedem-telenov.png" tvg-id="cityedem-telenov",Сити Эдем - Теленовелла [V]
@@ -1323,6 +1341,8 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PZZHZCVZBL7P7GEXLZNAC9NS
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/18126/index.m3u8
 #EXTINF:0 group-title="Сериалы" tvg-id="2404" tvg-logo="http://epg.one/img/2404.png" tvg-rec="0",Феникс+ Кино HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/16154/index.m3u8
+#EXTINF:0 group-title="Сериалы" tvg-id="feniks-plus-kino" tvg-logo="https://iptvx.one/picons/feniks-plus-kino.png",Феникс+ Кино [V]
+http://fo01-bkm.beetv.kz/bpk-tv/000000125/tve/index.m3u8
 #EXTINF:0 group-title="Сериалы" tvg-id="khit" tvg-logo="https://iptvx.one/picons/khit.png",Хит [V]
 http://178.163.38.73:34040/udp/234.0.0.184:2000
 #EXTINF:0 group-title="Сериалы" tvg-id="2833" tvg-logo="http://epg.one/img/2833.png" tvg-rec="3",Хит HD [E]
