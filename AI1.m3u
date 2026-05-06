@@ -325,6 +325,8 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PZZHZCVZBL7P7GEXLZNAC9NS
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/20025/index.m3u8
 #EXTINF:0 group-title="Кинозал" tvg-id="774" tvg-logo="http://epg.one/img/774.png" tvg-rec="7",FlixSnip HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/10060/index.m3u8
+#EXTINF:0 group-title="Кинозал" tvg-id="flixsnip" tvg-logo="https://iptvx.one/picons/flixsnip.png",FlixSnip HD [V]
+https://vironika.ru/b90a0a99-99e6-4c47-81f2-6ccb80032afb.m3u8
 #EXTINF:0 group-title="Кинозал" tvg-id="6719" tvg-logo="http://epg.one/img/6719.png" tvg-rec="0",Fresh Adventure HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/19297/index.m3u8
 #EXTINF:0 group-title="Кинозал" tvg-id="6105" tvg-logo="http://epg.one/img/6105.png" tvg-rec="0",Fresh Cinema HD [E]
@@ -351,8 +353,6 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PZZHZCVZBL7P7GEXLZNAC9NS
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/19300/index.m3u8
 #EXTINF:0 group-title="Кинозал" tvg-id="6715" tvg-logo="http://epg.one/img/6715.png" tvg-rec="0",Fresh VHS HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/19293/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="flixsnip" tvg-logo="https://iptvx.one/picons/flixsnip.png",FlixSnip HD [V]
-https://vironika.ru/b90a0a99-99e6-4c47-81f2-6ccb80032afb.m3u8
 #EXTINF:0 group-title="Кинозал" tvg-id="934" tvg-logo="http://epg.one/img/934.png" tvg-rec="3",Hollywood HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/9017/index.m3u8
 #EXTINF:0 group-title="Кинозал" tvg-id="hollywood" tvg-logo="https://iptvx.one/picons/hollywood.png",Hollywood [V]
@@ -842,7 +842,7 @@ http://185.46.16.239:8000/Kino_TV
 #EXTINF:0 group-title="Кинозал" tvg-id="1037" tvg-logo="http://epg.one/img/1037.png" tvg-rec="3",Кино ТВ HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/2097/index.m3u8
 #EXTINF:0 group-title="Кинозал" tvg-id="kinoboevik-kz" tvg-logo="https://iptvx.one/picons/kinoboevik-kz.png",КиноБоевик [KZ] HD [V]
-https://edge08-alm.beetv.kz/bpk-token/4an@zieq22qkrasttrphpwqjiiazzbgcbehhzkkah5ba/bpk-tv/000008490/tve/000008490-audio_82882_rus=82400-video=5287600.m3u8
+https://fo01-bkm.beetv.kz/bpk-tv/000008490/tve/index.m3u8
 #EXTINF:0 group-title="Кинозал" tvg-id="kinokomedia" tvg-logo="https://iptvx.one/picons/kinokomedia.png",Кинокомедия [V]
 http://185.46.16.239:8000/Fox_HD
 #EXTINF:0 group-title="Кинозал" tvg-id="821" tvg-logo="http://epg.one/img/821.png" tvg-rec="0",Кинокомедия HD [E]
