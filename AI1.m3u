@@ -1396,6 +1396,15 @@ https://cityeden.catcast.tv/content/47400/index.m3u8
 #EXTINF:0 group-title="Релакс" tvg-logo="https://www.cityeden.info/logotv/siti_ehdem-meditacija.png",Сити Эдем - Музыка для медитации
 https://cityeden.catcast.tv/content/47410/index.m3u8
 
+#EXTINF:0 group-title="Релакс видео 4K" tvg-logo="https://pic.rtbcdn.ru/user/fa/72/fa7270598590c0dd7c1f8dcba0c978c8.jpg",Under The Sea Scenic Wildlife [4K UHD] V
+https://river-4-473.rtbcdn.ru/hls-vod/5CB3SZTZ2Bmx2OnRd4hNAA/1778652158/1891/0x5000c500e539f596/8a19e5ed6a9840349280d2cba180870a.mp4.m3u8?i=3840x2160_16302
+#EXTINF:0 group-title="Релакс видео 4K" tvg-logo="https://pic.rtbcdn.ru/user/fa/72/fa7270598590c0dd7c1f8dcba0c978c8.jpg",China Scenic Relaxation Film [4K UHD] V
+https://river-4-421.rtbcdn.ru/hls-vod/BOOwrIeV-g5r8FrO5UhB3A/1778652446/1899/0x5000c500e51127eb/c978b1e2beaa4b8f92c50918c7ecc933.mp4.m3u8?i=3840x2160_12530
+#EXTINF:0 group-title="Релакс видео 4K" tvg-logo="https://pic.rtbcdn.ru/user/fa/72/fa7270598590c0dd7c1f8dcba0c978c8.jpg",Amazing World Of Young Animals [4K UHD] V
+https://river-4-412.rtbcdn.ru/hls-vod/cZ1MMV-D3iflL02SxNswaw/1778652710/1897/0x5000c500e4a02f9a/5481e2c1a8e5473c804cfbc908dd7899.mp4.m3u8?i=3840x2160_15516
+#EXTINF:0 group-title="Релакс видео 4K" tvg-logo="https://pic.rtbcdn.ru/user/fa/72/fa7270598590c0dd7c1f8dcba0c978c8.jpg",Animals of Australia - Scenic Wildlife Film [4K UHD] V
+https://river-4-445.rtbcdn.ru/hls-vod/BaAvagZna_brTy80sDssgA/1778652807/2211/0x5000c500e661f8f6/bec395a0100c42a1b52bec53605116a4.mp4.m3u8?i=3840x2160_16020
+
 #EXTINF:0 group-title="Развлекательные" tvg-id="" tvg-logo="https://i.ibb.co/ZcCXw5P/alphaf.png",alpha Funny HD [V]
 https://live.15plusmg.ru/memfs/90b76c71-a86e-488a-aac4-cb66d6f88781.m3u8
 #EXTINF:0 group-title="Развлекательные" tvg-id="" tvg-logo="https://i.imgur.com/ddPUnpQ.png" tvg-rec="0",DTR Zona 1 [V]
