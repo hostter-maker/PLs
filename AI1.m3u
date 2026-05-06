@@ -886,7 +886,7 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PZZHZCVZBL7P7GEXLZNAC9NS
 #EXTINF:0 group-title="Кинозал" tvg-id="" tvg-logo="https://onlinetvplayer.com/images/logos/x1xj0vjw.png",МАНАС ТВ [V]
 http://212.42.111.152:8080/hls/manas.m3u8
 #EXTINF:0 group-title="Кинозал" tvg-id="mirovoe-kino-kz" tvg-logo="https://iptvx.one/picons/mirovoe-kino-kz.png",Мировое Кино [KZ] HD [V]
-https://edge02-alm.beetv.kz/bpk-token/4an@zoufghr1qwy2eog55enjeilmocwdnrzjzq0ag0da/bpk-tv/000008488/tve/000008488-audio_82882_rus=82400-video=5287600.m3u8
+https://fo01-bkm.beetv.kz/bpk-tv/000008488/tve/index.m3u8
 #EXTINF:0 group-title="Кинозал" tvg-id="mosfilm" tvg-logo="https://iptvx.one/picons/mosfilm.png",Мосфильм. Золотая коллекция [V]
 http://178.163.38.73:34040/udp/234.0.0.95:2000
 #EXTINF:0 group-title="Кинозал" tvg-id="3357" tvg-logo="http://epg.one/img/3357.png" tvg-rec="0",Мосфильм. Золотая коллекция HD [E]
@@ -914,7 +914,7 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PZZHZCVZBL7P7GEXLZNAC9NS
 #EXTINF:0 group-title="Кинозал" tvg-id="2732" tvg-logo="http://epg.one/img/2732.png" tvg-rec="0",Премиальное HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/10017/index.m3u8
 #EXTINF:0 group-title="Кинозал" tvg-id="premium-kino-kz" tvg-logo="https://iptvx.one/picons/premium-kino-kz.png",Премиум Кино [KZ] HD [V]
-https://edge01-alm.beetv.kz/bpk-token/4an@i5kcsg32kji0ujy4xrnlhveenc0xsqujiplgs1da/bpk-tv/000008491/tve/000008491-audio_82882_rus=82400-video=5287600.m3u8
+https://fo01-bkm.beetv.kz/bpk-tv/000008491/tve/index.m3u8
 #EXTINF:0 group-title="Кинозал" tvg-id="2829" tvg-logo="http://epg.one/img/2829.png" tvg-rec="3",Про Любовь HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/9089/index.m3u8
 #EXTINF:0 group-title="Кинозал" tvg-id="retro-tv" tvg-logo="https://iptvx.one/picons/retro-tv.png",Ретро [V]
@@ -932,7 +932,7 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PZZHZCVZBL7P7GEXLZNAC9NS
 #EXTINF:0 group-title="Кинозал" tvg-id="11507" tvg-logo="http://epg.one/img/11507.png" tvg-rec="0",Русское кино HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/31925/index.m3u8
 #EXTINF:0 group-title="Кинозал" tvg-id="semejnoe-kino-kz" tvg-logo="https://iptvx.one/picons/semejnoe-kino-kz.png",Семейное Кино [KZ] HD [V]
-https://edge01-alm.beetv.kz/bpk-token/4an@u3oetks51rmkj3pflr1sc3igvenxdzusunpatxaa/bpk-tv/000008489/tve/000008489-audio_82882_rus=82400-video=5287600.m3u8
+https://fo01-bkm.beetv.kz/bpk-tv/000008489/tve/index.m3u8
 #EXTINF:0 group-title="Кинозал" tvg-id="cityedem-kinoazia" tvg-logo="https://www.cityeden.info/logotv/kinoazija_logotip.png",Сити Эдем - КиноАзия [V]
 http://cityeden.catcast.tv/content/34393/index.m3u8
 #EXTINF:0 group-title="Кинозал" tvg-id=" tvg-logo="https://www.cityeden.info/_bl/23/11201175.png",Сити Эдем - Киноарт [V]
