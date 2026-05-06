@@ -128,8 +128,8 @@ https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream/playlist.m3u8
 https://salam-spbsed-bln-45.rtbcdn.ru/dive/river-5-558.rtbcdn.ru/CZ3oqF9u5OOQO_xRnRDWcg/stream/genetta-312.m9.rutube.ru/FzHYJTL-qhHivLLHqH6lBw/1778630129/7bf12d9c050f9a7ef3728db5730432ae/1080p_stream.m3u8
 #EXTINF:0 group-title="Вещание" tvg-id="698" tvg-logo="http://ru.epg.one/img/698.png" tvg-rec="3",ТВ 3 HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/5033/index.m3u8
-#EXTINF:0 group-title="Вещание" tvg-id="tvcentr" tvg-logo="https://iptvx.one/picons/tvcentr.png",ТВЦС HD [V]
-https://edge03p.mediavitrina.ru/hls-livef6/tvc/tracks-v4a1/mono.ts.m3u8?token=v2.QwFemcyFDobHVMjTw12vS640fRRJAmYct0WDH49kojI.Wco_-U_bXLqhLGRxR89os5uVlWyfWOoyqY5nSbNNftM.1778630405.11b8b51b36d3bb1392a4d07d89ff70da
+#EXTINF:0 group-title="Вещание" tvg-id="tvcentr" tvg-logo="https://iptvx.one/picons/tvcentr.png",ТВЦ HD [V]
+https://edge03d.mediavitrina.ru/hls-livef5/tvc/tracks-v5a1/mono.ts.m3u8?token=v2.nXz9290Bsp75Rj_tT34GmXlBi_QEgjfiA5qMaEv2WVo.rut6efgJElYRtokx_aXHjM7Gk1hyUYglBHPXSbobUoM.1778631626.2ff17304cf4e94c77aa4027499321697
 #EXTINF:0 group-title="Вещание" tvg-id="649" tvg-logo="http://ru.epg.one/img/649.png" tvg-rec="0",ТВЦ HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/19222/index.m3u8
 #EXTINF:0 group-title="Вещание" tvg-id="353" tvg-logo="https://karnei4.github.io/convert/img/1337.png" tvg-rec="0",ТНТ 4K UHD [E]
