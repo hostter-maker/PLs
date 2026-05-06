@@ -1,14 +1,96 @@
 #EXTM3U deinterlace=1 m3uautoload=1 url-tvg="https://iptvx.one/EPG; http://epg.one/epg.xml.gz" refresh="86400" tvg-shift=0 cache=500
 
-#EXTINF:0 group-title="Вещание" tvg-id="euronews" tvg-logo="https://iptvx.one/picons/euronews.png",Euronews Россия [V]
-https://stream8.cinerama.uz/1024/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Вещание" tvg-id="euronews" tvg-logo="https://iptvx.one/picons/euronews.png",Euronews Россия [V]
-http://dmi3y-tv.online/hls/CH_EURONEWS_RU.m3u8
-#EXTINF:0 group-title="Вещание" tvg-id="euronews" tvg-logo="https://iptvx.one/picons/cctv-ru.png",CGTN Русский [V]
-http://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
-#EXTINF:0 group-title="Вещание" tvg-id="euronews" tvg-logo="https://iptvx.one/picons/cctv-ru.png",CGTN Русский [V]
-http://dmi3y-tv.online/hls/CH_CGTN_RUSSKIYHD.m3u8
-#EXTINF:0 group-title="Вещание" tvg-id="euronews" tvg-logo="https://iptvx.one/picons/cctv-ru.png",CGTN DOCUMENTARY [V]
-http://dmi3y-tv.online/hls/CH_CGTN_DOCUMENTARYHD720.m3u8
-#EXTINF:0 group-title="Вещание" tvg-id="otr" tvg-logo="https://iptvx.one/picons/otr.png",ОТР [V]
-http://dmi3y-tv.online/hls/DVB-T2/CH_OTR.m3u8
+#EXTINF:0 group-title="Вещание" tvg-id="ntv" tvg-logo="https://iptvx.one/picons/ntv.png",НТВ HD [V]
+https://livetv.mylifeisgood.net.ru/channels/ntvhd.m3u8
+#EXTINF:0 group-title="Кинозал" tvg-id="cinema-ru" tvg-logo="https://iptvx.one/picons/cinema-ru.png",Cinema [V]
+http://fo01-bkm.beetv.kz/bpk-tv/000000239/tve/index.m3u8
+#EXTINF:0 group-title="Кинозал" tvg-id="flixsnip" tvg-logo="https://iptvx.one/picons/flixsnip.png",FlixSnip HD [V]
+http://fo01-bkm.beetv.kz/bpk-tv/000004466/tve/index.m3u8
+#EXTINF:0 group-title="Кинозал" tvg-id="hollywood" tvg-logo="https://iptvx.one/picons/hollywood.png",Hollywood [V]
+http://fo01-bkm.beetv.kz/bpk-tv/000000031/tve/index.m3u8
+#EXTINF:0 group-title="Кинозал" tvg-id="plan-b" tvg-logo="https://iptvx.one/picons/plan-b.png",Plan B [V]
+http://fo01-bkm.beetv.kz/bpk-tv/000007625/tve/index.m3u8
+#EXTINF:0 group-title="Кинозал" tvg-id="tv1000-action" tvg-logo="https://iptvx.one/picons/tv1000-action.png",Viju TV1000 Action HD [V]
+http://fo01-bkm.beetv.kz/bpk-tv/000003910/tve/index.m3u8
+#EXTINF:0 group-title="Кинозал" tvg-id="tv1000-russkoe-kino" tvg-logo="https://iptvx.one/picons/tv1000-russkoe-kino.png",Viju TV1000 Русское HD [V]
+http://fo01-bkm.beetv.kz/bpk-tv/000003748/tve/index.m3u8
+#EXTINF:0 group-title="Кинозал" tvg-id="vip-comedy" tvg-logo="https://iptvx.one/picons/tv1000-russkoe-kino.png",Viju+ Comedy HD [V]
+http://fo01-bkm.beetv.kz/bpk-tv/000000870/tve/index.m3u8
+#EXTINF:0 group-title="Кинозал" tvg-id="vip-megahit" tvg-logo="https://iptvx.one/picons/vip-megahit.png",Viju+ Megahit HD [V]
+http://fo01-bkm.beetv.kz/bpk-tv/000000869/tve/index.m3u8
+#EXTINF:0 group-title="Кинозал" tvg-id="vip-premiere" tvg-logo="https://iptvx.one/picons/vip-premiere.png",Viju+ Premiere HD [V]
+http://fo01-bkm.beetv.kz/bpk-tv/000000868/tve/index.m3u8
+#EXTINF:0 group-title="Кинозал" tvg-id="domkino-premium" tvg-logo="https://iptvx.one/picons/domkino-premium.png",Дом Кино Премиум HD [V]
+http://fo01-bkm.beetv.kz/bpk-tv/000002943/tve/index.m3u8
+#EXTINF:0 group-title="Кинозал" tvg-id="kinoboevik-kz" tvg-logo="https://iptvx.one/picons/kinoboevik-kz.png",КиноБоевик [KZ] HD [V]
+http://fo01-bkm.beetv.kz/bpk-tv/000008490/tve/index.m3u8
+#EXTINF:0 group-title="Кинозал" tvg-id="kinosat" tvg-logo="https://iptvx.one/picons/kinosat.png",Киносат [V]
+http://fo01-bkm.beetv.kz/bpk-tv/000003871/tve/index.m3u8
+#EXTINF:0 group-title="Кинозал" tvg-id="lubimoe-kino" tvg-logo="https://iptvx.one/picons/lubimoe-kino.png",Любимое Кино [V]
+http://fo01-bkm.beetv.kz/bpk-tv/000000283/tve/index.m3u8
+#EXTINF:0 group-title="Кинозал" tvg-id="mirovoe-kino-kz" tvg-logo="https://iptvx.one/picons/mirovoe-kino-kz.png",Мировое Кино [KZ] HD [V]
+http://fo01-bkm.beetv.kz/bpk-tv/000008488/tve/index.m3u8
+#EXTINF:0 group-title="Кинозал" tvg-id="mosfilm" tvg-logo="https://iptvx.one/picons/mosfilm.png",Мосфильм. Золотая коллекция [V]
+http://5.8.11.96:8099/mosfilmhd/index.m3u8
+#EXTINF:0 group-title="Кинозал" tvg-id="nst" tvg-logo="https://iptvx.one/picons/nst.png",НСТ [V]
+http://fo01-bkm.beetv.kz/bpk-tv/000000078/tve/index.m3u8
+#EXTINF:0 group-title="Кинозал" tvg-id="premium-kino-kz" tvg-logo="https://iptvx.one/picons/premium-kino-kz.png",Премиум Кино [KZ] HD [V]
+http://fo01-bkm.beetv.kz/bpk-tv/000008491/tve/index.m3u8
+#EXTINF:0 group-title="Кинозал" tvg-id="russky-illuzion" tvg-logo="https://iptvx.one/picons/russky-illuzion.png",Русский иллюзион [V]
+http://fo01-bkm.beetv.kz/bpk-tv/000004207/tve/index.m3u8
+#EXTINF:0 group-title="Кинозал" tvg-id="semejnoe-kino-kz" tvg-logo="https://iptvx.one/picons/semejnoe-kino-kz.png",Семейное Кино [KZ] HD [V]
+http://fo01-bkm.beetv.kz/bpk-tv/000008489/tve/index.m3u8
+#EXTINF:0 group-title="Кинозал" tvg-id="texno-24" tvg-logo="https://iptvx.one/picons/texno-24.png",Т24 [V]
+http://fo01-bkm.beetv.kz/bpk-tv/000000008/tve/index.m3u8
+#EXTINF:0 group-title="Кинозал" tvg-id="hollywood" tvg-logo="https://iptvx.one/picons/hollywood.png",Hollywood [V]
+http://fo01-bkm.beetv.kz/bpk-tv/000000031/tve/index.m3u8
+#EXTINF:0 group-title="Кинозал" tvg-id="tv1000" tvg-logo="https://iptvx.one/picons/tv1000.png",Viju TV1000 HD [V]
+http://fo01-bkm.beetv.kz/bpk-tv/000003747/tve/index.m3u8
+#EXTINF:0 group-title="Кинозал" tvg-id="vip-comedy" tvg-logo="https://iptvx.one/picons/tv1000-russkoe-kino.png",Viju+ Comedy [V]
+http://89.232.68.194:8080/ComedyHD/tracks-v1a1/index.m3u8
+#EXTINF:0 group-title="Кинозал" tvg-id="evrokino" tvg-logo="https://iptvx.one/picons/eurokino.png",Еврокино HD [V]
+http://fo01-bkm.beetv.kz/bpk-tv/000000152/tve/index.m3u8
+#EXTINF:0 group-title="Кинозал" tvg-id="tv21m" tvg-logo="https://iptvx.one/picons/tv21m.png",ТВ-21M [V]
+http://fo01-bkm.beetv.kz/bpk-tv/000000006/tve/index.m3u8
+#EXTINF:0 group-title="Сериалы" tvg-id="sony-turbo" tvg-logo="https://iptvx.one/picons/sony-turbo.png",.black [V]
+http://fo01-bkm.beetv.kz/bpk-tv/000000520/tve/index.m3u8
+#EXTINF:0 group-title="Сериалы" tvg-id="amedia1" tvg-logo="https://iptvx.one/picons/amedia1.png",Amedia 1 HD [V]
+http://fo01-bkm.beetv.kz/bpk-tv/000000710/tve/index.m3u8
+#EXTINF:0 group-title="Сериалы" tvg-id="amedia2" tvg-logo="https://iptvx.one/picons/amedia2.png",Amedia 2 HD [V]
+http://fo01-bkm.beetv.kz/bpk-tv/000000351/tve/index.m3u8
+#EXTINF:0 group-title="Сериалы" tvg-id="amedia-premium" tvg-logo="https://iptvx.one/picons/amedia-premium.png",Amedia Premium HD [V]
+http://fo01-bkm.beetv.kz/bpk-tv/000000709/tve/index.m3u8
+#EXTINF:0 group-title="Сериалы" tvg-id="fox" tvg-logo="https://iptvx.one/picons/fox.png",FX HD [V]
+http://fo01-bkm.beetv.kz/bpk-tv/000004472/tve/index.m3u8
+#EXTINF:0 group-title="Сериалы" tvg-id="foxlife" tvg-logo="https://iptvx.one/picons/foxlife.png",FX Life HD [V]
+http://fo01-bkm.beetv.kz/bpk-tv/000004471/tve/index.m3u8
+#EXTINF:0 group-title="Сериалы" tvg-id="start-air" tvg-logo="https://iptvx.one/picons/start-air.png",START Air HD [V]
+http://fo01-bkm.beetv.kz/bpk-tv/000007815/tve/index.m3u8
+#EXTINF:0 group-title="Сериалы" tvg-id="start-world" tvg-logo="https://iptvx.one/picons/start-world.png",START World HD [V]
+http://fo01-bkm.beetv.kz/bpk-tv/000007818/tve/index.m3u8
+#EXTINF:0 group-title="Сериалы" tvg-id="vremia" tvg-logo="https://iptvx.one/picons/vremia.png",Время [V]
+http://fo01-bkm.beetv.kz/bpk-tv/000000205/tve/index.m3u8
+#EXTINF:0 group-title="Сериалы" tvg-id="domkino" tvg-logo="https://iptvx.one/picons/domkino.png",Дом Кино [V]
+http://fo01-bkm.beetv.kz/bpk-tv/000000050/tve/index.m3u8
+#EXTINF:0 group-title="Сериалы" tvg-id="kineko" tvg-logo="https://iptvx.one/picons/kineko.png",Кинеко HD [V]
+http://fo01-bkm.beetv.kz/bpk-tv/000008136/tve/index.m3u8
+#EXTINF:0 group-title="Сериалы" tvg-id="kluch" tvg-logo="https://iptvx.one/picons/kluch.png",Ключ HD [V]
+http://fo01-bkm.beetv.kz/bpk-tv/000004585/tve/index.m3u8
+#EXTINF:0 group-title="Сериалы" tvg-id="mir-seriala" tvg-logo="https://iptvx.one/picons/mir-seriala.png",Мир Сериала [V]
+http://fo01-bkm.beetv.kz/bpk-tv/000000319/tve/index.m3u8
+#EXTINF:0 group-title="Сериалы" tvg-logo="https://iptvx.one/picons/nowy-igrowoj.png" tvg-id="nowy-igrowoj",Новый Игровой Канал [V]
+http://fo01-bkm.beetv.kz/bpk-tv/000008615/tve/index.m3u8
+#EXTINF:0 group-title="Сериалы" tvg-id="pobeda" tvg-logo="https://iptvx.one/picons/pobeda.png",Победа [V]
+http://fo01-bkm.beetv.kz/bpk-tv/000004534/tve/index.m3u8
+#EXTINF:0 group-title="Сериалы" tvg-id="sapfir" tvg-logo="https://iptvx.one/picons/sapfir.png",Сапфир HD [V]
+http://fo01-bkm.beetv.kz/bpk-tv/000008135/tve/index.m3u8
+#EXTINF:0 group-title="Сериалы" tvg-id="feniks-plus-kino" tvg-logo="https://iptvx.one/picons/feniks-plus-kino.png",Феникс+ Кино [V]
+http://fo01-bkm.beetv.kz/bpk-tv/000000125/tve/index.m3u8
+#EXTINF:0 group-title="Сериалы" tvg-id="amedia-hit" tvg-logo="https://iptvx.one/picons/amedia-hit.png",Amedia Hit HD [V]
+http://fo01-bkm.beetv.kz/bpk-tv/000000351/tve/index.m3u8
+#EXTINF:0 group-title="Сериалы" tvg-id="foxlife" tvg-logo="https://iptvx.one/picons/foxlife.png",FX Life HD [V]
+http://188.237.47.212:6008
+#EXTINF:0 group-title="Сериалы" tvg-id="start-air" tvg-logo="https://iptvx.one/picons/start-air.png",START Air HD [V]
+https://livetv.mylifeisgood.net.ru/channels/strwc.m3u8
+#EXTINF:0 group-title="Сериалы" tvg-id="start-world" tvg-logo="https://iptvx.one/picons/start-world.png",START World HD [V]
+https://livetv.mylifeisgood.net.ru/channels/strvf.m3u8
