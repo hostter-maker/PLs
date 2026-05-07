@@ -2948,49 +2948,48 @@ http://178.163.38.73:34040/udp/234.0.0.197:2000
 #EXTINF:0 group-title="Спорт" tvg-id="4605" tvg-logo="http://epg.one/img/4605.png" tvg-rec="0",Хоккей ТВ HD
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/10039/index.m3u8
 
-#EXTGRP:Здоровье и питание
 #EXTINF:0 group-title="Здоровье и питание" tvg-id="8817" tvg-logo="http://epg.one/img/8817.png" tvg-rec="0",BOX Gurman HD [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/31653/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/31653/index.m3u8
 #EXTINF:0 group-title="Здоровье и питание" tvg-id="2741" tvg-logo="http://epg.one/img/2741.png" tvg-rec="3",Food Network HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/2419/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/2419/index.m3u8
+#EXTINF:0 group-title="Здоровье и питание" tvg-id="7635" tvg-logo="http://epg.one/img/7635.png" tvg-rec="3",FoodTime FHD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/2418/index.m3u8
 #EXTINF:0 group-title="Здоровье и питание" tvg-id="eda-hd" tvg-logo="https://iptvx.one/picons/eda-hd.png",FoodTime HD [V]
 http://31.148.48.15:80/Eda_Premium_HD/index.m3u8
-#EXTINF:0 group-title="Здоровье и питание" tvg-id="7635" tvg-logo="http://epg.one/img/7635.png" tvg-rec="3",FoodTime FHD [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/2418/index.m3u8
 #EXTINF:0 group-title="Здоровье и питание" tvg-id="5993" tvg-logo="http://epg.one/img/5993.png" tvg-rec="0",VF Домашний повар HD [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/15514/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/15514/index.m3u8
 #EXTINF:0 group-title="Здоровье и питание" tvg-id="8811" tvg-logo="http://epg.one/img/8811.png" tvg-rec="0",Yosso TV Food HD [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/31616/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/31616/index.m3u8
+#EXTINF:0 group-title="Здоровье и питание" tvg-id="9331" tvg-logo="http://epg.one/img/9331.png" tvg-rec="0",Аппетитный HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/9067/index.m3u8
 #EXTINF:0 group-title="Здоровье и питание" tvg-id="appetitny" tvg-logo="https://iptvx.one/picons/appetitny.png",Аппетитный [V]
 http://fo01-bkm.beetv.kz/bpk-tv/000008877/tve/index.m3u8
-#EXTINF:0 group-title="Здоровье и питание" tvg-id="9331" tvg-logo="http://epg.one/img/9331.png" tvg-rec="0",Аппетитный HD [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/9067/index.m3u8
+#EXTINF:0 group-title="Здоровье и питание" tvg-id="11349" tvg-logo="http://epg.one/img/11349.png" tvg-rec="0",Вкус HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/31921/index.m3u8
 #EXTINF:0 group-title="Здоровье и питание" tvg-id="vkus" tvg-logo="https://iptvx.one/picons/vkus.png",Вкус HD [V]
 http://178.163.38.73:34040/udp/234.0.0.98:2000
-#EXTINF:0 group-title="Здоровье и питание" tvg-id="11349" tvg-logo="http://epg.one/img/11349.png" tvg-rec="0",Вкус HD [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/31921/index.m3u8
+#EXTINF:0 group-title="Здоровье и питание" tvg-id="16" tvg-logo="http://epg.one/img/16.png" tvg-rec="0",Доктор HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/20013/index.m3u8
 #EXTINF:0 group-title="Здоровье и питание" tvg-id="doktor" tvg-logo="https://iptvx.one/picons/doktor.png",Доктор [V]
 http://45.11.139.43:8555/doctor/index.m3u8
-#EXTINF:0 group-title="Здоровье и питание" tvg-id="16" tvg-logo="http://epg.one/img/16.png" tvg-rec="0",Доктор HD [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/20013/index.m3u8
 #EXTINF:0 group-title="Здоровье и питание" tvg-id="7614" tvg-logo="http://epg.one/img/7614.png" tvg-rec="3",Еда [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/6009/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/6009/index.m3u8
 #EXTINF:0 group-title="Здоровье и питание" tvg-id="eda-hd-int" tvg-logo="https://iptvx.one/picons/eda-hd-int.png",Еда HD [V]
 http://fo01-bkm.beetv.kz/bpk-tv/000000588/tve/index.m3u8
+#EXTINF:0 group-title="Здоровье и питание" tvg-id="2449" tvg-logo="http://epg.one/img/2449.png" tvg-rec="7",Здоровое ТВ [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/2022/index.m3u8
 #EXTINF:0 group-title="Здоровье и питание" tvg-id="zdorovoe-tv" tvg-logo="https://iptvx.one/picons/zdorovoe-tv.png",Здоровое ТВ [V]
 http://fo01-bkm.beetv.kz/bpk-tv/000000057/tve/index.m3u8
-#EXTINF:0 group-title="Здоровье и питание" tvg-id="2449" tvg-logo="http://epg.one/img/2449.png" tvg-rec="7",Здоровое ТВ [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/2022/index.m3u8
+#EXTINF:0 group-title="Здоровье и питание" tvg-id="614" tvg-logo="http://epg.one/img/614.png" tvg-rec="0",Кухня HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/15132/index.m3u8
 #EXTINF:0 group-title="Здоровье и питание" tvg-id="kuxnia-tv" tvg-logo="https://iptvx.one/picons/kuxnia-tv.png",Кухня [V]
 http://31.148.48.15:80/Kuhnya_TV/index.m3u8
-#EXTINF:0 group-title="Здоровье и питание" tvg-id="614" tvg-logo="http://epg.one/img/614.png" tvg-rec="0",Кухня HD [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/15132/index.m3u8
+#EXTINF:0 group-title="Здоровье и питание" tvg-id="1755" tvg-logo="http://epg.one/img/1755.png" tvg-rec="0",НТВ Стиль HD [E]
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/20037/index.m3u8
 #EXTINF:0 group-title="Здоровье и питание" tvg-id="ntv-style" tvg-logo="https://iptvx.one/picons/ntv-style.png",НТВ Стиль
 https://cdn.ntv.ru/th_style/tracks-v1a1/playlist.m3u8
-#EXTINF:0 group-title="Здоровье и питание" tvg-id="1755" tvg-logo="http://epg.one/img/1755.png" tvg-rec="0",НТВ Стиль HD [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/20037/index.m3u8
 #EXTINF:0 group-title="Здоровье и питание" tvg-id="2292" tvg-logo="http://epg.one/img/2292.png" tvg-rec="7",Первый Вегетарианский [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/833/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/833/index.m3u8
 #EXTINF:0 group-title="Здоровье и питание" tvg-logo="https://rsmu.ru/fileadmin/templates/img/cardimg/logo_partners/1medkanal.png",Первый Медицинский канал HD [V]
 https://rq3qltxnbx1.a.trbcdn.net/livemaster/8hwxnq4s0v_efir0_tcode1080p/playlist.m3u8
 #EXTINF:0 group-title="Здоровье и питание" tvg-logo="https://www.cityeden.info/logotv/logotip_medzdrav1.png",Сити Эдем - МедЗдрав [V]
