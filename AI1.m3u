@@ -155,8 +155,6 @@ http://cdn-01.bonus-tv.ru/u/tracks-v1a1/mono.m3u8
 http://176.126.166.43:1935/live/312kino/playlist.m3u8
 #EXTINF:0 group-title="Кинозал" tvg-id="" tvg-logo="https://1.mediamaniya.site/_pu/2/46031484.jpg",alpha Cinema HD [V]
 http://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="" tvg-logo="https://i.imgur.com/d2qzrUO.png",alpha Moretime HD [V]
-http://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
 #EXTINF:0 group-title="Кинозал" tvg-id="4748" tvg-logo="http://epg.one/img/4748.png" tvg-rec="7",BCU Action HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/11027/index.m3u8
 #EXTINF:0 group-title="Кинозал" tvg-id="4749" tvg-logo="http://epg.one/img/4749.png" tvg-rec="7",BCU Catastrophe HD [E]
@@ -2423,6 +2421,8 @@ http://185.46.16.239:8000/Shanson
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/31913/index.m3u8
 #EXTINF:0 group-title="Детские" tvg-id="2na2" tvg-logo="https://iptvx.one/picons/2na2.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",2x2 [V]
 http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
+#EXTINF:0 group-title="Детские" tvg-id="" tvg-logo="https://i.imgur.com/d2qzrUO.png",alpha Moretime HD [V]
+http://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
 #EXTINF:0 group-title="Детские" tvg-id="2011" tvg-logo="http://epg.one/img/2011.png" tvg-rec="7",Ani [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/129/index.m3u8
 #EXTINF:0 group-title="Детские" tvg-id="ani" tvg-logo="https://iptvx.one/picons/ani.png",Ani [V]
