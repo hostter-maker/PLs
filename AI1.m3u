@@ -2091,7 +2091,8 @@ http://fo01-bkm.beetv.kz/bpk-tv/000001213/tve/index.m3u8
 https://rpn.bozztv.com/gusa/gusa-hotrock/playlist.m3u8
 #EXTINF:0 group-title="Музыка 1" tvg-id="7201" tvg-logo="http://epg.one/img/7201.png" tvg-rec="0",Jukebox [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/31327/index.m3u8
-#EXTINF:-1 group-title="Музыка 1"  tvg-logo="https://avatars.mds.yandex.net/i?id=bdda3436e76975f47028821accc483695c275f80-5217295-images-thumbs&n=13",Kaloopy
+#EXTINF:0 group-title="Музыка 1"  tvg-logo="https://avatars.mds.yandex.net/i?id=bdda3436e76975f47028821accc483695c275f80-5217295-images-thumbs&n=13",Kaloopy HD [V]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/ebe730b7-f364-458e-82e0-2f49dfd9e6c4/0.m3u8
 #EXTINF:0 group-title="Музыка 1" tvg-id="3704" tvg-logo="http://epg.one/img/3704.png" tvg-rec="3",Kiss TV [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/6962/index.m3u8
