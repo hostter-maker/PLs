@@ -2344,7 +2344,8 @@ http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 #EXTINF:0 group-title="Музыка 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyL7UqnjqQaLJHi34SFvc3qJzr0VDkXvyg3g&s",Хөг-жим HD [V]
 https://cdn4.skygo.mn/live/disk1/Khugjim/DASH-FTA/Khugjim.mpd
 
-
+#EXTINF:0 group-title="Музыка 2" tvg-id="" tvg-logo="https://smotret-tv.ru/wp-content/uploads/2024/10/7x-music-jpg.webp",7X MUSIC
+https://stream.e2is.in/hls/7xMusic.m3u8
 #EXTINF:0 group-title="Музыка 2" tvg-id="" tvg-logo="https://www.88stereo.com/wp-content/uploads/2017/05/88Stereo-logoweb.png",88 Stereo [V]
 http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
 #EXTINF:0 group-title="Музыка 2" tvg-id="" tvg-logo="https://yootv.online/images/logo-channel/afn-music-tv.png",AFN Music [V]
