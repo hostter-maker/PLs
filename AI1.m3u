@@ -2989,7 +2989,7 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/15132/ind
 http://31.148.48.15:80/Kuhnya_TV/index.m3u8
 #EXTINF:0 group-title="Здоровье и питание" tvg-id="1755" tvg-logo="http://epg.one/img/1755.png" tvg-rec="0",НТВ Стиль HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/20037/index.m3u8
-#EXTINF:0 group-title="Здоровье и питание" tvg-id="ntv-style" tvg-logo="https://iptvx.one/picons/ntv-style.png",НТВ Стиль
+#EXTINF:0 group-title="Здоровье и питание" tvg-id="ntv-style" tvg-logo="https://iptvx.one/picons/ntv-style.png",НТВ Стиль [V]
 https://cdn.ntv.ru/th_style/tracks-v1a1/playlist.m3u8
 #EXTINF:0 group-title="Здоровье и питание" tvg-id="2292" tvg-logo="http://epg.one/img/2292.png" tvg-rec="7",Первый Вегетарианский [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/833/index.m3u8
@@ -3074,10 +3074,6 @@ http://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/9327/index.m3u8
 #EXTINF:0 group-title="Разное" tvg-id="ntv-pravo" tvg-logo="https://iptvx.one/picons/ntv-pravo.png",НТВ Право [V]
 https://cdn.ntv.ru/th_pravo/playlist.m3u8
-#EXTINF:0 group-title="Разное" tvg-id="1755" tvg-logo="http://epg.one/img/1755.png" tvg-rec="0",НТВ Стиль HD [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/20037/index.m3u8
-#EXTINF:0 group-title="Разное" tvg-id="ntv-style" tvg-logo="https://iptvx.one/picons/ntv-style.png",НТВ Стиль [V]
-https://cdn.ntv.ru/th_style/tracks-v1a1/playlist.m3u8
 #EXTINF:0 group-title="Разное" tvg-id="9006" tvg-logo="http://epg.one/img/9006.png" tvg-rec="0",О!Кино [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/20023/index.m3u8
 #EXTINF:0 group-title="Разное" tvg-id="okino" tvg-logo="https://iptvx.one/picons/okino.png",О!Кино [V]
