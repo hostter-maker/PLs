@@ -1351,26 +1351,36 @@ http://178.163.38.73:34040/udp/234.0.0.184:2000
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
 
 #EXTINF:0 group-title="Релакс" tvg-id="9234" tvg-logo="http://epg.one/img/9234.png" tvg-rec="0",BOX Lo-Fi HD [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/31545/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/31545/index.m3u8
 #EXTINF:0 group-title="Релакс" tvg-id="6708" tvg-logo="http://epg.one/img/6708.png" tvg-rec="0",BOX Relax 4K [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/19283/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/19283/index.m3u8
 #EXTINF:0 group-title="Релакс" tvg-logo="https://deluxemusic.de/wp-content/uploads/sites/4/2023/01/DLXM_LOUNGE_LOGO.png",Deluxe Lounge [DE] HD [V]
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/9a087b26-8be4-11eb-a7de-bacfe1f83627/0/master.m3u8?country=DE&optout=0&uid=749544ec3d9a45d48c600d03cac91dfd&vendor=philips
 #EXTINF:0 group-title="Релакс" tvg-logo="https://deluxemusic.de/wp-content/uploads/sites/4/2023/01/DLXM_LOUNGE_LOGO.png",Deluxe Lounge [V]
 https://jmp2.uk/stvp-CHAJ0500413A
 #EXTINF:0 group-title="Релакс" tvg-id="2745" tvg-logo="http://epg.one/img/2745.png" tvg-rec="3",Home 4K [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/4002/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/4002/index.m3u8
+#EXTINF:0 group-title="Релакс" tvg-id="" tvg-logo="https://misa.tv/wp-content/uploads/2018/09/MTV-Logo-Cropped2.png",MISA TV (France) [V]
+https://vidl.misatv.ro:5050/MSTV/french/playlist.m3u8
+#EXTINF:0 group-title="Релакс" tvg-id="" tvg-logo="https://misa.tv/wp-content/uploads/2018/09/MTV-Logo-Cropped2.png",MISA TV (Hungary) [V]
+https://vidl.misatv.ro:5050/MSTV/hungarian/playlist.m3u8
+#EXTINF:0 group-title="Релакс" tvg-id="" tvg-logo="https://misa.tv/wp-content/uploads/2018/09/MTV-Logo-Cropped2.png",MISA TV (Italia) [V]
+https://vidl.misatv.ro:5050/MSTV/italian/chunklist.m3u8
+#EXTINF:0 group-title="Релакс" tvg-id="" tvg-logo="https://misa.tv/wp-content/uploads/2018/09/MTV-Logo-Cropped2.png",MISA TV (Portugal) [V]
+https://vidl.misatv.ro:5050/MSTV/portuguese/playlist.m3u8
+#EXTINF:0 group-title="Релакс" tvg-id="" tvg-logo="https://misa.tv/wp-content/uploads/2018/09/MTV-Logo-Cropped2.png",MISA TV (Romania) [V]
+https://vidh.misatv.ro:5050/MSTV/romanian/playlist.m3u8
 #EXTINF:0 group-title="Релакс" tvg-id="5573" tvg-logo="http://epg.one/img/5573.png" tvg-rec="0",MM Relax HD [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/13030/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/13030/index.m3u8
 #EXTINF:0 group-title="Релакс" tvg-logo="https://play-lh.googleusercontent.com/ebz03u4BtprTtn3ngMViXNKCHC_6423rFdMkKva09RLGTwaOnWo2eQr2nQwrPtbbg8s=w600-h300-pc0xffffff-pd" tvg-id="6035",NatureStream.tv [V]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/naturestreamtv/master.m3u8?ads.vf=igg3JlWa1e0
 #EXTINF:0 group-title="Релакс" tvg-id="6035" tvg-logo="http://epg.one/img/6035.png" tvg-rec="0",Sochi Live HD [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/16038/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/16038/index.m3u8
 #EXTINF:0 group-title="Релакс" tvg-id="" tvg-logo="http://ru.epg.one/img2/6035.png",Sochi Live [V]
 http://serv30.vintera.tv:8081/sochi/sochi_stream/chunks.m3u8
 #EXTINF:0 group-title="Релакс" tvg-id="6695" tvg-logo="http://epg.one/img/6695.png" tvg-rec="0",Quadro 4K [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/19262/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/19262/index.m3u8
 #EXTINF:0 group-title="Релакс" channel-id="SamsungTVPlus-USBD3500038R6" tvg-name="Stingray Holidayscapes" tvg-id="USBD3500038R6" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500038R6_20240520T212838SQUARE.png" group-title="Сортировка" tvg-chno="4570",Stingray Holidayscapes HD [V]
 https://d10cyxntpn0bwm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-udbgiwo3vva3o/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD3500038R6
 #EXTINF:0 group-title="Релакс" channel-id="SamsungTVPlus-USBD3500013DG" tvg-name="Stingray Spa" tvg-id="USBD3500013DG" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500013DG_20240520T212850SQUARE.png" group-title="Сортировка" tvg-chno="4580",Stingray Spa HD [V]
@@ -1382,61 +1392,19 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-
 #EXTINF:0 group-title="Релакс" tvg-logo="https://avatars.mds.yandex.net/get-pdb/3946622/f25f8a24-de20-4c9e-8f05-98db50810075/orig",WORLD HD [V]
 http://185.57.68.33/232/index.m3u8
 #EXTINF:0 group-title="Релакс" tvg-id="2495" tvg-logo="http://epg.one/img/2495.png" tvg-rec="3",Живая природа HD [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/2074/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/2074/index.m3u8
 #EXTINF:0 group-title="Релакс" tvg-id="zhivaya-priroda" tvg-logo="https://iptvx.one/picons/zhivaya-priroda.png",Живая природа HD [V]
 http://fo01-bkm.beetv.kz/bpk-tv/000001187/tve/index.m3u8
 #EXTINF:0 group-title="Релакс" tvg-logo="https://play-lh.googleusercontent.com/aj22vhOy55-igoGeWunSYqAGyzZe3WuX2bMNBDx7ypUbXIgOiVFlfDBr5ru3QX0NZg",Камин HD [V]
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R05_KAMINTV/variant.m3u8
 #EXTINF:0 group-title="Релакс" tvg-id="2746" tvg-logo="http://epg.one/img/2746.png" tvg-rec="3",Наша Сибирь 4K [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/9330/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/9330/index.m3u8
 #EXTINF:0 group-title="Релакс" tvg-id="4444" tvg-logo="http://epg.one/img/4444.png" tvg-rec="3",Наша Сибирь HD [E]
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HVRS2WDGYT2L8D/4003/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/4003/index.m3u8
 #EXTINF:0 group-title="Релакс" tvg-logo="https://i.imgur.com/l7BE8l6.png",Сити Эдем - Классическая музыка [V]
 https://cityeden.catcast.tv/content/47400/index.m3u8
 #EXTINF:0 group-title="Релакс" tvg-logo="https://www.cityeden.info/logotv/siti_ehdem-meditacija.png",Сити Эдем - Музыка для медитации
 https://cityeden.catcast.tv/content/47410/index.m3u8
-#EXTINF:0 group-title="Релакс" tvg-logo="https://wandrachenault.com/wp-content/uploads/2018/11/screen-shot-2018-11-12-at-3-47-48-pm.png",MOROCCO HD [V]
-http://esun55.xyz:80/EIgp2JxJx9agjCV/BBFFCC9C4157/1272263
-#EXTINF:0 group-title="Релакс" tvg-logo="https://wandrachenault.com/wp-content/uploads/2018/11/screen-shot-2018-11-12-at-3-47-48-pm.png",ALGERIA HD [V]
-http://esun55.xyz:80/EIgp2JxJx9agjCV/BBFFCC9C4157/1272264
-#EXTINF:0 group-title="Релакс" tvg-logo="https://wandrachenault.com/wp-content/uploads/2018/11/screen-shot-2018-11-12-at-3-47-48-pm.png",ICELAND HD [V]
-http://esun55.xyz:80/EIgp2JxJx9agjCV/BBFFCC9C4157/1272265
-#EXTINF:0 group-title="Релакс" tvg-logo="https://wandrachenault.com/wp-content/uploads/2018/11/screen-shot-2018-11-12-at-3-47-48-pm.png",NORWAY HD [V]
-http://esun55.xyz:80/EIgp2JxJx9agjCV/BBFFCC9C4157/1272266
-#EXTINF:0 group-title="Релакс" tvg-logo="https://wandrachenault.com/wp-content/uploads/2018/11/screen-shot-2018-11-12-at-3-47-48-pm.png",AUSTRALIA HD [V]
-http://esun55.xyz:80/EIgp2JxJx9agjCV/BBFFCC9C4157/1272267
-#EXTINF:0 group-title="Релакс" tvg-logo="https://wandrachenault.com/wp-content/uploads/2018/11/screen-shot-2018-11-12-at-3-47-48-pm.png",ITALY HD [V]
-http://esun55.xyz:80/EIgp2JxJx9agjCV/BBFFCC9C4157/1272268
-#EXTINF:0 group-title="Релакс" tvg-logo="https://wandrachenault.com/wp-content/uploads/2018/11/screen-shot-2018-11-12-at-3-47-48-pm.png",SWITZERLAND HD [V]
-http://esun55.xyz:80/EIgp2JxJx9agjCV/BBFFCC9C4157/1272269
-#EXTINF:0 group-title="Релакс" tvg-logo="https://wandrachenault.com/wp-content/uploads/2018/11/screen-shot-2018-11-12-at-3-47-48-pm.png",TURKEY HD [V]
-http://esun55.xyz:80/EIgp2JxJx9agjCV/BBFFCC9C4157/1272270
-#EXTINF:0 group-title="Релакс" tvg-logo="https://wandrachenault.com/wp-content/uploads/2018/11/screen-shot-2018-11-12-at-3-47-48-pm.png",VIETNAM HD [V]
-http://esun55.xyz:80/EIgp2JxJx9agjCV/BBFFCC9C4157/1272271
-#EXTINF:0 group-title="Релакс" tvg-logo="https://wandrachenault.com/wp-content/uploads/2018/11/screen-shot-2018-11-12-at-3-47-48-pm.png",FOREST AMERICAN HD [V]
-http://esun55.xyz:80/EIgp2JxJx9agjCV/BBFFCC9C4157/1272272
-#EXTINF:0 group-title="Релакс" tvg-logo="https://wandrachenault.com/wp-content/uploads/2018/11/screen-shot-2018-11-12-at-3-47-48-pm.png",EUROPE TOWNS HD [V]
-http://esun55.xyz:80/EIgp2JxJx9agjCV/BBFFCC9C4157/1272273
-#EXTINF:0 group-title="Релакс" tvg-logo="https://wandrachenault.com/wp-content/uploads/2018/11/screen-shot-2018-11-12-at-3-47-48-pm.png",INSPIRATIONAL MOTIVATIONAL HD [V]
-http://esun55.xyz:80/EIgp2JxJx9agjCV/BBFFCC9C4157/1272274
-#EXTINF:0 group-title="Релакс" tvg-logo="https://wandrachenault.com/wp-content/uploads/2018/11/screen-shot-2018-11-12-at-3-47-48-pm.png",MORNING RELAXING HD [V]
-http://esun55.xyz:80/EIgp2JxJx9agjCV/BBFFCC9C4157/1272275
-#EXTINF:0 group-title="Релакс" tvg-logo="https://wandrachenault.com/wp-content/uploads/2018/11/screen-shot-2018-11-12-at-3-47-48-pm.png",NATURE RELAXATION HD [V]
-http://esun55.xyz:80/EIgp2JxJx9agjCV/BBFFCC9C4157/1272276
-#EXTINF:0 group-title="Релакс" tvg-logo="https://wandrachenault.com/wp-content/uploads/2018/11/screen-shot-2018-11-12-at-3-47-48-pm.png",EARTH NATURE HD [V]
-http://esun55.xyz:80/EIgp2JxJx9agjCV/BBFFCC9C4157/1272277
-#EXTINF:0 group-title="Релакс" tvg-logo="https://wandrachenault.com/wp-content/uploads/2018/11/screen-shot-2018-11-12-at-3-47-48-pm.png",FLOWER HD [V]
-http://esun55.xyz:80/EIgp2JxJx9agjCV/BBFFCC9C4157/1272278
-#EXTINF:0 group-title="Релакс" tvg-logo="https://wandrachenault.com/wp-content/uploads/2018/11/screen-shot-2018-11-12-at-3-47-48-pm.png",FOREST HD [V]
-http://esun55.xyz:80/EIgp2JxJx9agjCV/BBFFCC9C4157/1272279
-#EXTINF:0 group-title="Релакс" tvg-logo="https://wandrachenault.com/wp-content/uploads/2018/11/screen-shot-2018-11-12-at-3-47-48-pm.png",SNOW WINTER HD [V]
-http://esun55.xyz:80/EIgp2JxJx9agjCV/BBFFCC9C4157/1272280
-#EXTINF:0 group-title="Релакс" tvg-logo="https://wandrachenault.com/wp-content/uploads/2018/11/screen-shot-2018-11-12-at-3-47-48-pm.png",STARDUST HD [V]
-http://esun55.xyz:80/EIgp2JxJx9agjCV/BBFFCC9C4157/1272281
-#EXTINF:0 group-title="Релакс" tvg-logo="https://wandrachenault.com/wp-content/uploads/2018/11/screen-shot-2018-11-12-at-3-47-48-pm.png",THE OCEAN HD [V]
-http://esun55.xyz:80/EIgp2JxJx9agjCV/BBFFCC9C4157/1272282
-#EXTINF:0 group-title="Релакс" tvg-logo="https://wandrachenault.com/wp-content/uploads/2018/11/screen-shot-2018-11-12-at-3-47-48-pm.png",TROPICAL BEACH HD [V]
-http://esun55.xyz:80/EIgp2JxJx9agjCV/BBFFCC9C4157/1272283
 
 #EXTINF:0 group-title="Релакс видео 4K" tvg-logo="https://pic.rtbcdn.ru/video/2024-10-13/33/d7/33d7a271b62157d64c45c895ce60f316.jpg?width=500",Видео в HDR 120fps [2K UHD] V
 https://river-4-430.rtbcdn.ru/hls-vod/zKxhUFvHNGHFDkkAIb2Xuw/1778665356/2646/0x5000039ce83a16bd/4f816b4af51c4b88a83e9aa0bc545032.mp4.m3u8?i=2560x1440_15316
