@@ -115,7 +115,7 @@ http://player.smotrim.ru/iframe/stream/live_id/d7fef212-df66-485d-9952-7eab82d7d
 #EXTINF:0 group-title="Вещание" tvg-id="rtr-belarus" tvg-logo="https://iptvx.one/picons/rtr-planeta.png",РТР Планета СНГ [V]
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
 #EXTINF:0 group-title="Вещание" tvg-id="solovjinypomiot" tvg-logo="https://iptvx.one/picons/solovjinypomiot.png",Соловьев.Live HD [V]
-https://rutube.ru/live/video/c9b87c0b00cfff9b37f95b9c8e4eed42/
+https://stream.smotrim.ru/hls/solovievlive/playlist_6.m3u8
 #EXTINF:0 group-title="Вещание" tvg-id="79" tvg-logo="http://ru.epg.one/img/79.png" tvg-rec="3",СТС HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VRTC2LAHBSG2YS/9000/index.m3u8
 #EXTINF:0 group-title="Вещание" tvg-id="sts" tvg-logo="https://iptvx.one/picons/sts.png",СТС HD [V]
