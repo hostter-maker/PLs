@@ -981,17 +981,19 @@ http://5.188.158.65:4040/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:0 group-title="Кинозал" tvg-id="2309" tvg-logo="http://epg.one/img/2309.png" tvg-rec="3",Шокирующее HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VRTC2LAHBSG2YS/9004/index.m3u8
 
-#EXTINF:0 group-title="Смотрим 100%" tvg-id="" tvg-logo="https://cdn.smotrim.ru/photobank/prod/small/901/594/7.png" tvg-rec="0",100% Любовь [V]
+#EXTINF:0 group-title="Смотрим 100%" tvg-id="smotrim-100-lubov" tvg-logo="https://cdn.smotrim.ru/photobank/prod/small/901/594/7.png" tvg-rec="0",100% Любовь [V]
 https://stream.smotrim.ru/hls/fasttv01/playlist_3.m3u8
-#EXTINF:0 group-title="Смотрим 100%" tvg-id="" tvg-logo="https://cdn.smotrim.ru/photobank/prod/small/901/595/1.png" tvg-rec="0",100% Классика [V]
+#EXTINF:0 group-title="Смотрим 100%" tvg-id="smotrim-100-fakty" tvg-logo="https://cdn.smotrim.ru/photobank/prod/small/901/594/9.png" tvg-rec="0",100% Факты [V]
+https://stream.smotrim.ru/hls/fasttv06/playlist_3.m3u8
+#EXTINF:0 group-title="Смотрим 100%" tvg-id="smotrim-100-klassika" tvg-logo="https://cdn.smotrim.ru/photobank/prod/small/901/595/1.png" tvg-rec="0",100% Классика [V]
 https://stream.smotrim.ru/hls/fasttv03/playlist_3.m3u8
-#EXTINF:0 group-title="Смотрим 100%" tvg-id="" tvg-logo="https://cdn.smotrim.ru/photobank/prod/small/901/595/5.png" tvg-rec="0",100% Мужское [V]
+#EXTINF:0 group-title="Смотрим 100%" tvg-id="smotrim-100-muzhskoe" tvg-logo="https://cdn.smotrim.ru/photobank/prod/small/901/595/5.png" tvg-rec="0",100% Мужское [V]
 https://stream.smotrim.ru/hls/fasttv02/playlist_3.m3u8
-#EXTINF:0 group-title="Смотрим 100%" tvg-id="" tvg-logo="https://cdn.smotrim.ru/photobank/prod/small/901/595/7.png" tvg-rec="0",100% Праздник [V]
+#EXTINF:0 group-title="Смотрим 100%" tvg-id="smotrim-100-prazdnik" tvg-logo="https://cdn.smotrim.ru/photobank/prod/small/901/595/7.png" tvg-rec="0",100% Праздник [V]
 https://stream.smotrim.ru/hls/fasttv04/playlist_3.m3u8
-#EXTINF:0 group-title="Смотрим 100%" tvg-id="" tvg-logo="https://cdn.smotrim.ru/photobank/prod/small/901/595/3.png" tvg-rec="0",100% Детское [V]
+#EXTINF:0 group-title="Смотрим 100%" tvg-id="smotrim-100-detskoe" tvg-logo="https://cdn.smotrim.ru/photobank/prod/small/901/595/3.png" tvg-rec="0",100% Детское [V]
 https://stream.smotrim.ru/hls/fasttv05/playlist_3.m3u8
-#EXTINF:0 group-title="Смотрим 100%" tvg-id="" tvg-logo="https://cdn.smotrim.ru/photobank/prod/small/901/592/7.png" tvg-rec="0",Честный детектив [V]
+#EXTINF:0 group-title="Смотрим 100%" tvg-id="chestny-detektiv" tvg-logo="https://cdn.smotrim.ru/photobank/prod/small/901/592/7.png" tvg-rec="0",Честный детектив [V]
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.ts.m3u8
 
 #EXTINF:0 group-title="Сериалы" tvg-id="935" tvg-logo="http://epg.one/img/935.png" tvg-rec="0",.black HD [E]
