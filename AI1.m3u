@@ -2208,7 +2208,7 @@ http://k4.usastreams.com/videotour/videotour/playlist.m3u8
 #EXTINF:0 group-title="Музыка 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2Qx09u7ByBIS3uBaka5GcfbRKxpVmQvQdxQ&s",Vintage Music [V]
 https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8
 #EXTINF:0 group-title="Музыка 1" tvg-logo="https://iptvx.one/picons/viva-rus.png" tvg-id="viva-rus",VIVA Russia HD [V]
-https://bl.rutube.ru/livestream/f712ae5ff3db23ec09b3674133d44daa/index.m3u8
+https://bl.rutube.ru/livestream/965a025e4ebbaf0957415f80c6de8534/index.m3u8?s=jlQt1Ek2t-7NWDIdoi6pFg&e=2082245536&scheme=https
 #EXTINF:0 group-title="Музыка 1" tvg-logo="https://iptvx.one/picons/xite-nl.png" tvg-id="xite-nl",XITE [V]
 http://delta.cloudf-nettv.xyz:80/zaki660964buis/6n5hj4rfr7/963434
 #EXTINF:0 group-title="Музыка 1" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB320000647_20240702T044851SQUARE.png",XITE 80s Flashback HD [V]
@@ -2256,7 +2256,7 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VRTC2LAHBSG2YS/2043/inde
 #EXTINF:0 group-title="Музыка 1" tvg-id="la-minor" tvg-logo="https://iptvx.one/picons/la-minor.png",Музыка Live [V]
 http://31.148.48.15:80/La-Minor_TV/index.m3u8
 #EXTINF:0 group-title="Музыка 1" tvg-id="muzykamodatv" tvg-logo="https://iptvx.one/picons/muzykamodatv.png",ММТВ [V]
-https://bl.rutube.ru/livestream/965a025e4ebbaf0957415f80c6de8534/index.m3u8
+https://bl.rutube.ru/livestream/965a025e4ebbaf0957415f80c6de8534/index.m3u8?s=aDoEgmZixEHKmklshnD9Dg&e=2082245436&scheme=https
 #EXTINF:0 group-title="Музыка 1" tvg-logo="http://epg.one/img/715.png" tvg-id="715" tvg-rec="7",Музыка Первого [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VRTC2LAHBSG2YS/155/index.m3u8
 #EXTINF:0 group-title="Музыка 1" tvg-logo="https://iptvx.one/picons/muzyka-pervogo.png" tvg-id="muzyka-pervogo",Музыка Первого [V]
