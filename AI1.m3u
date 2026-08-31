@@ -106,7 +106,7 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PZZHZCVZBL7P7GEXLZNAC9NS
 https://live.smotrim.ru/vgtrk/0/kultura-hd/index.m3u8
 #EXTINF:0 group-title="Вещание" tvg-id="2547" tvg-logo="http://ru.epg.one/img/2547.png" tvg-rec="0",РТР Планета [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/18042/index.m3u8
-#EXTINF:0 group-title="Вещание" tvg-id="rtr-planeta-azia" tvg-logo="https://iptvx.one/picons/rtr-planeta-azia.png",РТР-Планета Азия [V] https://stream.smotrim.ru/hls/planeta_rtr_asia/playlist_5.m3u8
+#EXTINF:0 group-title="Вещание" tvg-id="rtr-planeta-azia" tvg-logo="https://iptvx.one/picons/rtr-planeta-azia.png",РТР-Планета Азия [V]
 https://stream.smotrim.ru/hls/planeta_rtr_asia/playlist.m3u8?entity=channel&id=511&sign=d1fe06cd922b67e412719536998fa43d
 #EXTINF:0 group-title="Вещание" tvg-id="rtr-planeta-amerika" tvg-logo="https://iptvx.one/picons/rtr-planeta.png",РТР-Планета Америка [V]
 https://stream.smotrim.ru/hls/planeta_rtr_usa/playlist.m3u8?entity=channel&id=513&sign=3ac5d8e2db71ef7fc3d4becbff7512d8
@@ -115,7 +115,7 @@ https://stream.smotrim.ru/hls/planeta_rtr_euro/playlist.m3u8?entity=channel&id=5
 #EXTINF:0 group-title="Вещание" tvg-id="rtr-belarus" tvg-logo="https://iptvx.one/picons/rtr-planeta.png",РТР Планета СНГ [V]
 https://stream.smotrim.ru/hls/planeta_rtr_sng/playlist.m3u8?entity=channel&id=512&sign=2abaa592de074d65809a10b6bacc4410
 #EXTINF:0 group-title="Вещание" tvg-id="solovjinypomiot" tvg-logo="https://iptvx.one/picons/solovjinypomiot.png",Соловьев.Live HD [V]
-https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1
+https://stream.smotrim.ru/hls/solovievlive/playlist.m3u8?entity=channel&id=292&sign=83652f1317ad220efe74a7606d9a7f37
 #EXTINF:0 group-title="Вещание" tvg-id="79" tvg-logo="http://ru.epg.one/img/79.png" tvg-rec="3",СТС HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/9000/index.m3u8
 #EXTINF:0 group-title="Вещание" tvg-id="sts" tvg-logo="https://iptvx.one/picons/sts.png",СТС HD [V]
