@@ -11,8 +11,8 @@ https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/play
 #EXTINF:0 group-title="Вещание" tvg-id="2268" tvg-logo="http://ru.epg.one/img/2268.png" tvg-rec="3",CGTN Русский HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/9223/index.m3u8
 #EXTINF:0 group-title="Вещание" tvg-id="euronews" tvg-logo="https://iptvx.one/picons/cctv-ru.png",CGTN Русский HD [V]
-http://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
-#EXTINF:0 group-title="Вещание" tvg-id="deutsche-welle-ru" tvg-logo="https://iptvx.one/picons/deutsche-welle-ru.png",Deutsche Welle Russia HD [V]
+https://russian-livetx-h5.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8?wsSecret=c25298f2ac9c5d7337c38048127ce997&wsTime=1788194237
+#EXTINF:0 group-title="Разное" tvg-id="deutsche-welle-ru" tvg-logo="https://iptvx.one/picons/deutsche-welle-ru.png",Deutsche Welle Russia HD [V]
 https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/stream05/streamPlaylist.m3u8
 #EXTINF:0 group-title="Вещание" tvg-id="2266" tvg-logo="http://ru.epg.one/img/2266.png" tvg-rec="7",Euronews Россия [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/828/index.m3u8
@@ -43,11 +43,11 @@ http://46.46.143.222:1935/live/mp4:ldpr.stream/playlist.m3u8
 #EXTINF:0 group-title="Вещание" tvg-id="726" tvg-logo="http://ru.epg.one/img/726.png" tvg-rec="0",Мир HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/15119/index.m3u8
 #EXTINF:0 group-title="Вещание" tvg-id="mir" tvg-logo="https://iptvx.one/picons/mir.png",Мир HD [V]
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:0 group-title="Вещание" tvg-id="2078" tvg-logo="http://ru.epg.one/img/2078.png" tvg-rec="3",Мир 24 HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/2107/index.m3u8
 #EXTINF:0 group-title="Вещание" tvg-id="mir-24" tvg-logo="https://iptvx.one/picons/mir24.png",Мир 24 HD [V]
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:0 group-title="Вещание" tvg-id="162" tvg-logo="https://tvprogviewer.ru/images/thumbs/0000074_ntv-hd_220.png" tvg-rec="0",НТВ 4K UHD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/19405/index.m3u8
 #EXTINF:0 group-title="Вещание" tvg-id="162" tvg-logo="http://ru.epg.one/img/2001.png" tvg-rec="7",НТВ HD [E]
@@ -71,11 +71,11 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PZZHZCVZBL7P7GEXLZNAC9NS
 #EXTINF:0 group-title="Вещание" tvg-id="1003" tvg-logo="http://ru.epg.one/img/2765.png" tvg-rec="3",Пятница! HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/5031/index.m3u8
 #EXTINF:0 group-title="Вещание" tvg-id="piatnica" tvg-logo="https://iptvx.one/picons/piatnica.png",Пятница! HD [V]
-https://bl.rutube.ru/livestream/9f87a9a0cecbe773be6fddcbd93585ac/index.m3u8?s=mQ3zFZavibxekaYYdPIw0g&e=2082330828&scheme=https
+https://bl.rutube.ru/livestream/9f87a9a0cecbe773be6fddcbd93585ac/index.m3u8?s=XK_xsc4Gprex1Q0mAR0HQw&e=2088195577&scheme=https
 #EXTINF:0 group-title="Вещание" tvg-id="427" tvg-logo="http://ru.epg.one/img/427.png" tvg-rec="7",Пятый канал HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/112/index.m3u8
 #EXTINF:0 group-title="Вещание" tvg-id="5kanal-ru" tvg-logo="https://iptvx.one/picons/5kanal-ru.png",Пятый канал [V]
-https://edge01p.mediavitrina.ru/hls-livef7/5tv/index.m3u8?token=v2.d8FvGOZnOMc-capcGLrdZbYJMFwzYAsDnVx5paaJUB8.oCtckHySf3aR55ZKIc5FBP-VZVGtfkaLed9ku1Noe7s.1782939312.2760492133db91519e040c6eacd35016
+https://cdn.ntv.ru/ntv-spb/index.m3u8?filter.tracks=v1v2v3a1l1t1
 #EXTINF:0 group-title="Вещание" tvg-id="743" tvg-logo="http://ru.epg.one/img/743.png" tvg-rec="0",РБК FHD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/2404/index.m3u8
 #EXTINF:0 group-title="Вещание" tvg-id="rbk" tvg-logo="https://iptvx.one/picons/rbk.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",РБК HD [V]
@@ -85,41 +85,41 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PZZHZCVZBL7P7GEXLZNAC9NS
 #EXTINF:0 group-title="Вещание" tvg-id="18" tvg-logo="http://ru.epg.one/img/18.png" tvg-rec="7",Рен ТВ HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/2024/index.m3u8
 #EXTINF:0 group-title="Вещание" tvg-id="rentv" tvg-logo="https://iptvx.one/picons/rentv.png",Рен ТВ HD [V]
-https://edge01r.mediavitrina.ru/hls-livef6/ren-tv/tracks-v5a1/mono.ts.m3u8?token=v2.LeLYOfh-qzwdVW-n0stz6072qELejW0twL_Ea3sSfho.Ob5fAQTQRC6Y9XkVQNijZbobOtURBpwuKYyb2XC-7pY.1782939980.e8c26421db91a22433c762283d4dff02
+https://edge01r.mediavitrina.ru/hls-livef6/ren-tv/index.m3u8?token=v2.ShlsC5E_Z7v1DSooGJaZqPio7JjnXO3PQyHq2bEISmc.feLodI1Ig-ORJ5pxhRVpqScoAakPTKlXPt_bVKR-Rsk.1788804912.7c0abd5542ac2e8f5d6d41f220314a31
 #EXTINF:0 group-title="Вещание" tvg-id="2471" tvg-logo="http://ru.epg.one/img/2471.png" tvg-rec="3",РЖД ТВ [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/9118/index.m3u8
 #EXTINF:0 group-title="Вещание" tvg-id="rzhd-tv" tvg-logo="https://iptvx.one/picons/rzhd-tv.png",РЖД ТВ HD [V]
-http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8
+https://hls-tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8
 #EXTINF:0 group-title="Вещание" tvg-id="711" tvg-logo="https://nnov54.ru/wp-content/uploads/2025/12/image-12.png" tvg-rec="0",Россия 1 4K UHD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/19242/index.m3u8
 #EXTINF:0 group-title="Вещание" tvg-id="711" tvg-logo="http://ru.epg.one/img/984.png" tvg-rec="0",Россия 1 FHD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/2409/index.m3u8
 #EXTINF:0 group-title="Вещание" tvg-id="rossia1" tvg-logo="https://iptvx.one/picons/rossia1.png",Россия 1 HD [V]
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
+https://live.smotrim.ru/vgtrk/0/russia1-hd/index.m3u8
 #EXTINF:0 group-title="Вещание" tvg-id="1683" tvg-logo="http://ru.epg.one/img/1683.png" tvg-rec="7",Россия 24  [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/507/index.m3u8
 #EXTINF:0 group-title="Вещание" tvg-id="rossia-24" tvg-logo="https://iptvx.one/picons/rossia-24.png",Россия 24 HD [V]
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/index.m3u8
+https://live.smotrim.ru/vgtrk/0/russia24-hd/index.m3u8
 #EXTINF:0 group-title="Вещание" tvg-id="187" tvg-logo="http://ru.epg.one/img/187.png" tvg-rec="7",Россия К [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/505/index.m3u8
 #EXTINF:0 group-title="Вещание" tvg-id="kultura" tvg-logo="https://iptvx.one/picons/kultura.png",Россия К HD [V]
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
+https://live.smotrim.ru/vgtrk/0/kultura-hd/index.m3u8
 #EXTINF:0 group-title="Вещание" tvg-id="2547" tvg-logo="http://ru.epg.one/img/2547.png" tvg-rec="0",РТР Планета [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/18042/index.m3u8
-#EXTINF:0 group-title="Вещание" tvg-id="rtr-planeta-azia" tvg-logo="https://iptvx.one/picons/rtr-planeta-azia.png",РТР-Планета Азия [V]
-http://player.smotrim.ru/iframe/stream/live_id/683d9649-a96c-4a4d-b468-91c0ee2bf363.m3u8
+#EXTINF:0 group-title="Вещание" tvg-id="rtr-planeta-azia" tvg-logo="https://iptvx.one/picons/rtr-planeta-azia.png",РТР-Планета Азия [V] https://stream.smotrim.ru/hls/planeta_rtr_asia/playlist_5.m3u8
+https://stream.smotrim.ru/hls/planeta_rtr_asia/playlist.m3u8?entity=channel&id=511&sign=d1fe06cd922b67e412719536998fa43d
 #EXTINF:0 group-title="Вещание" tvg-id="rtr-planeta-amerika" tvg-logo="https://iptvx.one/picons/rtr-planeta.png",РТР-Планета Америка [V]
-http://player.smotrim.ru/iframe/stream/live_id/cf22fa5c-e21a-433e-8317-7e8dd3150d6a.m3u8
+https://stream.smotrim.ru/hls/planeta_rtr_usa/playlist.m3u8?entity=channel&id=513&sign=3ac5d8e2db71ef7fc3d4becbff7512d8
 #EXTINF:0 group-title="Вещание" tvg-id="rtr-planeta-eu" tvg-logo="https://iptvx.one/picons/rtr-planeta.png",РТР-Планета Европа [V]
-http://player.smotrim.ru/iframe/stream/live_id/d7fef212-df66-485d-9952-7eab82d7d51b.m3u8
+https://stream.smotrim.ru/hls/planeta_rtr_euro/playlist.m3u8?entity=channel&id=510&sign=5c0ac65d75140fac2fd938d77c92138d
 #EXTINF:0 group-title="Вещание" tvg-id="rtr-belarus" tvg-logo="https://iptvx.one/picons/rtr-planeta.png",РТР Планета СНГ [V]
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
+https://stream.smotrim.ru/hls/planeta_rtr_sng/playlist.m3u8?entity=channel&id=512&sign=2abaa592de074d65809a10b6bacc4410
 #EXTINF:0 group-title="Вещание" tvg-id="solovjinypomiot" tvg-logo="https://iptvx.one/picons/solovjinypomiot.png",Соловьев.Live HD [V]
-https://stream.smotrim.ru/hls/solovievlive/playlist_6.m3u8
+https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1
 #EXTINF:0 group-title="Вещание" tvg-id="79" tvg-logo="http://ru.epg.one/img/79.png" tvg-rec="3",СТС HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/9000/index.m3u8
 #EXTINF:0 group-title="Вещание" tvg-id="sts" tvg-logo="https://iptvx.one/picons/sts.png",СТС HD [V]
-https://edge05p.mediavitrina.ru/hls-livef6/ctc/tracks-v5a1/mono.ts.m3u8?token=v2.1pxJT2JoH37_-BWtL_h5jNN4V1yVdu9l_Q4i8tak7ao.iYp-oaUAP2X-LEWrfrIowshSvAOhulXobXOuFLs3Ek4.1782940012.5de3e10fad3f1119d7d8b39c8be84799
+https://edge02r.mediavitrina.ru/hls-livef5/ctc/index.m3u8?token=v2._oM9CGdD0t4pj_ca2jfA-Bx_gOdgXmlJ3f-jKyGjpIY.wc7rHlYIxRRrsnaqOGZQ4NmIcBLUVGtGIeswqD82Kao.1788805895.55584ea58cb9909e1e6b206d66137d5c
 #EXTINF:0 group-title="Вещание" tvg-id="5652" tvg-logo="http://ru.epg.one/img/5652.png" tvg-rec="0",СТС International [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/15228/index.m3u8
 #EXTINF:0 group-title="Вещание" tvg-id="sts-int" tvg-logo="https://iptvx.one/picons/sts-int.png",СТС International [V]
@@ -129,23 +129,23 @@ https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream/playlist.m3u8
 #EXTINF:0 group-title="Вещание" tvg-id="698" tvg-logo="http://ru.epg.one/img/698.png" tvg-rec="3",ТВ 3 HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/5033/index.m3u8
 #EXTINF:0 group-title="Вещание" tvg-id="tv3-ru" tvg-logo="https://iptvx.one/picons/tv3-ru.png",ТВ 3 HD [V]
-https://salam-spbsed-retn-193.rtbcdn.ru/dive/river-6-601.rtbcdn.ru/8Onc7RE-2WmfgUBlCoceuA/stream/genetta-324.m9.rutube.ru/vrqzuVG7h5SYbSsF4sCIWw/1782940045/7bf12d9c050f9a7ef3728db5730432ae/1080p_stream.m3u8
+https://bl.rutube.ru/livestream/7bf12d9c050f9a7ef3728db5730432ae/index.m3u8?s=dO3-0l1R2coaJXBoD_qu4A&e=2088201552&scheme=https
 #EXTINF:0 group-title="Вещание" tvg-id="649" tvg-logo="http://ru.epg.one/img/649.png" tvg-rec="0",ТВЦ HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/19222/index.m3u8
 #EXTINF:0 group-title="Вещание" tvg-id="tvcentr" tvg-logo="https://iptvx.one/picons/tvcentr.png",ТВЦ HD [V]
-https://edge03p.mediavitrina.ru/hls-livef6/tvc/tracks-v5a1/mono.ts.m3u8?token=v2.MWLPLo8-iJ7tgSOKzch49sVhb1y9Exy-a12h3GYz7BI.RXoGv0s_FuAx-rCfiVsUTOTS0h7DzzIn3D7ipD6880g.1782940122.6409884eb09b7c75db57389d4a28add8
+https://edge01r.mediavitrina.ru/hls-livef5/tvc/index.m3u8?token=v2.KehuAIEixUHU_J5IOnMQOocmGWe03EBlcVr9hLzuJak.gm0mA7v0yHr9rBLncB5CEedWZvNsfpHdGT8go1fZ99c.1788806450.bf03640a67043f0d35661db4bcdf810f
 #EXTINF:0 group-title="Вещание" tvg-id="353" tvg-logo="https://karnei4.github.io/convert/img/1337.png" tvg-rec="0",ТНТ 4K UHD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/19238/index.m3u8
 #EXTINF:0 group-title="Вещание" tvg-id="353" tvg-logo="http://ru.epg.one/img/1767.png" tvg-rec="0",ТНТ FHD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/2417/index.m3u8
 #EXTINF:0 group-title="Вещание" tvg-id="tnt" tvg-logo="https://iptvx.one/picons/tnt.png",ТНТ HD [V]
-https://salam-spbsed-mts-d106.rtbcdn.ru/dive/river-6-605.rtbcdn.ru/KJ6HhA3Bq3SP6zqnT0HyZQ/stream/genetta-321.m9.rutube.ru/HNt1FZX3GSS_qQNUOzs0PA/1782940159/546602986e6a424d74d594876ddb3f04/1080p_stream.m3u8
+https://bl.rutube.ru/livestream/546602986e6a424d74d594876ddb3f04/index.m3u8?s=dH3XnpV5Z0tGvHGdgX_KOQ&e=2088201712&scheme=https
 #EXTINF:0 group-title="Вещание" tvg-id="5692" tvg-logo="http://ru.epg.one/img/5692.png" tvg-rec="0",ТНТ International HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/15230/index.m3u8
 #EXTINF:0 group-title="Вещание" tvg-id="1649" tvg-logo="http://ru.epg.one/img/1649.png" tvg-rec="0",ТНТ4 HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/6370/index.m3u8
 #EXTINF:0 group-title="Вещание" tvg-id="tnt4" tvg-logo="https://iptvx.one/picons/tnt4.png",ТНТ4 HD [V]
-https://salam-spbsed-mts-d106.rtbcdn.ru/dive/river-6-605.rtbcdn.ru/kPFW8Z_JepofccY70qE_uw/stream/genetta-405.ntv.rutube.ru/1bfTgj477YrBxwQNsufQ4g/1782940222/c801a7087e29a097192d74c270fbc6c1/1080p_stream.m3u8
+https://bl.rutube.ru/livestream/c801a7087e29a097192d74c270fbc6c1/index.m3u8?s=udPz9ZzY5AMFmTPWOhgQDw&e=2088201808&scheme=https
 #EXTINF:0 group-title="Вещание" tvg-id="898" tvg-logo="http://ru.epg.one/img/898.png" tvg-rec="7",Ю [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/534/index.m3u8
 #EXTINF:0 group-title="Вещание" tvg-id="yu" tvg-logo="https://iptvx.one/picons/yu.png",Ю [V]
