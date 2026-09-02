@@ -259,8 +259,12 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/LFKFWAQ3RBAG5G/19233/ind
 https://tvcdnpotok.com/6Hg59GYCGtEe53zdp-P76w/104/1788396479/index.m3u8
 #EXTINF:0 group-title="Кинозал" tvg-id="4682" tvg-logo="http://epg.one/img/4682.png" tvg-rec="7",CineMan HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/LFKFWAQ3RBAG5G/11004/index.m3u8
+#EXTINF:0 group-title="Кинозал" tvg-id="cineman" tvg-logo="https://iptvx.one/picons/cineman.png" tvg-rec="0",CineMan HD [V]
+https://tvcdnpotok.com/F9MUO9zMToRmmKjWjWwy0w/2049/1788399565/index.m3u8
 #EXTINF:0 group-title="Кинозал" tvg-id="4684" tvg-logo="http://epg.one/img/4684.png" tvg-rec="7",CineMan Action HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/LFKFWAQ3RBAG5G/11006/index.m3u8
+#EXTINF:0 group-title="Кинозал" tvg-id="cineman-action" tvg-logo="cineman-action" tvg-rec="0",CineMan Action HD [V]
+https://tvcdnpotok.com/IYEL2egwqxqBQrUwXV0S_Q/2051/1788399906/index.m3u8
 #EXTINF:0 group-title="Кинозал" tvg-id="4687" tvg-logo="http://epg.one/img/4687.png" tvg-rec="7",CineMan Marvel HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/LFKFWAQ3RBAG5G/11009/index.m3u8
 #EXTINF:0 group-title="Кинозал" tvg-id="7485" tvg-logo="http://epg.one/img/7485.png" tvg-rec="3",CineMan Premium HD [E]
@@ -548,7 +552,7 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/LFKFWAQ3RBAG5G/11096/ind
 #EXTINF:0 group-title="Кинозал" tvg-id="6643" tvg-logo="http://epg.one/img/6643.png" tvg-rec="0",Plan B HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/LFKFWAQ3RBAG5G/19249/index.m3u8
 #EXTINF:0 group-title="Кинозал" tvg-id="plan-b" tvg-logo="https://iptvx.one/picons/plan-b.png",Plan B [V]
-https://fo01-bkm.beetv.kz/bpk-tv/000007625/tve/index.m3u8
+https://tvcdnpotok.com/jz5ywdXCp6eTsE8Svo9NXw/2041/1788398112/index.m3u8
 #EXTINF:0 group-title="Кинозал" tvg-id="pro100" tvg-logo="https://iptvx.one/picons/pro100.png",PRO100 [V]
 https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
 #EXTINF:0 group-title="Кинозал" tvg-id="9069" tvg-logo="http://epg.one/img/9069.png" tvg-rec="0",Scream HD [E]
