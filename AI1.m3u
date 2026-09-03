@@ -224,7 +224,7 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/LFKFWAQ3RBAG5G/11026/ind
 #EXTINF:0 group-title="Кинозал" tvg-id="1395" tvg-logo="http://epg.one/img/1395.png" tvg-rec="3",Bollywood HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/LFKFWAQ3RBAG5G/239/index.m3u8
 #EXTINF:0 group-title="Кинозал" tvg-id="bollywood-hd" tvg-logo="https://iptvx.one/picons/bollywood-hd.png",Bollywood HD [V]
-https://tvcdnpotok.com/184/index.m3u8?wmsAuthSign=bd005c62ec0f8b3f45fe92618dade018-1788427301-812i39i371i97
+https://s7.iptv-24.net/1444/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="Кинозал" tvg-id="8768" tvg-logo="http://epg.one/img/8768.png" tvg-rec="0",BOX Apocalypse HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/LFKFWAQ3RBAG5G/31655/index.m3u8
 #EXTINF:0 group-title="Кинозал" tvg-id="6834" tvg-logo="http://epg.one/img/6834.png" tvg-rec="0",BOX Cyber HD [E]
@@ -256,51 +256,31 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/LFKFWAQ3RBAG5G/31625/ind
 #EXTINF:0 group-title="Кинозал" tvg-id="2754" tvg-logo="http://epg.one/img/2754.png" tvg-rec="0",Cinema HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/LFKFWAQ3RBAG5G/19233/index.m3u8
 #EXTINF:0 group-title="Кинозал" tvg-id="cinema-ru" tvg-logo="https://iptvx.one/picons/cinema-ru.png",Cinema [V]
-https://tvcdnpotok.com/104/index.m3u8?wmsAuthSign=15719b6a29dbfdd55aadc0e1b75970bf-1788427376-812i39i371i97
+https://stream8.cinerama.uz/1227/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="Кинозал" tvg-id="4682" tvg-logo="http://epg.one/img/4682.png" tvg-rec="7",CineMan HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/LFKFWAQ3RBAG5G/11004/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="cineman" tvg-logo="https://iptvx.one/picons/cineman.png" tvg-rec="0",CineMan HD [V]
-https://tvcdnpotok.com/2049/index.m3u8?wmsAuthSign=8cc38b12b099fb7acc7ea1451902ea49-1788427677-812i39i371i97
 #EXTINF:0 group-title="Кинозал" tvg-id="4684" tvg-logo="http://epg.one/img/4684.png" tvg-rec="7",CineMan Action HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/LFKFWAQ3RBAG5G/11006/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="cineman-action" tvg-logo="cineman-action" tvg-rec="0",CineMan Action HD [V]
-https://tvcdnpotok.com/2051/index.m3u8?wmsAuthSign=008a6bbb7f3506fcb0676fbae837a693-1788427707-812i39i371i97
 #EXTINF:0 group-title="Кинозал" tvg-id="4687" tvg-logo="http://epg.one/img/4687.png" tvg-rec="7",CineMan Marvel HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/LFKFWAQ3RBAG5G/11009/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="ineman-marvel" tvg-logo="https://iptvx.one/picons/cineman-marvel.png" tvg-rec="0",CineMan Marvel HD [V]
-https://tvcdnpotok.com/2050/index.m3u8?wmsAuthSign=5fac60d7151faa68bd0df1eb140fcdb0-1788427744-812i39i371i97
 #EXTINF:0 group-title="Кинозал" tvg-id="7485" tvg-logo="http://epg.one/img/7485.png" tvg-rec="3",CineMan Premium HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/LFKFWAQ3RBAG5G/20112/index.m3u8
 #EXTINF:0 group-title="Кинозал" tvg-id="4685" tvg-logo="http://epg.one/img/4685.png" tvg-rec="7",CineMan Thriller HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/LFKFWAQ3RBAG5G/11007/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="cineman-thriller" tvg-logo="https://iptvx.one/picons/cineman-thriller.png" tvg-rec="0",CineMan Thriller HD [V]
-https://tvcdnpotok.com/2052/index.m3u8?wmsAuthSign=e43b5913315f7e499f080a93159c1b93-1788427804-812i39i371i97
 #EXTINF:0 group-title="Кинозал" tvg-id="4683" tvg-logo="http://epg.one/img/4683.png" tvg-rec="7",CineMan Top HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/LFKFWAQ3RBAG5G/11005/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="cineman-top" tvg-logo="https://iptvx.one/picons/cineman-top.png" tvg-rec="0",CineMan Top HD [V]
-https://tvcdnpotok.com/2054/index.m3u8?wmsAuthSign=aec32db6e7b60bb58d7d912042597cb4-1788427831-812i39i371i97
 #EXTINF:0 group-title="Кинозал" tvg-id="4690" tvg-logo="http://epg.one/img/4690.png" tvg-rec="7",CineMan VHS HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/LFKFWAQ3RBAG5G/11012/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="cineman-vhs" tvg-logo="https://iptvx.one/picons/cineman-vhs.png" tvg-rec="0",CineMan VHS HD [V]
-https://tvcdnpotok.com/2058/index.m3u8?wmsAuthSign=22b6c40c4720f303a58df47bf4e9dcf4-1788427857-812i39i371i97
 #EXTINF:0 group-title="Кинозал" tvg-id="5585" tvg-logo="http://epg.one/img/5585.png" tvg-rec="0",CineMan Катастрофы HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/LFKFWAQ3RBAG5G/15106/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="cineman-katastrofy" tvg-logo="https://iptvx.one/picons/cineman-katastrofy.png" tvg-rec="0",CineMan Катастрофы HD [V]
-https://tvcdnpotok.com/2055/index.m3u8?wmsAuthSign=8624a60b09f18d24adaebaa9049fa519-1788427878-812i39i371i97
 #EXTINF:0 group-title="Кинозал" tvg-id="4689" tvg-logo="http://epg.one/img/4689.png" tvg-rec="7",CineMan Комедия HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/LFKFWAQ3RBAG5G/11011/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="cineman-comedy" tvg-logo="https://iptvx.one/picons/cineman-comedy.png" tvg-rec="0",CineMan Комедия HD [V]
-https://tvcdnpotok.com/2057/index.m3u8?wmsAuthSign=68c87da4de5c795432089654d7d71f5f-1788427905-812i39i371i97
 #EXTINF:0 group-title="Кинозал" tvg-id="4686" tvg-logo="http://epg.one/img/4686.png" tvg-rec="7",CineMan Мелодрама HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/LFKFWAQ3RBAG5G/11008/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="cineman-melodrama" tvg-logo="https://iptvx.one/picons/cineman-melodrama.png" tvg-rec="0",CineMan Мелодрама HD [V]
-https://tvcdnpotok.com/2053/index.m3u8?wmsAuthSign=c563fddfcc45c74c2177774e354d3586-1788427925-812i39i371i97
 #EXTINF:0 group-title="Кинозал" tvg-id="4691" tvg-logo="http://epg.one/img/4691.png" tvg-rec="7",CineMan РуКино HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/LFKFWAQ3RBAG5G/11013/index.m3u8
 #EXTINF:0 group-title="Кинозал" tvg-id="4688" tvg-logo="http://epg.one/img/4688.png" tvg-rec="7",CineMan Ужасы HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/LFKFWAQ3RBAG5G/11010/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="cineman-uzhasy" tvg-logo="https://iptvx.one/picons/cineman-uzhasy.png" tvg-rec="0",CineMan Ужасы HD [V]
-https://tvcdnpotok.com/2056/index.m3u8?wmsAuthSign=3d9fccf12eaa3a817b1b9f3d21205916-1788427955-812i39i371i97
 #EXTINF:0 group-title="Кинозал" tvg-id="6392" tvg-logo="http://epg.one/img/6392.png" tvg-rec="0",Citrus History HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/LFKFWAQ3RBAG5G/18139/index.m3u8
 #EXTINF:0 group-title="Кинозал" tvg-id="7994" tvg-logo="http://epg.one/img/7994.png" tvg-rec="0",Citrus Holiday HD [E]
@@ -347,54 +327,30 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/LFKFWAQ3RBAG5G/10060/ind
 https://rogoproxy.xyz/rodnoetv.com/tv/000004466/mono.m3u8
 #EXTINF:0 group-title="Кинозал" tvg-id="6719" tvg-logo="http://epg.one/img/6719.png" tvg-rec="0",Fresh Adventure HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/LFKFWAQ3RBAG5G/19297/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="fresh-adventure" tvg-logo="https://iptvx.one/picons/fresh-adventure.png" tvg-rec="0",Fresh Adventure HD [V]
-https://tvcdnpotok.com/G4nrbxBXoMToHO1To1Yu0Q/2068/1788401084/index.m3u8
 #EXTINF:0 group-title="Кинозал" tvg-id="6105" tvg-logo="http://epg.one/img/6105.png" tvg-rec="0",Fresh Cinema HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/LFKFWAQ3RBAG5G/19287/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="fresh-cinema" tvg-logo="https://iptvx.one/picons/fresh-cinema.png" tvg-rec="0",Fresh Cinema HD [V]
-https://tvcdnpotok.com/DmF5bWTZCXOXSBfJbuIAwg/2060/1788401177/index.m3u8
 #EXTINF:0 group-title="Кинозал" tvg-id="6711" tvg-logo="http://epg.one/img/6711.png" tvg-rec="0",Fresh Comedy HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/LFKFWAQ3RBAG5G/19289/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="fresh-comedy" tvg-logo="https://iptvx.one/picons/fresh-comedy.png" tvg-rec="0",Fresh Comedy HD [V]
-https://tvcdnpotok.com/N86c5ArUpZZ1NJS-2PX61w/2061/1788401238/index.m3u8
 #EXTINF:0 group-title="Кинозал" tvg-id="6713" tvg-logo="http://epg.one/img/6713.png" tvg-rec="0",Fresh Family HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/LFKFWAQ3RBAG5G/19291/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="fresh-family" tvg-logo="https://iptvx.one/picons/fresh-family.png" tvg-rec="0",Fresh Family HD [V]
-https://tvcdnpotok.com/98ZJHA19XWEjuk4zm2qrgw/2063/1788401355/index.m3u8
 #EXTINF:0 group-title="Кинозал" tvg-id="6716" tvg-logo="http://epg.one/img/6716.png" tvg-rec="0",Fresh Fantastic HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/LFKFWAQ3RBAG5G/19294/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="fresh-fantastic" tvg-logo="https://iptvx.one/picons/fresh-fantastic.png" tvg-rec="0",Fresh Fantastic HD [V]
-https://tvcdnpotok.com/ydHBD_ZRnP2VTGBWa7FsZw/2066/1788401408/index.m3u8
 #EXTINF:0 group-title="Кинозал" tvg-id="6718" tvg-logo="http://epg.one/img/6718.png" tvg-rec="0",Fresh Horror HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/LFKFWAQ3RBAG5G/19296/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="fresh-horror" tvg-logo="https://iptvx.one/picons/fresh-horror.png" tvg-rec="0",Fresh Horror HD [V]
-https://tvcdnpotok.com/ZDM08oT3RKp7nGigyuvqmQ/2067/1788401428/index.m3u8
 #EXTINF:0 group-title="Кинозал" tvg-id="6712" tvg-logo="http://epg.one/img/6712.png" tvg-rec="0",Fresh Premiere HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/LFKFWAQ3RBAG5G/19290/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="fresh-premiere" tvg-logo="https://iptvx.one/picons/fresh-premiere.png" tvg-rec="0",Fresh Premiere HD [V]
-https://tvcdnpotok.com/FD6_BaDbbrDp6Opwz-TpVg/2062/1788401485/index.m3u8
 #EXTINF:0 group-title="Кинозал" tvg-id="6714" tvg-logo="http://epg.one/img/6714.png" tvg-rec="0",Fresh Rating HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/LFKFWAQ3RBAG5G/19292/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="fresh-rating" tvg-logo="https://iptvx.one/picons/fresh-rating.png" tvg-rec="0",Fresh Rating HD [V]
-https://tvcdnpotok.com/mDAeu0pufoqiRzf7XiQ9Aw/2064/1788401600/index.m3u8
 #EXTINF:0 group-title="Кинозал" tvg-id="6720" tvg-logo="http://epg.one/img/6720.png" tvg-rec="0",Fresh Romantic HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/LFKFWAQ3RBAG5G/19298/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="fresh-romantic" tvg-logo="https://iptvx.one/picons/fresh-romantic.png" tvg-rec="0",Fresh Romantic HD [V]
-https://tvcdnpotok.com/LPOP1Db_1i84rOMHxbc7Iw/2069/1788401617/index.m3u8
 #EXTINF:0 group-title="Кинозал" tvg-id="6721" tvg-logo="http://epg.one/img/6721.png" tvg-rec="0",Fresh Russian HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/LFKFWAQ3RBAG5G/19299/index.m3u8
 #EXTINF:0 group-title="Кинозал" tvg-id="6723" tvg-logo="http://epg.one/img/6723.png" tvg-rec="0",Fresh Soviet HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/LFKFWAQ3RBAG5G/19301/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="fresh-soviet" tvg-logo="https://iptvx.one/picons/fresh-soviet.png" tvg-rec="0",Fresh Soviet HD [V]
-https://tvcdnpotok.com/_vr8ehPy6ezvW6qhZcxkSA/2071/1788401678/index.m3u8
 #EXTINF:0 group-title="Кинозал" tvg-id="6722" tvg-logo="http://epg.one/img/6722.png" tvg-rec="0",Fresh Thriller HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/LFKFWAQ3RBAG5G/19300/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="fresh-thriller" tvg-logo="https://iptvx.one/picons/fresh-thriller.png" tvg-rec="0",Fresh Thriller HD [V]
-https://tvcdnpotok.com/RJy0IJ7kCdcPMJjBJj8UBA/2070/1788401797/index.m3u8
 #EXTINF:0 group-title="Кинозал" tvg-id="6715" tvg-logo="http://epg.one/img/6715.png" tvg-rec="0",Fresh VHS HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/LFKFWAQ3RBAG5G/19293/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="fresh-vhs" tvg-logo="https://iptvx.one/picons/fresh-vhs.png" tvg-rec="0",Fresh VHS HD [V]
-https://tvcdnpotok.com/rkDxEuZCS6xAAnz3oej7Mw/2065/1788401851/index.m3u8
 #EXTINF:0 group-title="Кинозал" tvg-id="934" tvg-logo="http://epg.one/img/934.png" tvg-rec="3",Hollywood HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/LFKFWAQ3RBAG5G/9017/index.m3u8
 #EXTINF:0 group-title="Кинозал" tvg-id="hollywood" tvg-logo="https://iptvx.one/picons/hollywood.png",Hollywood HD [V]
@@ -403,12 +359,8 @@ https://ua001.online24.pm:8443/176/video.m3u8?token=7727E661940D68A
 https://hls.peers.tv/streaming/kino24/126/vh1w/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3ODg0NzYyNjAsImlhdCI6MTc4ODM4OTg2MCwiY2lkIjo4MSwidWlkIjoxMDgxNzg3MDYxLCJyZWciOmZhbHNlLCJpcCI6MjU0OTMyMjIxOH0.9OgOkp6MOxSIyuQ3EKIyoIeUtAWUgWMNSCMUwRi2x7k
 #EXTINF:0 group-title="Кинозал" tvg-id="4466" tvg-logo="http://epg.one/img/4466.png" tvg-rec="0",KinoJam 1 HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/LFKFWAQ3RBAG5G/7260/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="kinojam1" tvg-logo="https://iptvx.one/picons/kinojam1.png" tvg-rec="0",KinoJam 1 HD [V]
-https://tvcdnpotok.com/5i1NBW_JPbtqk1_b041HNg/2039/1788408058/index.m3u8
 #EXTINF:0 group-title="Кинозал" tvg-id="4467" tvg-logo="http://epg.one/img/4467.png" tvg-rec="0",KinoJam 2 HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/LFKFWAQ3RBAG5G/7261/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="kinojam2" tvg-logo="https://iptvx.one/picons/kinojam2.png" tvg-rec="0",KinoJam 2 HD [V]
-https://tvcdnpotok.com/6rTaw5cC2_qgHBYIPwlgPg/2040/1788408109/index.m3u8
 #EXTINF:0 group-title="Кинозал" tvg-id="8921" tvg-logo="http://epg.one/img/8921.png" tvg-rec="0",Kinowood HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/LFKFWAQ3RBAG5G/31817/index.m3u8
 #EXTINF:0 group-title="Кинозал" tvg-id="" tvg-logo="https://img.catcast.tv/uploads/04092021/logos/40672-61329195ca44d.jpg",LAV-KINO [V]
@@ -601,8 +553,6 @@ https://tvcdnpotok.com/jz5ywdXCp6eTsE8Svo9NXw/2041/1788398112/index.m3u8
 https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
 #EXTINF:0 group-title="Кинозал" tvg-id="9069" tvg-logo="http://epg.one/img/9069.png" tvg-rec="0",Scream HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/LFKFWAQ3RBAG5G/20021/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="scream" tvg-logo="https://iptvx.one/picons/scream.png" tvg-rec="0",Scream HD [V]
-https://tvcdnpotok.com/VvFzMidHNpqCivz5QdSTOw/247/1788408734/index.m3u8
 #EXTINF:0 group-title="Кинозал" tvg-id="431" tvg-logo="http://epg.one/img/431.png" tvg-rec="0",Shot TV HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/LFKFWAQ3RBAG5G/20022/index.m3u8
 #EXTINF:0 group-title="Кинозал" tvg-id="8792" tvg-logo="http://epg.one/img/8792.png" tvg-rec="0",StrahTV Horror [E]
@@ -770,27 +720,27 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/LFKFWAQ3RBAG5G/31448/ind
 #EXTINF:0 group-title="Кинозал" tvg-id="127" tvg-logo="http://epg.one/img/127.png" tvg-rec="3",Viju TV1000 HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/LFKFWAQ3RBAG5G/6387/index.m3u8
 #EXTINF:0 group-title="Кинозал" tvg-id="tv1000" tvg-logo="https://iptvx.one/picons/tv1000.png",Viju TV1000 HD [V]
-http://smotrim.org/000003747.m3u8
+http://stream.mcquack.net/100/index.m3u8
 #EXTINF:0 group-title="Кинозал" tvg-id="125" tvg-logo="http://epg.one/img/125.png" tvg-rec="3",Viju TV1000 Action HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/LFKFWAQ3RBAG5G/6386/index.m3u8
 #EXTINF:0 group-title="Кинозал" tvg-id="tv1000-action" tvg-logo="https://iptvx.one/picons/tv1000-action.png",Viju TV1000 Action HD [V]
-http://smotrim.org/000003910.m3u8
+https://stream8.cinerama.uz/1225/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="Кинозал" tvg-id="267" tvg-logo="http://epg.one/img/267.png" tvg-rec="0",Viju TV1000 Русское HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/LFKFWAQ3RBAG5G/6388/index.m3u8
 #EXTINF:0 group-title="Кинозал" tvg-id="tv1000-russkoe-kino" tvg-logo="https://iptvx.one/picons/tv1000-russkoe-kino.png",Viju TV1000 Русское HD [V]
-http://smotrim.org/000003748.m3u8
+https://stream8.cinerama.uz/1058/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="Кинозал" tvg-id="1011" tvg-logo="http://epg.one/img/1011.png" tvg-rec="7",Viju+ Comedy HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/LFKFWAQ3RBAG5G/200/index.m3u8
 #EXTINF:0 group-title="Кинозал" tvg-id="vip-comedy" tvg-logo="https://iptvx.one/picons/tv1000-russkoe-kino.png",Viju+ Comedy HD [V]
-http://smotrim.org/000000870.m3u8
+http://stream.mcquack.net/201/index.m3u8
 #EXTINF:0 group-title="Кинозал" tvg-id="1012" tvg-logo="http://epg.one/img/1012.png" tvg-rec="3",Viju+ Megahit HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/LFKFWAQ3RBAG5G/5081/index.m3u8
 #EXTINF:0 group-title="Кинозал" tvg-id="vip-megahit" tvg-logo="https://iptvx.one/picons/vip-megahit.png",Viju+ Megahit HD [V]
-http://smotrim.org/000000869.m3u8
+http://stream.mcquack.net/200/index.m3u8
 #EXTINF:0 group-title="Кинозал" tvg-id="1013" tvg-logo="http://epg.one/img/1013.png" tvg-rec="3",Viju+ Premiere HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/LFKFWAQ3RBAG5G/5079/index.m3u8
 #EXTINF:0 group-title="Кинозал" tvg-id="vip-premiere" tvg-logo="https://iptvx.one/picons/vip-premiere.png",Viju+ Premiere HD [V]
-http://smotrim.org/000000868.m3u8
+http://stream.mcquack.net/202/index.m3u8
 #EXTINF:0 group-title="Кинозал" tvg-id="6138" tvg-logo="http://epg.one/img/6138.png" tvg-rec="0",Yosso TV 4K [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/LFKFWAQ3RBAG5G/16153/index.m3u8
 #EXTINF:0 group-title="Кинозал" tvg-id="8931" tvg-logo="http://epg.one/img/8931.png" tvg-rec="0",Yosso TV 4K HDR [E]
@@ -860,7 +810,7 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/LFKFWAQ3RBAG5G/31693/ind
 #EXTINF:0 group-title="Кинозал" tvg-id="2832" tvg-logo="http://epg.one/img/2832.png" tvg-rec="3",Блокбастер HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/LFKFWAQ3RBAG5G/9087/index.m3u8
 #EXTINF:0 group-title="Кинозал" tvg-id="blokbaster" tvg-logo="https://iptvx.one/picons/blokbaster.png",Блокбастер [V]
-https://tvcdnpotok.com/SXmxv31PG21DnVV46WyaSA/249/1788411683/index.m3u8
+http://stream.mcquack.net/364/index.m3u8
 #EXTINF:0 group-title="Кинозал" tvg-id="" tvg-logo="https://ritsatv.ru/files/poster/original/901076.webp",Видеокассета VHS HD [V]
 https://live20.bozztv.com/akamaissh101/ssh101/livevhs90e/playlist.m3u8
 #EXTINF:0 group-title="Кинозал" tvg-id="11344" tvg-logo="http://epg.one/img/11344.png" tvg-rec="0",Госфильмофонд. Машина времени HD [E]
@@ -872,7 +822,7 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/LFKFWAQ3RBAG5G/5054/inde
 #EXTINF:0 group-title="Кинозал" tvg-id="2020" tvg-logo="http://epg.one/img/2020.png" tvg-rec="7",Дом Кино Премиум HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/LFKFWAQ3RBAG5G/911/index.m3u8
 #EXTINF:0 group-title="Кинозал" tvg-id="domkino-premium" tvg-logo="https://iptvx.one/picons/domkino-premium.png",Дом Кино Премиум HD [V]
-https://tvcdnpotok.com/XFsH20mcH_UL6HI1_VMUXQ/187/1788417651/index.m3u8
+http://stream.mcquack.net/108/index.m3u8
 #EXTINF:0 group-title="Кинозал" tvg-id="352" tvg-logo="http://epg.one/img/352.png" tvg-rec="3",Еврокино HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/LFKFWAQ3RBAG5G/9078/index.m3u8
 #EXTINF:0 group-title="Кинозал" tvg-id="evrokino" tvg-logo="https://iptvx.one/picons/eurokino.png",Еврокино HD [V]
