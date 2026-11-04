@@ -153,41 +153,41 @@ http://cdn-01.bonus-tv.ru/u/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 group-title="Кинозал" tvg-id="312-kino" tvg-logo="https://iptvx.one/picons/312-kino.png",312 Кино [V]
 http://176.126.166.43:1935/live/312kino/playlist.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="4748" tvg-logo="http://epg.one/img/4748.png" tvg-rec="7",BCU Action HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="bcu-action" tvg-logo="http://epg.one/img/4748.png" tvg-rec="7",BCU Action HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/11027/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="4749" tvg-logo="http://epg.one/img/4749.png" tvg-rec="7",BCU Catastrophe HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="bcu-catastrophe" tvg-logo="http://epg.one/img/4749.png" tvg-rec="7",BCU Catastrophe HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/11028/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="4750" tvg-logo="http://epg.one/img/4750.png" tvg-rec="7",BCU Cinema HDR [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="bcu-cinema" tvg-logo="http://epg.one/img/4750.png" tvg-rec="7",BCU Cinema HDR [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/11029/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="4751" tvg-logo="http://epg.one/img/4751.png" tvg-rec="7",BCU Cinema+ HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="bcu-cinemaplus" tvg-logo="http://epg.one/img/4751.png" tvg-rec="7",BCU Cinema+ HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/11030/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="5515" tvg-logo="http://epg.one/img/5515.png" tvg-rec="0",BCU Comedy HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="bcu-comedy" tvg-logo="http://epg.one/img/5515.png" tvg-rec="0",BCU Comedy HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/15026/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="8963" tvg-logo="http://epg.one/img/8963.png" tvg-rec="7",BCU Comedy HDR [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="bcu-comedy" tvg-logo="http://epg.one/img/8963.png" tvg-rec="7",BCU Comedy HDR [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/11031/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="6176" tvg-logo="http://epg.one/img/6176.png" tvg-rec="0",BCU Cosmo HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="bcu-cosmo" tvg-logo="http://epg.one/img/6176.png" tvg-rec="0",BCU Cosmo HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/17021/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="4769" tvg-logo="http://epg.one/img/4769.png" tvg-rec="7",BCU Criminal HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="bcu-criminal" tvg-logo="http://epg.one/img/4769.png" tvg-rec="7",BCU Criminal HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/11048/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="4753" tvg-logo="http://epg.one/img/4753.png" tvg-rec="7",BCU Fantastic HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="bcu-fantastic" tvg-logo="http://epg.one/img/4753.png" tvg-rec="7",BCU Fantastic HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/11032/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="4754" tvg-logo="http://epg.one/img/4754.png" tvg-rec="7",BCU FilMystic HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="bcu-filmystic" tvg-logo="http://epg.one/img/4754.png" tvg-rec="7",BCU FilMystic HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/11033/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="4755" tvg-logo="http://epg.one/img/4755.png" tvg-rec="7",BCU History HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="bcu-history" tvg-logo="http://epg.one/img/4755.png" tvg-rec="7",BCU History HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/11034/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="4758" tvg-logo="http://epg.one/img/4758.png" tvg-rec="7",BCU Kinorating HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="bcu-kinorating" tvg-logo="http://epg.one/img/4758.png" tvg-rec="7",BCU Kinorating HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/11037/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="5514" tvg-logo="http://epg.one/img/5514.png" tvg-rec="0",BCU Marvel HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="bcu-marvel" tvg-logo="http://epg.one/img/5514.png" tvg-rec="0",BCU Marvel HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/15025/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="8964" tvg-logo="http://epg.one/img/8964.png" tvg-rec="7",BCU Marvel HDR [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="bcu-marvel-4k-hdr" tvg-logo="http://epg.one/img/8964.png" tvg-rec="7",BCU Marvel HDR [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/11038/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="4764" tvg-logo="http://epg.one/img/4764.png" tvg-rec="7",BCU Media HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="bcu-media" tvg-logo="http://epg.one/img/4764.png" tvg-rec="7",BCU Media HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/11043/index.m3u8
 #EXTINF:0 group-title="Кинозал" tvg-id="5513" tvg-logo="http://epg.one/img/5513.png" tvg-rec="0",BCU Media HD OLD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/15024/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="4760" tvg-logo="http://epg.one/img/4760.png" tvg-rec="7",BCU Premiere HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="bcu-premiere" tvg-logo="http://epg.one/img/4760.png" tvg-rec="7",BCU Premiere HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/11039/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="5561" tvg-logo="http://epg.one/img/5561.png" tvg-rec="0",BCU Premiere Ultra 4K [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="bcu-premiere-4k" tvg-logo="http://epg.one/img/5561.png" tvg-rec="0",BCU Premiere Ultra 4K [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/15023/index.m3u8
 #EXTINF:0 group-title="Кинозал" tvg-id="4736" tvg-logo="http://epg.one/img/4736.png" tvg-rec="7",BCU Premiere 1 HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/11015/index.m3u8
@@ -195,91 +195,91 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/11015/ind
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/11016/index.m3u8
 #EXTINF:0 group-title="Кинозал" tvg-id="4738" tvg-logo="http://epg.one/img/4738.png" tvg-rec="7",BCU Premiere 3 HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/11017/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="9302" tvg-logo="http://epg.one/img/9302.png" tvg-rec="0",BCU Premium Kinozakaz+ 4K HDR [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="bcu-premium-kinozakaz-4k-hdr" tvg-logo="http://epg.one/img/9302.png" tvg-rec="0",BCU Premium Kinozakaz+ 4K HDR [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/31547/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="9304" tvg-logo="http://epg.one/img/9304.png" tvg-rec="0",BCU Premium Premiere+ 4K HDR [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="bcu-premium-premiere-plus-4k-hdr" tvg-logo="http://epg.one/img/9304.png" tvg-rec="0",BCU Premium Premiere+ 4K HDR [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/31549/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="6131" tvg-logo="http://epg.one/img/6131.png" tvg-rec="0",BCU Reality HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="bcu-reality" tvg-logo="http://epg.one/img/6131.png" tvg-rec="0",BCU Reality HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/16082/index.m3u8
 #EXTINF:0 group-title="Кинозал" tvg-id="6067" tvg-logo="http://epg.one/img/6067.png" tvg-rec="0",BCU Reality OLD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/16083/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="4761" tvg-logo="http://epg.one/img/4761.png" tvg-rec="7",BCU Romantic HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="bcu-romantic" tvg-logo="http://epg.one/img/4761.png" tvg-rec="7",BCU Romantic HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/11040/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="4762" tvg-logo="http://epg.one/img/4762.png" tvg-rec="7",BCU Russian HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="bcu-russian" tvg-logo="http://epg.one/img/4762.png" tvg-rec="7",BCU Russian HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/11041/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="4765" tvg-logo="http://epg.one/img/4765.png" tvg-rec="7",BCU Stars HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="bcu-stars" tvg-logo="http://epg.one/img/4765.png" tvg-rec="7",BCU Stars HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/11044/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="6175" tvg-logo="http://epg.one/img/6175.png" tvg-rec="0",BCU Survival HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="bcu-survival" tvg-logo="http://epg.one/img/6175.png" tvg-rec="0",BCU Survival HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/17019/index.m3u8
 #EXTINF:0 group-title="Кинозал" tvg-id="6164" tvg-logo="http://epg.one/img/6164.png" tvg-rec="0",BCU Survival OLD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/17020/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="6198" tvg-logo="http://epg.one/img/6198.png" tvg-rec="0",BCU TruMotion HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="bcu-trumotion" tvg-logo="http://epg.one/img/6198.png" tvg-rec="0",BCU TruMotion HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/17054/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="4766" tvg-logo="http://epg.one/img/4766.png" tvg-rec="7",BCU Ultra 4K [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="bcu-ultra4k" tvg-logo="http://epg.one/img/4766.png" tvg-rec="7",BCU Ultra 4K [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/11045/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="4763" tvg-logo="http://epg.one/img/4763.png" tvg-rec="7",BCU VHS HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="bcu-vhs" tvg-logo="http://epg.one/img/4763.png" tvg-rec="7",BCU VHS HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/11042/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="4747" tvg-logo="http://epg.one/img/4747.png" tvg-rec="7",BCU СССР HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="bcu-sssr" tvg-logo="http://epg.one/img/4747.png" tvg-rec="7",BCU СССР HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/11026/index.m3u8
 #EXTINF:0 group-title="Кинозал" tvg-id="1395" tvg-logo="http://epg.one/img/1395.png" tvg-rec="3",Bollywood HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/239/index.m3u8
 #EXTINF:0 group-title="Кинозал" tvg-id="bollywood-hd" tvg-logo="https://iptvx.one/picons/bollywood-hd.png",Bollywood HD [V]
-https://s7.iptv-24.net/1444/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="8768" tvg-logo="http://epg.one/img/8768.png" tvg-rec="0",BOX Apocalypse HD [E]
+https://tvcdnpotok.com/184/index.m3u8?wmsAuthSign=bd005c62ec0f8b3f45fe92618dade018-1788427301-812i39i371i97
+#EXTINF:0 group-title="Кинозал" tvg-id="box-apocalipse" tvg-logo="http://epg.one/img/8768.png" tvg-rec="0",BOX Apocalypse HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/31655/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="6834" tvg-logo="http://epg.one/img/6834.png" tvg-rec="0",BOX Cyber HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="box-cyber" tvg-logo="http://epg.one/img/6834.png" tvg-rec="0",BOX Cyber HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/19421/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="7490" tvg-logo="http://epg.one/img/7490.png" tvg-rec="0",BOX Fantasy HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="box-fantasy" tvg-logo="http://epg.one/img/7490.png" tvg-rec="0",BOX Fantasy HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/20156/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="6696" tvg-logo="http://epg.one/img/6696.png" tvg-rec="0",BOX Franchise HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="box-franchise" tvg-logo="http://epg.one/img/6696.png" tvg-rec="0",BOX Franchise HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/19274/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="6699" tvg-logo="http://epg.one/img/6699.png" tvg-rec="0",BOX Gangster HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="box-gangster" tvg-logo="http://epg.one/img/6699.png" tvg-rec="0",BOX Gangster HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/19277/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="7488" tvg-logo="http://epg.one/img/7488.png" tvg-rec="0",BOX Ghost HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="box-ghost" tvg-logo="http://epg.one/img/7488.png" tvg-rec="0",BOX Ghost HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/20154/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="6697" tvg-logo="http://epg.one/img/6697.png" tvg-rec="0",BOX Hybrid HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="box-hybrid" tvg-logo="http://epg.one/img/6697.png" tvg-rec="0",BOX Hybrid HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/19275/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="6700" tvg-logo="http://epg.one/img/6700.png" tvg-rec="0",BOX Oscar HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="box-oscar" tvg-logo="http://epg.one/img/6700.png" tvg-rec="0",BOX Oscar HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/19278/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="7491" tvg-logo="http://epg.one/img/7491.png" tvg-rec="0",BOX Premiere 4K [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="box-premiere-plus-4khdr" tvg-logo="http://epg.one/img/7491.png" tvg-rec="0",BOX Premiere 4K [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/20157/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="7492" tvg-logo="http://epg.one/img/7492.png" tvg-rec="0",BOX Remast 4K UHD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="box-remast-4k" tvg-logo="http://epg.one/img/7492.png" tvg-rec="0",BOX Remast 4K UHD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/20158/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="6705" tvg-logo="http://epg.one/img/6705.png" tvg-rec="0",BOX Spy HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="box-spy" tvg-logo="http://epg.one/img/6705.png" tvg-rec="0",BOX Spy HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/19285/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="6832" tvg-logo="http://epg.one/img/6832.png" tvg-rec="0",BOX Western HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="box-western" tvg-logo="http://epg.one/img/6832.png" tvg-rec="0",BOX Western HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/19419/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="6833" tvg-logo="http://epg.one/img/6833.png" tvg-rec="0",BOX Zombie HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="box-zombie" tvg-logo="http://epg.one/img/6833.png" tvg-rec="0",BOX Zombie HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/19420/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="9300" tvg-logo="http://epg.one/img/9300.png" tvg-rec="0",BOX СССР 4K [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="box-sssr-4k" tvg-logo="http://epg.one/img/9300.png" tvg-rec="0",BOX СССР 4K [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/31625/index.m3u8
 #EXTINF:0 group-title="Кинозал" tvg-id="2754" tvg-logo="http://epg.one/img/2754.png" tvg-rec="0",Cinema HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/19233/index.m3u8
 #EXTINF:0 group-title="Кинозал" tvg-id="cinema-ru" tvg-logo="https://iptvx.one/picons/cinema-ru.png",Cinema [V]
-https://stream8.cinerama.uz/1227/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="4682" tvg-logo="http://epg.one/img/4682.png" tvg-rec="7",CineMan HD [E]
+https://tvcdnpotok.com/104/index.m3u8?wmsAuthSign=15719b6a29dbfdd55aadc0e1b75970bf-1788427376-812i39i371i97
+#EXTINF:0 group-title="Кинозал" tvg-id="cineman" tvg-logo="http://epg.one/img/4682.png" tvg-rec="7",CineMan HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/11004/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="4684" tvg-logo="http://epg.one/img/4684.png" tvg-rec="7",CineMan Action HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="cineman-action" tvg-logo="http://epg.one/img/4684.png" tvg-rec="7",CineMan Action HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/11006/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="4687" tvg-logo="http://epg.one/img/4687.png" tvg-rec="7",CineMan Marvel HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="cineman-marvel" tvg-logo="http://epg.one/img/4687.png" tvg-rec="7",CineMan Marvel HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/11009/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="7485" tvg-logo="http://epg.one/img/7485.png" tvg-rec="3",CineMan Premium HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="cineman-premium" tvg-logo="http://epg.one/img/7485.png" tvg-rec="3",CineMan Premium HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/20112/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="4685" tvg-logo="http://epg.one/img/4685.png" tvg-rec="7",CineMan Thriller HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="cineman-thriller" tvg-logo="http://epg.one/img/4685.png" tvg-rec="7",CineMan Thriller HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/11007/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="4683" tvg-logo="http://epg.one/img/4683.png" tvg-rec="7",CineMan Top HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="cineman-top" tvg-logo="http://epg.one/img/4683.png" tvg-rec="7",CineMan Top HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/11005/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="4690" tvg-logo="http://epg.one/img/4690.png" tvg-rec="7",CineMan VHS HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="cineman-vhs" tvg-logo="http://epg.one/img/4690.png" tvg-rec="7",CineMan VHS HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/11012/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="5585" tvg-logo="http://epg.one/img/5585.png" tvg-rec="0",CineMan Катастрофы HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="cineman-katastrofy" tvg-logo="http://epg.one/img/5585.png" tvg-rec="0",CineMan Катастрофы HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/15106/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="4689" tvg-logo="http://epg.one/img/4689.png" tvg-rec="7",CineMan Комедия HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="cineman-comedy" tvg-logo="http://epg.one/img/4689.png" tvg-rec="7",CineMan Комедия HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/11011/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="4686" tvg-logo="http://epg.one/img/4686.png" tvg-rec="7",CineMan Мелодрама HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="cineman-melodrama" tvg-logo="http://epg.one/img/4686.png" tvg-rec="7",CineMan Мелодрама HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/11008/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="4691" tvg-logo="http://epg.one/img/4691.png" tvg-rec="7",CineMan РуКино HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="cineman-rukino" tvg-logo="http://epg.one/img/4691.png" tvg-rec="7",CineMan РуКино HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/11013/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="4688" tvg-logo="http://epg.one/img/4688.png" tvg-rec="7",CineMan Ужасы HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="cineman-uzhasy" tvg-logo="http://epg.one/img/4688.png" tvg-rec="7",CineMan Ужасы HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/11010/index.m3u8
 #EXTINF:0 group-title="Кинозал" tvg-id="6392" tvg-logo="http://epg.one/img/6392.png" tvg-rec="0",Citrus History HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/18139/index.m3u8
@@ -289,25 +289,25 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/16089/ind
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/16152/index.m3u8
 #EXTINF:0 group-title="Кинозал" tvg-id="6007" tvg-logo="http://epg.one/img/6007.png" tvg-rec="0",Citrus Marvel HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/16051/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="6210" tvg-logo="http://epg.one/img/6210.png" tvg-rec="0",Eye Criminal [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="eye-criminal" tvg-logo="http://epg.one/img/6210.png" tvg-rec="0",Eye Criminal [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/17067/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="7942" tvg-logo="http://epg.one/img/7942.png" tvg-rec="0",Eye Cyber [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="eye-cyber" tvg-logo="http://epg.one/img/7942.png" tvg-rec="0",Eye Cyber [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/20220/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="7911" tvg-logo="http://epg.one/img/7911.png" tvg-rec="0",Eye Drive [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="eye-drive" tvg-logo="http://epg.one/img/7911.png" tvg-rec="0",Eye Drive [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/20219/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="7908" tvg-logo="http://epg.one/img/7908.png" tvg-rec="0",Eye Family [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="eye-family" tvg-logo="http://epg.one/img/7908.png" tvg-rec="0",Eye Family [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/20216/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="6209" tvg-logo="http://epg.one/img/6209.png" tvg-rec="0",Eye Frozen [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="eye-frozen" tvg-logo="http://epg.one/img/6209.png" tvg-rec="0",Eye Frozen [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/17066/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="7909" tvg-logo="http://epg.one/img/7909.png" tvg-rec="0",Eye History [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="eye-history" tvg-logo="http://epg.one/img/7909.png" tvg-rec="0",Eye History [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/20217/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="6207" tvg-logo="http://epg.one/img/6207.png" tvg-rec="0",Eye Media [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="eye-media" tvg-logo="http://epg.one/img/6207.png" tvg-rec="0",Eye Media [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/17064/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="6211" tvg-logo="http://epg.one/img/6211.png" tvg-rec="0",Eye Modern [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="eye-modern" tvg-logo="http://epg.one/img/6211.png" tvg-rec="0",Eye Modern [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/17068/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="6208" tvg-logo="http://epg.one/img/6208.png" tvg-rec="0",Eye Oscar [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="eye-oscar" tvg-logo="http://epg.one/img/6208.png" tvg-rec="0",Eye Oscar [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/17065/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="7910" tvg-logo="http://epg.one/img/7910.png" tvg-rec="0",Eye Western [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="eye-western" tvg-logo="http://epg.one/img/7910.png" tvg-rec="0",Eye Western [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/20218/index.m3u8
 #EXTINF:0 group-title="Кинозал" tvg-id="2359" tvg-logo="http://epg.one/img/2359.png" tvg-rec="0",FAN HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/16021/index.m3u8
@@ -325,31 +325,31 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/20025/ind
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/10060/index.m3u8
 #EXTINF:0 group-title="Кинозал" tvg-id="flixsnip" tvg-logo="https://iptvx.one/picons/flixsnip.png",FlixSnip HD [V]
 https://rogoproxy.xyz/rodnoetv.com/tv/000004466/mono.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="6719" tvg-logo="http://epg.one/img/6719.png" tvg-rec="0",Fresh Adventure HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="fresh-adventure" tvg-logo="http://epg.one/img/6719.png" tvg-rec="0",Fresh Adventure HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/19297/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="6105" tvg-logo="http://epg.one/img/6105.png" tvg-rec="0",Fresh Cinema HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="fresh-cinema" tvg-logo="http://epg.one/img/6105.png" tvg-rec="0",Fresh Cinema HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/19287/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="6711" tvg-logo="http://epg.one/img/6711.png" tvg-rec="0",Fresh Comedy HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="fresh-comedy" tvg-logo="http://epg.one/img/6711.png" tvg-rec="0",Fresh Comedy HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/19289/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="6713" tvg-logo="http://epg.one/img/6713.png" tvg-rec="0",Fresh Family HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="fresh-family" tvg-logo="http://epg.one/img/6713.png" tvg-rec="0",Fresh Family HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/19291/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="6716" tvg-logo="http://epg.one/img/6716.png" tvg-rec="0",Fresh Fantastic HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="fresh-fantastic" tvg-logo="http://epg.one/img/6716.png" tvg-rec="0",Fresh Fantastic HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/19294/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="6718" tvg-logo="http://epg.one/img/6718.png" tvg-rec="0",Fresh Horror HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="fresh-horror" tvg-logo="http://epg.one/img/6718.png" tvg-rec="0",Fresh Horror HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/19296/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="6712" tvg-logo="http://epg.one/img/6712.png" tvg-rec="0",Fresh Premiere HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="fresh-premiere" tvg-logo="http://epg.one/img/6712.png" tvg-rec="0",Fresh Premiere HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/19290/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="6714" tvg-logo="http://epg.one/img/6714.png" tvg-rec="0",Fresh Rating HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="fresh-rating" tvg-logo="http://epg.one/img/6714.png" tvg-rec="0",Fresh Rating HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/19292/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="6720" tvg-logo="http://epg.one/img/6720.png" tvg-rec="0",Fresh Romantic HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="fresh-romatic" tvg-logo="http://epg.one/img/6720.png" tvg-rec="0",Fresh Romantic HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/19298/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="6721" tvg-logo="http://epg.one/img/6721.png" tvg-rec="0",Fresh Russian HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="fresh-russian" tvg-logo="http://epg.one/img/6721.png" tvg-rec="0",Fresh Russian HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/19299/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="6723" tvg-logo="http://epg.one/img/6723.png" tvg-rec="0",Fresh Soviet HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="fresh-soviet" tvg-logo="http://epg.one/img/6723.png" tvg-rec="0",Fresh Soviet HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/19301/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="6722" tvg-logo="http://epg.one/img/6722.png" tvg-rec="0",Fresh Thriller HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="fresh-thriller" tvg-logo="http://epg.one/img/6722.png" tvg-rec="0",Fresh Thriller HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/19300/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="6715" tvg-logo="http://epg.one/img/6715.png" tvg-rec="0",Fresh VHS HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="fresh-vhs" tvg-logo="http://epg.one/img/6715.png" tvg-rec="0",Fresh VHS HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/19293/index.m3u8
 #EXTINF:0 group-title="Кинозал" tvg-id="934" tvg-logo="http://epg.one/img/934.png" tvg-rec="3",Hollywood HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/9017/index.m3u8
@@ -359,165 +359,169 @@ https://ua001.online24.pm:8443/176/video.m3u8?token=7727E661940D68A
 https://hls.peers.tv/streaming/kino24/126/vh1w/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3ODg0NzYyNjAsImlhdCI6MTc4ODM4OTg2MCwiY2lkIjo4MSwidWlkIjoxMDgxNzg3MDYxLCJyZWciOmZhbHNlLCJpcCI6MjU0OTMyMjIxOH0.9OgOkp6MOxSIyuQ3EKIyoIeUtAWUgWMNSCMUwRi2x7k
 #EXTINF:0 group-title="Кинозал" tvg-id="4466" tvg-logo="http://epg.one/img/4466.png" tvg-rec="0",KinoJam 1 HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/7260/index.m3u8
+#EXTINF:0 group-title="Кинозал" tvg-id="kinojam1" tvg-logo="https://iptvx.one/picons/kinojam1.png" tvg-rec="0",KinoJam 1 HD [V]
+https://tvcdnpotok.com/5i1NBW_JPbtqk1_b041HNg/2039/1788408058/index.m3u8
 #EXTINF:0 group-title="Кинозал" tvg-id="4467" tvg-logo="http://epg.one/img/4467.png" tvg-rec="0",KinoJam 2 HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/7261/index.m3u8
+#EXTINF:0 group-title="Кинозал" tvg-id="kinojam2" tvg-logo="https://iptvx.one/picons/kinojam2.png" tvg-rec="0",KinoJam 2 HD [V]
+https://tvcdnpotok.com/6rTaw5cC2_qgHBYIPwlgPg/2040/1788408109/index.m3u8
 #EXTINF:0 group-title="Кинозал" tvg-id="8921" tvg-logo="http://epg.one/img/8921.png" tvg-rec="0",Kinowood HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/31817/index.m3u8
 #EXTINF:0 group-title="Кинозал" tvg-id="" tvg-logo="https://img.catcast.tv/uploads/04092021/logos/40672-61329195ca44d.jpg",LAV-KINO [V]
 https://fl1004.bozztv.com/ushba32/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="7941" tvg-logo="http://epg.one/img/7941.png" tvg-rec="0",Liberty XX Век 4K [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="liberty-xxvek" tvg-logo="http://epg.one/img/7941.png" tvg-rec="0",Liberty XX Век 4K [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/20173/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="8927" tvg-logo="http://epg.one/img/8927.png" tvg-rec="0",Liberty Аванпост 4K [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="liberty-avanpost" tvg-logo="http://epg.one/img/8927.png" tvg-rec="0",Liberty Аванпост 4K [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/31664/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="5522" tvg-logo="http://epg.one/img/5522.png" tvg-rec="0",Liberty Боевики FHD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="liberty-boeviki" tvg-logo="http://epg.one/img/5522.png" tvg-rec="0",Liberty Боевики FHD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/15096/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="6340" tvg-logo="http://epg.one/img/6340.png" tvg-rec="0",Liberty Индия 4K [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="liberty-india" tvg-logo="http://epg.one/img/6340.png" tvg-rec="0",Liberty Индия 4K [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/18160/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="5589" tvg-logo="http://epg.one/img/5589.png" tvg-rec="0",Liberty Кино Микс 4K [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="liberty-kinomiks" tvg-logo="http://epg.one/img/5589.png" tvg-rec="0",Liberty Кино Микс 4K [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/15110/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="6057" tvg-logo="http://epg.one/img/6057.png" tvg-rec="0",Liberty Комедии FHD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="liberty-komedii" tvg-logo="http://epg.one/img/6057.png" tvg-rec="0",Liberty Комедии FHD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/16054/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="8926" tvg-logo="http://epg.one/img/8926.png" tvg-rec="0",Liberty Криминал 4K [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="liberty-kriminal" tvg-logo="http://epg.one/img/8926.png" tvg-rec="0",Liberty Криминал 4K [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/31663/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="6731" tvg-logo="http://epg.one/img/6731.png" tvg-rec="0",Liberty Легенда 4K [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="liberty-legenda" tvg-logo="http://epg.one/img/6731.png" tvg-rec="0",Liberty Легенда 4K [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/19308/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="5519" tvg-logo="http://epg.one/img/5519.png" tvg-rec="0",Liberty Марвел FHD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="liberty-marvel" tvg-logo="http://epg.one/img/5519.png" tvg-rec="0",Liberty Марвел FHD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/15090/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="5521" tvg-logo="http://epg.one/img/5521.png" tvg-rec="0",Liberty Мелодрамы FHD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="liberty-melodramy" tvg-logo="http://epg.one/img/5521.png" tvg-rec="0",Liberty Мелодрамы FHD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/15095/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="6855" tvg-logo="http://epg.one/img/6855.png" tvg-rec="0",Liberty Нетфликс 4K [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="liberty-netflix" tvg-logo="http://epg.one/img/6855.png" tvg-rec="0",Liberty Нетфликс 4K [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/19402/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="6231" tvg-logo="http://epg.one/img/6231.png" tvg-rec="0",Liberty РусФильм 4K [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="liberty-rusfilm" tvg-logo="http://epg.one/img/6231.png" tvg-rec="0",Liberty РусФильм 4K [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/18046/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="6394" tvg-logo="http://epg.one/img/6394.png" tvg-rec="0",Liberty Семейный 4K [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="liberty-semejny" tvg-logo="http://epg.one/img/6394.png" tvg-rec="0",Liberty Семейный 4K [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/18178/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="6730" tvg-logo="http://epg.one/img/6730.png" tvg-rec="0",Liberty Союз 4K [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="liberty-soyuz" tvg-logo="http://epg.one/img/6730.png" tvg-rec="0",Liberty Союз 4K [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/19307/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="5518" tvg-logo="http://epg.one/img/5518.png" tvg-rec="0",Liberty Триллеры 4K [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="liberty-trillery" tvg-logo="http://epg.one/img/5518.png" tvg-rec="0",Liberty Триллеры 4K [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/15089/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="6727" tvg-logo="http://epg.one/img/6727.png" tvg-rec="0",Liberty Турк Фильм 4K [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="liberty-turkfilm" tvg-logo="http://epg.one/img/6727.png" tvg-rec="0",Liberty Турк Фильм 4K [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/19303/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="5517" tvg-logo="http://epg.one/img/5517.png" tvg-rec="0",Liberty Ужасы 4K [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="liberty-uzhasy" tvg-logo="http://epg.one/img/5517.png" tvg-rec="0",Liberty Ужасы 4K [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/15088/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="6856" tvg-logo="http://epg.one/img/6856.png" tvg-rec="0",Liberty Фантастика FHD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="liberty-fan" tvg-logo="http://epg.one/img/6856.png" tvg-rec="0",Liberty Фантастика FHD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/19403/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="6253" tvg-logo="http://epg.one/img/6253.png" tvg-rec="0",Magic Action HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="magic-action" tvg-logo="http://epg.one/img/6253.png" tvg-rec="0",Magic Action HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/18066/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="7487" tvg-logo="http://epg.one/img/7487.png" tvg-rec="0",Magic Adventure HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="magic-adventure" tvg-logo="http://epg.one/img/7487.png" tvg-rec="0",Magic Adventure HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/20141/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="6250" tvg-logo="http://epg.one/img/6250.png" tvg-rec="0",Magic Comedy HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="magic-comedy" tvg-logo="http://epg.one/img/6250.png" tvg-rec="0",Magic Comedy HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/18063/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="6337" tvg-logo="http://epg.one/img/6337.png" tvg-rec="0",Magic Family HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="magic-family" tvg-logo="http://epg.one/img/6337.png" tvg-rec="0",Magic Family HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/18170/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="6254" tvg-logo="http://epg.one/img/6254.png" tvg-rec="0",Magic Galaxy HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="magic-galaxy" tvg-logo="http://epg.one/img/6254.png" tvg-rec="0",Magic Galaxy HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/18067/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="6255" tvg-logo="http://epg.one/img/6255.png" tvg-rec="0",Magic Horror HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="magic-horror" tvg-logo="http://epg.one/img/6255.png" tvg-rec="0",Magic Horror HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/18068/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="6248" tvg-logo="http://epg.one/img/6248.png" tvg-rec="0",Magic Karate HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="magic-karate" tvg-logo="http://epg.one/img/6248.png" tvg-rec="0",Magic Karate HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/18061/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="6338" tvg-logo="http://epg.one/img/6338.png" tvg-rec="0",Magic Love HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="magic-love" tvg-logo="http://epg.one/img/6338.png" tvg-rec="0",Magic Love HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/18171/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="8754" tvg-logo="http://epg.one/img/8754.png" tvg-rec="0",Magic Russian HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="magic-russian" tvg-logo="http://epg.one/img/8754.png" tvg-rec="0",Magic Russian HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/31630/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="6252" tvg-logo="http://epg.one/img/6252.png" tvg-rec="0",Magic Thriller HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="magic-thriller" tvg-logo="http://epg.one/img/6252.png" tvg-rec="0",Magic Thriller HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/18065/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="6249" tvg-logo="http://epg.one/img/6249.png" tvg-rec="0",Magic VHS HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="magic-vhs" tvg-logo="http://epg.one/img/6249.png" tvg-rec="0",Magic VHS HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/18062/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="5122" tvg-logo="http://epg.one/img/5122.png" tvg-rec="0",MM 007 HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="minimax-007" tvg-logo="http://epg.one/img/5122.png" tvg-rec="0",MM 007 HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/13009/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="6063" tvg-logo="http://epg.one/img/6063.png" tvg-rec="0",MM Celebrity HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="minimax-celebrity" tvg-logo="http://epg.one/img/6063.png" tvg-rec="0",MM Celebrity HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/16084/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="5170" tvg-logo="http://epg.one/img/5170.png" tvg-rec="0",MM Flip UHD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="minimax-flip" tvg-logo="http://epg.one/img/5170.png" tvg-rec="0",MM Flip UHD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/13057/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="5123" tvg-logo="http://epg.one/img/5123.png" tvg-rec="0",MM Love HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="minimax-love" tvg-logo="http://epg.one/img/5123.png" tvg-rec="0",MM Love HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/13010/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="5124" tvg-logo="http://epg.one/img/5124.png" tvg-rec="0",MM NewFilm 1 HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="minimax-newfilm1" tvg-logo="http://epg.one/img/5124.png" tvg-rec="0",MM NewFilm 1 HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/13011/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="5125" tvg-logo="http://epg.one/img/5125.png" tvg-rec="0",MM NewFilm 2 HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="minimax-newfilm2" tvg-logo="http://epg.one/img/5125.png" tvg-rec="0",MM NewFilm 2 HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/13012/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="5126" tvg-logo="http://epg.one/img/5126.png" tvg-rec="0",MM NewFilm 3 HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="minimax-newfilm3" tvg-logo="http://epg.one/img/5126.png" tvg-rec="0",MM NewFilm 3 HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/13013/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="5127" tvg-logo="http://epg.one/img/5127.png" tvg-rec="0",MM NewFilm RU HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="minimax-newfilmru" tvg-logo="http://epg.one/img/5127.png" tvg-rec="0",MM NewFilm RU HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/13014/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="6413" tvg-logo="http://epg.one/img/6413.png" tvg-rec="0",MM Translation HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="minimax-translation" tvg-logo="http://epg.one/img/6413.png" tvg-rec="0",MM Translation HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/18196/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="5130" tvg-logo="http://epg.one/img/5130.png" tvg-rec="0",MM UFO HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="minimax-ufo" tvg-logo="http://epg.one/img/5130.png" tvg-rec="0",MM UFO HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/13017/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="5131" tvg-logo="http://epg.one/img/5131.png" tvg-rec="0",MM USSR 1941-1945 HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="minimax-ussr-1941-1945" tvg-logo="http://epg.one/img/5131.png" tvg-rec="0",MM USSR 1941-1945 HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/13018/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="5209" tvg-logo="http://epg.one/img/5209.png" tvg-rec="0",MM USSR Детектив HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="minimax-ussr-detektiv" tvg-logo="http://epg.one/img/5209.png" tvg-rec="0",MM USSR Детектив HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/13096/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="8001" tvg-logo="http://epg.one/img/8001.png" tvg-rec="0",MM USSR Драма HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="minimax-ussr-fantastika" tvg-logo="http://epg.one/img/8001.png" tvg-rec="0",MM USSR Драма HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/13022/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="5132" tvg-logo="http://epg.one/img/5132.png" tvg-rec="0",MM USSR Комедия HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="minimax-ussr-komedija" tvg-logo="http://epg.one/img/5132.png" tvg-rec="0",MM USSR Комедия HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/13019/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="5570" tvg-logo="http://epg.one/img/5570.png" tvg-rec="0",MM USSR Приключения HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="minimax-ussr-prikluchenija" tvg-logo="http://epg.one/img/5570.png" tvg-rec="0",MM USSR Приключения HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/13060/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="5140" tvg-logo="http://epg.one/img/5140.png" tvg-rec="0",MM Боевик Classic HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="minimax-boevik_classic" tvg-logo="http://epg.one/img/5140.png" tvg-rec="0",MM Боевик Classic HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/13027/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="5141" tvg-logo="http://epg.one/img/5141.png" tvg-rec="0",MM Боевик HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="minimax-boevik" tvg-logo="http://epg.one/img/5141.png" tvg-rec="0",MM Боевик HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/13028/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="5142" tvg-logo="http://epg.one/img/5142.png" tvg-rec="0",MM Вестерн HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="minimax-western" tvg-logo="http://epg.one/img/5142.png" tvg-rec="0",MM Вестерн HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/13029/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="5138" tvg-logo="http://epg.one/img/5138.png" tvg-rec="0",MM Грайндхаус HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="minimax-grindhouse" tvg-logo="http://epg.one/img/5138.png" tvg-rec="0",MM Грайндхаус HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/13025/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="6065" tvg-logo="http://epg.one/img/6065.png" tvg-rec="0",MM Драма HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="minimax-drama" tvg-logo="http://epg.one/img/6065.png" tvg-rec="0",MM Драма HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/16086/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="5145" tvg-logo="http://epg.one/img/5145.png" tvg-rec="0",MM Затмение HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="minimax-zatmenie" tvg-logo="http://epg.one/img/5145.png" tvg-rec="0",MM Затмение HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/13032/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="5146" tvg-logo="http://epg.one/img/5146.png" tvg-rec="0",MM История HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="minimax-istorija" tvg-logo="http://epg.one/img/5146.png" tvg-rec="0",MM История HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/13033/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="5147" tvg-logo="http://epg.one/img/5147.png" tvg-rec="0",MM Катастрофа HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="minimax-katastrofa" tvg-logo="http://epg.one/img/5147.png" tvg-rec="0",MM Катастрофа HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/13034/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="5149" tvg-logo="http://epg.one/img/5149.png" tvg-rec="0",MM Киберпанк HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="minimax-kiberpunk" tvg-logo="http://epg.one/img/5149.png" tvg-rec="0",MM Киберпанк HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/13036/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="8748" tvg-logo="http://epg.one/img/8748.png" tvg-rec="0",MM Кинофестиваль HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="minimax-kinofestival" tvg-logo="http://epg.one/img/8748.png" tvg-rec="0",MM Кинофестиваль HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/31621/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="5150" tvg-logo="http://epg.one/img/5150.png" tvg-rec="0",MM Комедия Classic HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="minimax-comedy_classic" tvg-logo="http://epg.one/img/5150.png" tvg-rec="0",MM Комедия Classic HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/13037/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="5151" tvg-logo="http://epg.one/img/5151.png" tvg-rec="0",MM Комедия HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="minimax-comedy" tvg-logo="http://epg.one/img/5151.png" tvg-rec="0",MM Комедия HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/13038/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="5152" tvg-logo="http://epg.one/img/5152.png" tvg-rec="0",MM Криминал HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="minimax-kriminal" tvg-logo="http://epg.one/img/5152.png" tvg-rec="0",MM Криминал HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/13039/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="5154" tvg-logo="http://epg.one/img/5154.png" tvg-rec="0",MM Кунг-Фу HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="minimax-kungfu" tvg-logo="http://epg.one/img/5154.png" tvg-rec="0",MM Кунг-Фу HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/13041/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="5158" tvg-logo="http://epg.one/img/5158.png" tvg-rec="0",MM Нуар HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="minimax-nuar" tvg-logo="http://epg.one/img/5158.png" tvg-rec="0",MM Нуар HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/13045/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="5160" tvg-logo="http://epg.one/img/5160.png" tvg-rec="0",MM Погружение HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="minimax-pogrujenie" tvg-logo="http://epg.one/img/5160.png" tvg-rec="0",MM Погружение HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/13047/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="5161" tvg-logo="http://epg.one/img/5161.png" tvg-rec="0",MM Приключения HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="minimax-prikluchenija" tvg-logo="http://epg.one/img/5161.png" tvg-rec="0",MM Приключения HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/13048/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="5163" tvg-logo="http://epg.one/img/5163.png" tvg-rec="0",MM Роскино HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="minimax-roskino" tvg-logo="http://epg.one/img/5163.png" tvg-rec="0",MM Роскино HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/13050/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="5210" tvg-logo="http://epg.one/img/5210.png" tvg-rec="0",MM Семейный 1 HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="minimax-family1" tvg-logo="http://epg.one/img/5210.png" tvg-rec="0",MM Семейный 1 HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/13097/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="5211" tvg-logo="http://epg.one/img/5211.png" tvg-rec="0",MM Семейный 2 HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="minimax-family2" tvg-logo="http://epg.one/img/5211.png" tvg-rec="0",MM Семейный 2 HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/13098/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="5174" tvg-logo="http://epg.one/img/5174.png" tvg-rec="0",MM Синематограф HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="minimax-sinematograf" tvg-logo="http://epg.one/img/5174.png" tvg-rec="0",MM Синематограф HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/13061/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="5166" tvg-logo="http://epg.one/img/5166.png" tvg-rec="0",MM Скорость HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="minimax-skorost" tvg-logo="http://epg.one/img/5166.png" tvg-rec="0",MM Скорость HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/13053/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="5167" tvg-logo="http://epg.one/img/5167.png" tvg-rec="0",MM Спорт HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="minimax-sport" tvg-logo="http://epg.one/img/5167.png" tvg-rec="0",MM Спорт HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/13054/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="5168" tvg-logo="http://epg.one/img/5168.png" tvg-rec="0",MM Стивен Кинг HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="minimax-st-king" tvg-logo="http://epg.one/img/5168.png" tvg-rec="0",MM Стивен Кинг HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/13055/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="5169" tvg-logo="http://epg.one/img/5169.png" tvg-rec="0",MM Супергерои HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="minimax-supergeroi" tvg-logo="http://epg.one/img/5169.png" tvg-rec="0",MM Супергерои HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/13056/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="5171" tvg-logo="http://epg.one/img/5171.png" tvg-rec="0",MM Триллер HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="minimax-triller" tvg-logo="http://epg.one/img/5171.png" tvg-rec="0",MM Триллер HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/13058/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="5172" tvg-logo="http://epg.one/img/5172.png" tvg-rec="0",MM Ужастик HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="minimax-ujastik" tvg-logo="http://epg.one/img/5172.png" tvg-rec="0",MM Ужастик HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/13059/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="5215" tvg-logo="http://epg.one/img/5215.png" tvg-rec="0",MM Ужасы Classic HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="minimax-ujasi-classic" tvg-logo="http://epg.one/img/5215.png" tvg-rec="0",MM Ужасы Classic HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/14128/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="5212" tvg-logo="http://epg.one/img/5212.png" tvg-rec="0",MM Ужасы HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="minimax-ujasi" tvg-logo="http://epg.one/img/5212.png" tvg-rec="0",MM Ужасы HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/13099/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="5175" tvg-logo="http://epg.one/img/5175.png" tvg-rec="0",MM Фантастика HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="minimax-fantastika" tvg-logo="http://epg.one/img/5175.png" tvg-rec="0",MM Фантастика HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/13062/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="5176" tvg-logo="http://epg.one/img/5176.png" tvg-rec="0",MM Фобия HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="minimax-fobija" tvg-logo="http://epg.one/img/5176.png" tvg-rec="0",MM Фобия HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/13063/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="6140" tvg-logo="http://epg.one/img/6140.png" tvg-rec="0",MS Magic 4K [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="minimax-ms-magic-4k" tvg-logo="http://epg.one/img/6140.png" tvg-rec="0",MS Magic 4K [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/16143/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="5595" tvg-logo="http://epg.one/img/5595.png" tvg-rec="0",MS Young Blood HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="minimax-ms-young-blood" tvg-logo="http://epg.one/img/5595.png" tvg-rec="0",MS Young Blood HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/16147/index.m3u8
 #EXTINF:0 group-title="Кинозал" tvg-id="104" tvg-logo="http://epg.one/img/104.png" tvg-rec="0",MYTV HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/19407/index.m3u8
@@ -527,23 +531,23 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/19408/ind
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/19411/index.m3u8
 #EXTINF:0 group-title="Кинозал" tvg-id="107" tvg-logo="http://epg.one/img/107.png" tvg-rec="0",MYTV HIT HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/19410/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="6836" tvg-logo="http://epg.one/img/6836.png" tvg-rec="0",PG Insomnia HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="insomnia-hd" tvg-logo="http://epg.one/img/6836.png" tvg-rec="0",PG Insomnia HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/19398/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="4725" tvg-logo="http://epg.one/img/4725.png" tvg-rec="7",PG Paradise HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="paradise-hd" tvg-logo="http://epg.one/img/4725.png" tvg-rec="7",PG Paradise HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/11100/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="4723" tvg-logo="http://epg.one/img/4723.png" tvg-rec="7",PG Paradox HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="paradox-hd" tvg-logo="http://epg.one/img/4723.png" tvg-rec="7",PG Paradox HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/11098/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="4719" tvg-logo="http://epg.one/img/4719.png" tvg-rec="7",PG Premiere HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="premiere-hd" tvg-logo="http://epg.one/img/4719.png" tvg-rec="7",PG Premiere HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/11094/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="4720" tvg-logo="http://epg.one/img/4720.png" tvg-rec="7",PG Premium HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="premium-hd" tvg-logo="http://epg.one/img/4720.png" tvg-rec="7",PG Premium HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/11095/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="4724" tvg-logo="http://epg.one/img/4724.png" tvg-rec="7",PG Thriller HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="thriller-hd" tvg-logo="http://epg.one/img/4724.png" tvg-rec="7",PG Thriller HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/11099/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="4727" tvg-logo="http://epg.one/img/4727.png" tvg-rec="7",PG USSR HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="ussr-premieregroup" tvg-logo="http://epg.one/img/4727.png" tvg-rec="7",PG USSR HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/11102/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="5462" tvg-logo="http://epg.one/img/5462.png" tvg-rec="0",PG VHS HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="vhshd" tvg-logo="http://epg.one/img/5462.png" tvg-rec="0",PG VHS HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/15000/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="4721" tvg-logo="http://epg.one/img/4721.png" tvg-rec="7",PG РуКино HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="rukino-hd" tvg-logo="http://epg.one/img/4721.png" tvg-rec="7",PG РуКино HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/11096/index.m3u8
 #EXTINF:0 group-title="Кинозал" tvg-id="6643" tvg-logo="http://epg.one/img/6643.png" tvg-rec="0",Plan B HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/19249/index.m3u8
@@ -553,6 +557,8 @@ https://tvcdnpotok.com/jz5ywdXCp6eTsE8Svo9NXw/2041/1788398112/index.m3u8
 https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
 #EXTINF:0 group-title="Кинозал" tvg-id="9069" tvg-logo="http://epg.one/img/9069.png" tvg-rec="0",Scream HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/20021/index.m3u8
+#EXTINF:0 group-title="Кинозал" tvg-id="scream" tvg-logo="https://iptvx.one/picons/scream.png" tvg-rec="0",Scream HD [V]
+https://tvcdnpotok.com/VvFzMidHNpqCivz5QdSTOw/247/1788408734/index.m3u8
 #EXTINF:0 group-title="Кинозал" tvg-id="431" tvg-logo="http://epg.one/img/431.png" tvg-rec="0",Shot TV HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/20022/index.m3u8
 #EXTINF:0 group-title="Кинозал" tvg-id="8792" tvg-logo="http://epg.one/img/8792.png" tvg-rec="0",StrahTV Horror [E]
@@ -599,113 +605,113 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/18070/ind
 http://31.148.48.15:80/Russkiy_Ekstrim/index.m3u8
 #EXTINF:0 group-title="Кинозал" tvg-id="2743" tvg-logo="http://epg.one/img/2743.png" tvg-rec="3",Ultra HD Cinema 4K [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/4000/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="8760" tvg-logo="http://epg.one/img/8760.png" tvg-rec="0",VeleS 60fps HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="veles-60fps" tvg-logo="http://epg.one/img/8760.png" tvg-rec="0",VeleS 60fps HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/31637/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="8766" tvg-logo="http://epg.one/img/8766.png" tvg-rec="0",VeleS Movie Hits HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="veles-mh" tvg-logo="http://epg.one/img/8766.png" tvg-rec="0",VeleS Movie Hits HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/31644/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="8763" tvg-logo="http://epg.one/img/8763.png" tvg-rec="0",VeleS Premiere HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="veles-prem" tvg-logo="http://epg.one/img/8763.png" tvg-rec="0",VeleS Premiere HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/31641/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="8761" tvg-logo="http://epg.one/img/8761.png" tvg-rec="0",VeleS Киноплёнка HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="veles-kinoplonk" tvg-logo="http://epg.one/img/8761.png" tvg-rec="0",VeleS Киноплёнка HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/31638/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="8765" tvg-logo="http://epg.one/img/8765.png" tvg-rec="0",VeleS СССР HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="veles-sssr" tvg-logo="http://epg.one/img/8765.png" tvg-rec="0",VeleS СССР HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/31643/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="8764" tvg-logo="http://epg.one/img/8764.png" tvg-rec="0",VeleS Страшное HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="veles-strash" tvg-logo="http://epg.one/img/8764.png" tvg-rec="0",VeleS Страшное HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/31642/index.m3u8
 #EXTINF:0 group-title="Кинозал" tvg-id="11600" tvg-logo="http://epg.one/img/11600.png" tvg-rec="0",Venera.TV Советская классика 4K [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/30151/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="4591" tvg-logo="http://epg.one/img/4591.png" tvg-rec="7",VF Adventure HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="vf-adventure" tvg-logo="http://epg.one/img/4591.png" tvg-rec="7",VF Adventure HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/10000/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="4791" tvg-logo="http://epg.one/img/4791.png" tvg-rec="0",VF Art house HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="vf-arthouse" tvg-logo="http://epg.one/img/4791.png" tvg-rec="0",VF Art house HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/11119/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="4647" tvg-logo="http://epg.one/img/4647.png" tvg-rec="7",VF Classic HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="vf-classic" tvg-logo="http://epg.one/img/4647.png" tvg-rec="7",VF Classic HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/10054/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="4594" tvg-logo="http://epg.one/img/4594.png" tvg-rec="7",VF Comedy HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="vf-comedy" tvg-logo="http://epg.one/img/4594.png" tvg-rec="7",VF Comedy HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/10003/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="5205" tvg-logo="http://epg.one/img/5205.png" tvg-rec="0",VF Comics HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="vf-comics" tvg-logo="http://epg.one/img/5205.png" tvg-rec="0",VF Comics HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/13092/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="4792" tvg-logo="http://epg.one/img/4792.png" tvg-rec="0",VF Detective HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="vf-detective" tvg-logo="http://epg.one/img/4792.png" tvg-rec="0",VF Detective HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/11120/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="7278" tvg-logo="http://epg.one/img/7278.png" tvg-rec="0",VF Disney Movie HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="vf-disney-movie" tvg-logo="http://epg.one/img/7278.png" tvg-rec="0",VF Disney Movie HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/15010/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="4595" tvg-logo="http://epg.one/img/4595.png" tvg-rec="7",VF Family HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="vf-family" tvg-logo="http://epg.one/img/4595.png" tvg-rec="7",VF Family HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/10004/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="4793" tvg-logo="http://epg.one/img/4793.png" tvg-rec="0",VF Fantastic HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="vf-fantastic" tvg-logo="http://epg.one/img/4793.png" tvg-rec="0",VF Fantastic HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/11121/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="4596" tvg-logo="http://epg.one/img/4596.png" tvg-rec="7",VF Fantasy HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="vf-fantasy" tvg-logo="http://epg.one/img/4596.png" tvg-rec="7",VF Fantasy HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/10005/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="4597" tvg-logo="http://epg.one/img/4597.png" tvg-rec="7",VF Melodrama HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="vf-melodrama" tvg-logo="http://epg.one/img/4597.png" tvg-rec="7",VF Melodrama HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/10006/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="4598" tvg-logo="http://epg.one/img/4598.png" tvg-rec="7",VF Mystic HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="vf-mystic" tvg-logo="http://epg.one/img/4598.png" tvg-rec="7",VF Mystic HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/10007/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="5981" tvg-logo="http://epg.one/img/5981.png" tvg-rec="0",VF New Year HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="vf-newyear" tvg-logo="http://epg.one/img/5981.png" tvg-rec="0",VF New Year HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/15522/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="4645" tvg-logo="http://epg.one/img/4645.png" tvg-rec="7",VF Premiere HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="vf-premiere" tvg-logo="http://epg.one/img/4645.png" tvg-rec="7",VF Premiere HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/10052/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="5202" tvg-logo="http://epg.one/img/5202.png" tvg-rec="0",VF Thriller HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="vf-thrilr" tvg-logo="http://epg.one/img/5202.png" tvg-rec="0",VF Thriller HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/13089/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="4600" tvg-logo="http://epg.one/img/4600.png" tvg-rec="7",VF VHS MIX HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="vf-vhs" tvg-logo="http://epg.one/img/4600.png" tvg-rec="7",VF VHS MIX HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/10009/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="6329" tvg-logo="http://epg.one/img/6329.png" tvg-rec="0",VF Беларусьфильм HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="vf-belarusfilm" tvg-logo="http://epg.one/img/6329.png" tvg-rec="0",VF Беларусьфильм HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/18125/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="4664" tvg-logo="http://epg.one/img/4664.png" tvg-rec="7",VF Боевик HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="vf-boevik" tvg-logo="http://epg.one/img/4664.png" tvg-rec="7",VF Боевик HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/10087/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="9227" tvg-logo="http://epg.one/img/9227.png" tvg-rec="0",VF Вестерн HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="vf-western" tvg-logo="http://epg.one/img/9227.png" tvg-rec="0",VF Вестерн HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/31553/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="7270" tvg-logo="http://epg.one/img/7270.png" tvg-rec="7",VF Владимир Высоцкий HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="vf-vysocki" tvg-logo="http://epg.one/img/7270.png" tvg-rec="7",VF Владимир Высоцкий HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/10066/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="4665" tvg-logo="http://epg.one/img/4665.png" tvg-rec="7",VF Военные HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="vf-voennye" tvg-logo="http://epg.one/img/4665.png" tvg-rec="7",VF Военные HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/10082/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="7276" tvg-logo="http://epg.one/img/7276.png" tvg-rec="0",VF Гарри Поттер HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="vf-garipoter" tvg-logo="http://epg.one/img/7276.png" tvg-rec="0",VF Гарри Поттер HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/14230/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="6152" tvg-logo="http://epg.one/img/6152.png" tvg-rec="0",VF Джеки Чан HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="vf-dzhekichan" tvg-logo="http://epg.one/img/6152.png" tvg-rec="0",VF Джеки Чан HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/17009/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="7274" tvg-logo="http://epg.one/img/7274.png" tvg-rec="0",VF Ёлки HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="vf-elki" tvg-logo="http://epg.one/img/7274.png" tvg-rec="0",VF Ёлки HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/14222/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="5203" tvg-logo="http://epg.one/img/5203.png" tvg-rec="0",VF Индия HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="vf-indiya" tvg-logo="http://epg.one/img/5203.png" tvg-rec="0",VF Индия HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/13090/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="5204" tvg-logo="http://epg.one/img/5204.png" tvg-rec="0",VF История HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="vf-istorya" tvg-logo="http://epg.one/img/5204.png" tvg-rec="0",VF История HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/13091/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="4666" tvg-logo="http://epg.one/img/4666.png" tvg-rec="7",VF Катастрофы HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="vf-katastrofy" tvg-logo="http://epg.one/img/4666.png" tvg-rec="7",VF Катастрофы HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/10080/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="4804" tvg-logo="http://epg.one/img/4804.png" tvg-rec="0",VF Кино 4K [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="vf-kino4k" tvg-logo="http://epg.one/img/4804.png" tvg-rec="0",VF Кино 4K [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/11114/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="6326" tvg-logo="http://epg.one/img/6326.png" tvg-rec="0",VF Киностудия им. Горького HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="vf-kinostudiagorkogo" tvg-logo="http://epg.one/img/6326.png" tvg-rec="0",VF Киностудия им. Горького HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/18122/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="4646" tvg-logo="http://epg.one/img/4646.png" tvg-rec="7",VF Классика HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="vf-klassika" tvg-logo="http://epg.one/img/4646.png" tvg-rec="7",VF Классика HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/10053/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="4648" tvg-logo="http://epg.one/img/4648.png" tvg-rec="7",VF Комедия HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="vf-komedia" tvg-logo="http://epg.one/img/4648.png" tvg-rec="7",VF Комедия HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/10055/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="6325" tvg-logo="http://epg.one/img/6325.png" tvg-rec="0",VF Ленфильм HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="vf-lenfilm" tvg-logo="http://epg.one/img/6325.png" tvg-rec="0",VF Ленфильм HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/18121/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="6148" tvg-logo="http://epg.one/img/6148.png" tvg-rec="0",VF Леонид Гайдай HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="vf-gaidai" tvg-logo="http://epg.one/img/6148.png" tvg-rec="0",VF Леонид Гайдай HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/17004/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="6144" tvg-logo="http://epg.one/img/6144.png" tvg-rec="0",VF Луи де Фюнес HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="vf-luidefunes" tvg-logo="http://epg.one/img/6144.png" tvg-rec="0",VF Луи де Фюнес HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/17000/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="4667" tvg-logo="http://epg.one/img/4667.png" tvg-rec="7",VF Мосфильм HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="vf-mosfilm" tvg-logo="http://epg.one/img/4667.png" tvg-rec="7",VF Мосфильм HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/10084/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="4669" tvg-logo="http://epg.one/img/4669.png" tvg-rec="7",VF Наша победа HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="vf-pobeda" tvg-logo="http://epg.one/img/4669.png" tvg-rec="7",VF Наша победа HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/10083/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="6163" tvg-logo="http://epg.one/img/6163.png" tvg-rec="0",VF Новогодний HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="vf-nowogodni" tvg-logo="http://epg.one/img/6163.png" tvg-rec="0",VF Новогодний HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/17035/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="6324" tvg-logo="http://epg.one/img/6324.png" tvg-rec="0",VF Одесская киностудия HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="vf-odesskayakinostudia" tvg-logo="http://epg.one/img/6324.png" tvg-rec="0",VF Одесская киностудия HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/18120/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="4794" tvg-logo="http://epg.one/img/4794.png" tvg-rec="0",VF Оскар HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="vf-oskar" tvg-logo="http://epg.one/img/4794.png" tvg-rec="0",VF Оскар HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/11122/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="4644" tvg-logo="http://epg.one/img/4644.png" tvg-rec="7",VF Премьера HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="vf-premiera" tvg-logo="http://epg.one/img/4644.png" tvg-rec="7",VF Премьера HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/10051/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="6327" tvg-logo="http://epg.one/img/6327.png" tvg-rec="0",VF Рижская киностудия HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="vf-rigakinostudia" tvg-logo="http://epg.one/img/6327.png" tvg-rec="0",VF Рижская киностудия HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/18123/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="5982" tvg-logo="http://epg.one/img/5982.png" tvg-rec="0",VF С новым годом! HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="vf-snovymgodom" tvg-logo="http://epg.one/img/5982.png" tvg-rec="0",VF С новым годом! HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/15524/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="6328" tvg-logo="http://epg.one/img/6328.png" tvg-rec="0",VF Свердловская киностудия HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="vf-sverdlovskkinostudia" tvg-logo="http://epg.one/img/6328.png" tvg-rec="0",VF Свердловская киностудия HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/18124/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="4599" tvg-logo="http://epg.one/img/4599.png" tvg-rec="7",VF Ужасы HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="vf-uzhasy" tvg-logo="http://epg.one/img/4599.png" tvg-rec="7",VF Ужасы HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/10008/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="4601" tvg-logo="http://epg.one/img/4601.png" tvg-rec="7",VF Ужасы VHS HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="vf-uzhasy-vhs" tvg-logo="http://epg.one/img/4601.png" tvg-rec="7",VF Ужасы VHS HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/10010/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="4670" tvg-logo="http://epg.one/img/4670.png" tvg-rec="7",VF Фильмы СССР HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="vf-filmy-sssr" tvg-logo="http://epg.one/img/4670.png" tvg-rec="7",VF Фильмы СССР HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/10085/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="6155" tvg-logo="http://epg.one/img/6155.png" tvg-rec="0",VF Эльдар Рязанов HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="vf-ryazanov" tvg-logo="http://epg.one/img/6155.png" tvg-rec="0",VF Эльдар Рязанов HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/17012/index.m3u8
 #EXTINF:0 group-title="Кинозал" tvg-id="9065" tvg-logo="http://epg.one/img/9065.png" tvg-rec="3",VHS-ка HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/5006/index.m3u8
@@ -720,97 +726,97 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/31448/ind
 #EXTINF:0 group-title="Кинозал" tvg-id="127" tvg-logo="http://epg.one/img/127.png" tvg-rec="3",Viju TV1000 HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/6387/index.m3u8
 #EXTINF:0 group-title="Кинозал" tvg-id="tv1000" tvg-logo="https://iptvx.one/picons/tv1000.png",Viju TV1000 HD [V]
-http://stream.mcquack.net/100/index.m3u8
+http://smotrim.org/000003747.m3u8
 #EXTINF:0 group-title="Кинозал" tvg-id="125" tvg-logo="http://epg.one/img/125.png" tvg-rec="3",Viju TV1000 Action HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/6386/index.m3u8
 #EXTINF:0 group-title="Кинозал" tvg-id="tv1000-action" tvg-logo="https://iptvx.one/picons/tv1000-action.png",Viju TV1000 Action HD [V]
-https://stream8.cinerama.uz/1225/tracks-v1a1/mono.m3u8
+http://smotrim.org/000003910.m3u8
 #EXTINF:0 group-title="Кинозал" tvg-id="267" tvg-logo="http://epg.one/img/267.png" tvg-rec="0",Viju TV1000 Русское HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/6388/index.m3u8
 #EXTINF:0 group-title="Кинозал" tvg-id="tv1000-russkoe-kino" tvg-logo="https://iptvx.one/picons/tv1000-russkoe-kino.png",Viju TV1000 Русское HD [V]
-https://stream8.cinerama.uz/1058/tracks-v1a1/mono.m3u8
+http://smotrim.org/000003748.m3u8
 #EXTINF:0 group-title="Кинозал" tvg-id="1011" tvg-logo="http://epg.one/img/1011.png" tvg-rec="7",Viju+ Comedy HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/200/index.m3u8
 #EXTINF:0 group-title="Кинозал" tvg-id="vip-comedy" tvg-logo="https://iptvx.one/picons/tv1000-russkoe-kino.png",Viju+ Comedy HD [V]
-http://stream.mcquack.net/201/index.m3u8
+http://smotrim.org/000000870.m3u8
 #EXTINF:0 group-title="Кинозал" tvg-id="1012" tvg-logo="http://epg.one/img/1012.png" tvg-rec="3",Viju+ Megahit HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/5081/index.m3u8
 #EXTINF:0 group-title="Кинозал" tvg-id="vip-megahit" tvg-logo="https://iptvx.one/picons/vip-megahit.png",Viju+ Megahit HD [V]
-http://stream.mcquack.net/200/index.m3u8
+http://smotrim.org/000000869.m3u8
 #EXTINF:0 group-title="Кинозал" tvg-id="1013" tvg-logo="http://epg.one/img/1013.png" tvg-rec="3",Viju+ Premiere HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/5079/index.m3u8
 #EXTINF:0 group-title="Кинозал" tvg-id="vip-premiere" tvg-logo="https://iptvx.one/picons/vip-premiere.png",Viju+ Premiere HD [V]
-http://stream.mcquack.net/202/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="6138" tvg-logo="http://epg.one/img/6138.png" tvg-rec="0",Yosso TV 4K [E]
+http://smotrim.org/000000868.m3u8
+#EXTINF:0 group-title="Кинозал" tvg-id="yosso-4k" tvg-logo="http://epg.one/img/6138.png" tvg-rec="0",Yosso TV 4K [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/16153/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="8931" tvg-logo="http://epg.one/img/8931.png" tvg-rec="0",Yosso TV 4K HDR [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="yosso-4k-hdr" tvg-logo="http://epg.one/img/8931.png" tvg-rec="0",Yosso TV 4K HDR [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/31620/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="5586" tvg-logo="http://epg.one/img/5586.png" tvg-rec="0",Yosso TV Adrenaline HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="yosso-adrenalin" tvg-logo="http://epg.one/img/5586.png" tvg-rec="0",Yosso TV Adrenaline HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/15105/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="5984" tvg-logo="http://epg.one/img/5984.png" tvg-rec="0",Yosso TV Adventure HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="yosso-adventure" tvg-logo="http://epg.one/img/5984.png" tvg-rec="0",Yosso TV Adventure HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/15510/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="5446" tvg-logo="http://epg.one/img/5446.png" tvg-rec="0",Yosso TV Best HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="yosso-best" tvg-logo="http://epg.one/img/5446.png" tvg-rec="0",Yosso TV Best HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/14236/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="7886" tvg-logo="http://epg.one/img/7886.png" tvg-rec="0",Yosso TV Best 60fps HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="yosso-best60fps" tvg-logo="http://epg.one/img/7886.png" tvg-rec="0",Yosso TV Best 60fps HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/20165/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="5358" tvg-logo="http://epg.one/img/5358.png" tvg-rec="0",Yosso TV Grand HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="yosso-grand" tvg-logo="http://epg.one/img/5358.png" tvg-rec="0",Yosso TV Grand HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/14171/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="7884" tvg-logo="http://epg.one/img/7884.png" tvg-rec="0",Yosso TV Netflix HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="yosso-netflix" tvg-logo="http://epg.one/img/7884.png" tvg-rec="0",Yosso TV Netflix HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/20163/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="5362" tvg-logo="http://epg.one/img/5362.png" tvg-rec="0",Yosso TV New Кино HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="yosso-newkino" tvg-logo="http://epg.one/img/5362.png" tvg-rec="0",Yosso TV New Кино HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/14177/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="5983" tvg-logo="http://epg.one/img/5983.png" tvg-rec="0",Yosso TV Oblivion HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="yosso-oblivion" tvg-logo="http://epg.one/img/5983.png" tvg-rec="0",Yosso TV Oblivion HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/15509/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="5631" tvg-logo="http://epg.one/img/5631.png" tvg-rec="0",Yosso TV Thriller HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="yosso-thriller" tvg-logo="http://epg.one/img/5631.png" tvg-rec="0",Yosso TV Thriller HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/15168/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="5359" tvg-logo="http://epg.one/img/5359.png" tvg-rec="0",Yosso TV VHS HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="yosso-vhs" tvg-logo="http://epg.one/img/5359.png" tvg-rec="0",Yosso TV VHS HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/14172/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="5444" tvg-logo="http://epg.one/img/5444.png" tvg-rec="0",Yosso TV Забавное HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="yosso-zabavno" tvg-logo="http://epg.one/img/5444.png" tvg-rec="0",Yosso TV Забавное HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/14234/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="5445" tvg-logo="http://epg.one/img/5445.png" tvg-rec="0",Yosso TV Ковбойское HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="yosso-cowboy" tvg-logo="http://epg.one/img/5445.png" tvg-rec="0",Yosso TV Ковбойское HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/14235/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="7152" tvg-logo="http://epg.one/img/7152.png" tvg-rec="0",Yosso TV Мелодрама HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="yosso-melodrama" tvg-logo="http://epg.one/img/7152.png" tvg-rec="0",Yosso TV Мелодрама HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/19434/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="5360" tvg-logo="http://epg.one/img/5360.png" tvg-rec="0",Yosso TV Русские Фильмы HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="yosso-rusfilm" tvg-logo="http://epg.one/img/5360.png" tvg-rec="0",Yosso TV Русские Фильмы HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/14174/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="5361" tvg-logo="http://epg.one/img/5361.png" tvg-rec="0",Yosso TV Советские Фильмы HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="yosso-sovfilm" tvg-logo="http://epg.one/img/5361.png" tvg-rec="0",Yosso TV Советские Фильмы HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/14175/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="7158" tvg-logo="http://epg.one/img/7158.png" tvg-rec="0",Yosso TV Советские Фильмы 4K [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="yosso-sovfilm4k" tvg-logo="http://epg.one/img/7158.png" tvg-rec="0",Yosso TV Советские Фильмы 4K [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/19435/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="5434" tvg-logo="http://epg.one/img/5434.png" tvg-rec="0",Yosso TV Трагичное HD [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="yosso-tragic" tvg-logo="http://epg.one/img/5434.png" tvg-rec="0",Yosso TV Трагичное HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/14219/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="8783" tvg-logo="http://epg.one/img/8783.png" tvg-rec="0",Z!Action [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="z-action" tvg-logo="http://epg.one/img/8783.png" tvg-rec="0",Z!Action [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/31694/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="8784" tvg-logo="http://epg.one/img/8784.png" tvg-rec="0",Z!Adventure [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="z-adventure" tvg-logo="http://epg.one/img/8784.png" tvg-rec="0",Z!Adventure [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/31698/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="8821" tvg-logo="http://epg.one/img/8821.png" tvg-rec="0",Z!Biography [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="z-biography" tvg-logo="http://epg.one/img/8821.png" tvg-rec="0",Z!Biography [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/31697/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="1113" tvg-logo="http://epg.one/img/1113.png" tvg-rec="0",Z!Channel [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="z-channel" tvg-logo="http://epg.one/img/1113.png" tvg-rec="0",Z!Channel [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/14134/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="1114" tvg-logo="http://epg.one/img/1114.png" tvg-rec="0",Z!Comedy [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="z-comedy" tvg-logo="http://epg.one/img/1114.png" tvg-rec="0",Z!Comedy [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/14135/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="1115" tvg-logo="http://epg.one/img/1115.png" tvg-rec="0",Z!Crime [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="z-crime" tvg-logo="http://epg.one/img/1115.png" tvg-rec="0",Z!Crime [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/14136/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="8785" tvg-logo="http://epg.one/img/8785.png" tvg-rec="0",Z!Detective [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="z-detective" tvg-logo="http://epg.one/img/8785.png" tvg-rec="0",Z!Detective [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/31699/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="8786" tvg-logo="http://epg.one/img/8786.png" tvg-rec="0",Z!Drama [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="z-drama" tvg-logo="http://epg.one/img/8786.png" tvg-rec="0",Z!Drama [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/31700/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="8788" tvg-logo="http://epg.one/img/8788.png" tvg-rec="0",Z!Fantastic [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="z-fantastic" tvg-logo="http://epg.one/img/8788.png" tvg-rec="0",Z!Fantastic [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/31702/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="8819" tvg-logo="http://epg.one/img/8819.png" tvg-rec="0",Z!History [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="z-history" tvg-logo="http://epg.one/img/8819.png" tvg-rec="0",Z!History [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/31695/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="1116" tvg-logo="http://epg.one/img/1116.png" tvg-rec="0",Z!Horror [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="z-horror" tvg-logo="http://epg.one/img/1116.png" tvg-rec="0",Z!Horror [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/14137/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="8820" tvg-logo="http://epg.one/img/8820.png" tvg-rec="0",Z!Military [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="z-military" tvg-logo="http://epg.one/img/8820.png" tvg-rec="0",Z!Military [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/31696/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="8790" tvg-logo="http://epg.one/img/8790.png" tvg-rec="0",Z!Russian [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="z-russian" tvg-logo="http://epg.one/img/8790.png" tvg-rec="0",Z!Russian [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/31704/index.m3u8
-#EXTINF:0 group-title="Кинозал" tvg-id="8782" tvg-logo="http://epg.one/img/8782.png" tvg-rec="0",Z!Thriller [E]
+#EXTINF:0 group-title="Кинозал" tvg-id="z-thriller" tvg-logo="http://epg.one/img/8782.png" tvg-rec="0",Z!Thriller [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/31693/index.m3u8
 #EXTINF:0 group-title="Кинозал" tvg-id="2832" tvg-logo="http://epg.one/img/2832.png" tvg-rec="3",Блокбастер HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/9087/index.m3u8
 #EXTINF:0 group-title="Кинозал" tvg-id="blokbaster" tvg-logo="https://iptvx.one/picons/blokbaster.png",Блокбастер [V]
-http://stream.mcquack.net/364/index.m3u8
+https://tvcdnpotok.com/SXmxv31PG21DnVV46WyaSA/249/1788411683/index.m3u8
 #EXTINF:0 group-title="Кинозал" tvg-id="" tvg-logo="https://ritsatv.ru/files/poster/original/901076.webp",Видеокассета VHS HD [V]
 https://live20.bozztv.com/akamaissh101/ssh101/livevhs90e/playlist.m3u8
 #EXTINF:0 group-title="Кинозал" tvg-id="11344" tvg-logo="http://epg.one/img/11344.png" tvg-rec="0",Госфильмофонд. Машина времени HD [E]
@@ -822,7 +828,7 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/5054/inde
 #EXTINF:0 group-title="Кинозал" tvg-id="2020" tvg-logo="http://epg.one/img/2020.png" tvg-rec="7",Дом Кино Премиум HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/911/index.m3u8
 #EXTINF:0 group-title="Кинозал" tvg-id="domkino-premium" tvg-logo="https://iptvx.one/picons/domkino-premium.png",Дом Кино Премиум HD [V]
-http://stream.mcquack.net/108/index.m3u8
+https://tvcdnpotok.com/XFsH20mcH_UL6HI1_VMUXQ/187/1788417651/index.m3u8
 #EXTINF:0 group-title="Кинозал" tvg-id="352" tvg-logo="http://epg.one/img/352.png" tvg-rec="3",Еврокино HD [E]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8V3W6UUNRQBP84/9078/index.m3u8
 #EXTINF:0 group-title="Кинозал" tvg-id="evrokino" tvg-logo="https://iptvx.one/picons/eurokino.png",Еврокино HD [V]
